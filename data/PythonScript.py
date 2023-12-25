@@ -54,7 +54,7 @@ def write_to_csv(output_file, result_groups):
 
 if __name__ == "__main__":
     folder_path = r'C:\Users\SHREE\OneDrive\Documents\Ridecell_Programming_Assignment\data'
-    output_file = r'C:\Users\SHREE\OneDrive\Documents\Ridecell_Programming_Assignment\data\output.csv'
+    output_file = r'C:\Users\SHREE\OneDrive\Documents\Ridecell_Programming_Assignment\output.csv'
 
     class_times = parse_xml_files(folder_path)
     result_groups = distribute_into_groups(class_times)
