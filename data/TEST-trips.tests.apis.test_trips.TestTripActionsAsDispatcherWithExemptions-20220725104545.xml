@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestTripActionsAsDispatcherWithExemptions-20220725104545" skipped="0" tests="4" time="8.931" timestamp="2022-07-25T10:48:42">
+	<testcase classname="trips.tests.apis.test_trips.TestTripActionsAsDispatcherWithExemptions" file="trips/tests/apis/test_trips.py" line="1344" name="test_block_rider_as_dispatcher" time="1.798" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripActionsAsDispatcherWithExemptions" file="trips/tests/apis/test_trips.py" line="1365" name="test_in_progress_trip_actions_in_unserviceable_region" time="3.892" timestamp="2022-07-25T10:48:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripActionsAsDispatcherWithExemptions" file="trips/tests/apis/test_trips.py" line="1321" name="test_past_trip_with_created_cancelled_by_fields" time="1.921" timestamp="2022-07-25T10:48:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripActionsAsDispatcherWithExemptions" file="trips/tests/apis/test_trips.py" line="1313" name="test_trip_cancel_as_dispatcher" time="1.321" timestamp="2022-07-25T10:48:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

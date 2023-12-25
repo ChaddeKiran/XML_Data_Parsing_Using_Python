@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestCustomersAPIDispatcherAndCustomer-20220725104545" skipped="0" tests="2" time="1.941" timestamp="2022-07-25T10:54:07">
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcherAndCustomer" file="users/tests/apis/test_customers.py" line="969" name="test_get_customers_with_all_specified" time="1.018" timestamp="2022-07-25T10:54:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcherAndCustomer" file="users/tests/apis/test_customers.py" line="963" name="test_get_customers_without_all_specified" time="0.923" timestamp="2022-07-25T10:54:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_referrals.py" name="trips.tests.apis.test_referrals.TestBusTrackingReferralAPI-20220725104713" skipped="0" tests="5" time="0.970" timestamp="2022-07-25T10:55:17">
+	<testcase classname="trips.tests.apis.test_referrals.TestBusTrackingReferralAPI" file="trips/tests/apis/test_referrals.py" line="24" name="test_bustrackingreferral_bad_params" time="0.197" timestamp="2022-07-25T10:55:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_referrals.TestBusTrackingReferralAPI" file="trips/tests/apis/test_referrals.py" line="41" name="test_bustrackingreferral_error" time="0.203" timestamp="2022-07-25T10:55:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_referrals.TestBusTrackingReferralAPI" file="trips/tests/apis/test_referrals.py" line="10" name="test_bustrackingreferral_ok" time="0.195" timestamp="2022-07-25T10:55:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_referrals.TestBusTrackingReferralAPI" file="trips/tests/apis/test_referrals.py" line="33" name="test_bustrackingreferral_timeout" time="0.189" timestamp="2022-07-25T10:55:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_referrals.TestBusTrackingReferralAPI" file="trips/tests/apis/test_referrals.py" line="19" name="test_bustrackingreferral_unauthorized" time="0.186" timestamp="2022-07-25T10:55:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

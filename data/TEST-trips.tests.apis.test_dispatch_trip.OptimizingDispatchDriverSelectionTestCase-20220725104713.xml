@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_dispatch_trip.py" name="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase-20220725104713" skipped="0" tests="12" time="35.500" timestamp="2022-07-25T10:54:46">
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="414" name="test_ev_dispatch_failure_for_driver_without_trip" time="1.269" timestamp="2022-07-25T10:54:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="393" name="test_ev_dispatch_success_for_driver_with_trip" time="2.016" timestamp="2022-07-25T10:54:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="366" name="test_ev_dispatch_success_for_driver_without_trip" time="1.964" timestamp="2022-07-25T10:54:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="249" name="test_first_task_changing" time="2.389" timestamp="2022-07-25T10:54:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="265" name="test_first_task_changing_negative" time="2.446" timestamp="2022-07-25T10:54:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="433" name="test_in_pin_mode_driver_dispatch" time="2.498" timestamp="2022-07-25T10:54:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="305" name="test_trip_not_reassigned_if_over_delay_limit" time="5.731" timestamp="2022-07-25T10:54:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="284" name="test_trip_reassigned_to_empty_driver" time="5.029" timestamp="2022-07-25T10:54:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="353" name="test_trip_skip_bad_drivers" time="2.237" timestamp="2022-07-25T10:54:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="332" name="test_trip_with_max_delay_reassigns_correctly" time="3.884" timestamp="2022-07-25T10:54:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="236" name="test_two_identical_trips" time="2.306" timestamp="2022-07-25T10:54:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchDriverSelectionTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="220" name="test_two_trip_clusters" time="3.730" timestamp="2022-07-25T10:54:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

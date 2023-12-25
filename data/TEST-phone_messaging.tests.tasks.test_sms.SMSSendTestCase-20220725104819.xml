@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="phone_messaging/tests/tasks/test_sms.py" name="phone_messaging.tests.tasks.test_sms.SMSSendTestCase-20220725104819" skipped="0" tests="7" time="0.746" timestamp="2022-07-25T10:52:48">
+	<testcase classname="phone_messaging.tests.tasks.test_sms.SMSSendTestCase" file="phone_messaging/tests/tasks/test_sms.py" line="76" name="test_outboundsms" time="0.110" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.tasks.test_sms.SMSSendTestCase" file="phone_messaging/tests/tasks/test_sms.py" line="16" name="test_plivo" time="0.112" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.tasks.test_sms.SMSSendTestCase" file="phone_messaging/tests/tasks/test_sms.py" line="39" name="test_plivo_sms_sent_to_non_north_american_number_using_international_outgoing_sms_number" time="0.109" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.tasks.test_sms.SMSSendTestCase" file="phone_messaging/tests/tasks/test_sms.py" line="57" name="test_plivo_sms_sent_to_non_north_american_number_when_international_outgoing_sms_number_is_not_configured" time="0.106" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.tasks.test_sms.SMSSendTestCase" file="phone_messaging/tests/tasks/test_sms.py" line="28" name="test_plivo_sms_sent_to_north_american_number_using_powerpack_uuid" time="0.102" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.tasks.test_sms.SMSSendTestCase" file="phone_messaging/tests/tasks/test_sms.py" line="98" name="test_plivo_sms_when_gdpr_is_disabled" time="0.105" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.tasks.test_sms.SMSSendTestCase" file="phone_messaging/tests/tasks/test_sms.py" line="87" name="test_plivo_sms_when_gdpr_is_enabled" time="0.100" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

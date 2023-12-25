@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" name="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api-20220725104819" skipped="0" tests="13" time="37.809" timestamp="2022-07-25T11:05:11">
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="133" name="test_contract_schedule_rental_request" time="2.958" timestamp="2022-07-25T11:04:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="259" name="test_contract_schedule_rental_request_with_empty_city_start_location" time="3.485" timestamp="2022-07-25T11:04:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="243" name="test_contract_schedule_rental_request_with_empty_delivery_pickup_instructions" time="3.082" timestamp="2022-07-25T11:04:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="276" name="test_contract_schedule_rental_request_with_existing_reference_root" time="3.992" timestamp="2022-07-25T11:04:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ScheduledRentalRequest.start_date_time received a naive datetime (2022-07-26 11:04:46.953053) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="161" name="test_contract_schedule_rental_request_with_vehicle" time="2.995" timestamp="2022-07-25T11:04:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="201" name="test_contract_schedule_rental_request_with_vehicle_in_past_date" time="3.217" timestamp="2022-07-25T11:04:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="328" name="test_contract_schedule_rental_request_without_contract_reference_root" time="1.105" timestamp="2022-07-25T11:04:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="340" name="test_contract_schedule_rental_request_without_phone_number" time="2.859" timestamp="2022-07-25T11:04:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="300" name="test_post_contract_schedule_rental_request_with_additional_contract_attr" time="2.849" timestamp="2022-07-25T11:05:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="463" name="test_update_contract_schedule_rental_pick_up_details" time="3.770" timestamp="2022-07-25T11:05:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="362" name="test_update_contract_schedule_rental_request" time="2.664" timestamp="2022-07-25T11:05:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ScheduledRentalRequest.start_date_time received a naive datetime (2022-07-26 11:05:05.053867) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="401" name="test_update_contract_schedule_rental_request_reference_root" time="2.064" timestamp="2022-07-25T11:05:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ScheduledRentalRequest.start_date_time received a naive datetime (2022-07-26 11:05:07.595920) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_contract_schedule_rental.TestContractScheduledRentalRequestV3Api" file="rentals/tests/apis/v3/test_contract_schedule_rental.py" line="436" name="test_vehicle_assignment_method_not_being_auto_assigned" time="2.770" timestamp="2022-07-25T11:05:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

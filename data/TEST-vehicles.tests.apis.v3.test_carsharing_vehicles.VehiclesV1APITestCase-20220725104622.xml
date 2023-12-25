@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" name="vehicles.tests.apis.v3.test_carsharing_vehicles.VehiclesV1APITestCase-20220725104622" skipped="0" tests="1" time="0.247" timestamp="2022-07-25T11:02:38">
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.VehiclesV1APITestCase" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1043" name="test_permission" time="0.247" timestamp="2022-07-25T11:02:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

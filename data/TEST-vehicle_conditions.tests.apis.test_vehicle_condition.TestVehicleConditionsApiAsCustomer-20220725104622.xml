@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" name="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionsApiAsCustomer-20220725104622" skipped="0" tests="4" time="1.139" timestamp="2022-07-25T10:57:19">
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionsApiAsCustomer" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="309" name="test_get_vehicle_conditions_detail" time="0.308" timestamp="2022-07-25T10:57:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionsApiAsCustomer" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="302" name="test_get_vehicle_conditions_list" time="0.286" timestamp="2022-07-25T10:57:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionsApiAsCustomer" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="316" name="test_patch_vehicle_conditions_detail" time="0.259" timestamp="2022-07-25T10:57:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionsApiAsCustomer" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="321" name="test_unauthenticated" time="0.287" timestamp="2022-07-25T10:57:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="documents/tests/apis/test_document.py" name="documents.tests.apis.test_document.TestDocumentAPI-20220725104740" skipped="0" tests="2" time="0.533" timestamp="2022-07-25T10:54:43">
+	<testcase classname="documents.tests.apis.test_document.TestDocumentAPI" file="documents/tests/apis/test_document.py" line="185" name="test_delete_document" time="0.260" timestamp="2022-07-25T10:54:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="documents.tests.apis.test_document.TestDocumentAPI" file="documents/tests/apis/test_document.py" line="173" name="test_list_document" time="0.273" timestamp="2022-07-25T10:54:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

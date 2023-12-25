@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="websockets/tests/apis/test_scheduling.py" name="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher-20220725104622" skipped="0" tests="11" time="16.858" timestamp="2022-07-25T11:06:42">
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="171" name="test_basic_creation" time="1.090" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="196" name="test_basic_delete" time="1.112" timestamp="2022-07-25T11:06:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="181" name="test_basic_update" time="1.101" timestamp="2022-07-25T11:06:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="214" name="test_connection_without_permissions" time="0.844" timestamp="2022-07-25T11:06:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="221" name="test_scheduled_rental_calendar_and_summary_filtering" time="1.676" timestamp="2022-07-25T11:06:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="241" name="test_scheduled_rental_calendar_and_summary_filtering_by_status" time="3.164" timestamp="2022-07-25T11:06:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="307" name="test_scheduled_rental_status_change" time="1.990" timestamp="2022-07-25T11:06:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="422" name="test_summary_client_ids" time="1.059" timestamp="2022-07-25T11:06:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="389" name="test_that_logout_resets_filters" time="1.829" timestamp="2022-07-25T11:06:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="433" name="test_trigger_change_receiver" time="1.319" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestScheduledRentalRequestsAsDispatcher" file="websockets/tests/apis/test_scheduling.py" line="364" name="test_unsubscribe_and_subscribe" time="1.674" timestamp="2022-07-25T11:06:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

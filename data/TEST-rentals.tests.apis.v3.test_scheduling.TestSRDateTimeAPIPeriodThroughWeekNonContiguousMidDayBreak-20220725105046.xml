@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestSRDateTimeAPIPeriodThroughWeekNonContiguousMidDayBreak-20220725105046" skipped="0" tests="4" time="2.456" timestamp="2022-07-25T10:58:37">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRDateTimeAPIPeriodThroughWeekNonContiguousMidDayBreak" file="rentals/tests/apis/v3/test_scheduling.py" line="4185" name="test_end_dates" time="0.907" timestamp="2022-07-25T10:58:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRDateTimeAPIPeriodThroughWeekNonContiguousMidDayBreak" file="rentals/tests/apis/v3/test_scheduling.py" line="4206" name="test_end_times" time="0.657" timestamp="2022-07-25T10:58:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2019-12-18 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRDateTimeAPIPeriodThroughWeekNonContiguousMidDayBreak" file="rentals/tests/apis/v3/test_scheduling.py" line="4170" name="test_start_dates" time="0.458" timestamp="2022-07-25T10:58:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRDateTimeAPIPeriodThroughWeekNonContiguousMidDayBreak" file="rentals/tests/apis/v3/test_scheduling.py" line="4176" name="test_start_times" time="0.434" timestamp="2022-07-25T10:58:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

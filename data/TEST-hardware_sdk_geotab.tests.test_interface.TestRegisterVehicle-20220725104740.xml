@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_interface.py" name="hardware_sdk_geotab.tests.test_interface.TestRegisterVehicle-20220725104740" skipped="0" tests="3" time="0.276" timestamp="2022-07-25T10:58:33">
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestRegisterVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="100" name="test_deregister_vehicle" time="0.038" timestamp="2022-07-25T10:58:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestRegisterVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="53" name="test_register_vehicle" time="0.174" timestamp="2022-07-25T10:58:33">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.779919, -122.395416, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestRegisterVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="89" name="test_register_vehicle_for_failed_telematics_initialization" time="0.064" timestamp="2022-07-25T10:58:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

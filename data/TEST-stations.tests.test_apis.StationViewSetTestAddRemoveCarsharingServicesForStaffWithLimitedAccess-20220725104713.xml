@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_apis.py" name="stations.tests.test_apis.StationViewSetTestAddRemoveCarsharingServicesForStaffWithLimitedAccess-20220725104713" skipped="0" tests="4" time="3.439" timestamp="2022-07-25T10:52:42">
+	<testcase classname="stations.tests.test_apis.StationViewSetTestAddRemoveCarsharingServicesForStaffWithLimitedAccess" file="stations/tests/test_apis.py" line="1532" name="test_staff_can_add_carsharing_services_they_have_access_to" time="0.767" timestamp="2022-07-25T10:52:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestAddRemoveCarsharingServicesForStaffWithLimitedAccess" file="stations/tests/test_apis.py" line="1559" name="test_staff_can_remove_carsharing_services_they_have_access_to" time="0.717" timestamp="2022-07-25T10:52:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestAddRemoveCarsharingServicesForStaffWithLimitedAccess" file="stations/tests/test_apis.py" line="1547" name="test_staff_cannot_add_carsharing_services_they_do_not_have_access_to" time="0.595" timestamp="2022-07-25T10:52:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestAddRemoveCarsharingServicesForStaffWithLimitedAccess" file="stations/tests/test_apis.py" line="1572" name="test_staff_cannot_remove_carsharing_services_they_do_not_have_access_to" time="1.360" timestamp="2022-07-25T10:52:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

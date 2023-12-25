@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_vehicle_blocks.py" name="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIWithOverride-20220725104622" skipped="0" tests="9" time="7.483" timestamp="2022-07-25T10:56:47">
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIWithOverride" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="154" name="test_override_create_vehicle_block_api_with_assigned_rental" time="0.945" timestamp="2022-07-25T10:56:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIWithOverride" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="118" name="test_override_create_vehicle_block_api_with_unassigned_rental" time="0.833" timestamp="2022-07-25T10:56:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIWithOverride" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="203" name="test_override_create_vehicle_block_api_with_unassigned_rental_and_enough_capacity" time="1.041" timestamp="2022-07-25T10:56:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIWithOverride" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="248" name="test_override_create_vehicle_block_api_with_unassigned_rental_dispatcher" time="0.890" timestamp="2022-07-25T10:56:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIWithOverride" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="272" name="test_override_create_vehicle_block_api_with_unassigned_rental_manager" time="0.900" timestamp="2022-07-25T10:56:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIWithOverride" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="227" name="test_override_create_vehicle_block_api_with_unassigned_rental_worker" time="0.895" timestamp="2022-07-25T10:56:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIWithOverride" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="174" name="test_override_create_vehicle_block_api_with_vehicle_block" time="0.577" timestamp="2022-07-25T10:56:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIWithOverride" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="191" name="test_override_create_vehicle_block_api_without_any_booking" time="0.596" timestamp="2022-07-25T10:56:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIWithOverride" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="136" name="test_override_false_create_vehicle_block_api_with_unassigned_rental" time="0.806" timestamp="2022-07-25T10:56:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="websockets/tests/apis/test_bindings.py" name="websockets.tests.apis.test_bindings.PostBindingFilterGroupNameTest-20220725104622" skipped="0" tests="1" time="0.824" timestamp="2022-07-25T11:05:56">
+	<testcase classname="websockets.tests.apis.test_bindings.PostBindingFilterGroupNameTest" file="websockets/tests/apis/test_bindings.py" line="192" name="test_set_filter" time="0.824" timestamp="2022-07-25T11:05:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

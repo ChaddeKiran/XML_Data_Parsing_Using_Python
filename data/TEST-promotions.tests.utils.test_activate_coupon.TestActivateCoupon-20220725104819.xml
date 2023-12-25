@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/utils/test_activate_coupon.py" name="promotions.tests.utils.test_activate_coupon.TestActivateCoupon-20220725104819" skipped="0" tests="1" time="0.987" timestamp="2022-07-25T11:00:04">
+	<testcase classname="promotions.tests.utils.test_activate_coupon.TestActivateCoupon" file="promotions/tests/utils/test_activate_coupon.py" line="9" name="test_reserved_coupon_cannot_be_activated" time="0.987" timestamp="2022-07-25T11:00:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" name="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator-20220725104622" skipped="0" tests="13" time="21.729" timestamp="2022-07-25T10:52:28">
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="270" name="test_power_lost_alert_not_triggered_for_inactive_vehicle" time="1.876" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="277" name="test_process_power_lost_telematics_event_create_trigger_alert" time="1.761" timestamp="2022-07-25T10:52:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="310" name="test_process_power_lost_telematics_event_create_trigger_alert_false_condition" time="1.755" timestamp="2022-07-25T10:52:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="327" name="test_successive_events_for_power_lost_do_not_result_in_cancellation" time="1.836" timestamp="2022-07-25T10:52:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="383" name="test_task_does_not_move_vehicle_already_in_group" time="1.885" timestamp="2022-07-25T10:52:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="399" name="test_task_does_not_move_vehicle_if_limit_is_reached" time="1.807" timestamp="2022-07-25T10:52:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="366" name="test_task_does_not_move_vehicle_to_group_if_pending_and_job_does_not_exist" time="1.388" timestamp="2022-07-25T10:52:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="374" name="test_task_is_no_op_if_vehicle_has_no_maintenance_group_set_up" time="1.786" timestamp="2022-07-25T10:52:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="359" name="test_task_moves_vehicle_to_group_if_pending_and_job_exists" time="1.587" timestamp="2022-07-25T10:52:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="290" name="test_vehicle_does_not_move_to_group_if_limit_is_reached" time="1.396" timestamp="2022-07-25T10:52:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="304" name="test_vehicle_moves_to_group_if_no_limit" time="1.517" timestamp="2022-07-25T10:52:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="297" name="test_vehicle_moves_to_group_if_size_fits" time="1.478" timestamp="2022-07-25T10:52:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_power_lost_telematics_automation.TestTelematicsToAlertJobGenerator" file="vehicle_automation/tests/utils/test_power_lost_telematics_automation.py" line="344" name="test_vehicle_moves_to_maintenance_group_on_task_run_if_free_space_available" time="1.656" timestamp="2022-07-25T10:52:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer-20220725105046" skipped="0" tests="25" time="28.769" timestamp="2022-07-25T11:01:21">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3107" name="test_customer_cannot_reserve_car" time="1.049" timestamp="2022-07-25T11:00:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3022" name="test_validate_counterless_end_outside_region" time="1.033" timestamp="2022-07-25T11:00:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3009" name="test_validate_counterless_start_outside_region" time="1.000" timestamp="2022-07-25T11:00:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3140" name="test_validate_counterless_with_valid_data" time="1.033" timestamp="2022-07-25T11:00:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2994" name="test_validate_counterless_without_end" time="1.052" timestamp="2022-07-25T11:00:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2981" name="test_validate_counterless_without_start" time="0.968" timestamp="2022-07-25T11:00:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3051" name="test_validate_end_date_time_outside_hours" time="1.090" timestamp="2022-07-25T11:00:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3070" name="test_validate_end_date_time_outside_hours_retrieval_disabled" time="1.148" timestamp="2022-07-25T11:01:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3121" name="test_validate_matches_existing_locations" time="1.042" timestamp="2022-07-25T11:01:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2883" name="test_validate_no_vehicles_available" time="2.272" timestamp="2022-07-25T11:01:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2900" name="test_validate_no_vehicles_available_maximum_concurrency" time="1.083" timestamp="2022-07-25T11:01:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3180" name="test_validate_product_type_station_has_lease_tag" time="1.172" timestamp="2022-07-25T11:01:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3162" name="test_validate_product_type_station_has_no_tag" time="1.185" timestamp="2022-07-25T11:01:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3093" name="test_validate_rental_request_duration_is_multiple_time_selection_block" time="1.128" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3035" name="test_validate_start_date_time_outside_hours" time="1.031" timestamp="2022-07-25T11:01:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2969" name="test_validate_station_based_with_start_and_end_params" time="1.123" timestamp="2022-07-25T11:01:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="3150" name="test_validate_station_based_with_valid_data" time="1.151" timestamp="2022-07-25T11:01:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2940" name="test_validate_vehicle_already_reserved" time="1.541" timestamp="2022-07-25T11:01:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2921" name="test_validate_vehicle_available" time="1.165" timestamp="2022-07-25T11:01:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2837" name="test_validate_with_end_out_of_range" time="1.066" timestamp="2022-07-25T11:01:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2863" name="test_validate_with_overlapping_reservation" time="1.143" timestamp="2022-07-25T11:01:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2798" name="test_validate_with_service_scheduled_disabled" time="1.120" timestamp="2022-07-25T11:01:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2821" name="test_validate_with_start_out_of_range" time="1.068" timestamp="2022-07-25T11:01:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2810" name="test_validate_with_start_too_soon" time="1.038" timestamp="2022-07-25T11:01:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestSerializer" file="rentals/tests/apis/v3/test_scheduling.py" line="2792" name="test_validate_without_service" time="1.068" timestamp="2022-07-25T11:01:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

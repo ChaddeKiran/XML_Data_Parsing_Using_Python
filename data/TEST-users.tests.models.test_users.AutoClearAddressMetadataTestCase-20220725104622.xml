@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_users.py" name="users.tests.models.test_users.AutoClearAddressMetadataTestCase-20220725104622" skipped="0" tests="1" time="0.084" timestamp="2022-07-25T10:46:30">
+	<testcase classname="users.tests.models.test_users.AutoClearAddressMetadataTestCase" file="users/tests/models/test_users.py" line="76" name="test_address_metadate_cleared_on_address_change" time="0.084" timestamp="2022-07-25T10:46:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

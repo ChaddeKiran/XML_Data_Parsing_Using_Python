@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" name="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS-20220725104622" skipped="0" tests="25" time="8.197" timestamp="2022-07-25T11:05:36">
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="63" name="test_add_new_vehicle" time="0.311" timestamp="2022-07-25T11:05:28">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="209" name="test_add_vehicle_without_license_plate" time="0.297" timestamp="2022-07-25T11:05:28">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="121" name="test_default_fleet_id_is_set_if_missing_in_data" time="0.289" timestamp="2022-07-25T11:05:29">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="130" name="test_default_vehicle_group_used_if_missing_in_data" time="0.300" timestamp="2022-07-25T11:05:29">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="115" name="test_expected_delivery_date_is_parsed_and_populated_if_present" time="0.298" timestamp="2022-07-25T11:05:29">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ArvalVehicleDetails.expected_delivery_date received a naive datetime (2008-01-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="193" name="test_fail_when_no_default_fleet_id_and_no_data" time="0.111" timestamp="2022-07-25T11:05:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="201" name="test_fail_when_no_default_vehicle_group_and_no_data" time="0.109" timestamp="2022-07-25T11:05:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="226" name="test_fields_are_populated_into_ods_details" time="0.306" timestamp="2022-07-25T11:05:30">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="125" name="test_fleet_id_used_from_data_if_present" time="0.292" timestamp="2022-07-25T11:05:30">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="89" name="test_hardware_initialized_to_dummy" time="0.300" timestamp="2022-07-25T11:05:30">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="214" name="test_license_plate_number_update" time="0.400" timestamp="2022-07-25T11:05:31">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="105" name="test_mock_vin_associated_to_new_vehicle" time="0.309" timestamp="2022-07-25T11:05:31">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="109" name="test_mock_vin_not_changed_on_update" time="0.406" timestamp="2022-07-25T11:05:31">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="100" name="test_new_vehicle_contains_third_party_details" time="0.293" timestamp="2022-07-25T11:05:32">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="163" name="test_new_vehicle_is_added_for_each_vehicle_id" time="0.566" timestamp="2022-07-25T11:05:32">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="180" name="test_optional_fields" time="0.287" timestamp="2022-07-25T11:05:33">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="139" name="test_pool_population" time="0.378" timestamp="2022-07-25T11:05:33">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="94" name="test_update_existing_vehicle" time="0.395" timestamp="2022-07-25T11:05:33">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="134" name="test_vehicle_group_used_from_data_if_present" time="0.287" timestamp="2022-07-25T11:05:34">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="84" name="test_vehicle_import_without_post_code" time="0.291" timestamp="2022-07-25T11:05:34">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="77" name="test_vehicle_position" time="0.442" timestamp="2022-07-25T11:05:34">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="71" name="test_vehicle_station_matches_post_code_if_station_exists" time="0.446" timestamp="2022-07-25T11:05:35">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="159" name="test_vehicle_type_name_fallback_to_model" time="0.290" timestamp="2022-07-25T11:05:35">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="143" name="test_vehicle_type_name_if_present" time="0.321" timestamp="2022-07-25T11:05:35">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_import_from_ods.TestVehicleImportFromODS" file="vehicles/tests/utils/test_vehicle_import_from_ods.py" line="148" name="test_vehicle_type_name_is_not_overwritten" time="0.475" timestamp="2022-07-25T11:05:36">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

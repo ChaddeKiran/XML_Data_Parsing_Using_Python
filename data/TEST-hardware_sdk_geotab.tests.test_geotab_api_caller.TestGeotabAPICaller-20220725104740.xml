@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_geotab_api_caller.py" name="hardware_sdk_geotab.tests.test_geotab_api_caller.TestGeotabAPICaller-20220725104740" skipped="0" tests="2" time="0.048" timestamp="2022-07-25T10:58:22">
+	<testcase classname="hardware_sdk_geotab.tests.test_geotab_api_caller.TestGeotabAPICaller" file="hardware_sdk_geotab/tests/test_geotab_api_caller.py" line="50" name="test_delete_cached_session_id_on_error_response" time="0.025" timestamp="2022-07-25T10:58:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_geotab_api_caller.TestGeotabAPICaller" file="hardware_sdk_geotab/tests/test_geotab_api_caller.py" line="31" name="test_json_deserialize_response" time="0.023" timestamp="2022-07-25T10:58:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

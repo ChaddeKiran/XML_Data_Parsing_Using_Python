@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerSignupLocale-20220725104545" skipped="0" tests="5" time="0.000" timestamp="2016-01-01T01:00:00">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSignupLocale" file="users/tests/apis/v2/test_carsharing_customers.py" line="3304" name="test_send_verification_respects_locale_english" time="0.000" timestamp="2016-01-01T01:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSignupLocale" file="users/tests/apis/v2/test_carsharing_customers.py" line="3325" name="test_send_verification_respects_locale_spanish" time="0.000" timestamp="2016-01-01T01:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSignupLocale" file="users/tests/apis/v2/test_carsharing_customers.py" line="3357" name="test_signup_english_header" time="0.000" timestamp="2016-01-01T01:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSignupLocale" file="users/tests/apis/v2/test_carsharing_customers.py" line="3368" name="test_signup_spanish_default" time="0.000" timestamp="2016-01-01T01:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSignupLocale" file="users/tests/apis/v2/test_carsharing_customers.py" line="3346" name="test_signup_spanish_header" time="0.000" timestamp="2016-01-01T01:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

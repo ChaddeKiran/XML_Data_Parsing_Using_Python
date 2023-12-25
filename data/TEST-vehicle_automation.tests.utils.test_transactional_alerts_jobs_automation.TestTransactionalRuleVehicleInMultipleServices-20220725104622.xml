@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleVehicleInMultipleServices-20220725104622" skipped="0" tests="1" time="1.176" timestamp="2022-07-25T10:55:56">
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleVehicleInMultipleServices" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1161" name="test_cleaning_transactional_rule_long_duration_vehicle_in_multiple_service" time="1.176" timestamp="2022-07-25T10:55:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

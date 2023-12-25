@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/models/test_carsharing_vehicles_2.py" name="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehicleModel-20220725104622" skipped="0" tests="4" time="1.604" timestamp="2022-07-25T11:03:36">
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehicleModel" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="87" name="test_carsharing_property_with_multiple_services" time="0.537" timestamp="2022-07-25T11:03:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehicleModel" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="61" name="test_firebase_put_on_save" time="0.101" timestamp="2022-07-25T11:03:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehicleModel" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="74" name="test_in_service_filter" time="0.825" timestamp="2022-07-25T11:03:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehicleModel" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="97" name="test_sync_ev_status" time="0.141" timestamp="2022-07-25T11:03:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

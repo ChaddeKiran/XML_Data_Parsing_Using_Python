@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_interface.py" name="hardware_sdk_otakeys.tests.test_interface.TestRegisterVehicle-20220725104740" skipped="0" tests="2" time="0.337" timestamp="2022-07-25T11:00:55">
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestRegisterVehicle" file="hardware_sdk_otakeys/tests/test_interface.py" line="173" name="test_register_vehicle" time="0.188" timestamp="2022-07-25T11:00:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestRegisterVehicle" file="hardware_sdk_otakeys/tests/test_interface.py" line="217" name="test_register_vehicle_vin_not_found" time="0.149" timestamp="2022-07-25T11:00:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

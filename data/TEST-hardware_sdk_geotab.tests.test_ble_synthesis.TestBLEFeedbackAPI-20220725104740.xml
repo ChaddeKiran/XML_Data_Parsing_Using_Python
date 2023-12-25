@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_ble_synthesis.py" name="hardware_sdk_geotab.tests.test_ble_synthesis.TestBLEFeedbackAPI-20220725104740" skipped="0" tests="6" time="0.180" timestamp="2022-07-25T10:58:07">
+	<testcase classname="hardware_sdk_geotab.tests.test_ble_synthesis.TestBLEFeedbackAPI" file="hardware_sdk_geotab/tests/test_ble_synthesis.py" line="53" name="test_basic" time="0.051" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_ble_synthesis.TestBLEFeedbackAPI" file="hardware_sdk_geotab/tests/test_ble_synthesis.py" line="62" name="test_feature_flag_turned_off" time="0.052" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_ble_synthesis.TestBLEFeedbackAPI" file="hardware_sdk_geotab/tests/test_ble_synthesis.py" line="33" name="test_serializer_bad_operation" time="0.013" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_ble_synthesis.TestBLEFeedbackAPI" file="hardware_sdk_geotab/tests/test_ble_synthesis.py" line="29" name="test_serializer_good_data" time="0.012" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_ble_synthesis.TestBLEFeedbackAPI" file="hardware_sdk_geotab/tests/test_ble_synthesis.py" line="39" name="test_serializer_unsuccessful" time="0.012" timestamp="2022-07-25T10:58:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_ble_synthesis.TestBLEFeedbackAPI" file="hardware_sdk_geotab/tests/test_ble_synthesis.py" line="45" name="test_serializer_vin_not_found" time="0.040" timestamp="2022-07-25T10:58:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

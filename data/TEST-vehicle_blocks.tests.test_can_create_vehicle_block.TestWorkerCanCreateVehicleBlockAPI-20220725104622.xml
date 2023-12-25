@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" name="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI-20220725104622" skipped="0" tests="10" time="7.706" timestamp="2022-07-25T10:56:26">
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="232" name="test_can_create_vehicle_block_api_with_assigned_rental" time="0.721" timestamp="2022-07-25T10:56:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="214" name="test_can_create_vehicle_block_api_with_unassigned_rental" time="0.688" timestamp="2022-07-25T10:56:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="298" name="test_can_create_vehicle_block_api_with_unassigned_rental_and_enough_capacity" time="0.884" timestamp="2022-07-25T10:56:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="351" name="test_can_create_vehicle_block_api_with_unassigned_rental_and_multiple_vehicle_and_existing_block" time="0.670" timestamp="2022-07-25T10:56:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="322" name="test_can_create_vehicle_block_api_with_unassigned_rental_and_not_enough_capacity" time="2.399" timestamp="2022-07-25T10:56:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="252" name="test_can_create_vehicle_block_api_with_vehicle_block" time="0.429" timestamp="2022-07-25T10:56:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="269" name="test_can_create_vehicle_block_api_with_vehicle_block_covering_block" time="0.418" timestamp="2022-07-25T10:56:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="286" name="test_can_create_vehicle_block_api_without_any_booking" time="0.399" timestamp="2022-07-25T10:56:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="372" name="test_lock_unlock_doors_when_vehicle_in_active_block" time="0.603" timestamp="2022-07-25T10:56:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestWorkerCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="386" name="test_lock_unlock_doors_when_vehicle_not_in_active_block" time="0.494" timestamp="2022-07-25T10:56:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

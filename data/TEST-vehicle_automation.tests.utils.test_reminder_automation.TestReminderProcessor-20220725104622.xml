@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_reminder_automation.py" name="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor-20220725104622" skipped="0" tests="21" time="16.869" timestamp="2022-07-25T10:52:45">
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="84" name="test_automation_setting_item_by_type" time="0.631" timestamp="2022-07-25T10:52:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:28.433065) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:28.433059) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:28.433067) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="94" name="test_exclude_vehicles_with_existing_alerts_for_setting_item" time="0.886" timestamp="2022-07-25T10:52:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:29.065371) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:29.065365) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:29.065373) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="68" name="test_get_vehicles_by_insurance_date_lte" time="0.570" timestamp="2022-07-25T10:52:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:29.956113) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:29.956106) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:29.956114) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:30.470086) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="75" name="test_get_vehicles_by_registration_date_lte" time="0.667" timestamp="2022-07-25T10:52:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:30.537346) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:30.537342) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:30.537347) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-08-04 10:52:31.143539) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="42" name="test_get_vehicles_filter" time="0.659" timestamp="2022-07-25T10:52:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:31.242575) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:31.242568) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:31.242577) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="175" name="test_inactive_vehicle_does_not_generate_alerts" time="0.911" timestamp="2022-07-25T10:52:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:31.878143) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:31.878137) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:31.878145) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:32.719660) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="238" name="test_process_reminders_no_vehicles_matches" time="0.637" timestamp="2022-07-25T10:52:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:32.783504) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:32.783499) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:32.783506) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-07-26 10:52:33.366413) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="118" name="test_process_reminders_to_create_alerts" time="0.681" timestamp="2022-07-25T10:52:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:33.423816) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:33.423811) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:33.423817) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:34.009683) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="137" name="test_process_reminders_to_create_alerts_generated_email" time="0.752" timestamp="2022-07-25T10:52:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:34.105264) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:34.105261) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:34.105265) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:34.751422) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="224" name="test_process_reminders_to_create_alerts_should_not_create_with_non_matched_market_services" time="0.527" timestamp="2022-07-25T10:52:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:34.873704) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:34.873698) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:34.873706) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:35.341487) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="209" name="test_process_reminders_to_create_alerts_should_not_create_with_soft_deleted_setting" time="0.568" timestamp="2022-07-25T10:52:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:35.389693) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:35.389687) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:35.389694) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="190" name="test_process_reminders_to_create_alerts_with_empty_market" time="0.840" timestamp="2022-07-25T10:52:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:35.987153) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:35.987146) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:35.987155) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:36.720292) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="252" name="test_process_reminders_to_invalid_data_type_and_value" time="0.571" timestamp="2022-07-25T10:52:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:36.816082) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:36.816076) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:36.816084) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="363" name="test_process_reminders_to_resolve_alerts_for_emission" time="0.952" timestamp="2022-07-25T10:52:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:37.399644) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:37.399638) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:37.399645) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-09 10:52:38.030473) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="382" name="test_process_reminders_to_resolve_alerts_for_emission_with_deleted_setting" time="0.814" timestamp="2022-07-25T10:52:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:38.344858) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:38.344851) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:38.344859) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-09 10:52:38.839711) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="266" name="test_process_reminders_to_resolve_alerts_for_insurance" time="0.849" timestamp="2022-07-25T10:52:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:39.159208) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:39.159202) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:39.159209) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:39.654257) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-09 10:52:39.697381) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="292" name="test_process_reminders_to_resolve_alerts_for_insurance_with_deleted_setting" time="0.833" timestamp="2022-07-25T10:52:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:40.009812) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:40.009807) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:40.009814) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-09 10:52:40.495247) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="318" name="test_process_reminders_to_resolve_alerts_for_registration" time="2.323" timestamp="2022-07-25T10:52:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:40.850338) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:40.850332) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:40.850340) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-08-09 10:52:42.762374) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="342" name="test_process_reminders_to_resolve_alerts_for_registration_with_deleted_setting" time="0.839" timestamp="2022-07-25T10:52:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:43.188512) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:43.188507) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:43.188514) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-08-09 10:52:43.707386) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="337" name="test_process_reminders_to_resolve_alerts_without_open_alerts" time="0.675" timestamp="2022-07-25T10:52:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:44.015504) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:44.015498) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:44.015505) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_reminder_automation.TestReminderProcessor" file="vehicle_automation/tests/utils/test_reminder_automation.py" line="403" name="test_skip_duplicate_alert" time="0.681" timestamp="2022-07-25T10:52:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-30 10:52:44.704036) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:44.704029) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2022-08-04 10:52:44.704037) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2022-08-04 10:52:45.316604) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

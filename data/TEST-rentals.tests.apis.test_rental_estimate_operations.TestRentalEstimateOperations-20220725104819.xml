@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/test_rental_estimate_operations.py" name="rentals.tests.apis.test_rental_estimate_operations.TestRentalEstimateOperations-20220725104819" skipped="0" tests="4" time="0.462" timestamp="2022-07-25T11:00:09">
+	<testcase classname="rentals.tests.apis.test_rental_estimate_operations.TestRentalEstimateOperations" file="rentals/tests/apis/test_rental_estimate_operations.py" line="15" name="test_get_locale_from_language" time="0.030" timestamp="2022-07-25T11:00:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.test_rental_estimate_operations.TestRentalEstimateOperations" file="rentals/tests/apis/test_rental_estimate_operations.py" line="47" name="test_get_pricing_data" time="0.387" timestamp="2022-07-25T11:00:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.test_rental_estimate_operations.TestRentalEstimateOperations" file="rentals/tests/apis/test_rental_estimate_operations.py" line="71" name="test_is_android_app" time="0.019" timestamp="2022-07-25T11:00:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.test_rental_estimate_operations.TestRentalEstimateOperations" file="rentals/tests/apis/test_rental_estimate_operations.py" line="20" name="test_vehicle_id_parser" time="0.026" timestamp="2022-07-25T11:00:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

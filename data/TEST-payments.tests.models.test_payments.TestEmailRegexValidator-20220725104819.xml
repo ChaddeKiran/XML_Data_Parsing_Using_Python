@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/models/test_payments.py" name="payments.tests.models.test_payments.TestEmailRegexValidator-20220725104819" skipped="0" tests="59" time="0.061" timestamp="2022-07-25T11:07:19">
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_0" time="0.006" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_1" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_10" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_11" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_12" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_13" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_14" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_2" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_3" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_36" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_39" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_4" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_45" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_46" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_47" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_48" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_49" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_5" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_50" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_6" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_7" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_8" time="0.010" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailRegexValidator_9" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_15" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_16" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_17" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_18" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_19" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_20" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_21" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_22" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_23" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_24" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_25" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_26" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_27" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_28" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_29" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_30" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_31" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_32" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_33" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_34" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_35" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_37" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_38" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_40" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_41" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_42" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_43" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_44" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailRegexValidator_raises_error_51" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="169" name="test_EmailValidator_53" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailValidator_raises_error_52" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailValidator_raises_error_54" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailValidator_raises_error_55" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailValidator_raises_error_56" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailValidator_raises_error_57" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestEmailRegexValidator" file="payments/tests/models/test_payments.py" line="156" name="test_EmailValidator_raises_error_58" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

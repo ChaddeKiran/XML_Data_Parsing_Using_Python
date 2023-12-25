@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/tasks/test_promotion_eligibility.py" name="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask-20220725104819" skipped="0" tests="25" time="34.244" timestamp="2022-07-25T11:00:03">
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="161" name="test_process_promotion_eligibility_activates_coupon_on_fulfilling_eligibility_criteria_carsharing" time="1.378" timestamp="2022-07-25T10:59:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="144" name="test_process_promotion_eligibility_activates_coupon_on_fulfilling_eligibility_criteria_ridesharing" time="1.422" timestamp="2022-07-25T10:59:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="197" name="test_process_promotion_eligibility_adds_credit_on_fulfilling_eligibility_criteria_carsharing" time="1.356" timestamp="2022-07-25T10:59:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="178" name="test_process_promotion_eligibility_adds_credit_on_fulfilling_eligibility_criteria_ridesharing" time="1.467" timestamp="2022-07-25T10:59:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="386" name="test_process_promotion_eligibility_adds_credit_on_fulfillment_with_cancelled_promo_carsharing" time="1.474" timestamp="2022-07-25T10:59:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="408" name="test_process_promotion_eligibility_adds_credit_on_fulfillment_with_cancelled_promo_ridesharing" time="1.386" timestamp="2022-07-25T10:59:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="124" name="test_process_promotion_eligibility_carsharing_amount_spent_gte_min_spend" time="1.350" timestamp="2022-07-25T10:59:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="134" name="test_process_promotion_eligibility_carsharing_amount_spent_lt_min_spend" time="1.335" timestamp="2022-07-25T10:59:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="261" name="test_process_promotion_eligibility_does_not_count_rental_with_successful_payment_past_promotion_expiry" time="1.373" timestamp="2022-07-25T10:59:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="277" name="test_process_promotion_eligibility_does_not_count_ride_completed_before_promotion_is_active" time="1.350" timestamp="2022-07-25T10:59:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="245" name="test_process_promotion_eligibility_does_not_count_ride_with_successful_payment_past_promotion_expiry" time="1.298" timestamp="2022-07-25T10:59:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="230" name="test_process_promotion_eligibility_does_not_increase_rides_completed_for_rental_ending_post_complete_by" time="1.379" timestamp="2022-07-25T10:59:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="215" name="test_process_promotion_eligibility_does_not_increase_rides_completed_for_trip_ending_post_complete_by" time="1.320" timestamp="2022-07-25T10:59:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="97" name="test_process_promotion_eligibility_for_carsharing" time="1.308" timestamp="2022-07-25T10:59:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="88" name="test_process_promotion_eligibility_for_ridesharing" time="1.322" timestamp="2022-07-25T10:59:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="104" name="test_process_promotion_eligibility_ridesharing_amount_spent_gte_min_spend" time="1.328" timestamp="2022-07-25T10:59:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="114" name="test_process_promotion_eligibility_ridesharing_amount_spent_lt_min_spend" time="1.373" timestamp="2022-07-25T10:59:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="362" name="test_promotion_eligibility_does_not_increment_rides_completed_for_unsupported_product_type" time="1.377" timestamp="2022-07-25T10:59:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="316" name="test_promotion_eligibility_with_carsharing_product_type_increments_rides_completed" time="1.359" timestamp="2022-07-25T10:59:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="431" name="test_promotion_eligibility_with_carsharing_product_type_increments_rides_completed_with_cancelled_promo" time="1.365" timestamp="2022-07-25T10:59:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="296" name="test_promotion_eligibility_with_default_product_type_increments_rides_completed_carsharing" time="1.412" timestamp="2022-07-25T10:59:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="306" name="test_promotion_eligibility_with_default_product_type_increments_rides_completed_ridesharing" time="1.335" timestamp="2022-07-25T10:59:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="341" name="test_promotion_eligibility_with_multiple_product_types_increments_rides_completed_for_containing_product" time="1.333" timestamp="2022-07-25T11:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="329" name="test_promotion_eligibility_with_ridesharing_product_type_increments_rides_completed" time="1.431" timestamp="2022-07-25T11:00:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_promotion_eligibility.TestProcessMultiTripAwardPromotionEligibilityTask" file="promotions/tests/tasks/test_promotion_eligibility.py" line="446" name="test_promotion_eligibility_with_ridesharing_product_type_increments_rides_completed_with_cancelled_promo" time="1.413" timestamp="2022-07-25T11:00:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

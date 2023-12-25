@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" name="pipelines.tests.utils.test_kafka_consumer_callbacks.UserSyncTests-20220725104819" skipped="6" tests="6" time="0.020" timestamp="2022-07-25T10:53:01">
+	<testcase classname="pipelines.tests.utils.test_kafka_consumer_callbacks.UserSyncTests" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" line="52" name="test_user_sync_creates_supplier_manager" time="0.004" timestamp="2022-07-25T10:53:01">
+		<skipped message="Broken, see RIDE-11916." type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_kafka_consumer_callbacks.UserSyncTests" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" line="31" name="test_user_sync_creates_user" time="0.003" timestamp="2022-07-25T10:53:01">
+		<skipped message="Broken, see RIDE-11916." type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_kafka_consumer_callbacks.UserSyncTests" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" line="129" name="test_user_sync_creates_user_staff_worker" time="0.002" timestamp="2022-07-25T10:53:01">
+		<skipped message="Broken, see RIDE-11916." type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_kafka_consumer_callbacks.UserSyncTests" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" line="150" name="test_user_sync_update_user_staff_worker_to_service_manager" time="0.003" timestamp="2022-07-25T10:53:01">
+		<skipped message="Broken, see RIDE-11916." type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_kafka_consumer_callbacks.UserSyncTests" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" line="102" name="test_user_sync_updates_supplier_manager" time="0.004" timestamp="2022-07-25T10:53:01">
+		<skipped message="Broken, see RIDE-11916." type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_kafka_consumer_callbacks.UserSyncTests" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" line="78" name="test_user_sync_updates_user" time="0.004" timestamp="2022-07-25T10:53:01">
+		<skipped message="Broken, see RIDE-11916." type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

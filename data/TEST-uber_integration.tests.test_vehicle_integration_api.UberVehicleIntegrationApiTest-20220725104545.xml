@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="uber_integration/tests/test_vehicle_integration_api.py" name="uber_integration.tests.test_vehicle_integration_api.UberVehicleIntegrationApiTest-20220725104545" skipped="0" tests="9" time="5.380" timestamp="2022-07-25T10:51:59">
+	<testcase classname="uber_integration.tests.test_vehicle_integration_api.UberVehicleIntegrationApiTest" file="uber_integration/tests/test_vehicle_integration_api.py" line="80" name="test_document_upload_as_dispatcher" time="0.567" timestamp="2022-07-25T10:51:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_vehicle_integration_api.UberVehicleIntegrationApiTest" file="uber_integration/tests/test_vehicle_integration_api.py" line="96" name="test_document_upload_for_invalid_vehicle_id" time="0.548" timestamp="2022-07-25T10:51:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_vehicle_integration_api.UberVehicleIntegrationApiTest" file="uber_integration/tests/test_vehicle_integration_api.py" line="112" name="test_document_upload_status" time="0.831" timestamp="2022-07-25T10:51:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_vehicle_integration_api.UberVehicleIntegrationApiTest" file="uber_integration/tests/test_vehicle_integration_api.py" line="90" name="test_document_upload_with_invalid_document_type" time="0.552" timestamp="2022-07-25T10:51:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_vehicle_integration_api.UberVehicleIntegrationApiTest" file="uber_integration/tests/test_vehicle_integration_api.py" line="85" name="test_document_upload_with_non_dispatcher_role" time="0.529" timestamp="2022-07-25T10:51:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_vehicle_integration_api.UberVehicleIntegrationApiTest" file="uber_integration/tests/test_vehicle_integration_api.py" line="50" name="test_vehicle_integration_for_already_integrated_vehicle" time="0.553" timestamp="2022-07-25T10:51:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_vehicle_integration_api.UberVehicleIntegrationApiTest" file="uber_integration/tests/test_vehicle_integration_api.py" line="59" name="test_vehicle_integration_for_invalid_vehicle_id" time="0.567" timestamp="2022-07-25T10:51:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_vehicle_integration_api.UberVehicleIntegrationApiTest" file="uber_integration/tests/test_vehicle_integration_api.py" line="33" name="test_vehicle_integration_for_unintegrated_vehicle" time="0.658" timestamp="2022-07-25T10:51:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_vehicle_integration_api.UberVehicleIntegrationApiTest" file="uber_integration/tests/test_vehicle_integration_api.py" line="69" name="test_vehicle_integration_for_vehicle_with_none_vehicle_year" time="0.575" timestamp="2022-07-25T10:51:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

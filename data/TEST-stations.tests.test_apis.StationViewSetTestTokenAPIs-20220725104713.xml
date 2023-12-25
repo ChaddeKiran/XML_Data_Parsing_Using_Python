@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_apis.py" name="stations.tests.test_apis.StationViewSetTestTokenAPIs-20220725104713" skipped="0" tests="1" time="0.847" timestamp="2022-07-25T10:53:07">
+	<testcase classname="stations.tests.test_apis.StationViewSetTestTokenAPIs" file="stations/tests/test_apis.py" line="1230" name="test_bulk_transfer" time="0.847" timestamp="2022-07-25T10:53:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

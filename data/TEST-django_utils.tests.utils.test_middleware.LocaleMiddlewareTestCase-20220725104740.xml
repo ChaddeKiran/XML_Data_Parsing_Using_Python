@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_middleware.py" name="django_utils.tests.utils.test_middleware.LocaleMiddlewareTestCase-20220725104740" skipped="0" tests="2" time="0.706" timestamp="2022-07-25T10:54:40">
+	<testcase classname="django_utils.tests.utils.test_middleware.LocaleMiddlewareTestCase" file="django_utils/tests/utils/test_middleware.py" line="182" name="test_default_to_tenant_configuration" time="0.408" timestamp="2022-07-25T10:54:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_middleware.LocaleMiddlewareTestCase" file="django_utils/tests/utils/test_middleware.py" line="132" name="test_simple_request" time="0.298" timestamp="2022-07-25T10:54:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

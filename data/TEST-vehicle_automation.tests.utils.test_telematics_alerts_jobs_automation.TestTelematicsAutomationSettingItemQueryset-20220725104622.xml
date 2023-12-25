@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsAutomationSettingItemQueryset-20220725104622" skipped="0" tests="8" time="4.561" timestamp="2022-07-25T10:54:04">
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsAutomationSettingItemQueryset" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1786" name="test_deleted_with_alerts_criteria" time="0.728" timestamp="2022-07-25T10:54:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsAutomationSettingItemQueryset" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1741" name="test_exclude_scheduled_alert_exists" time="0.625" timestamp="2022-07-25T10:54:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsAutomationSettingItemQueryset" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1701" name="test_inactive_status_criteria_for_scheduled_setting" time="0.763" timestamp="2022-07-25T10:54:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsAutomationSettingItemQueryset" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1678" name="test_inactive_status_criteria_for_trigger_setting" time="0.665" timestamp="2022-07-25T10:54:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsAutomationSettingItemQueryset" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1653" name="test_market_criteria" time="0.404" timestamp="2022-07-25T10:54:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsAutomationSettingItemQueryset" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1757" name="test_scheduled_alert_ordering" time="0.640" timestamp="2022-07-25T10:54:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsAutomationSettingItemQueryset" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1643" name="test_service_criteria" time="0.365" timestamp="2022-07-25T10:54:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsAutomationSettingItemQueryset" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1663" name="test_vehicle_types_criteria" time="0.371" timestamp="2022-07-25T10:54:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

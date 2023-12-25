@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="manual_identity_verification/tests/api/test_identity_profile.py" name="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsDispatcher-20220725104740" skipped="0" tests="6" time="2.014" timestamp="2022-07-25T11:02:54">
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsDispatcher" file="manual_identity_verification/tests/api/test_identity_profile.py" line="198" name="test_delete" time="0.291" timestamp="2022-07-25T11:02:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsDispatcher" file="manual_identity_verification/tests/api/test_identity_profile.py" line="160" name="test_patch" time="0.436" timestamp="2022-07-25T11:02:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsDispatcher" file="manual_identity_verification/tests/api/test_identity_profile.py" line="181" name="test_patch_not_completed_submission" time="0.342" timestamp="2022-07-25T11:02:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsDispatcher" file="manual_identity_verification/tests/api/test_identity_profile.py" line="194" name="test_post" time="0.295" timestamp="2022-07-25T11:02:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsDispatcher" file="manual_identity_verification/tests/api/test_identity_profile.py" line="190" name="test_put" time="0.295" timestamp="2022-07-25T11:02:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsDispatcher" file="manual_identity_verification/tests/api/test_identity_profile.py" line="144" name="test_retrieve" time="0.356" timestamp="2022-07-25T11:02:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

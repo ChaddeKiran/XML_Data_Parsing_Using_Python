@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_slots.py" name="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsServiceManagerWithoutSlotPermission-20220725104740" skipped="0" tests="7" time="4.603" timestamp="2022-07-25T10:55:48">
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsServiceManagerWithoutSlotPermission" file="driver_scheduling/tests/apis/test_slots.py" line="372" name="test_slot_bulk_patch_allowed" time="0.682" timestamp="2022-07-25T10:55:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsServiceManagerWithoutSlotPermission" file="driver_scheduling/tests/apis/test_slots.py" line="361" name="test_slot_create_allowed" time="0.646" timestamp="2022-07-25T10:55:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsServiceManagerWithoutSlotPermission" file="driver_scheduling/tests/apis/test_slots.py" line="356" name="test_slot_delete_allowed" time="0.668" timestamp="2022-07-25T10:55:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsServiceManagerWithoutSlotPermission" file="driver_scheduling/tests/apis/test_slots.py" line="351" name="test_slot_get" time="0.639" timestamp="2022-07-25T10:55:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsServiceManagerWithoutSlotPermission" file="driver_scheduling/tests/apis/test_slots.py" line="346" name="test_slot_list" time="0.652" timestamp="2022-07-25T10:55:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsServiceManagerWithoutSlotPermission" file="driver_scheduling/tests/apis/test_slots.py" line="365" name="test_slot_patch_allowed" time="0.678" timestamp="2022-07-25T10:55:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsServiceManagerWithoutSlotPermission" file="driver_scheduling/tests/apis/test_slots.py" line="376" name="test_slot_release_with_service" time="0.637" timestamp="2022-07-25T10:55:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" name="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleAPIV3UpdateGroupsAsDispatcher-20220725104622" skipped="0" tests="2" time="3.356" timestamp="2022-07-25T11:01:22">
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleAPIV3UpdateGroupsAsDispatcher" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1513" name="test_patch_carsharingvehicles_group_adds_vehicleupdate" time="2.090" timestamp="2022-07-25T11:01:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleAPIV3UpdateGroupsAsDispatcher" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1587" name="test_patch_vehicle_for_vehicle_groups_updates_vehicle_ids_in_firebase_service_node" time="1.267" timestamp="2022-07-25T11:01:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

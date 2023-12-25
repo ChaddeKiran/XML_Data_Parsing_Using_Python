@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2OrderRFIDCard-20220725104545" skipped="0" tests="4" time="2.630" timestamp="2022-07-25T10:58:53">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2OrderRFIDCard" file="users/tests/apis/v2/test_carsharing_customers.py" line="2948" name="test_customers_with_filter_rfid_card_ordered" time="0.711" timestamp="2022-07-25T10:58:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.carsharing_customers.CarsharingCustomer'> CustomerQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2OrderRFIDCard" file="users/tests/apis/v2/test_carsharing_customers.py" line="2927" name="test_order_rfid_card_responds_with_bad_request_when_already_ordered" time="0.668" timestamp="2022-07-25T10:58:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2OrderRFIDCard" file="users/tests/apis/v2/test_carsharing_customers.py" line="2939" name="test_order_rfid_card_responds_with_forbidden_when_tenant_flag_disabled" time="0.430" timestamp="2022-07-25T10:58:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2OrderRFIDCard" file="users/tests/apis/v2/test_carsharing_customers.py" line="2915" name="test_order_rfid_card_when_not_already_ordered" time="0.822" timestamp="2022-07-25T10:58:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

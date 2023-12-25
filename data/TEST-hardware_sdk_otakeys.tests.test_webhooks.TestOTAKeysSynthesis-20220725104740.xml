@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_webhooks.py" name="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis-20220725104740" skipped="0" tests="18" time="11.290" timestamp="2022-07-25T11:02:03">
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="400" name="test_do_not_switch_to_carsharing_hardware_not_platform" time="0.506" timestamp="2022-07-25T11:01:52">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="297" name="test_energy_percentage_and_remaining_range_for_phev_vehicle" time="0.669" timestamp="2022-07-25T11:01:52">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="378" name="test_gps_source_switch_to_carsharing_hardware" time="0.497" timestamp="2022-07-25T11:01:53">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="441" name="test_push_synthesis_doors_unlocked_in_invisible_mode" time="1.023" timestamp="2022-07-25T11:01:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="422" name="test_push_synthesis_engine_on_in_invisible_mode" time="1.061" timestamp="2022-07-25T11:01:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="345" name="test_send_sms_on_end_rental_failure_engine" time="0.033" timestamp="2022-07-25T11:01:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="362" name="test_send_sms_on_end_rental_failure_unlocked" time="0.033" timestamp="2022-07-25T11:01:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="263" name="test_update_ev_battery_percentage" time="0.879" timestamp="2022-07-25T11:01:56">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="232" name="test_update_liquid_fuel_percentage" time="0.810" timestamp="2022-07-25T11:01:57">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="318" name="test_update_rental_recentgpsposition" time="0.950" timestamp="2022-07-25T11:01:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="150" name="test_update_rental_status" time="0.506" timestamp="2022-07-25T11:01:58">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="132" name="test_update_rental_status_after_end_rental_with_synthesis_over_ble" time="0.855" timestamp="2022-07-25T11:01:59">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="101" name="test_update_rental_status_reservation_status_over_ble" time="1.118" timestamp="2022-07-25T11:02:00">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="189" name="test_update_rental_vehicle_remaining_range" time="0.522" timestamp="2022-07-25T11:02:01">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="210" name="test_update_rental_vehicle_remaining_range_zero_capacity" time="0.548" timestamp="2022-07-25T11:02:01">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="170" name="test_update_vehicle_synthesis_battery_level" time="0.331" timestamp="2022-07-25T11:02:02">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="180" name="test_update_vehicle_synthesis_battery_level_when_battery_voltage_above_12v" time="0.311" timestamp="2022-07-25T11:02:02">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysSynthesis" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="81" name="test_update_vehicle_synthesis_gps_over_ble" time="0.637" timestamp="2022-07-25T11:02:03">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

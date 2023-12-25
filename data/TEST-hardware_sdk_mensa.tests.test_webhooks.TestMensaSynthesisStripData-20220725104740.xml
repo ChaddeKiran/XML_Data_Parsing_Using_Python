@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesisStripData-20220725104740" skipped="0" tests="5" time="2.771" timestamp="2022-07-25T11:00:31">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesisStripData" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1893" name="test_synthesis_strip_data_flag_off_with_active_rental" time="0.630" timestamp="2022-07-25T11:00:29">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (49.1972, -112.315961, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesisStripData" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1803" name="test_synthesis_strip_data_flag_off_with_active_rental_in_private_mode_flag_on" time="0.627" timestamp="2022-07-25T11:00:30">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesisStripData" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1867" name="test_synthesis_strip_data_flag_off_without_active_rental" time="0.367" timestamp="2022-07-25T11:00:30">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (49.1972, -112.315961, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesisStripData" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1767" name="test_synthesis_strip_data_flag_on_with_active_rental" time="0.736" timestamp="2022-07-25T11:00:31">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesisStripData" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1840" name="test_synthesis_strip_data_flag_on_without_active_rental" time="0.411" timestamp="2022-07-25T11:00:31">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (39.1972, 122.315961, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

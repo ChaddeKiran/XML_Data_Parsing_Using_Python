@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_validations.py" name="stations.tests.test_validations.TestCalculations-20220725104713" skipped="0" tests="2" time="2.635" timestamp="2022-07-25T10:53:18">
+	<testcase classname="stations.tests.test_validations.TestCalculations" file="stations/tests/test_validations.py" line="135" name="test_calculations" time="1.454" timestamp="2022-07-25T10:53:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_validations.TestCalculations" file="stations/tests/test_validations.py" line="204" name="test_calculations_removal_vehicle" time="1.181" timestamp="2022-07-25T10:53:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

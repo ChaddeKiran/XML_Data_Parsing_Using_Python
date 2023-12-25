@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestPaymentLifecycleStateChangeEventsToDataPipeline-20220725104819" skipped="0" tests="2" time="3.049" timestamp="2022-07-25T10:51:21">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestPaymentLifecycleStateChangeEventsToDataPipeline" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4659" name="test_create_or_update_payment_sends_scheduled_rental_final_capture_failure_event_to_data_pipeline" time="1.454" timestamp="2022-07-25T10:51:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestPaymentLifecycleStateChangeEventsToDataPipeline" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4679" name="test_create_or_update_payment_sends_scheduled_rental_final_capture_success_event_to_data_pipeline" time="1.595" timestamp="2022-07-25T10:51:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

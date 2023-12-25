@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_payment_utils.py" name="payments.tests.utils.test_payment_utils.TestRefundComputation-20220725104819" skipped="0" tests="7" time="0.147" timestamp="2022-07-25T10:52:16">
+	<testcase classname="payments.tests.utils.test_payment_utils.TestRefundComputation" file="payments/tests/utils/test_payment_utils.py" line="172" name="test_full_refund" time="0.022" timestamp="2022-07-25T10:52:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestRefundComputation" file="payments/tests/utils/test_payment_utils.py" line="175" name="test_full_refund_with_credit" time="0.020" timestamp="2022-07-25T10:52:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestRefundComputation" file="payments/tests/utils/test_payment_utils.py" line="178" name="test_partial_refund" time="0.018" timestamp="2022-07-25T10:52:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestRefundComputation" file="payments/tests/utils/test_payment_utils.py" line="181" name="test_partial_refund_with_credit" time="0.020" timestamp="2022-07-25T10:52:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestRefundComputation" file="payments/tests/utils/test_payment_utils.py" line="187" name="test_partial_refund_with_credit_refund" time="0.021" timestamp="2022-07-25T10:52:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestRefundComputation" file="payments/tests/utils/test_payment_utils.py" line="184" name="test_partial_refund_with_credit_used" time="0.027" timestamp="2022-07-25T10:52:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestRefundComputation" file="payments/tests/utils/test_payment_utils.py" line="190" name="test_refund_more_than_charge_error" time="0.018" timestamp="2022-07-25T10:52:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customer_user_groups.py" name="users.tests.apis.test_customer_user_groups.TestCustomerUserGroupAPIAsCustomer-20220725104545" skipped="0" tests="2" time="2.371" timestamp="2022-07-25T10:52:23">
+	<testcase classname="users.tests.apis.test_customer_user_groups.TestCustomerUserGroupAPIAsCustomer" file="users/tests/apis/test_customer_user_groups.py" line="73" name="test_customer_user_group" time="0.509" timestamp="2022-07-25T10:52:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.users_models.CustomerUserGroup'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_user_groups.TestCustomerUserGroupAPIAsCustomer" file="users/tests/apis/test_customer_user_groups.py" line="80" name="test_customerusergroup_should_only_show_groupid_of_customer" time="1.862" timestamp="2022-07-25T10:52:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" name="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalRequestUserGroupExemption-20220725105046" skipped="0" tests="6" time="1.825" timestamp="2022-07-25T11:05:40">
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalRequestUserGroupExemption" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="32" name="test_enabled" time="0.329" timestamp="2022-07-25T11:05:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalRequestUserGroupExemption" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="23" name="test_service_disabled" time="0.223" timestamp="2022-07-25T11:05:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalRequestUserGroupExemption" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="37" name="test_service_enabled_exclusive" time="0.321" timestamp="2022-07-25T11:05:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalRequestUserGroupExemption" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="42" name="test_service_enabled_exclusive_no_usergroup" time="0.340" timestamp="2022-07-25T11:05:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalRequestUserGroupExemption" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="47" name="test_service_enabled_exclusive_with_usergroup" time="0.307" timestamp="2022-07-25T11:05:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalRequestUserGroupExemption" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="27" name="test_service_enabled_type_none" time="0.305" timestamp="2022-07-25T11:05:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

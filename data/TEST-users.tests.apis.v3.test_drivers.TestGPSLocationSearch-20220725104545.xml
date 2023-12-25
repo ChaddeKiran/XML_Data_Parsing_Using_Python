@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_drivers.py" name="users.tests.apis.v3.test_drivers.TestGPSLocationSearch-20220725104545" skipped="1" tests="2" time="0.406" timestamp="2022-07-25T11:04:43">
+	<testcase classname="users.tests.apis.v3.test_drivers.TestGPSLocationSearch" file="users/tests/apis/v3/test_drivers.py" line="72" name="test_error_responses" time="0.401" timestamp="2022-07-25T11:04:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_drivers.TestGPSLocationSearch" file="users/tests/apis/v3/test_drivers.py" line="9" name="test_gps_position_search" time="0.005" timestamp="2022-07-25T11:04:43">
+		<skipped message="Test too fragile and changes results - RIDE-11250" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

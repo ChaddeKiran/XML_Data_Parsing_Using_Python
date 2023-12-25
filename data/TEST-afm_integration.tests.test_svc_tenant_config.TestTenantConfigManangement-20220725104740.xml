@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="afm_integration/tests/test_svc_tenant_config.py" name="afm_integration.tests.test_svc_tenant_config.TestTenantConfigManangement-20220725104740" skipped="0" tests="3" time="0.082" timestamp="2022-07-25T10:50:01">
+	<testcase classname="afm_integration.tests.test_svc_tenant_config.TestTenantConfigManangement" file="afm_integration/tests/test_svc_tenant_config.py" line="16" name="test_create_service_success" time="0.035" timestamp="2022-07-25T10:50:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_svc_tenant_config.TestTenantConfigManangement" file="afm_integration/tests/test_svc_tenant_config.py" line="49" name="test_delete_service_success" time="0.023" timestamp="2022-07-25T10:50:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_svc_tenant_config.TestTenantConfigManangement" file="afm_integration/tests/test_svc_tenant_config.py" line="32" name="test_update_service_success" time="0.024" timestamp="2022-07-25T10:50:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

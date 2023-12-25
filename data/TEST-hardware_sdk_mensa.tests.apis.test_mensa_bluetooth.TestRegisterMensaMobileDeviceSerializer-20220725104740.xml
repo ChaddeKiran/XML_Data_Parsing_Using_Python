@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" name="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestRegisterMensaMobileDeviceSerializer-20220725104740" skipped="0" tests="3" time="0.003" timestamp="2022-07-25T10:59:27">
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestRegisterMensaMobileDeviceSerializer" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="102" name="test_empty_mobile_device_id" time="0.001" timestamp="2022-07-25T10:59:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestRegisterMensaMobileDeviceSerializer" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="107" name="test_good_data" time="0.001" timestamp="2022-07-25T10:59:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestRegisterMensaMobileDeviceSerializer" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="97" name="test_missing_data" time="0.001" timestamp="2022-07-25T10:59:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

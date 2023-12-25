@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" name="vehicles.tests.apis.v3.test_carsharing_vehicles.TestStaffServiceBasedV3VehiclesFilteringForStaff-20220725104622" skipped="0" tests="3" time="1.168" timestamp="2022-07-25T11:01:08">
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestStaffServiceBasedV3VehiclesFilteringForStaff" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="989" name="test_staff_can_access_only_their_vehicle" time="0.446" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestStaffServiceBasedV3VehiclesFilteringForStaff" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1004" name="test_staff_cannot_access_orphaned_vehicle" time="0.361" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestStaffServiceBasedV3VehiclesFilteringForStaff" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="997" name="test_staff_cannot_access_vehicle_they_dont_have_access_to" time="0.361" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="billing/tests/invoices/test_special_invoices.py" name="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase-20220725104740" skipped="0" tests="13" time="25.109" timestamp="2022-07-25T10:51:47">
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="35" name="test_create_invoice_for_service_with_invoices_disabled_fails" time="1.595" timestamp="2022-07-25T10:51:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="49" name="test_create_special_invoice_with_rental" time="1.917" timestamp="2022-07-25T10:51:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="17" name="test_create_special_invoice_with_rental_and_trip" time="2.684" timestamp="2022-07-25T10:51:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="80" name="test_create_special_invoice_with_rental_with_different_recipient" time="1.881" timestamp="2022-07-25T10:51:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="66" name="test_create_special_invoice_with_rental_with_different_service" time="1.882" timestamp="2022-07-25T10:51:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="179" name="test_create_special_invoice_with_trip" time="1.758" timestamp="2022-07-25T10:51:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="208" name="test_create_special_invoice_with_trip_with_different_recipient" time="1.696" timestamp="2022-07-25T10:51:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="194" name="test_create_special_invoice_with_trip_with_different_service" time="1.710" timestamp="2022-07-25T10:51:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="161" name="test_patch_special_invoice_and_rental_with_different_recipient" time="2.043" timestamp="2022-07-25T10:51:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="143" name="test_patch_special_invoice_no_initial_service_and_rental_with_different_service" time="1.965" timestamp="2022-07-25T10:51:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="110" name="test_patch_special_invoice_no_initial_service_with_rental" time="2.020" timestamp="2022-07-25T10:51:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="126" name="test_patch_special_invoice_with_initial_service_and_rental_with_different_service" time="1.956" timestamp="2022-07-25T10:51:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_special_invoices.SpecialInvoiceTestCase" file="billing/tests/invoices/test_special_invoices.py" line="94" name="test_patch_special_invoice_with_rental" time="2.002" timestamp="2022-07-25T10:51:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

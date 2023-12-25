@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="firebase/tests/test_push_notifications.py" name="firebase.tests.test_push_notifications.TestFCMNotifications-20220725104740" skipped="0" tests="4" time="0.726" timestamp="2022-07-25T10:56:33">
+	<testcase classname="firebase.tests.test_push_notifications.TestFCMNotifications" file="firebase/tests/test_push_notifications.py" line="31" name="test_fcm_message_generation_customer" time="0.259" timestamp="2022-07-25T10:56:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_push_notifications.TestFCMNotifications" file="firebase/tests/test_push_notifications.py" line="16" name="test_fcm_message_generation_driver" time="0.200" timestamp="2022-07-25T10:56:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_push_notifications.TestFCMNotifications" file="firebase/tests/test_push_notifications.py" line="43" name="test_fcm_message_skips_users_without_token" time="0.181" timestamp="2022-07-25T10:56:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_push_notifications.TestFCMNotifications" file="firebase/tests/test_push_notifications.py" line="51" name="test_ttl_for_push_notification" time="0.087" timestamp="2022-07-25T10:56:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

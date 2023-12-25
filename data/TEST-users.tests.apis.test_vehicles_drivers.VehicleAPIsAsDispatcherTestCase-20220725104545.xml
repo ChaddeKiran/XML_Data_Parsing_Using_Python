@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_vehicles_drivers.py" name="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase-20220725104545" skipped="0" tests="27" time="16.527" timestamp="2022-07-25T10:57:13">
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="69" name="test_create_driver_bad" time="0.340" timestamp="2022-07-25T10:56:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="96" name="test_create_driver_dupe_user_no_driver" time="0.541" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="87" name="test_create_driver_good" time="0.466" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="81" name="test_create_driver_short_pass" time="0.351" timestamp="2022-07-25T10:56:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="110" name="test_create_dupe_driver" time="0.422" timestamp="2022-07-25T10:56:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="126" name="test_create_to_reactivate_inactive_driver" time="0.535" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="207" name="test_create_vehicle" time="0.432" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="143" name="test_destroy_driver" time="0.420" timestamp="2022-07-25T10:57:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="156" name="test_destroy_driver_in_trip" time="0.441" timestamp="2022-07-25T10:57:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="247" name="test_destroy_vehicle" time="0.443" timestamp="2022-07-25T10:57:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="256" name="test_destroy_vehicle_not_belonging_to_dispatcher_service" time="1.008" timestamp="2022-07-25T10:57:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="292" name="test_destroy_vehicle_with_driver" time="0.470" timestamp="2022-07-25T10:57:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="242" name="test_get_vehicles_with_driver_mode" time="0.404" timestamp="2022-07-25T10:57:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="320" name="test_list_available_drivers" time="0.436" timestamp="2022-07-25T10:57:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="305" name="test_list_available_drivers_empty" time="0.511" timestamp="2022-07-25T10:57:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="337" name="test_list_logged_in_drivers_available" time="0.431" timestamp="2022-07-25T10:57:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="345" name="test_list_logged_in_drivers_in_trip" time="1.204" timestamp="2022-07-25T10:57:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="331" name="test_list_logged_in_drivers_none" time="0.436" timestamp="2022-07-25T10:57:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="369" name="test_list_logged_in_drivers_with_offline" time="2.116" timestamp="2022-07-25T10:57:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="215" name="test_list_vehicles_with_service" time="0.735" timestamp="2022-07-25T10:57:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="230" name="test_list_vehicles_without_service" time="0.699" timestamp="2022-07-25T10:57:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="197" name="test_reset_driver_bad_pk" time="1.500" timestamp="2022-07-25T10:57:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="188" name="test_reset_driver_password_empty" time="0.409" timestamp="2022-07-25T10:57:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="174" name="test_reset_driver_password_success" time="0.401" timestamp="2022-07-25T10:57:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="470" name="test_search_vehicles_by_id" time="0.508" timestamp="2022-07-25T10:57:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="464" name="test_services_in_response" time="0.371" timestamp="2022-07-25T10:57:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_vehicles_drivers.VehicleAPIsAsDispatcherTestCase" file="users/tests/apis/test_vehicles_drivers.py" line="478" name="test_vehicle_group_ids_in_response" time="0.500" timestamp="2022-07-25T10:57:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

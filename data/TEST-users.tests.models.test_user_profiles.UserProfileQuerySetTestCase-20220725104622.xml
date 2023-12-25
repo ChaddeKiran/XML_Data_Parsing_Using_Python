@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_user_profiles.py" name="users.tests.models.test_user_profiles.UserProfileQuerySetTestCase-20220725104622" skipped="0" tests="5" time="7.995" timestamp="2022-07-25T10:46:30">
+	<testcase classname="users.tests.models.test_user_profiles.UserProfileQuerySetTestCase" file="users/tests/models/test_user_profiles.py" line="50" name="test_active_staff_filter" time="1.652" timestamp="2022-07-25T10:46:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_user_profiles.UserProfileQuerySetTestCase" file="users/tests/models/test_user_profiles.py" line="68" name="test_active_staff_filter_with_service_id" time="1.662" timestamp="2022-07-25T10:46:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_user_profiles.UserProfileQuerySetTestCase" file="users/tests/models/test_user_profiles.py" line="106" name="test_supplier_contractors_queryset" time="1.563" timestamp="2022-07-25T10:46:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_user_profiles.UserProfileQuerySetTestCase" file="users/tests/models/test_user_profiles.py" line="93" name="test_supplier_managers_queryset" time="1.540" timestamp="2022-07-25T10:46:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_user_profiles.UserProfileQuerySetTestCase" file="users/tests/models/test_user_profiles.py" line="100" name="test_valet_supplier_managers_queryset" time="1.579" timestamp="2022-07-25T10:46:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/models/test_rental_payments.py" name="payments.tests.models.test_rental_payments.TestCarsharingPricing-20220725104819" skipped="0" tests="7" time="1.941" timestamp="2022-07-25T10:48:39">
+	<testcase classname="payments.tests.models.test_rental_payments.TestCarsharingPricing" file="payments/tests/models/test_rental_payments.py" line="279" name="test_check_one_default_pricing_set" time="0.237" timestamp="2022-07-25T10:48:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestCarsharingPricing" file="payments/tests/models/test_rental_payments.py" line="289" name="test_duplicate_pricing_associated_same_service" time="0.235" timestamp="2022-07-25T10:48:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestCarsharingPricing" file="payments/tests/models/test_rental_payments.py" line="295" name="test_duplicate_pricing_name_between_two_services" time="0.396" timestamp="2022-07-25T10:48:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestCarsharingPricing" file="payments/tests/models/test_rental_payments.py" line="300" name="test_duplicate_pricing_name_without_associated_service" time="0.237" timestamp="2022-07-25T10:48:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestCarsharingPricing" file="payments/tests/models/test_rental_payments.py" line="270" name="test_is_default_constraint" time="0.306" timestamp="2022-07-25T10:48:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestCarsharingPricing" file="payments/tests/models/test_rental_payments.py" line="306" name="test_saving_pricing_packages_with_invalid_hour_interval_multiples_fails" time="0.256" timestamp="2022-07-25T10:48:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestCarsharingPricing" file="payments/tests/models/test_rental_payments.py" line="323" name="test_saving_pricing_packages_with_zero_hours_fails" time="0.274" timestamp="2022-07-25T10:48:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

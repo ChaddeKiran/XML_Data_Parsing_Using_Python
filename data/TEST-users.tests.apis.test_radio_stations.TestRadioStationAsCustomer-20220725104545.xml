@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_radio_stations.py" name="users.tests.apis.test_radio_stations.TestRadioStationAsCustomer-20220725104545" skipped="0" tests="4" time="2.780" timestamp="2022-07-25T10:56:29">
+	<testcase classname="users.tests.apis.test_radio_stations.TestRadioStationAsCustomer" file="users/tests/apis/test_radio_stations.py" line="31" name="test_get_radio_station" time="0.626" timestamp="2022-07-25T10:56:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_radio_stations.TestRadioStationAsCustomer" file="users/tests/apis/test_radio_stations.py" line="12" name="test_list_radio_stations" time="0.833" timestamp="2022-07-25T10:56:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_radio_stations.TestRadioStationAsCustomer" file="users/tests/apis/test_radio_stations.py" line="37" name="test_list_radio_stations_ordered_by_frequency" time="0.633" timestamp="2022-07-25T10:56:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_radio_stations.TestRadioStationAsCustomer" file="users/tests/apis/test_radio_stations.py" line="21" name="test_list_radio_stations_with_service_id" time="0.687" timestamp="2022-07-25T10:56:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

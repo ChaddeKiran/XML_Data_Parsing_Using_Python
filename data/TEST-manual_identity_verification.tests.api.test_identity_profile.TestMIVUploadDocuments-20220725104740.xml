@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="manual_identity_verification/tests/api/test_identity_profile.py" name="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments-20220725104740" skipped="0" tests="11" time="4.652" timestamp="2022-07-25T11:03:00">
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="310" name="test_as_not_related_customer" time="0.189" timestamp="2022-07-25T11:02:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="316" name="test_as_not_related_customer_after_related_customer_posted_document" time="0.402" timestamp="2022-07-25T11:02:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="305" name="test_no_customer" time="0.051" timestamp="2022-07-25T11:02:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="266" name="test_normal" time="0.184" timestamp="2022-07-25T11:02:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="359" name="test_reupload_for_identity_profile_completed_submission_and_flag_enabled" time="2.009" timestamp="2022-07-25T11:02:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="340" name="test_reupload_not_allowed_when_identity_profile_completed_submission_and_flag_disabled" time="0.474" timestamp="2022-07-25T11:02:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="299" name="test_two_different_specifications" time="0.353" timestamp="2022-07-25T11:02:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="286" name="test_two_of_same_specification" time="0.379" timestamp="2022-07-25T11:02:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="328" name="test_when_identity_verification_disabled" time="0.266" timestamp="2022-07-25T11:03:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="334" name="test_when_jumio_enabled" time="0.275" timestamp="2022-07-25T11:03:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestMIVUploadDocuments" file="manual_identity_verification/tests/api/test_identity_profile.py" line="278" name="test_wrong_format" time="0.070" timestamp="2022-07-25T11:03:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

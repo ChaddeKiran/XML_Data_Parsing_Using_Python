@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestV3ApiAsServiceManager-20220725105046" skipped="0" tests="5" time="5.945" timestamp="2022-07-25T11:03:51">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestV3ApiAsServiceManager" file="rentals/tests/apis/v3/test_scheduling.py" line="2704" name="test_delete_not_allowed" time="0.802" timestamp="2022-07-25T11:03:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestV3ApiAsServiceManager" file="rentals/tests/apis/v3/test_scheduling.py" line="2708" name="test_list" time="1.027" timestamp="2022-07-25T11:03:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestV3ApiAsServiceManager" file="rentals/tests/apis/v3/test_scheduling.py" line="2721" name="test_list_filter_only_own_service" time="1.529" timestamp="2022-07-25T11:03:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestV3ApiAsServiceManager" file="rentals/tests/apis/v3/test_scheduling.py" line="2752" name="test_service_manager_cannot_create_with_wrong_service" time="1.268" timestamp="2022-07-25T11:03:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestV3ApiAsServiceManager" file="rentals/tests/apis/v3/test_scheduling.py" line="2729" name="test_service_manager_create_with_sufficient_lead_time" time="1.319" timestamp="2022-07-25T11:03:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

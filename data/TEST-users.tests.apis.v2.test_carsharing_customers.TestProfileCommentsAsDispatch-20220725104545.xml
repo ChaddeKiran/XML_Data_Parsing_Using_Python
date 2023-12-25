@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestProfileCommentsAsDispatch-20220725104545" skipped="0" tests="3" time="1.809" timestamp="2022-07-25T11:02:05">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestProfileCommentsAsDispatch" file="users/tests/apis/v2/test_carsharing_customers.py" line="3385" name="test_add_comment" time="0.611" timestamp="2022-07-25T11:02:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestProfileCommentsAsDispatch" file="users/tests/apis/v2/test_carsharing_customers.py" line="3399" name="test_add_comment_to_common_customer" time="0.636" timestamp="2022-07-25T11:02:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestProfileCommentsAsDispatch" file="users/tests/apis/v2/test_carsharing_customers.py" line="3392" name="test_add_json_comment" time="0.562" timestamp="2022-07-25T11:02:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

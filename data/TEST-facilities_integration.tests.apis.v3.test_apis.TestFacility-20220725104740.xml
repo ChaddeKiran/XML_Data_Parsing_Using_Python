@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="facilities_integration/tests/apis/v3/test_apis.py" name="facilities_integration.tests.apis.v3.test_apis.TestFacility-20220725104740" skipped="0" tests="2" time="0.592" timestamp="2022-07-25T10:56:23">
+	<testcase classname="facilities_integration.tests.apis.v3.test_apis.TestFacility" file="facilities_integration/tests/apis/v3/test_apis.py" line="24" name="test_facilities_list" time="0.326" timestamp="2022-07-25T10:56:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="facilities_integration.tests.apis.v3.test_apis.TestFacility" file="facilities_integration/tests/apis/v3/test_apis.py" line="21" name="test_url" time="0.266" timestamp="2022-07-25T10:56:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

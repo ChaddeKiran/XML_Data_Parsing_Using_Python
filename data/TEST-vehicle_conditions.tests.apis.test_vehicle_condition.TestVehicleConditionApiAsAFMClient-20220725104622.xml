@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" name="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiAsAFMClient-20220725104622" skipped="0" tests="3" time="1.637" timestamp="2022-07-25T10:57:05">
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiAsAFMClient" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="393" name="test_add_duplicate_condition" time="0.504" timestamp="2022-07-25T10:57:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiAsAFMClient" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="416" name="test_add_identical_to_resolved_condition_is_not_duplicate" time="0.449" timestamp="2022-07-25T10:57:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiAsAFMClient" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="439" name="test_resolve_condition_resolves_duplicates" time="0.684" timestamp="2022-07-25T10:57:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

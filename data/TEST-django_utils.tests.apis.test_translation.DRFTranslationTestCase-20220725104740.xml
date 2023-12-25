@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/apis/test_translation.py" name="django_utils.tests.apis.test_translation.DRFTranslationTestCase-20220725104740" skipped="0" tests="4" time="3.014" timestamp="2022-07-25T10:54:27">
+	<testcase classname="django_utils.tests.apis.test_translation.DRFTranslationTestCase" file="django_utils/tests/apis/test_translation.py" line="33" name="test_third_party_message_english" time="0.767" timestamp="2022-07-25T10:54:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.apis.test_translation.DRFTranslationTestCase" file="django_utils/tests/apis/test_translation.py" line="49" name="test_third_party_message_english_via_accept_language" time="0.511" timestamp="2022-07-25T10:54:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.apis.test_translation.DRFTranslationTestCase" file="django_utils/tests/apis/test_translation.py" line="41" name="test_third_party_message_spanish" time="0.602" timestamp="2022-07-25T10:54:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.apis.test_translation.DRFTranslationTestCase" file="django_utils/tests/apis/test_translation.py" line="59" name="test_third_party_message_spanish_via_accept_language" time="1.134" timestamp="2022-07-25T10:54:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

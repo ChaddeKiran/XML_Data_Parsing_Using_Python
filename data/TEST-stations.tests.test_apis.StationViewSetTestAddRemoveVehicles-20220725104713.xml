@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_apis.py" name="stations.tests.test_apis.StationViewSetTestAddRemoveVehicles-20220725104713" skipped="0" tests="4" time="4.849" timestamp="2022-07-25T10:52:48">
+	<testcase classname="stations.tests.test_apis.StationViewSetTestAddRemoveVehicles" file="stations/tests/test_apis.py" line="1261" name="test_add_remove_vehicles" time="1.827" timestamp="2022-07-25T10:52:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestAddRemoveVehicles" file="stations/tests/test_apis.py" line="1384" name="test_add_vehicle_removes_vehicle_from_other_station" time="1.134" timestamp="2022-07-25T10:52:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestAddRemoveVehicles" file="stations/tests/test_apis.py" line="1334" name="test_add_vehicles_bad_input" time="0.939" timestamp="2022-07-25T10:52:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestAddRemoveVehicles" file="stations/tests/test_apis.py" line="1312" name="test_add_vehicles_not_in_same_service" time="0.950" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

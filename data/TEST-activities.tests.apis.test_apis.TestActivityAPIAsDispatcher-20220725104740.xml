@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="activities/tests/apis/test_apis.py" name="activities.tests.apis.test_apis.TestActivityAPIAsDispatcher-20220725104740" skipped="0" tests="2" time="5.679" timestamp="2022-07-25T10:47:46">
+	<testcase classname="activities.tests.apis.test_apis.TestActivityAPIAsDispatcher" file="activities/tests/apis/test_apis.py" line="171" name="test_with_customer_specified_filters_results" time="1.965" timestamp="2022-07-25T10:47:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'rentals.models.rentals_models.Rental'> RentalQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.test_apis.TestActivityAPIAsDispatcher" file="activities/tests/apis/test_apis.py" line="164" name="test_with_no_customer_specified_gets_all" time="3.714" timestamp="2022-07-25T10:47:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rider_ivrs/tests/views/test_patch_thru_numbers.py" name="rider_ivrs.tests.views.test_patch_thru_numbers.TestServicePatchThruNumbers-20220725105046" skipped="0" tests="7" time="2.335" timestamp="2022-07-25T11:08:51">
+	<testcase classname="rider_ivrs.tests.views.test_patch_thru_numbers.TestServicePatchThruNumbers" file="rider_ivrs/tests/views/test_patch_thru_numbers.py" line="34" name="test_patch_thru_deactivate_number" time="0.340" timestamp="2022-07-25T11:08:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_patch_thru_numbers.TestServicePatchThruNumbers" file="rider_ivrs/tests/views/test_patch_thru_numbers.py" line="28" name="test_patch_thru_duplicate_number" time="0.278" timestamp="2022-07-25T11:08:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_patch_thru_numbers.TestServicePatchThruNumbers" file="rider_ivrs/tests/views/test_patch_thru_numbers.py" line="16" name="test_patch_thru_number_add" time="0.281" timestamp="2022-07-25T11:08:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_patch_thru_numbers.TestServicePatchThruNumbers" file="rider_ivrs/tests/views/test_patch_thru_numbers.py" line="23" name="test_patch_thru_number_add_invalid_number" time="0.275" timestamp="2022-07-25T11:08:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_patch_thru_numbers.TestServicePatchThruNumbers" file="rider_ivrs/tests/views/test_patch_thru_numbers.py" line="41" name="test_patch_thru_number_change_number" time="0.336" timestamp="2022-07-25T11:08:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_patch_thru_numbers.TestServicePatchThruNumbers" file="rider_ivrs/tests/views/test_patch_thru_numbers.py" line="51" name="test_patch_thru_number_delete" time="0.328" timestamp="2022-07-25T11:08:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_patch_thru_numbers.TestServicePatchThruNumbers" file="rider_ivrs/tests/views/test_patch_thru_numbers.py" line="57" name="test_patch_thru_number_delete_of_other_manager" time="0.497" timestamp="2022-07-25T11:08:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

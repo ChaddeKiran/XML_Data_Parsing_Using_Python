@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/models/test_period_queryset.py" name="calendars.tests.models.test_period_queryset.PeriodQuerySetTests-20220725104740" skipped="0" tests="5" time="0.281" timestamp="2022-07-25T10:53:51">
+	<testcase classname="calendars.tests.models.test_period_queryset.PeriodQuerySetTests" file="calendars/tests/models/test_period_queryset.py" line="36" name="test_exclude_expired_periods_does_not_include_expired_periods_and_includes_active_periods" time="0.175" timestamp="2022-07-25T10:53:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.models.test_period_queryset.PeriodQuerySetTests" file="calendars/tests/models/test_period_queryset.py" line="43" name="test_filter_by_carsharingpricing_id" time="0.023" timestamp="2022-07-25T10:53:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.models.test_period_queryset.PeriodQuerySetTests" file="calendars/tests/models/test_period_queryset.py" line="46" name="test_filter_by_carsharingpricing_id_false" time="0.040" timestamp="2022-07-25T10:53:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.models.test_period_queryset.PeriodQuerySetTests" file="calendars/tests/models/test_period_queryset.py" line="32" name="test_filter_periods_by_service_id_given_single_invalid_service_returns_none" time="0.021" timestamp="2022-07-25T10:53:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.models.test_period_queryset.PeriodQuerySetTests" file="calendars/tests/models/test_period_queryset.py" line="27" name="test_filter_periods_by_service_id_given_single_valid_service_returns_single_period" time="0.021" timestamp="2022-07-25T10:53:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

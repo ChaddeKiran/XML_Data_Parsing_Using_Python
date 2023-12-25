@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" name="users.tests.models.test_carsharing_customers_can_reserve_car.CustomerMessagesI18nTestCase-20220725104545" skipped="0" tests="1" time="0.042" timestamp="2022-07-25T11:05:47">
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.CustomerMessagesI18nTestCase" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="503" name="test_invalid_reason_expired_license" time="0.042" timestamp="2022-07-25T11:05:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

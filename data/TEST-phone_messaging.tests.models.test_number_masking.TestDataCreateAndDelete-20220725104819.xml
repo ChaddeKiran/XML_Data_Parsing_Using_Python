@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="phone_messaging/tests/models/test_number_masking.py" name="phone_messaging.tests.models.test_number_masking.TestDataCreateAndDelete-20220725104819" skipped="0" tests="3" time="0.058" timestamp="2022-07-25T10:52:43">
+	<testcase classname="phone_messaging.tests.models.test_number_masking.TestDataCreateAndDelete" file="phone_messaging/tests/models/test_number_masking.py" line="25" name="test_number_validator_negative" time="0.019" timestamp="2022-07-25T10:52:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.models.test_number_masking.TestDataCreateAndDelete" file="phone_messaging/tests/models/test_number_masking.py" line="17" name="test_number_validator_positive" time="0.020" timestamp="2022-07-25T10:52:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.models.test_number_masking.TestDataCreateAndDelete" file="phone_messaging/tests/models/test_number_masking.py" line="21" name="test_number_validator_with_international_number" time="0.019" timestamp="2022-07-25T10:52:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

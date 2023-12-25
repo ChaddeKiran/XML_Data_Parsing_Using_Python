@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="phone_messaging/tests/tasks/test_smswebhook.py" name="phone_messaging.tests.tasks.test_smswebhook.TestFireSmsWebhook-20220725104819" skipped="0" tests="2" time="0.138" timestamp="2022-07-25T10:52:49">
+	<testcase classname="phone_messaging.tests.tasks.test_smswebhook.TestFireSmsWebhook" file="phone_messaging/tests/tasks/test_smswebhook.py" line="16" name="test_fire_smswebhook_on_phone_number_update" time="0.066" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.tasks.test_smswebhook.TestFireSmsWebhook" file="phone_messaging/tests/tasks/test_smswebhook.py" line="28" name="test_no_fire_smswebhook_on_other_field_update" time="0.072" timestamp="2022-07-25T10:52:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

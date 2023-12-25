@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher-20220725104713" skipped="0" tests="22" time="34.376" timestamp="2022-07-25T11:03:12">
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="1156" name="test_create_pooled_ride_and_test_fare_receipt_build" time="4.332" timestamp="2022-07-25T11:02:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="799" name="test_create_schedule_trip_with_inactive_business_admin" time="0.530" timestamp="2022-07-25T11:02:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="1211" name="test_dedicated_ride_under_pooled_ride_rules" time="1.483" timestamp="2022-07-25T11:02:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="1023" name="test_driver_assign_after_license_expired" time="0.600" timestamp="2022-07-25T11:02:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="864" name="test_driver_status_after_trip_reassignment" time="2.016" timestamp="2022-07-25T11:02:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="1068" name="test_filter_live_ride_with_business_entities" time="4.051" timestamp="2022-07-25T11:02:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="1112" name="test_filter_live_trip" time="1.169" timestamp="2022-07-25T11:02:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="1037" name="test_filter_past_ride_with_business_entities" time="3.033" timestamp="2022-07-25T11:02:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="966" name="test_get_live_trips_by_service" time="1.921" timestamp="2022-07-25T11:02:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="1001" name="test_get_past_trips_with_cancellation_fee" time="1.700" timestamp="2022-07-25T11:02:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="987" name="test_get_trips_multi_service" time="1.470" timestamp="2022-07-25T11:03:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="844" name="test_make_trip_request_from_unverified_customer" time="1.106" timestamp="2022-07-25T11:03:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="826" name="test_make_valid_trip_check_trip_phone_number_on_masking" time="1.237" timestamp="2022-07-25T11:03:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="784" name="test_make_valid_trip_request" time="1.056" timestamp="2022-07-25T11:03:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="788" name="test_make_valid_trip_request_with_business_entity" time="1.193" timestamp="2022-07-25T11:03:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="809" name="test_make_valid_trip_request_with_business_entity_without_cc_customer" time="1.355" timestamp="2022-07-25T11:03:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="888" name="test_notification_driver_assignment_with_number" time="0.780" timestamp="2022-07-25T11:03:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="901" name="test_notification_driver_pickup_with_number" time="1.027" timestamp="2022-07-25T11:03:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="1105" name="test_trips_with_created_cancelled_by" time="0.685" timestamp="2022-07-25T11:03:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="917" name="test_update_multiple_fields" time="1.618" timestamp="2022-07-25T11:03:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="850" name="test_update_trip_assign_driver_with_unverified_customer" time="0.800" timestamp="2022-07-25T11:03:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsDispatcher" file="trips/tests/apis/test_trips.py" line="948" name="test_update_user_group_comment_in_live_trips" time="1.213" timestamp="2022-07-25T11:03:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

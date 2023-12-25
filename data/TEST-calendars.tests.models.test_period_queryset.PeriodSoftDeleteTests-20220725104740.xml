@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/models/test_period_queryset.py" name="calendars.tests.models.test_period_queryset.PeriodSoftDeleteTests-20220725104740" skipped="0" tests="3" time="0.678" timestamp="2022-07-25T10:53:52">
+	<testcase classname="calendars.tests.models.test_period_queryset.PeriodSoftDeleteTests" file="calendars/tests/models/test_period_queryset.py" line="52" name="test_deleting_period_results_in_soft_delete" time="0.228" timestamp="2022-07-25T10:53:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.models.test_period_queryset.PeriodSoftDeleteTests" file="calendars/tests/models/test_period_queryset.py" line="69" name="test_purge_deletes_period_permanently" time="0.232" timestamp="2022-07-25T10:53:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.models.test_period_queryset.PeriodSoftDeleteTests" file="calendars/tests/models/test_period_queryset.py" line="59" name="test_soft_delete_sets_flag_with_timestamp_of_delete" time="0.218" timestamp="2022-07-25T10:53:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

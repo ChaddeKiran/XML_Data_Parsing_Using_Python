@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="summon_platform/tests/test_json_logger.py" name="summon_platform.tests.test_json_logger.TestJsonLogger-20220725104713" skipped="0" tests="3" time="0.750" timestamp="2022-07-25T10:53:21">
+	<testcase classname="summon_platform.tests.test_json_logger.TestJsonLogger" file="summon_platform/tests/test_json_logger.py" line="106" name="test_json_logger_with_args" time="0.553" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[INFO:json-logger:SELECT * FROM T WHERE id=1 AND name= "foo"
+]]>		</system-err>
+	</testcase>
+	<testcase classname="summon_platform.tests.test_json_logger.TestJsonLogger" file="summon_platform/tests/test_json_logger.py" line="26" name="test_json_logger_with_json_serializable_dict" time="0.108" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[INFO:json-logger:{'key1': 'foo', 'key2': [1, 2], 'key3': ['foo', 'bar'], 'key4': {'inner_key1': 'foo', 'inner_key2': [1, 2], 'inner_key3': ['foo', 'bar']}}
+]]>		</system-err>
+	</testcase>
+	<testcase classname="summon_platform.tests.test_json_logger.TestJsonLogger" file="summon_platform/tests/test_json_logger.py" line="67" name="test_json_logger_with_non_json_serializable_dict" time="0.089" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[INFO:json-logger:{'key1': <summon_platform.tests.test_json_logger.TestJsonLogger.test_json_logger_with_non_json_serializable_dict.<locals>.Foo object at 0x7f45e99be860>, 'key2': "foo 'bar'", 'key3': "foo 'bar", 'key4': 'foo "bar"', 'key5': 'foo "bar'}
+]]>		</system-err>
+	</testcase>
+</testsuite>

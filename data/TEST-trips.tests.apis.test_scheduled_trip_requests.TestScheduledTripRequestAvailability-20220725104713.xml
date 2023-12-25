@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability-20220725104713" skipped="0" tests="12" time="3.847" timestamp="2022-07-25T11:00:55">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3509" name="test_dates_returned_includes_exempt_periods" time="0.372" timestamp="2022-07-25T11:00:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3480" name="test_dates_returned_obey_availability_parameters" time="0.257" timestamp="2022-07-25T11:00:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3493" name="test_dates_returned_obeys_planned_outages" time="0.286" timestamp="2022-07-25T11:00:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3543" name="test_get_times_for_date" time="0.279" timestamp="2022-07-25T11:00:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3595" name="test_get_times_for_date_excludes_outages" time="0.276" timestamp="2022-07-25T11:00:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3609" name="test_get_times_for_date_follows_availability_window" time="0.346" timestamp="2022-07-25T11:00:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3648" name="test_get_times_for_date_follows_service_periods" time="0.472" timestamp="2022-07-25T11:00:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3625" name="test_get_times_for_date_obeys_exempt_periods" time="0.385" timestamp="2022-07-25T11:00:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3553" name="test_get_times_for_date_today" time="0.276" timestamp="2022-07-25T11:00:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3575" name="test_get_times_for_date_today_obeys_start" time="0.364" timestamp="2022-07-25T11:00:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3536" name="test_not_enabled_returns_404" time="0.249" timestamp="2022-07-25T11:00:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestAvailability" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3466" name="test_returns_dates" time="0.286" timestamp="2022-07-25T11:00:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

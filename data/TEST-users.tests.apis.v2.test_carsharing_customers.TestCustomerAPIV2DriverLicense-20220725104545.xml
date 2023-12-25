@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense-20220725104545" skipped="0" tests="23" time="34.094" timestamp="2022-07-25T10:57:57">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2248" name="test_add_expired_driving_license_with_MIV_as_customer" time="1.451" timestamp="2022-07-25T10:57:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2236" name="test_add_expired_driving_license_with_MIV_as_dispatcher" time="1.295" timestamp="2022-07-25T10:57:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2242" name="test_add_expired_driving_license_with_jumio_verification_as_customer" time="1.463" timestamp="2022-07-25T10:57:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2230" name="test_add_expired_driving_license_with_jumio_verification_as_dispatcher" time="1.234" timestamp="2022-07-25T10:57:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2748" name="test_blocked_license" time="1.366" timestamp="2022-07-25T10:57:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2736" name="test_delete" time="1.035" timestamp="2022-07-25T10:57:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2670" name="test_dispatcher_update_license_sends_correct_customer_history_logs" time="2.226" timestamp="2022-07-25T10:57:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2277" name="test_missing_expiry_date_with_jumio_verification_as_customer" time="1.401" timestamp="2022-07-25T10:57:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2201" name="test_post" time="1.651" timestamp="2022-07-25T10:57:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2301" name="test_post_backround_checks_disabled" time="2.290" timestamp="2022-07-25T10:57:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2327" name="test_post_backround_checks_enabled" time="2.508" timestamp="2022-07-25T10:57:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2412" name="test_post_blank_state" time="1.657" timestamp="2022-07-25T10:57:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2354" name="test_post_full_state_name" time="1.646" timestamp="2022-07-25T10:57:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2382" name="test_post_no_state" time="1.595" timestamp="2022-07-25T10:57:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2443" name="test_post_ocr_data_dob_not_required" time="1.779" timestamp="2022-07-25T10:57:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2477" name="test_post_ocr_data_invalid_allowed" time="1.262" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2523" name="test_post_ocr_data_invalid_allowed_miv" time="1.051" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2190" name="test_unallowed_methods" time="0.725" timestamp="2022-07-25T10:57:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2196" name="test_unauthenticated_request" time="0.712" timestamp="2022-07-25T10:57:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2640" name="test_update_license_blocked_license" time="1.451" timestamp="2022-07-25T10:57:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2572" name="test_update_license_change_allowed" time="1.608" timestamp="2022-07-25T10:57:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2550" name="test_update_license_change_disallowed" time="0.945" timestamp="2022-07-25T10:57:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DriverLicense" file="users/tests/apis/v2/test_carsharing_customers.py" line="2599" name="test_update_license_when_jumio_is_success_and_checkr_was_not_run" time="1.744" timestamp="2022-07-25T10:57:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

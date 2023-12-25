@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" name="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPIAsCustomer-20220725104622" skipped="0" tests="8" time="9.005" timestamp="2022-07-25T11:00:30">
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPIAsCustomer" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="619" name="test_damage_report_with_rental" time="1.263" timestamp="2022-07-25T11:00:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPIAsCustomer" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="630" name="test_damage_report_without_rental" time="0.767" timestamp="2022-07-25T11:00:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPIAsCustomer" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="717" name="test_delete_damage_reports_unauthorized" time="0.693" timestamp="2022-07-25T11:00:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPIAsCustomer" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="653" name="test_lock_on_vehicle_when_ignition_accessory_when_flag_not_set" time="1.545" timestamp="2022-07-25T11:00:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPIAsCustomer" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="680" name="test_lock_on_vehicle_when_ignition_accessory_when_flag_set" time="1.395" timestamp="2022-07-25T11:00:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPIAsCustomer" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="640" name="test_lock_unlock_on_vehicle_with_permission" time="1.288" timestamp="2022-07-25T11:00:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPIAsCustomer" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="704" name="test_lock_unlock_on_vehicle_without_permission" time="1.249" timestamp="2022-07-25T11:00:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPIAsCustomer" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="635" name="test_lock_unlock_on_vehicle_without_rental" time="0.805" timestamp="2022-07-25T11:00:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

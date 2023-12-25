@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_drivers.py" name="users.tests.apis.test_drivers.TestEditDriverAsServiceManager-20220725104545" skipped="0" tests="7" time="8.469" timestamp="2022-07-25T10:55:59">
+	<testcase classname="users.tests.apis.test_drivers.TestEditDriverAsServiceManager" file="users/tests/apis/test_drivers.py" line="616" name="test_create_driver_with_license_expiry_date" time="1.142" timestamp="2022-07-25T10:55:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestEditDriverAsServiceManager" file="users/tests/apis/test_drivers.py" line="597" name="test_driver_another_service" time="1.634" timestamp="2022-07-25T10:55:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestEditDriverAsServiceManager" file="users/tests/apis/test_drivers.py" line="636" name="test_edit_driver_with_new_license_expiry_date" time="1.224" timestamp="2022-07-25T10:55:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestEditDriverAsServiceManager" file="users/tests/apis/test_drivers.py" line="648" name="test_edit_driver_with_null_license_expiry_date" time="1.171" timestamp="2022-07-25T10:55:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestEditDriverAsServiceManager" file="users/tests/apis/test_drivers.py" line="587" name="test_edit_is_active" time="1.159" timestamp="2022-07-25T10:55:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestEditDriverAsServiceManager" file="users/tests/apis/test_drivers.py" line="576" name="test_edit_name" time="1.019" timestamp="2022-07-25T10:55:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestEditDriverAsServiceManager" file="users/tests/apis/test_drivers.py" line="605" name="test_edit_with_license_expiry_date" time="1.119" timestamp="2022-07-25T10:55:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

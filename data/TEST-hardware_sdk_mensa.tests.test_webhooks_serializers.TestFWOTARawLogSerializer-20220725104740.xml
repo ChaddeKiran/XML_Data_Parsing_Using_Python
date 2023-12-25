@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" name="hardware_sdk_mensa.tests.test_webhooks_serializers.TestFWOTARawLogSerializer-20220725104740" skipped="0" tests="2" time="0.009" timestamp="2022-07-25T11:00:37">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestFWOTARawLogSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="502" name="test_good_data" time="0.004" timestamp="2022-07-25T11:00:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestFWOTARawLogSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="506" name="test_missing_field" time="0.004" timestamp="2022-07-25T11:00:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

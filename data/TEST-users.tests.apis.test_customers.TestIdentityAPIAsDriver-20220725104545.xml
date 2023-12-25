@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestIdentityAPIAsDriver-20220725104545" skipped="0" tests="1" time="0.612" timestamp="2022-07-25T10:54:23">
+	<testcase classname="users.tests.apis.test_customers.TestIdentityAPIAsDriver" file="users/tests/apis/test_customers.py" line="1037" name="test_identity" time="0.612" timestamp="2022-07-25T10:54:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

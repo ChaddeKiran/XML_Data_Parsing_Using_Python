@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestBuildPaymentDisplay-20220725104819" skipped="0" tests="5" time="2.510" timestamp="2022-07-25T10:50:20">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBuildPaymentDisplay" file="payments/tests/utils/test_carsharing_payment_utils.py" line="483" name="test_payment_has_addon_charges" time="0.830" timestamp="2022-07-25T10:50:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBuildPaymentDisplay" file="payments/tests/utils/test_carsharing_payment_utils.py" line="506" name="test_payment_has_addon_charges_without_addon_fare_details" time="0.769" timestamp="2022-07-25T10:50:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBuildPaymentDisplay" file="payments/tests/utils/test_carsharing_payment_utils.py" line="462" name="test_payment_has_trust_and_safety_fees" time="0.823" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBuildPaymentDisplay" file="payments/tests/utils/test_carsharing_payment_utils.py" line="432" name="test_unicode_block_details" time="0.045" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBuildPaymentDisplay" file="payments/tests/utils/test_carsharing_payment_utils.py" line="446" name="test_unicode_geofence_fee_type" time="0.043" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestTripRatingsReasonAsCustomer-20220725104545" skipped="0" tests="1" time="0.284" timestamp="2022-07-25T10:49:06">
+	<testcase classname="trips.tests.apis.test_trips.TestTripRatingsReasonAsCustomer" file="trips/tests/apis/test_trips.py" line="72" name="test_rating_reasons" time="0.284" timestamp="2022-07-25T10:49:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

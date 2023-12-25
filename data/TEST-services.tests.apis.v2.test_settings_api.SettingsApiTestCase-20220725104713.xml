@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v2/test_settings_api.py" name="services.tests.apis.v2.test_settings_api.SettingsApiTestCase-20220725104713" skipped="0" tests="27" time="12.919" timestamp="2022-07-25T10:48:50">
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="240" name="test_active_pricing_calendar_enabled_serialization" time="0.494" timestamp="2022-07-25T10:48:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="327" name="test_currency_settings_for_czech_locale" time="0.411" timestamp="2022-07-25T10:48:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="287" name="test_currency_settings_for_danish_locale" time="0.726" timestamp="2022-07-25T10:48:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="295" name="test_currency_settings_for_dutch_locale" time="0.709" timestamp="2022-07-25T10:48:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="311" name="test_currency_settings_for_german_locale" time="1.045" timestamp="2022-07-25T10:48:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="319" name="test_currency_settings_for_italian_locale" time="0.711" timestamp="2022-07-25T10:48:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="303" name="test_currency_settings_for_polish_locale" time="0.731" timestamp="2022-07-25T10:48:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="335" name="test_currency_settings_for_slovak_locale" time="0.712" timestamp="2022-07-25T10:48:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="279" name="test_currency_settings_for_swedish_locale" time="0.717" timestamp="2022-07-25T10:48:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="261" name="test_enabled_vehicle_integrations_with_uber_integration_enabled_flag" time="1.102" timestamp="2022-07-25T10:48:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="350" name="test_get_business_to_business_flow_enabled" time="0.341" timestamp="2022-07-25T10:48:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="225" name="test_get_configuration_scheduled_rentals_enabled" time="0.441" timestamp="2022-07-25T10:48:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="23" name="test_get_password_policy" time="0.276" timestamp="2022-07-25T10:48:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="377" name="test_get_settings_with_driveway" time="0.277" timestamp="2022-07-25T10:48:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="197" name="test_gps_ping_settings" time="0.275" timestamp="2022-07-25T10:48:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="35" name="test_has_all_required_settings" time="0.278" timestamp="2022-07-25T10:48:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="205" name="test_scheduled_trip_requests_enabled_is_bool" time="0.271" timestamp="2022-07-25T10:48:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="211" name="test_scheduled_trip_requests_enabled_is_true_when_one_service_is_enabled" time="0.526" timestamp="2022-07-25T10:48:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="218" name="test_scheduled_trip_requests_enabled_is_true_when_one_service_is_exempt_only" time="0.514" timestamp="2022-07-25T10:48:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="371" name="test_settings_include_ble_wall_flag" time="0.277" timestamp="2022-07-25T10:48:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="364" name="test_settings_include_flags_for_rfid_ordering" time="0.271" timestamp="2022-07-25T10:48:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="343" name="test_settings_include_max_pricing_models_and_max_pricing_modifications" time="0.286" timestamp="2022-07-25T10:48:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="358" name="test_settings_include_send_email_to_supplier_managers_upon_creation_of_ticket" time="0.275" timestamp="2022-07-25T10:48:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="383" name="test_sso_settings" time="0.489" timestamp="2022-07-25T10:48:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="272" name="test_supported_time_zones" time="0.270" timestamp="2022-07-25T10:48:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="253" name="test_unauthenticated_request" time="0.277" timestamp="2022-07-25T10:48:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.SettingsApiTestCase" file="services/tests/apis/v2/test_settings_api.py" line="20" name="test_url" time="0.220" timestamp="2022-07-25T10:48:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_sms_reminders.py" name="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes-20220725105046" skipped="0" tests="12" time="12.505" timestamp="2022-07-25T11:07:51">
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="40" name="test_36_hour_reminder_no_reservations" time="0.500" timestamp="2022-07-25T11:07:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="156" name="test_36_hour_reminder_reservation_in_range" time="0.738" timestamp="2022-07-25T11:07:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="45" name="test_retrieval_reminder_no_reservations" time="0.463" timestamp="2022-07-25T11:07:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="50" name="test_retrieval_reminder_not_sent_for_no_show_reservation" time="1.214" timestamp="2022-07-25T11:07:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="166" name="test_retrieval_reminder_reservation_in_range" time="1.253" timestamp="2022-07-25T11:07:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="183" name="test_retrieval_reminder_reservation_in_range_with_retrieval" time="1.317" timestamp="2022-07-25T11:07:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="81" name="test_upcoming_reminder_does_not_trigger_for_cancelled_reservation" time="1.110" timestamp="2022-07-25T11:07:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="205" name="test_upcoming_reminder_many_reservations_in_range" time="1.473" timestamp="2022-07-25T11:07:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="35" name="test_upcoming_reminder_no_reservations" time="0.523" timestamp="2022-07-25T11:07:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="65" name="test_upcoming_reminder_reservation_in_range" time="0.797" timestamp="2022-07-25T11:07:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="230" name="test_upcoming_reminder_reservations_in_and_out_of_range" time="1.623" timestamp="2022-07-25T11:07:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSes" file="rentals/tests/tasks/test_sms_reminders.py" line="97" name="test_upcoming_reminder_with_in_progress_rental_and_scheduled_reservation" time="1.493" timestamp="2022-07-25T11:07:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

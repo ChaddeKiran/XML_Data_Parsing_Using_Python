@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_favorite_drivers.py" name="users.tests.apis.test_favorite_drivers.TestFavoriteDrivers-20220725104545" skipped="0" tests="8" time="11.725" timestamp="2022-07-25T10:56:12">
+	<testcase classname="users.tests.apis.test_favorite_drivers.TestFavoriteDrivers" file="users/tests/apis/test_favorite_drivers.py" line="61" name="test_add_favorite_driver" time="1.143" timestamp="2022-07-25T10:56:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_favorite_drivers.TestFavoriteDrivers" file="users/tests/apis/test_favorite_drivers.py" line="53" name="test_delete_favorite_driver" time="1.722" timestamp="2022-07-25T10:56:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_favorite_drivers.TestFavoriteDrivers" file="users/tests/apis/test_favorite_drivers.py" line="35" name="test_driver_cannot_rate_self" time="1.261" timestamp="2022-07-25T10:56:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_favorite_drivers.TestFavoriteDrivers" file="users/tests/apis/test_favorite_drivers.py" line="75" name="test_favorite_another_driver" time="1.439" timestamp="2022-07-25T10:56:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_favorite_drivers.TestFavoriteDrivers" file="users/tests/apis/test_favorite_drivers.py" line="67" name="test_favorite_self_as_driver" time="1.432" timestamp="2022-07-25T10:56:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_favorite_drivers.TestFavoriteDrivers" file="users/tests/apis/test_favorite_drivers.py" line="48" name="test_get_favorite_drivers" time="1.735" timestamp="2022-07-25T10:56:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_favorite_drivers.TestFavoriteDrivers" file="users/tests/apis/test_favorite_drivers.py" line="82" name="test_get_favorites_as_driver" time="1.873" timestamp="2022-07-25T10:56:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_favorite_drivers.TestFavoriteDrivers" file="users/tests/apis/test_favorite_drivers.py" line="93" name="test_put_improper_id_as_favorite_drivers" time="1.119" timestamp="2022-07-25T10:56:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

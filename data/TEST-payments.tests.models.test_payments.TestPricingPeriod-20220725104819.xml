@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/models/test_payments.py" name="payments.tests.models.test_payments.TestPricingPeriod-20220725104819" skipped="0" tests="1" time="0.025" timestamp="2022-07-25T10:48:35">
+	<testcase classname="payments.tests.models.test_payments.TestPricingPeriod" file="payments/tests/models/test_payments.py" line="22" name="test_can_stringify" time="0.025" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

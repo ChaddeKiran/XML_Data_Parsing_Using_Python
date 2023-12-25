@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" name="vehicle_lifecycle.tests.test_lifecycle_utils.TestVehicleLifeCycleTransition-20220725104622" skipped="0" tests="2" time="1.447" timestamp="2022-07-25T10:58:28">
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_utils.TestVehicleLifeCycleTransition" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" line="18" name="test_stage_transition_for_external_event" time="0.822" timestamp="2022-07-25T10:58:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_utils.TestVehicleLifeCycleTransition" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" line="40" name="test_stage_transition_multiple_external_event" time="0.625" timestamp="2022-07-25T10:58:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

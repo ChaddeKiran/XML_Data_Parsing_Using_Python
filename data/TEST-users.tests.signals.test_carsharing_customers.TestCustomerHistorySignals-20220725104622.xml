@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/signals/test_carsharing_customers.py" name="users.tests.signals.test_carsharing_customers.TestCustomerHistorySignals-20220725104622" skipped="0" tests="3" time="0.721" timestamp="2022-07-25T10:46:39">
+	<testcase classname="users.tests.signals.test_carsharing_customers.TestCustomerHistorySignals" file="users/tests/signals/test_carsharing_customers.py" line="32" name="test_customer_update_events" time="0.143" timestamp="2022-07-25T10:46:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_carsharing_customers.TestCustomerHistorySignals" file="users/tests/signals/test_carsharing_customers.py" line="45" name="test_rental_update_events" time="0.523" timestamp="2022-07-25T10:46:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_carsharing_customers.TestCustomerHistorySignals" file="users/tests/signals/test_carsharing_customers.py" line="57" name="test_unmapped_event" time="0.055" timestamp="2022-07-25T10:46:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

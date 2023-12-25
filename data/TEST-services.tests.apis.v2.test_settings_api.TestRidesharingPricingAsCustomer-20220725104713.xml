@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v2/test_settings_api.py" name="services.tests.apis.v2.test_settings_api.TestRidesharingPricingAsCustomer-20220725104713" skipped="0" tests="4" time="5.075" timestamp="2022-07-25T10:48:57">
+	<testcase classname="services.tests.apis.v2.test_settings_api.TestRidesharingPricingAsCustomer" file="services/tests/apis/v2/test_settings_api.py" line="518" name="test_query_ID_not_in_db" time="1.148" timestamp="2022-07-25T10:48:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.TestRidesharingPricingAsCustomer" file="services/tests/apis/v2/test_settings_api.py" line="531" name="test_query_noID" time="1.136" timestamp="2022-07-25T10:48:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.TestRidesharingPricingAsCustomer" file="services/tests/apis/v2/test_settings_api.py" line="498" name="test_query_sameID" time="1.594" timestamp="2022-07-25T10:48:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.TestRidesharingPricingAsCustomer" file="services/tests/apis/v2/test_settings_api.py" line="507" name="test_query_sameID_price" time="1.198" timestamp="2022-07-25T10:48:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

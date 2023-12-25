@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_scheduling.py" name="rentals.tests.tasks.test_scheduling.TestSchedulingTasksCleanUp-20220725105046" skipped="0" tests="1" time="0.151" timestamp="2022-07-25T11:07:07">
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksCleanUp" file="rentals/tests/tasks/test_scheduling.py" line="1067" name="test_clear_unconverted_rentals" time="0.151" timestamp="2022-07-25T11:07:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automation_alert_to_job.py" name="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobWithHigherLevelAlert-20220725104622" skipped="0" tests="3" time="3.103" timestamp="2022-07-25T10:50:12">
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobWithHigherLevelAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="459" name="test_cancel_call_failure" time="1.011" timestamp="2022-07-25T10:50:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobWithHigherLevelAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="434" name="test_cancel_higher_level_alert_and_job" time="1.203" timestamp="2022-07-25T10:50:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobWithHigherLevelAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="416" name="test_create_job_with_none_higher_level_alert" time="0.888" timestamp="2022-07-25T10:50:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

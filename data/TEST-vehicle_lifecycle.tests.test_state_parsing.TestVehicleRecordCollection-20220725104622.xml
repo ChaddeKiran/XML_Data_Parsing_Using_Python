@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_state_parsing.py" name="vehicle_lifecycle.tests.test_state_parsing.TestVehicleRecordCollection-20220725104622" skipped="0" tests="1" time="0.045" timestamp="2022-07-25T10:58:50">
+	<testcase classname="vehicle_lifecycle.tests.test_state_parsing.TestVehicleRecordCollection" file="vehicle_lifecycle/tests/test_state_parsing.py" line="58" name="test_collect_records" time="0.045" timestamp="2022-07-25T10:58:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:58:49.989255) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2019-10-29 10:58:49.990483) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2025-04-20 10:58:49.991471) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-15 10:58:49.995379) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-23 10:58:49.996362) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

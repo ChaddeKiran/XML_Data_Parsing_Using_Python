@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/models/test_scheduled_trip_requests.py" name="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestSlots-20220725104545" skipped="0" tests="6" time="2.119" timestamp="2022-07-25T10:49:35">
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestSlots" file="trips/tests/models/test_scheduled_trip_requests.py" line="332" name="test_containing_datetime_filter" time="0.262" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestSlots" file="trips/tests/models/test_scheduled_trip_requests.py" line="342" name="test_scheduled_trip_availability_no_slots" time="0.262" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestSlots" file="trips/tests/models/test_scheduled_trip_requests.py" line="349" name="test_scheduled_trip_availability_no_slots_zero_default" time="0.257" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestSlots" file="trips/tests/models/test_scheduled_trip_requests.py" line="378" name="test_scheduled_trip_availability_with_other_trips_in_hour_no_slots" time="0.588" timestamp="2022-07-25T10:49:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestSlots" file="trips/tests/models/test_scheduled_trip_requests.py" line="366" name="test_scheduled_trip_availability_with_other_trips_in_slot" time="0.399" timestamp="2022-07-25T10:49:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestSlots" file="trips/tests/models/test_scheduled_trip_requests.py" line="355" name="test_scheduled_trip_availability_with_slots" time="0.352" timestamp="2022-07-25T10:49:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

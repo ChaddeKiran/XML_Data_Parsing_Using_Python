@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_auto_end_rental.py" name="hardware_sdk_geotab.tests.test_auto_end_rental.TestAutoEndRental-20220725104740" skipped="0" tests="5" time="1.401" timestamp="2022-07-25T10:58:06">
+	<testcase classname="hardware_sdk_geotab.tests.test_auto_end_rental.TestAutoEndRental" file="hardware_sdk_geotab/tests/test_auto_end_rental.py" line="41" name="test_auto_end_rental" time="1.110" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_auto_end_rental.TestAutoEndRental" file="hardware_sdk_geotab/tests/test_auto_end_rental.py" line="83" name="test_get_delays_basic" time="0.074" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_auto_end_rental.TestAutoEndRental" file="hardware_sdk_geotab/tests/test_auto_end_rental.py" line="101" name="test_get_delays_with_delayed_engine_stop_feedback" time="0.083" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_auto_end_rental.TestAutoEndRental" file="hardware_sdk_geotab/tests/test_auto_end_rental.py" line="91" name="test_get_delays_with_different_configuration" time="0.085" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_auto_end_rental.TestAutoEndRental" file="hardware_sdk_geotab/tests/test_auto_end_rental.py" line="68" name="test_interruption" time="0.049" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

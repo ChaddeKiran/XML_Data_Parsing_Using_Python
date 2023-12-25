@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="carsharing/tests/test_management_commands.py" name="carsharing.tests.test_management_commands.TestMigrateMarkerTypeToVehicleModelCommand-20220725104740" skipped="0" tests="1" time="0.069" timestamp="2022-07-25T10:53:54">
+	<testcase classname="carsharing.tests.test_management_commands.TestMigrateMarkerTypeToVehicleModelCommand" file="carsharing/tests/test_management_commands.py" line="14" name="test_marker_type_migrated_to_vehicle_model" time="0.069" timestamp="2022-07-25T10:53:54">
+		<system-out>
+<![CDATA[Migrating existing marker types bound to vehicles from VehicleMarkerType m2m model to Vehicle.marker_type FK...
+Number of vehicles to be updated with marker type = 1
+Number of vehicles successfully updated with marker type = 1
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

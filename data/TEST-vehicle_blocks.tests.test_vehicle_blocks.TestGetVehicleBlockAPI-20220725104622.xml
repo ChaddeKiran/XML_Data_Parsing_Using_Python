@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_vehicle_blocks.py" name="vehicle_blocks.tests.test_vehicle_blocks.TestGetVehicleBlockAPI-20220725104622" skipped="0" tests="3" time="0.993" timestamp="2022-07-25T10:56:48">
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestGetVehicleBlockAPI" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="318" name="test_get_list_of_multiple_vehicle_blocks_vin_number" time="0.343" timestamp="2022-07-25T10:56:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestGetVehicleBlockAPI" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="308" name="test_get_list_of_vehicle_blocks" time="0.329" timestamp="2022-07-25T10:56:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestGetVehicleBlockAPI" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="314" name="test_get_list_of_vehicle_blocks_without_vin_number" time="0.321" timestamp="2022-07-25T10:56:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

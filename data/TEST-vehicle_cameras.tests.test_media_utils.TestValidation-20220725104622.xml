@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_cameras/tests/test_media_utils.py" name="vehicle_cameras.tests.test_media_utils.TestValidation-20220725104622" skipped="0" tests="4" time="0.086" timestamp="2022-07-25T10:56:59">
+	<testcase classname="vehicle_cameras.tests.test_media_utils.TestValidation" file="vehicle_cameras/tests/test_media_utils.py" line="36" name="test_invalid_image" time="0.026" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_media_utils.TestValidation" file="vehicle_cameras/tests/test_media_utils.py" line="70" name="test_invalid_video" time="0.019" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_media_utils.TestValidation" file="vehicle_cameras/tests/test_media_utils.py" line="15" name="test_valid_image" time="0.021" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_media_utils.TestValidation" file="vehicle_cameras/tests/test_media_utils.py" line="55" name="test_valid_video" time="0.020" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

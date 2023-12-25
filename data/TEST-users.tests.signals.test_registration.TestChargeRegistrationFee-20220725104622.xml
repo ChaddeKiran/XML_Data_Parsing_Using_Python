@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/signals/test_registration.py" name="users.tests.signals.test_registration.TestChargeRegistrationFee-20220725104622" skipped="0" tests="6" time="7.940" timestamp="2022-07-25T10:47:44">
+	<testcase classname="users.tests.signals.test_registration.TestChargeRegistrationFee" file="users/tests/signals/test_registration.py" line="153" name="test_charge_registration_fee_with_both_promo_and_referral_credits" time="1.696" timestamp="2022-07-25T10:47:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_registration.TestChargeRegistrationFee" file="users/tests/signals/test_registration.py" line="217" name="test_charge_registration_fee_with_business_card_and_skip_charging_business_cards_enabled" time="1.337" timestamp="2022-07-25T10:47:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_registration.TestChargeRegistrationFee" file="users/tests/signals/test_registration.py" line="184" name="test_charge_registration_fee_with_promo_leaves_no_credit_balance" time="1.595" timestamp="2022-07-25T10:47:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_registration.TestChargeRegistrationFee" file="users/tests/signals/test_registration.py" line="110" name="test_charge_registration_fee_with_promos" time="1.216" timestamp="2022-07-25T10:47:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_registration.TestChargeRegistrationFee" file="users/tests/signals/test_registration.py" line="131" name="test_charge_registration_fee_with_referral_credits" time="1.066" timestamp="2022-07-25T10:47:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_registration.TestChargeRegistrationFee" file="users/tests/signals/test_registration.py" line="98" name="test_charge_registration_fee_without_credits" time="1.030" timestamp="2022-07-25T10:47:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

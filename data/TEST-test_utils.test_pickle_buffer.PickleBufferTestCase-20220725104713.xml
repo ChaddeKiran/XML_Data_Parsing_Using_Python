@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="test_utils/test_pickle_buffer.py" name="test_utils.test_pickle_buffer.PickleBufferTestCase-20220725104713" skipped="0" tests="1" time="0.021" timestamp="2022-07-25T10:53:22">
+	<testcase classname="test_utils.test_pickle_buffer.PickleBufferTestCase" file="test_utils/test_pickle_buffer.py" line="11" name="test_pickle_buffer" time="0.021" timestamp="2022-07-25T10:53:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

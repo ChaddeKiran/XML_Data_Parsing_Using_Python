@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_services.py" name="services.tests.models.test_services.TestServiceSettings-20220725104713" skipped="0" tests="2" time="0.382" timestamp="2022-07-25T10:51:09">
+	<testcase classname="services.tests.models.test_services.TestServiceSettings" file="services/tests/models/test_services.py" line="12" name="test_get_full_service_base" time="0.246" timestamp="2022-07-25T10:51:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_services.TestServiceSettings" file="services/tests/models/test_services.py" line="25" name="test_indian_timezone" time="0.135" timestamp="2022-07-25T10:51:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

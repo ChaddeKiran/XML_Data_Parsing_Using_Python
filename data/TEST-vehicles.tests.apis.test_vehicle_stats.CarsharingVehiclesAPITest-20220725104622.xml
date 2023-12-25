@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/test_vehicle_stats.py" name="vehicles.tests.apis.test_vehicle_stats.CarsharingVehiclesAPITest-20220725104622" skipped="0" tests="2" time="0.868" timestamp="2022-07-25T10:59:30">
+	<testcase classname="vehicles.tests.apis.test_vehicle_stats.CarsharingVehiclesAPITest" file="vehicles/tests/apis/test_vehicle_stats.py" line="47" name="test_v2_stats_api" time="0.443" timestamp="2022-07-25T10:59:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_stats.CarsharingVehiclesAPITest" file="vehicles/tests/apis/test_vehicle_stats.py" line="57" name="test_v2_stats_api_without_service" time="0.425" timestamp="2022-07-25T10:59:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

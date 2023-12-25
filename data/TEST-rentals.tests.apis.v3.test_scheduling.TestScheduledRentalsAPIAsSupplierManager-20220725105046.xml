@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalsAPIAsSupplierManager-20220725105046" skipped="0" tests="2" time="0.398" timestamp="2022-07-25T11:04:10">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalsAPIAsSupplierManager" file="rentals/tests/apis/v3/test_scheduling.py" line="5132" name="test_list_with_valet_permissions" time="0.259" timestamp="2022-07-25T11:04:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'rentals.models.rentals_models.ScheduledRentalRequest'> ScheduledRentalRequestQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalsAPIAsSupplierManager" file="rentals/tests/apis/v3/test_scheduling.py" line="5126" name="test_list_without_valet_permissions" time="0.139" timestamp="2022-07-25T11:04:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v2/test_pricing.py" name="rentals.tests.apis.v2.test_pricing.TestPricingMock-20220725104819" skipped="0" tests="10" time="21.296" timestamp="2022-07-25T11:01:01">
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestPricingMock" file="rentals/tests/apis/v2/test_pricing.py" line="262" name="test_precedence_of_id_based_params" time="1.189" timestamp="2022-07-25T11:00:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestPricingMock" file="rentals/tests/apis/v2/test_pricing.py" line="59" name="test_pricing_mock" time="0.959" timestamp="2022-07-25T11:00:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestPricingMock" file="rentals/tests/apis/v2/test_pricing.py" line="82" name="test_support_for_id_based_params" time="0.976" timestamp="2022-07-25T11:00:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestPricingMock" file="rentals/tests/apis/v2/test_pricing.py" line="203" name="test_with_invalid_rental_mode" time="2.152" timestamp="2022-07-25T11:00:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestPricingMock" file="rentals/tests/apis/v2/test_pricing.py" line="144" name="test_with_rental_mode_business" time="2.988" timestamp="2022-07-25T11:00:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestPricingMock" file="rentals/tests/apis/v2/test_pricing.py" line="164" name="test_with_rental_mode_business_for_non_business_customer" time="2.806" timestamp="2022-07-25T11:00:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestPricingMock" file="rentals/tests/apis/v2/test_pricing.py" line="242" name="test_with_rental_mode_business_when_logged_out" time="2.591" timestamp="2022-07-25T11:00:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestPricingMock" file="rentals/tests/apis/v2/test_pricing.py" line="126" name="test_with_rental_mode_personal" time="2.586" timestamp="2022-07-25T11:00:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestPricingMock" file="rentals/tests/apis/v2/test_pricing.py" line="222" name="test_with_rental_mode_personal_when_logged_out" time="2.518" timestamp="2022-07-25T11:00:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestPricingMock" file="rentals/tests/apis/v2/test_pricing.py" line="186" name="test_without_rental_mode" time="2.530" timestamp="2022-07-25T11:01:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

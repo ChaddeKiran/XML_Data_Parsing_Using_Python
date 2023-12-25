@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="manual_identity_verification/tests/api/test_document_specification.py" name="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecification-20220725104740" skipped="0" tests="5" time="0.421" timestamp="2022-07-25T11:02:44">
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecification" file="manual_identity_verification/tests/api/test_document_specification.py" line="103" name="test_can_not_delete" time="0.060" timestamp="2022-07-25T11:02:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecification" file="manual_identity_verification/tests/api/test_document_specification.py" line="98" name="test_can_not_path" time="0.053" timestamp="2022-07-25T11:02:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecification" file="manual_identity_verification/tests/api/test_document_specification.py" line="94" name="test_can_not_post" time="0.046" timestamp="2022-07-25T11:02:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecification" file="manual_identity_verification/tests/api/test_document_specification.py" line="22" name="test_list" time="0.059" timestamp="2022-07-25T11:02:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecification" file="manual_identity_verification/tests/api/test_document_specification.py" line="31" name="test_list_language_header" time="0.203" timestamp="2022-07-25T11:02:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

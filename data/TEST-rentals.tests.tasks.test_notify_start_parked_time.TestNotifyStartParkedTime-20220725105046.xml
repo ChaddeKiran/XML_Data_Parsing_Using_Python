@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_notify_start_parked_time.py" name="rentals.tests.tasks.test_notify_start_parked_time.TestNotifyStartParkedTime-20220725105046" skipped="0" tests="2" time="1.087" timestamp="2022-07-25T11:05:48">
+	<testcase classname="rentals.tests.tasks.test_notify_start_parked_time.TestNotifyStartParkedTime" file="rentals/tests/tasks/test_notify_start_parked_time.py" line="40" name="test_cache_not_set" time="0.564" timestamp="2022-07-25T11:05:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_notify_start_parked_time.TestNotifyStartParkedTime" file="rentals/tests/tasks/test_notify_start_parked_time.py" line="34" name="test_cache_set" time="0.522" timestamp="2022-07-25T11:05:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/signals/test_signals.py" name="promotions.tests.signals.test_signals.PromotionSignalsTestCase-20220725104819" skipped="0" tests="14" time="5.120" timestamp="2022-07-25T10:59:16">
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="143" name="test_coupon_activation_results_in_event_being_sent_to_data_pipeline" time="0.032" timestamp="2022-07-25T10:59:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="93" name="test_coupon_redemption_on_rental_results_in_event_being_sent_to_data_pipeline" time="0.897" timestamp="2022-07-25T10:59:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="100" name="test_coupon_redemption_on_trip_results_in_event_being_sent_to_data_pipeline" time="0.174" timestamp="2022-07-25T10:59:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="250" name="test_new_user_promotion_for_customer" time="1.014" timestamp="2022-07-25T10:59:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="128" name="test_no_events_are_logged_for_rental_without_credits" time="0.983" timestamp="2022-07-25T10:59:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="136" name="test_no_events_are_logged_for_trip_without_credits" time="0.636" timestamp="2022-07-25T10:59:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="107" name="test_payload_for_rental_coupon_redemption_contains_rental_id_and_customer_id" time="0.930" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="115" name="test_payload_for_trip_coupon_redemption_contains_trip_id_and_customer_id" time="0.203" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="164" name="test_promo_details_for_customer_without_credits_returns_empty_list" time="0.003" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="160" name="test_promo_details_for_empty_payload_returns_empty_list" time="0.000" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="168" name="test_promo_details_for_invalid_coupon_returns_empty_list" time="0.023" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="181" name="test_promo_details_returns_data_if_credits_are_used" time="0.182" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="173" name="test_promo_details_returns_empty_list_if_credits_are_not_used" time="0.025" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.signals.test_signals.PromotionSignalsTestCase" file="promotions/tests/signals/test_signals.py" line="275" name="test_trip_completion_with_new_user_coupon" time="0.017" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

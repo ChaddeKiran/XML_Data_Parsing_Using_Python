@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="phone_messaging/tests/views/test_number_masking.py" name="phone_messaging.tests.views.test_number_masking.TestNumberMaskingAPI-20220725104819" skipped="0" tests="7" time="3.340" timestamp="2022-07-25T10:52:55">
+	<testcase classname="phone_messaging.tests.views.test_number_masking.TestNumberMaskingAPI" file="phone_messaging/tests/views/test_number_masking.py" line="114" name="test_api_with_change_task_order_for_a_driver" time="1.825" timestamp="2022-07-25T10:52:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.views.test_number_masking.TestNumberMaskingAPI" file="phone_messaging/tests/views/test_number_masking.py" line="82" name="test_api_with_correct_plivo_params" time="0.222" timestamp="2022-07-25T10:52:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.views.test_number_masking.TestNumberMaskingAPI" file="phone_messaging/tests/views/test_number_masking.py" line="99" name="test_api_with_incorrect_driver_number" time="0.210" timestamp="2022-07-25T10:52:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.views.test_number_masking.TestNumberMaskingAPI" file="phone_messaging/tests/views/test_number_masking.py" line="93" name="test_api_with_incorrect_masked_number" time="0.220" timestamp="2022-07-25T10:52:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.views.test_number_masking.TestNumberMaskingAPI" file="phone_messaging/tests/views/test_number_masking.py" line="105" name="test_api_with_no_masked_number_for_trip" time="0.481" timestamp="2022-07-25T10:52:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.views.test_number_masking.TestNumberMaskingAPI" file="phone_messaging/tests/views/test_number_masking.py" line="76" name="test_api_with_tampered_plivo_headers" time="0.195" timestamp="2022-07-25T10:52:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.views.test_number_masking.TestNumberMaskingAPI" file="phone_messaging/tests/views/test_number_masking.py" line="72" name="test_api_without_plivo_headers" time="0.186" timestamp="2022-07-25T10:52:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

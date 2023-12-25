@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/tasks/test_user_tasks.py" name="users.tests.tasks.test_user_tasks.TestSendUserLoginNotification-20220725104622" skipped="0" tests="2" time="0.622" timestamp="2022-07-25T10:47:59">
+	<testcase classname="users.tests.tasks.test_user_tasks.TestSendUserLoginNotification" file="users/tests/tasks/test_user_tasks.py" line="22" name="test_send_user_notification" time="0.186" timestamp="2022-07-25T10:47:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_user_tasks.TestSendUserLoginNotification" file="users/tests/tasks/test_user_tasks.py" line="40" name="test_send_user_notification_localized" time="0.436" timestamp="2022-07-25T10:47:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

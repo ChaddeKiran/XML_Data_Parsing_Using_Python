@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestDownloadCustomerData-20220725104545" skipped="0" tests="4" time="2.849" timestamp="2022-07-25T10:54:19">
+	<testcase classname="users.tests.apis.test_customers.TestDownloadCustomerData" file="users/tests/apis/test_customers.py" line="626" name="test_download_data" time="0.773" timestamp="2022-07-25T10:54:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestDownloadCustomerData" file="users/tests/apis/test_customers.py" line="614" name="test_download_is_disallowed_when_gdpr_and_ccpa_flags_are_both_disabled" time="0.740" timestamp="2022-07-25T10:54:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestDownloadCustomerData" file="users/tests/apis/test_customers.py" line="658" name="test_ridesharing_and_carsharing_download_data" time="0.746" timestamp="2022-07-25T10:54:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestDownloadCustomerData" file="users/tests/apis/test_customers.py" line="642" name="test_ridesharing_download_data" time="0.590" timestamp="2022-07-25T10:54:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

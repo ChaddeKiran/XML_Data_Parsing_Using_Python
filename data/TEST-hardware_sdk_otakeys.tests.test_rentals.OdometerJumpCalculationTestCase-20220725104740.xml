@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_rentals.py" name="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase-20220725104740" skipped="0" tests="10" time="1.062" timestamp="2022-07-25T11:01:08">
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="1114" name="test_complex_odometer_jumps" time="0.111" timestamp="2022-07-25T11:01:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="1087" name="test_major_negative_odometer_jump" time="0.099" timestamp="2022-07-25T11:01:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="1096" name="test_major_negative_odometer_jump_over_long_time" time="0.107" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="1050" name="test_major_odometer_jump" time="0.096" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="1059" name="test_major_odometer_jump_over_long_time" time="0.118" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="1078" name="test_minor_negative_odometer_jump" time="0.105" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="1041" name="test_minor_odometer_jump" time="0.107" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="1069" name="test_negative_odometer_jump" time="0.116" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="1033" name="test_no_odometer_jump" time="0.098" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OdometerJumpCalculationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="1106" name="test_zero_start_mileage" time="0.106" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

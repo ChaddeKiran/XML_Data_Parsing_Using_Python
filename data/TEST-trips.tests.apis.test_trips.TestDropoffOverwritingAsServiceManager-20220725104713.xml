@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestDropoffOverwritingAsServiceManager-20220725104713" skipped="0" tests="6" time="7.108" timestamp="2022-07-25T11:04:01">
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsServiceManager" file="trips/tests/apis/test_trips.py" line="2370" name="test_arrived_at_overwriting_with_new_timestamp" time="0.994" timestamp="2022-07-25T11:03:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsServiceManager" file="trips/tests/apis/test_trips.py" line="2401" name="test_arrived_at_overwriting_with_none" time="0.760" timestamp="2022-07-25T11:03:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsServiceManager" file="trips/tests/apis/test_trips.py" line="2352" name="test_dropoff_overwriting_with_new_timestamp" time="1.197" timestamp="2022-07-25T11:03:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsServiceManager" file="trips/tests/apis/test_trips.py" line="2383" name="test_dropoff_overwriting_with_none" time="1.186" timestamp="2022-07-25T11:03:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsServiceManager" file="trips/tests/apis/test_trips.py" line="2360" name="test_pickedup_at_overwriting_with_new_timestamp" time="2.190" timestamp="2022-07-25T11:04:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsServiceManager" file="trips/tests/apis/test_trips.py" line="2391" name="test_pickedup_at_overwriting_with_none" time="0.779" timestamp="2022-07-25T11:04:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

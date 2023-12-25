@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestTripListFilteringAsDispatcher-20220725104545" skipped="0" tests="4" time="3.717" timestamp="2022-07-25T10:49:05">
+	<testcase classname="trips.tests.apis.test_trips.TestTripListFilteringAsDispatcher" file="trips/tests/apis/test_trips.py" line="217" name="test_filter_past_rides" time="1.220" timestamp="2022-07-25T10:49:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripListFilteringAsDispatcher" file="trips/tests/apis/test_trips.py" line="198" name="test_trip_list_all_services_contains_all_services_for_that_dispatcher" time="1.101" timestamp="2022-07-25T10:49:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripListFilteringAsDispatcher" file="trips/tests/apis/test_trips.py" line="213" name="test_trip_list_invalid_service" time="0.302" timestamp="2022-07-25T10:49:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripListFilteringAsDispatcher" file="trips/tests/apis/test_trips.py" line="186" name="test_trip_list_service_has_only_trips_from_that_service" time="1.094" timestamp="2022-07-25T10:49:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

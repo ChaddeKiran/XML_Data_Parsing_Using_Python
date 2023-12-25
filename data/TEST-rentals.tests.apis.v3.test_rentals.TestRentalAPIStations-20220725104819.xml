@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_rentals.py" name="rentals.tests.apis.v3.test_rentals.TestRentalAPIStations-20220725104819" skipped="0" tests="2" time="2.266" timestamp="2022-07-25T11:06:52">
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIStations" file="rentals/tests/apis/v3/test_rentals.py" line="3249" name="test_end_station_based_rental_in_parking_area_succeeds" time="1.284" timestamp="2022-07-25T11:06:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIStations" file="rentals/tests/apis/v3/test_rentals.py" line="3288" name="test_end_station_based_rental_out_of_parking_area_returns_error_message" time="0.982" timestamp="2022-07-25T11:06:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

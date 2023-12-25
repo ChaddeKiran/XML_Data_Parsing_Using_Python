@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestIdentityVerification-20220725104545" skipped="0" tests="6" time="27.739" timestamp="2022-07-25T11:01:49">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestIdentityVerification" file="users/tests/apis/v2/test_carsharing_customers.py" line="3780" name="test_filter_by_identity_verifcation_status_and_jumio_or_miv_system" time="1.509" timestamp="2022-07-25T11:01:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestIdentityVerification" file="users/tests/apis/v2/test_carsharing_customers.py" line="3808" name="test_filter_by_identity_verification_status" time="19.778" timestamp="2022-07-25T11:01:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestIdentityVerification" file="users/tests/apis/v2/test_carsharing_customers.py" line="3602" name="test_get" time="0.664" timestamp="2022-07-25T11:01:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestIdentityVerification" file="users/tests/apis/v2/test_carsharing_customers.py" line="3687" name="test_jumio_change" time="1.879" timestamp="2022-07-25T11:01:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestIdentityVerification" file="users/tests/apis/v2/test_carsharing_customers.py" line="3736" name="test_manual_change" time="2.100" timestamp="2022-07-25T11:01:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestIdentityVerification" file="users/tests/apis/v2/test_carsharing_customers.py" line="3608" name="test_miv_change" time="1.809" timestamp="2022-07-25T11:01:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

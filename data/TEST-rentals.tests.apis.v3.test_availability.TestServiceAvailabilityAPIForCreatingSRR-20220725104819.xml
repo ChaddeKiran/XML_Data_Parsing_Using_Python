@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_availability.py" name="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForCreatingSRR-20220725104819" skipped="0" tests="9" time="3.785" timestamp="2022-07-25T11:03:38">
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="122" name="test_get_all_end_dates" time="0.449" timestamp="2022-07-25T11:03:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="131" name="test_get_all_end_times_returns_results_of_correct_type" time="0.375" timestamp="2022-07-25T11:03:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2022-07-28 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="86" name="test_get_all_start_dates" time="0.334" timestamp="2022-07-25T11:03:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="111" name="test_get_all_start_times" time="0.422" timestamp="2022-07-25T11:03:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="145" name="test_get_end_times_returns_correct_times" time="0.533" timestamp="2022-07-25T11:03:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2016-01-03 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="159" name="test_get_end_times_returns_correct_times_across_dst" time="0.470" timestamp="2022-07-25T11:03:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-08 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="102" name="test_late_in_the_day" time="0.465" timestamp="2022-07-25T11:03:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="93" name="test_late_in_the_day_with_time_zone_involved" time="0.504" timestamp="2022-07-25T11:03:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="72" name="test_url" time="0.234" timestamp="2022-07-25T11:03:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

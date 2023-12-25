@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_automation_utils.py" name="vehicle_automation.tests.utils.test_automation_utils.UnitConversionUtilsTests-20220725104622" skipped="0" tests="6" time="0.989" timestamp="2022-07-25T10:52:06">
+	<testcase classname="vehicle_automation.tests.utils.test_automation_utils.UnitConversionUtilsTests" file="vehicle_automation/tests/utils/test_automation_utils.py" line="97" name="test_convert_celsius_to_fahrenheit" time="0.187" timestamp="2022-07-25T10:52:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_automation_utils.UnitConversionUtilsTests" file="vehicle_automation/tests/utils/test_automation_utils.py" line="93" name="test_convert_km_to_miles" time="0.158" timestamp="2022-07-25T10:52:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_automation_utils.UnitConversionUtilsTests" file="vehicle_automation/tests/utils/test_automation_utils.py" line="107" name="test_convert_kpa_to_psi" time="0.160" timestamp="2022-07-25T10:52:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_automation_utils.UnitConversionUtilsTests" file="vehicle_automation/tests/utils/test_automation_utils.py" line="89" name="test_convert_kph_to_mph" time="0.168" timestamp="2022-07-25T10:52:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_automation_utils.UnitConversionUtilsTests" file="vehicle_automation/tests/utils/test_automation_utils.py" line="111" name="test_convert_liter_to_ounces" time="0.152" timestamp="2022-07-25T10:52:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_automation_utils.UnitConversionUtilsTests" file="vehicle_automation/tests/utils/test_automation_utils.py" line="102" name="test_convert_seconds_to_days" time="0.164" timestamp="2022-07-25T10:52:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

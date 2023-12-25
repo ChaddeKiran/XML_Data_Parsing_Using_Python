@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_suppliers.py" name="users.tests.models.test_suppliers.TestSupplierCompanyValetProviderUpdates-20220725104545" skipped="0" tests="6" time="0.357" timestamp="2022-07-25T11:06:27">
+	<testcase classname="users.tests.models.test_suppliers.TestSupplierCompanyValetProviderUpdates" file="users/tests/models/test_suppliers.py" line="49" name="test_company_set_as_valet_provider_is_unset_when_services_updated" time="0.077" timestamp="2022-07-25T11:06:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_suppliers.TestSupplierCompanyValetProviderUpdates" file="users/tests/models/test_suppliers.py" line="14" name="test_is_valet_provider_default" time="0.035" timestamp="2022-07-25T11:06:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_suppliers.TestSupplierCompanyValetProviderUpdates" file="users/tests/models/test_suppliers.py" line="24" name="test_valet_provider_not_set_on_non_valet_service_type_add" time="0.052" timestamp="2022-07-25T11:06:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_suppliers.TestSupplierCompanyValetProviderUpdates" file="users/tests/models/test_suppliers.py" line="17" name="test_valet_provider_set_on_service_type_add" time="0.055" timestamp="2022-07-25T11:06:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_suppliers.TestSupplierCompanyValetProviderUpdates" file="users/tests/models/test_suppliers.py" line="40" name="test_valet_provider_unset_on_service_type_bulk_removal" time="0.068" timestamp="2022-07-25T11:06:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_suppliers.TestSupplierCompanyValetProviderUpdates" file="users/tests/models/test_suppliers.py" line="31" name="test_valet_provider_unset_on_service_type_removal" time="0.069" timestamp="2022-07-25T11:06:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

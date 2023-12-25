@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/serializers/test_staff.py" name="users.tests.serializers.test_staff.TestStaffSerializer-20220725104622" skipped="0" tests="7" time="6.757" timestamp="2022-07-25T10:46:38">
+	<testcase classname="users.tests.serializers.test_staff.TestStaffSerializer" file="users/tests/serializers/test_staff.py" line="23" name="test_services_returned" time="0.982" timestamp="2022-07-25T10:46:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.serializers.test_staff.TestStaffSerializer" file="users/tests/serializers/test_staff.py" line="39" name="test_services_setable_many" time="0.952" timestamp="2022-07-25T10:46:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.serializers.test_staff.TestStaffSerializer" file="users/tests/serializers/test_staff.py" line="68" name="test_services_setable_missing_field_error" time="0.928" timestamp="2022-07-25T10:46:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.serializers.test_staff.TestStaffSerializer" file="users/tests/serializers/test_staff.py" line="90" name="test_services_setable_remove_all" time="0.918" timestamp="2022-07-25T10:46:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.serializers.test_staff.TestStaffSerializer" file="users/tests/serializers/test_staff.py" line="107" name="test_services_setable_remove_partial" time="0.973" timestamp="2022-07-25T10:46:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.serializers.test_staff.TestStaffSerializer" file="users/tests/serializers/test_staff.py" line="138" name="test_services_updateable" time="0.986" timestamp="2022-07-25T10:46:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.serializers.test_staff.TestStaffSerializer" file="users/tests/serializers/test_staff.py" line="172" name="test_staff_update_idempotent" time="1.017" timestamp="2022-07-25T10:46:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

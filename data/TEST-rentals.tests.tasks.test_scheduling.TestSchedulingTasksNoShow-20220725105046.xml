@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_scheduling.py" name="rentals.tests.tasks.test_scheduling.TestSchedulingTasksNoShow-20220725105046" skipped="0" tests="2" time="1.699" timestamp="2022-07-25T11:07:25">
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksNoShow" file="rentals/tests/tasks/test_scheduling.py" line="1128" name="test_no_show_rental_receipt" time="1.134" timestamp="2022-07-25T11:07:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksNoShow" file="rentals/tests/tasks/test_scheduling.py" line="1105" name="test_no_show_rentals" time="0.566" timestamp="2022-07-25T11:07:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

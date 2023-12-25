@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware/tests/test_vendor_client_util.py" name="hardware.tests.test_vendor_client_util.TestLogApiRequest-20220725104740" skipped="0" tests="8" time="0.282" timestamp="2022-07-25T10:57:50">
+	<testcase classname="hardware.tests.test_vendor_client_util.TestLogApiRequest" file="hardware/tests/test_vendor_client_util.py" line="17" name="test_get_200" time="0.040" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.test_vendor_client_util.TestLogApiRequest" file="hardware/tests/test_vendor_client_util.py" line="22" name="test_get_200_log_all" time="0.040" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.test_vendor_client_util.TestLogApiRequest" file="hardware/tests/test_vendor_client_util.py" line="27" name="test_post_200" time="0.040" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.test_vendor_client_util.TestLogApiRequest" file="hardware/tests/test_vendor_client_util.py" line="32" name="test_post_200_log_all" time="0.041" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.test_vendor_client_util.TestLogApiRequest" file="hardware/tests/test_vendor_client_util.py" line="37" name="test_post_500" time="0.040" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.test_vendor_client_util.TestLogApiRequest" file="hardware/tests/test_vendor_client_util.py" line="42" name="test_post_500_log_all" time="0.038" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.test_vendor_client_util.TestLogApiRequest" file="hardware/tests/test_vendor_client_util.py" line="47" name="test_post_connection_error" time="0.021" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.test_vendor_client_util.TestLogApiRequest" file="hardware/tests/test_vendor_client_util.py" line="56" name="test_post_connection_error_log_all" time="0.021" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

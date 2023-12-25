@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v2/test_tolls.py" name="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager-20220725104622" skipped="0" tests="14" time="12.278" timestamp="2022-07-25T11:00:49">
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="53" name="test_all_tolls_get_api" time="0.928" timestamp="2022-07-25T11:00:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.RidesharingToll'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.carsharing_vehicles.CarsharingToll'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="65" name="test_tolls_for_carsharing" time="0.849" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="125" name="test_tolls_for_carsharing_empty_responses" time="0.837" timestamp="2022-07-25T11:00:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="113" name="test_tolls_for_filter_and_search_for_email_for_carsharing" time="0.899" timestamp="2022-07-25T11:00:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="119" name="test_tolls_for_filter_and_search_for_email_for_ridesharing" time="0.856" timestamp="2022-07-25T11:00:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="59" name="test_tolls_for_ridesharing" time="0.866" timestamp="2022-07-25T11:00:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="131" name="test_tolls_for_ridesharing_empty_responses" time="0.847" timestamp="2022-07-25T11:00:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="77" name="test_tolls_for_search_with_email_values" time="0.862" timestamp="2022-07-25T11:00:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="83" name="test_tolls_for_search_with_first_name_values" time="0.894" timestamp="2022-07-25T11:00:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="89" name="test_tolls_for_search_with_last_name_values" time="0.866" timestamp="2022-07-25T11:00:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="71" name="test_tolls_for_search_with_license_plate_values" time="0.913" timestamp="2022-07-25T11:00:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="107" name="test_tolls_for_search_with_non_existent_values" time="0.872" timestamp="2022-07-25T11:00:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="101" name="test_tolls_for_search_with_phone_number_values" time="0.910" timestamp="2022-07-25T11:00:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_tolls.TestTollApiAsManager" file="vehicles/tests/apis/v2/test_tolls.py" line="95" name="test_tolls_for_search_with_vin_number_values" time="0.878" timestamp="2022-07-25T11:00:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

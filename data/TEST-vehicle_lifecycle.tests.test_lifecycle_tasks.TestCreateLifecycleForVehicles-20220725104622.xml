@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_lifecycle_tasks.py" name="vehicle_lifecycle.tests.test_lifecycle_tasks.TestCreateLifecycleForVehicles-20220725104622" skipped="0" tests="8" time="14.654" timestamp="2022-07-25T10:58:25">
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_tasks.TestCreateLifecycleForVehicles" file="vehicle_lifecycle/tests/test_lifecycle_tasks.py" line="250" name="test_create_job_complete_stage_for_first_step" time="1.924" timestamp="2022-07-25T10:58:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_tasks.TestCreateLifecycleForVehicles" file="vehicle_lifecycle/tests/test_lifecycle_tasks.py" line="185" name="test_create_job_delivery_transport_new_for_lifecycle_stage" time="2.012" timestamp="2022-07-25T10:58:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_tasks.TestCreateLifecycleForVehicles" file="vehicle_lifecycle/tests/test_lifecycle_tasks.py" line="217" name="test_create_job_pickup_transport_new_for_lifecycle_stage" time="2.050" timestamp="2022-07-25T10:58:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_tasks.TestCreateLifecycleForVehicles" file="vehicle_lifecycle/tests/test_lifecycle_tasks.py" line="165" name="test_create_job_refurb_onroute_new_for_lifecycle_stage" time="1.830" timestamp="2022-07-25T10:58:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_tasks.TestCreateLifecycleForVehicles" file="vehicle_lifecycle/tests/test_lifecycle_tasks.py" line="145" name="test_create_job_storage_onroute_new_for_lifecycle_stage" time="1.866" timestamp="2022-07-25T10:58:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_tasks.TestCreateLifecycleForVehicles" file="vehicle_lifecycle/tests/test_lifecycle_tasks.py" line="52" name="test_create_lifecycle_for_vehicles" time="1.151" timestamp="2022-07-25T10:58:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_tasks.TestCreateLifecycleForVehicles" file="vehicle_lifecycle/tests/test_lifecycle_tasks.py" line="68" name="test_create_lifecycle_for_vehicles_and_create_job" time="1.535" timestamp="2022-07-25T10:58:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_tasks.TestCreateLifecycleForVehicles" file="vehicle_lifecycle/tests/test_lifecycle_tasks.py" line="324" name="test_create_lifecycle_for_vehicles_and_create_job_at_stage_and_step_level" time="2.286" timestamp="2022-07-25T10:58:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

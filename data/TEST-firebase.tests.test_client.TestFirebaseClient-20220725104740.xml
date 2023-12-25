@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="firebase/tests/test_client.py" name="firebase.tests.test_client.TestFirebaseClient-20220725104740" skipped="0" tests="6" time="0.094" timestamp="2022-07-25T11:06:40">
+	<testcase classname="firebase.tests.test_client.TestFirebaseClient" file="firebase/tests/test_client.py" line="93" name="test_delete_calls_prometheus" time="0.017" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_client.TestFirebaseClient" file="firebase/tests/test_client.py" line="81" name="test_get_calls_prometheus" time="0.018" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_client.TestFirebaseClient" file="firebase/tests/test_client.py" line="45" name="test_patch_calls_prometheus" time="0.018" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_client.TestFirebaseClient" file="firebase/tests/test_client.py" line="57" name="test_put_calls_prometheus" time="0.018" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_client.TestFirebaseClient" file="firebase/tests/test_client.py" line="69" name="test_put_calls_prometheus_no_trailing_slash" time="0.019" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_client.TestFirebaseClient" file="firebase/tests/test_client.py" line="26" name="test_regex" time="0.004" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

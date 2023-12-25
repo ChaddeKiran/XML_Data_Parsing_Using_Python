@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_jumio.py" name="users.tests.third_party.test_jumio.TestJumioAuthentication-20220725104622" skipped="0" tests="1" time="0.065" timestamp="2022-07-25T10:48:15">
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioAuthentication" file="users/tests/third_party/test_jumio.py" line="1110" name="test_jumio_auth_callback" time="0.065" timestamp="2022-07-25T10:48:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField JumioAuthentication.transaction_date received a naive datetime (2022-07-20 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

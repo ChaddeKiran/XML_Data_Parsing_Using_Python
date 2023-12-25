@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/test_customers_cards.py" name="payments.tests.apis.test_customers_cards.TestGetCardDetails-20220725104740" skipped="0" tests="1" time="0.547" timestamp="2022-07-25T11:04:31">
+	<testcase classname="payments.tests.apis.test_customers_cards.TestGetCardDetails" file="payments/tests/apis/test_customers_cards.py" line="1538" name="test_read_card" time="0.547" timestamp="2022-07-25T11:04:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

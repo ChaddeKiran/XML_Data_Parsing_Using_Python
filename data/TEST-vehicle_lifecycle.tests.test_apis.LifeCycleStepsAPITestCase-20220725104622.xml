@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_apis.py" name="vehicle_lifecycle.tests.test_apis.LifeCycleStepsAPITestCase-20220725104622" skipped="0" tests="1" time="1.976" timestamp="2022-07-25T10:57:51">
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleStepsAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="946" name="test_life_cycle_steps_vehicle_in_multiple_services" time="1.976" timestamp="2022-07-25T10:57:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

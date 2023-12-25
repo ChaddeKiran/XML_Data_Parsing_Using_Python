@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_zones.py" name="driver_scheduling.tests.apis.test_zones.TestZonesAPIAsDriver-20220725104740" skipped="0" tests="7" time="3.165" timestamp="2022-07-25T10:56:05">
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPIAsDriver" file="driver_scheduling/tests/apis/test_zones.py" line="64" name="test_create_zone" time="0.427" timestamp="2022-07-25T10:56:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPIAsDriver" file="driver_scheduling/tests/apis/test_zones.py" line="72" name="test_delete_zone" time="0.402" timestamp="2022-07-25T10:56:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPIAsDriver" file="driver_scheduling/tests/apis/test_zones.py" line="76" name="test_patch_zone" time="0.403" timestamp="2022-07-25T10:56:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPIAsDriver" file="driver_scheduling/tests/apis/test_zones.py" line="34" name="test_zone_get" time="0.471" timestamp="2022-07-25T10:56:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPIAsDriver" file="driver_scheduling/tests/apis/test_zones.py" line="41" name="test_zone_get_expand" time="0.484" timestamp="2022-07-25T10:56:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPIAsDriver" file="driver_scheduling/tests/apis/test_zones.py" line="50" name="test_zone_get_expand_geojson" time="0.488" timestamp="2022-07-25T10:56:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPIAsDriver" file="driver_scheduling/tests/apis/test_zones.py" line="26" name="test_zone_list" time="0.491" timestamp="2022-07-25T10:56:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

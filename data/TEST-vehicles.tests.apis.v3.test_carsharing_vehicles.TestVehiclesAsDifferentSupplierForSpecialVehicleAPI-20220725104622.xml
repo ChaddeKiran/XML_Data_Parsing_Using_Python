@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" name="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehiclesAsDifferentSupplierForSpecialVehicleAPI-20220725104622" skipped="0" tests="1" time="0.590" timestamp="2022-07-25T11:02:33">
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehiclesAsDifferentSupplierForSpecialVehicleAPI" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1163" name="test_vehicles_list_api_for_only_open_tickets_vehicles_for_different_supplier" time="0.590" timestamp="2022-07-25T11:02:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

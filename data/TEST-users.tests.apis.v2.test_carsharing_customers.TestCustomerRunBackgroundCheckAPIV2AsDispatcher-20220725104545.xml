@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerRunBackgroundCheckAPIV2AsDispatcher-20220725104545" skipped="0" tests="5" time="4.290" timestamp="2022-07-25T11:00:05">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerRunBackgroundCheckAPIV2AsDispatcher" file="users/tests/apis/v2/test_carsharing_customers.py" line="1604" name="test_run_background_check_allow_ad_hoc_background_check_disabled" time="0.561" timestamp="2022-07-25T11:00:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerRunBackgroundCheckAPIV2AsDispatcher" file="users/tests/apis/v2/test_carsharing_customers.py" line="1612" name="test_run_background_check_background_checks_enabled_disabled" time="0.537" timestamp="2022-07-25T11:00:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerRunBackgroundCheckAPIV2AsDispatcher" file="users/tests/apis/v2/test_carsharing_customers.py" line="1549" name="test_run_background_check_checkr_allow_ad_hoc_background_check_enabled" time="1.155" timestamp="2022-07-25T11:00:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerRunBackgroundCheckAPIV2AsDispatcher" file="users/tests/apis/v2/test_carsharing_customers.py" line="1563" name="test_run_background_check_digisure_allow_ad_hoc_background_check_enabled" time="1.148" timestamp="2022-07-25T11:00:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerRunBackgroundCheckAPIV2AsDispatcher" file="users/tests/apis/v2/test_carsharing_customers.py" line="1584" name="test_run_background_check_digisure_no_valid_cc" time="0.889" timestamp="2022-07-25T11:00:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

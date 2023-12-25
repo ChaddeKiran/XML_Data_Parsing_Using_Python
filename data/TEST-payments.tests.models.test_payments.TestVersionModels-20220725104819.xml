@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/models/test_payments.py" name="payments.tests.models.test_payments.TestVersionModels-20220725104819" skipped="0" tests="5" time="0.694" timestamp="2022-07-25T10:48:36">
+	<testcase classname="payments.tests.models.test_payments.TestVersionModels" file="payments/tests/models/test_payments.py" line="232" name="test_version_can_be_retrieved" time="0.107" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestVersionModels" file="payments/tests/models/test_payments.py" line="240" name="test_version_with_m2m_relationship" time="0.117" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestVersionModels" file="payments/tests/models/test_payments.py" line="225" name="test_versioned_model_is_created" time="0.086" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestVersionModels" file="payments/tests/models/test_payments.py" line="273" name="test_with_pricing_snapshot_changed_disable_to_enabled" time="0.234" timestamp="2022-07-25T10:48:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestVersionModels" file="payments/tests/models/test_payments.py" line="259" name="test_with_pricing_snapshot_enabled_disabled" time="0.150" timestamp="2022-07-25T10:48:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin-20220725104713" skipped="0" tests="10" time="30.195" timestamp="2022-07-25T11:02:37">
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2682" name="test_cancel_trip_for_non_register_user_with_deferred_payment" time="2.581" timestamp="2022-07-25T11:02:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2665" name="test_create_trip_for_non_register_user_with_deferred_payment" time="1.960" timestamp="2022-07-25T11:02:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2693" name="test_create_trip_for_non_register_user_without_deferred_payment" time="1.294" timestamp="2022-07-25T11:02:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2494" name="test_create_trip_with_inactive_business_admin" time="1.442" timestamp="2022-07-25T11:02:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2561" name="test_create_trip_with_payment_mode_and_customer_choose_payent_mode" time="1.385" timestamp="2022-07-25T11:02:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2480" name="test_create_trip_without_payment_mode" time="1.983" timestamp="2022-07-25T11:02:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2549" name="test_create_trip_without_payment_mode_and_customer_choose_payent_mode" time="2.004" timestamp="2022-07-25T11:02:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2506" name="test_create_update_delete_on_demand_trip" time="2.930" timestamp="2022-07-25T11:02:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2623" name="test_filter_live_trip" time="6.446" timestamp="2022-07-25T11:02:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestCustomerTripActionAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2577" name="test_filter_past_trip" time="8.169" timestamp="2022-07-25T11:02:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

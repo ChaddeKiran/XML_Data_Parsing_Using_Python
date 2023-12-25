@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestSummary-20220725104713" skipped="0" tests="5" time="4.449" timestamp="2022-07-25T11:01:20">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestSummary" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3337" name="test_no_results" time="0.284" timestamp="2022-07-25T11:01:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestSummary" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3373" name="test_ride_assigned" time="1.436" timestamp="2022-07-25T11:01:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestSummary" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3361" name="test_ride_claimed" time="1.413" timestamp="2022-07-25T11:01:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestSummary" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3349" name="test_ride_unassigned" time="0.763" timestamp="2022-07-25T11:01:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestSummary" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3343" name="test_total" time="0.553" timestamp="2022-07-25T11:01:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

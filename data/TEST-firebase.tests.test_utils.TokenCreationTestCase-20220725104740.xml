@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="firebase/tests/test_utils.py" name="firebase.tests.test_utils.TokenCreationTestCase-20220725104740" skipped="1" tests="3" time="0.400" timestamp="2022-07-25T10:56:34">
+	<testcase classname="firebase.tests.test_utils.TokenCreationTestCase" file="firebase/tests/test_utils.py" line="28" name="test_cold_cache" time="0.186" timestamp="2022-07-25T10:56:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_utils.TokenCreationTestCase" file="firebase/tests/test_utils.py" line="47" name="test_kiosk_token_payload" time="0.212" timestamp="2022-07-25T10:56:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_utils.TokenCreationTestCase" file="firebase/tests/test_utils.py" line="34" name="test_warm_cache" time="0.001" timestamp="2022-07-25T10:56:34">
+		<skipped message="cache not implemented" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

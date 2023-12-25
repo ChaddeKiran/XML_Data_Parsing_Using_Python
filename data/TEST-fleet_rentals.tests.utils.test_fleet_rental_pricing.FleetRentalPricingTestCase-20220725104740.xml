@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="fleet_rentals/tests/utils/test_fleet_rental_pricing.py" name="fleet_rentals.tests.utils.test_fleet_rental_pricing.FleetRentalPricingTestCase-20220725104740" skipped="0" tests="4" time="8.110" timestamp="2022-07-25T10:57:22">
+	<testcase classname="fleet_rentals.tests.utils.test_fleet_rental_pricing.FleetRentalPricingTestCase" file="fleet_rentals/tests/utils/test_fleet_rental_pricing.py" line="370" name="test_fleet_rental_exempted_payment" time="1.261" timestamp="2022-07-25T10:57:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.utils.test_fleet_rental_pricing.FleetRentalPricingTestCase" file="fleet_rentals/tests/utils/test_fleet_rental_pricing.py" line="390" name="test_fleet_rental_payment_from_business_account" time="1.619" timestamp="2022-07-25T10:57:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.utils.test_fleet_rental_pricing.FleetRentalPricingTestCase" file="fleet_rentals/tests/utils/test_fleet_rental_pricing.py" line="145" name="test_rate_scale_based_fare_estimate" time="4.443" timestamp="2022-07-25T10:57:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.utils.test_fleet_rental_pricing.FleetRentalPricingTestCase" file="fleet_rentals/tests/utils/test_fleet_rental_pricing.py" line="352" name="test_tax_on_rate_scale_based_fare_estimate" time="0.787" timestamp="2022-07-25T10:57:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

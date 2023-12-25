@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" name="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleLiveMapAsDispatcher-20220725104622" skipped="0" tests="7" time="9.672" timestamp="2022-07-25T11:01:32">
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleLiveMapAsDispatcher" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1371" name="test_filter_by_immobilizer_command_status" time="6.676" timestamp="2022-07-25T11:01:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleLiveMapAsDispatcher" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1418" name="test_gps_position_in_invisible_mode_on" time="0.290" timestamp="2022-07-25T11:01:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleLiveMapAsDispatcher" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1430" name="test_gps_position_in_private_mode_off" time="0.314" timestamp="2022-07-25T11:01:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleLiveMapAsDispatcher" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1406" name="test_gps_position_in_private_mode_on" time="0.301" timestamp="2022-07-25T11:01:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleLiveMapAsDispatcher" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1282" name="test_list" time="0.285" timestamp="2022-07-25T11:01:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleLiveMapAsDispatcher" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1294" name="test_vehicles_from_different_services" time="0.939" timestamp="2022-07-25T11:01:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestVehicleLiveMapAsDispatcher" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1308" name="test_vehicles_voltage_batterylevel_fuelpercentage" time="0.867" timestamp="2022-07-25T11:01:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

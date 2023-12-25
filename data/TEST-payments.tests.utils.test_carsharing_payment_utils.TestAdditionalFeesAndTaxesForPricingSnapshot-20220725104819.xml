@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestAdditionalFeesAndTaxesForPricingSnapshot-20220725104819" skipped="0" tests="8" time="8.157" timestamp="2022-07-25T10:50:13">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestAdditionalFeesAndTaxesForPricingSnapshot" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2016" name="test_change_additional_fees_during_rental_with_pricing_snapshot_flag_off" time="1.002" timestamp="2022-07-25T10:50:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.end_datetime received a naive datetime (2017-04-24 12:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.start_datetime received a naive datetime (2017-04-24 12:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestAdditionalFeesAndTaxesForPricingSnapshot" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2066" name="test_change_additional_fees_during_rental_with_pricing_snapshot_flag_on" time="1.044" timestamp="2022-07-25T10:50:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestAdditionalFeesAndTaxesForPricingSnapshot" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2199" name="test_change_additional_fees_using_api_patch_request_before_rental_with_pricing_snapshot_flag_on" time="1.056" timestamp="2022-07-25T10:50:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestAdditionalFeesAndTaxesForPricingSnapshot" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2252" name="test_change_additional_taxes_during_rental_with_pricing_snapshot_flag_off" time="0.870" timestamp="2022-07-25T10:50:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestAdditionalFeesAndTaxesForPricingSnapshot" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2291" name="test_change_additional_taxes_during_rental_with_pricing_snapshot_flag_on" time="1.047" timestamp="2022-07-25T10:50:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestAdditionalFeesAndTaxesForPricingSnapshot" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2117" name="test_remove_additional_fees_on_carsharing_pricing_model_before_rental_with_pricing_snapshot_flag_on" time="0.961" timestamp="2022-07-25T10:50:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestAdditionalFeesAndTaxesForPricingSnapshot" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2157" name="test_remove_additional_fees_using_api_patch_request_before_rental_with_pricing_snapshot_flag_on" time="1.040" timestamp="2022-07-25T10:50:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestAdditionalFeesAndTaxesForPricingSnapshot" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2341" name="test_remove_additional_taxes_using_api_patch_request_before_rental_with_pricing_snapshot_flag_on" time="1.136" timestamp="2022-07-25T10:50:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

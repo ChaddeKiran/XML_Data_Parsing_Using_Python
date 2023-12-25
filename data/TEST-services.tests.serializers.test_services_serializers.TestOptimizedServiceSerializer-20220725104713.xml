@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/serializers/test_services_serializers.py" name="services.tests.serializers.test_services_serializers.TestOptimizedServiceSerializer-20220725104713" skipped="0" tests="2" time="0.883" timestamp="2022-07-25T10:51:11">
+	<testcase classname="services.tests.serializers.test_services_serializers.TestOptimizedServiceSerializer" file="services/tests/serializers/test_services_serializers.py" line="13" name="test_is_business_field_for_business_service" time="0.544" timestamp="2022-07-25T10:51:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.serializers.test_services_serializers.TestOptimizedServiceSerializer" file="services/tests/serializers/test_services_serializers.py" line="8" name="test_is_business_field_for_non_business_service" time="0.339" timestamp="2022-07-25T10:51:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

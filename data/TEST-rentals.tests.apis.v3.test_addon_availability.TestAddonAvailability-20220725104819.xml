@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_addon_availability.py" name="rentals.tests.apis.v3.test_addon_availability.TestAddonAvailability-20220725104819" skipped="0" tests="8" time="1.788" timestamp="2022-07-25T11:03:32">
+	<testcase classname="rentals.tests.apis.v3.test_addon_availability.TestAddonAvailability" file="rentals/tests/apis/v3/test_addon_availability.py" line="59" name="test_addon_availabilty_with_distance_addons" time="0.295" timestamp="2022-07-25T11:03:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'payments.models.addon_models.Addon'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_addon_availability.TestAddonAvailability" file="rentals/tests/apis/v3/test_addon_availability.py" line="40" name="test_addon_availabilty_with_flat_and_multiple_addons" time="0.305" timestamp="2022-07-25T11:03:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_addon_availability.TestAddonAvailability" file="rentals/tests/apis/v3/test_addon_availability.py" line="142" name="test_addon_availabilty_with_time_addons_five" time="0.178" timestamp="2022-07-25T11:03:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_addon_availability.TestAddonAvailability" file="rentals/tests/apis/v3/test_addon_availability.py" line="127" name="test_addon_availabilty_with_time_addons_four" time="0.171" timestamp="2022-07-25T11:03:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_addon_availability.TestAddonAvailability" file="rentals/tests/apis/v3/test_addon_availability.py" line="72" name="test_addon_availabilty_with_time_addons_one" time="0.168" timestamp="2022-07-25T11:03:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_addon_availability.TestAddonAvailability" file="rentals/tests/apis/v3/test_addon_availability.py" line="108" name="test_addon_availabilty_with_time_addons_three" time="0.171" timestamp="2022-07-25T11:03:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_addon_availability.TestAddonAvailability" file="rentals/tests/apis/v3/test_addon_availability.py" line="89" name="test_addon_availabilty_with_time_addons_two" time="0.168" timestamp="2022-07-25T11:03:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_addon_availability.TestAddonAvailability" file="rentals/tests/apis/v3/test_addon_availability.py" line="157" name="test_addon_availabilty_without_required_parameters" time="0.331" timestamp="2022-07-25T11:03:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="situation_engine/tests/utils/test_criteria.py" name="situation_engine.tests.utils.test_criteria.TestCriteriaFunctions-20220725104713" skipped="0" tests="6" time="0.128" timestamp="2022-07-25T10:52:02">
+	<testcase classname="situation_engine.tests.utils.test_criteria.TestCriteriaFunctions" file="situation_engine/tests/utils/test_criteria.py" line="53" name="test_all_of" time="0.022" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.utils.test_criteria.TestCriteriaFunctions" file="situation_engine/tests/utils/test_criteria.py" line="36" name="test_any_of" time="0.020" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.utils.test_criteria.TestCriteriaFunctions" file="situation_engine/tests/utils/test_criteria.py" line="70" name="test_none_of" time="0.021" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.utils.test_criteria.TestCriteriaFunctions" file="situation_engine/tests/utils/test_criteria.py" line="96" name="test_time_since_greater_than" time="0.021" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.utils.test_criteria.TestCriteriaFunctions" file="situation_engine/tests/utils/test_criteria.py" line="116" name="test_time_since_less_than" time="0.021" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.utils.test_criteria.TestCriteriaFunctions" file="situation_engine/tests/utils/test_criteria.py" line="136" name="test_value_in" time="0.023" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

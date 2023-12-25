@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_customers.py" name="users.tests.models.test_customers.CustomerTestCase-20220725104545" skipped="0" tests="2" time="0.854" timestamp="2022-07-25T11:06:26">
+	<testcase classname="users.tests.models.test_customers.CustomerTestCase" file="users/tests/models/test_customers.py" line="18" name="test_exempt_regions" time="0.599" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_customers.CustomerTestCase" file="users/tests/models/test_customers.py" line="31" name="test_service_blocked_at" time="0.255" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

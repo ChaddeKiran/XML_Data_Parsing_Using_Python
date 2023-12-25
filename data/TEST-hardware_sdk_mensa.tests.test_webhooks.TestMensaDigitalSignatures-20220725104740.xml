@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestMensaDigitalSignatures-20220725104740" skipped="0" tests="2" time="0.051" timestamp="2022-07-25T10:59:51">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaDigitalSignatures" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1637" name="test__create_push_auth_signature" time="0.023" timestamp="2022-07-25T10:59:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaDigitalSignatures" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1625" name="test_create_auth_signature" time="0.028" timestamp="2022-07-25T10:59:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

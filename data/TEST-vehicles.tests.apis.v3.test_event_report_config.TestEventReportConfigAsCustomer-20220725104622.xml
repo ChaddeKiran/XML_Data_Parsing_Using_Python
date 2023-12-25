@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_event_report_config.py" name="vehicles.tests.apis.v3.test_event_report_config.TestEventReportConfigAsCustomer-20220725104622" skipped="0" tests="1" time="0.279" timestamp="2022-07-25T11:02:38">
+	<testcase classname="vehicles.tests.apis.v3.test_event_report_config.TestEventReportConfigAsCustomer" file="vehicles/tests/apis/v3/test_event_report_config.py" line="24" name="test_event_report_config" time="0.279" timestamp="2022-07-25T11:02:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

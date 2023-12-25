@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_services.py" name="services.tests.apis.v3.test_services.TestRidesharingServicesAPIV3AsDispatcherAccessRestrictions-20220725104713" skipped="0" tests="4" time="3.036" timestamp="2022-07-25T10:50:35">
+	<testcase classname="services.tests.apis.v3.test_services.TestRidesharingServicesAPIV3AsDispatcherAccessRestrictions" file="services/tests/apis/v3/test_services.py" line="365" name="test_v3_destroy" time="0.758" timestamp="2022-07-25T10:50:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestRidesharingServicesAPIV3AsDispatcherAccessRestrictions" file="services/tests/apis/v3/test_services.py" line="353" name="test_v3_get" time="0.776" timestamp="2022-07-25T10:50:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestRidesharingServicesAPIV3AsDispatcherAccessRestrictions" file="services/tests/apis/v3/test_services.py" line="357" name="test_v3_patch" time="0.769" timestamp="2022-07-25T10:50:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestRidesharingServicesAPIV3AsDispatcherAccessRestrictions" file="services/tests/apis/v3/test_services.py" line="361" name="test_v3_put" time="0.733" timestamp="2022-07-25T10:50:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

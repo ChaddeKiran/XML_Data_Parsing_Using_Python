@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestCancelJobAndAlertForResolvedVehicleConditions-20220725104622" skipped="0" tests="8" time="14.984" timestamp="2022-07-25T10:55:18">
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestCancelJobAndAlertForResolvedVehicleConditions" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1371" name="test_alert_is_not_selected_when_resolved_condition_not_linked_to_it" time="1.692" timestamp="2022-07-25T10:55:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestCancelJobAndAlertForResolvedVehicleConditions" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1342" name="test_alert_not_selected_when_only_some_conditions_are_resolved" time="3.257" timestamp="2022-07-25T10:55:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestCancelJobAndAlertForResolvedVehicleConditions" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1330" name="test_alert_selected_when_all_conditions_are_resolved" time="1.868" timestamp="2022-07-25T10:55:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestCancelJobAndAlertForResolvedVehicleConditions" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1354" name="test_alert_selected_when_conditions_are_mix_of_resolved_and_duplicate" time="1.863" timestamp="2022-07-25T10:55:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestCancelJobAndAlertForResolvedVehicleConditions" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1377" name="test_alert_with_missing_json_keys" time="1.015" timestamp="2022-07-25T10:55:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestCancelJobAndAlertForResolvedVehicleConditions" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1382" name="test_alert_with_no_job_linked_to_it_is_not_selected" time="1.898" timestamp="2022-07-25T10:55:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestCancelJobAndAlertForResolvedVehicleConditions" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1392" name="test_closed_or_cancelled_alerts_are_not_selected" time="1.938" timestamp="2022-07-25T10:55:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestCancelJobAndAlertForResolvedVehicleConditions" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1405" name="test_job_cancellation_flow" time="1.451" timestamp="2022-07-25T10:55:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

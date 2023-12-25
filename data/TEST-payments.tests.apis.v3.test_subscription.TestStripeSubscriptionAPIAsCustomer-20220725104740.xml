@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_subscription.py" name="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer-20220725104740" skipped="0" tests="19" time="10.772" timestamp="2022-07-25T11:06:37">
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="1115" name="test_cancel_one_subscription_of_credit_card_with_two_subscriptions" time="0.463" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="1072" name="test_cancel_subscription" time="0.643" timestamp="2022-07-25T11:06:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="1092" name="test_cancel_subscription_associated_with_membership" time="0.438" timestamp="2022-07-25T11:06:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="857" name="test_create_multiple_subscriptions_with_membership" time="2.002" timestamp="2022-07-25T11:06:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="866" name="test_create_multiple_subscriptions_with_membership_01" time="0.492" timestamp="2022-07-25T11:06:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="798" name="test_create_subscription_with_customer_having_active_membership" time="0.648" timestamp="2022-07-25T11:06:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="847" name="test_create_subscription_with_inactive_membership" time="0.329" timestamp="2022-07-25T11:06:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="775" name="test_create_subscription_with_membership" time="0.482" timestamp="2022-07-25T11:06:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="881" name="test_create_subscription_with_other_customers_credit_card" time="0.467" timestamp="2022-07-25T11:06:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="892" name="test_create_subscription_without_credit_card" time="0.324" timestamp="2022-07-25T11:06:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="903" name="test_create_subscription_without_default_credit_card" time="0.489" timestamp="2022-07-25T11:06:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="1043" name="test_downgrade_pending_subscription" time="0.427" timestamp="2022-07-25T11:06:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="1015" name="test_downgrade_subscription" time="0.557" timestamp="2022-07-25T11:06:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Subscription.start_datetime received a naive datetime (2022-07-25 10:43:14.434564) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="1058" name="test_downgrade_subscription_to_same_membership" time="0.380" timestamp="2022-07-25T11:06:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Subscription.start_datetime received a naive datetime (2022-07-25 10:43:14.434564) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField Subscription.paid_through_datetime received a naive datetime (2022-08-24 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="917" name="test_update_credit_card_of_subscription" time="0.825" timestamp="2022-07-25T11:06:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="939" name="test_update_immutable_fields_of_subscription" time="0.385" timestamp="2022-07-25T11:06:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="984" name="test_upgrade_pending_subscription" time="0.401" timestamp="2022-07-25T11:06:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="961" name="test_upgrade_subscription" time="0.622" timestamp="2022-07-25T11:06:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Subscription.start_datetime received a naive datetime (2022-07-25 10:43:14.434564) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField Subscription.paid_through_datetime received a naive datetime (2021-07-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsCustomer" file="payments/tests/apis/v3/test_subscription.py" line="1001" name="test_upgrade_subscription_to_same_membership" time="0.396" timestamp="2022-07-25T11:06:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Subscription.start_datetime received a naive datetime (2022-07-25 10:43:14.434564) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField Subscription.paid_through_datetime received a naive datetime (2022-08-24 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

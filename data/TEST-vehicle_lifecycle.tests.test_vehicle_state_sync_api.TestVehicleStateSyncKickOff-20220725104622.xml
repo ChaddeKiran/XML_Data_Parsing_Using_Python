@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" name="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncKickOff-20220725104622" skipped="0" tests="3" time="1.345" timestamp="2022-07-25T10:59:04">
+	<testcase classname="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncKickOff" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" line="156" name="test_kickoff_when_no_records" time="0.390" timestamp="2022-07-25T10:59:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncKickOff" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" line="185" name="test_kickoff_when_record_present_for_vehicle_in_ODS_and_IT_Fleet_and_vehicle_created" time="0.517" timestamp="2022-07-25T10:59:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:42:43.518998) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncKickOff" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" line="164" name="test_kickoff_when_record_present_for_vehicle_in_ODS_and_vehicle_created" time="0.439" timestamp="2022-07-25T10:59:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

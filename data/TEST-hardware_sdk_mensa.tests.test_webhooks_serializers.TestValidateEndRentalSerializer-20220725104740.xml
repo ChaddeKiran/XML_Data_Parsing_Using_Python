@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" name="hardware_sdk_mensa.tests.test_webhooks_serializers.TestValidateEndRentalSerializer-20220725104740" skipped="0" tests="3" time="0.013" timestamp="2022-07-25T11:00:39">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestValidateEndRentalSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="252" name="test_good_data" time="0.004" timestamp="2022-07-25T11:00:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestValidateEndRentalSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="261" name="test_id_present_but_null" time="0.004" timestamp="2022-07-25T11:00:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestValidateEndRentalSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="256" name="test_missing_id" time="0.004" timestamp="2022-07-25T11:00:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

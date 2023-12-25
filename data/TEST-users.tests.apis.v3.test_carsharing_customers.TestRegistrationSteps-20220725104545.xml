@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_carsharing_customers.py" name="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps-20220725104545" skipped="0" tests="14" time="13.514" timestamp="2022-07-25T11:04:06">
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="742" name="test_for_hybrid_profile_with_rider_verification_disabled" time="1.220" timestamp="2022-07-25T11:03:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="709" name="test_for_hybrid_profile_with_updated_registration_criteria" time="1.241" timestamp="2022-07-25T11:03:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="690" name="test_for_hybrid_profile_without_registration_criteria" time="1.096" timestamp="2022-07-25T11:03:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="584" name="test_for_personal_profile_with_registration_criteria" time="0.577" timestamp="2022-07-25T11:03:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="674" name="test_for_personal_profile_with_rider_verification_disabled" time="0.637" timestamp="2022-07-25T11:03:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="575" name="test_for_personal_profile_without_registration_criteria" time="0.464" timestamp="2022-07-25T11:03:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="767" name="test_license_check_for_hybrid_profile_01" time="1.278" timestamp="2022-07-25T11:03:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="795" name="test_license_check_for_hybrid_profile_02" time="1.293" timestamp="2022-07-25T11:04:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="827" name="test_license_check_for_hybrid_profile_03" time="1.516" timestamp="2022-07-25T11:04:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="862" name="test_license_check_for_hybrid_profile_04" time="1.340" timestamp="2022-07-25T11:04:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="894" name="test_license_check_for_hybrid_profile_05" time="1.451" timestamp="2022-07-25T11:04:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="651" name="test_license_check_for_personal_profile_when_it_is_disabled_in_registration_and_reservation_criterias" time="0.540" timestamp="2022-07-25T11:04:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="631" name="test_license_check_for_personal_profile_with_no_reservation_criteria" time="0.434" timestamp="2022-07-25T11:04:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestRegistrationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="608" name="test_license_check_for_personal_profile_with_registration_criteria_and_reservation_criteria" time="0.427" timestamp="2022-07-25T11:04:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

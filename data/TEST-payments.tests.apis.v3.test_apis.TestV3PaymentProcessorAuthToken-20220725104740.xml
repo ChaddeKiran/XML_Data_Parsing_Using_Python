@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_apis.py" name="payments.tests.apis.v3.test_apis.TestV3PaymentProcessorAuthToken-20220725104740" skipped="0" tests="7" time="2.810" timestamp="2022-07-25T11:05:26">
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentProcessorAuthToken" file="payments/tests/apis/v3/test_apis.py" line="274" name="test_braintree_payment_provider" time="0.466" timestamp="2022-07-25T11:05:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentProcessorAuthToken" file="payments/tests/apis/v3/test_apis.py" line="300" name="test_braintree_payment_provider_as_customer" time="0.451" timestamp="2022-07-25T11:05:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentProcessorAuthToken" file="payments/tests/apis/v3/test_apis.py" line="286" name="test_invalid_payment_provider" time="0.445" timestamp="2022-07-25T11:05:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentProcessorAuthToken" file="payments/tests/apis/v3/test_apis.py" line="267" name="test_stripe_payment_provider" time="0.338" timestamp="2022-07-25T11:05:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentProcessorAuthToken" file="payments/tests/apis/v3/test_apis.py" line="292" name="test_stripe_payment_provider_as_customer" time="0.382" timestamp="2022-07-25T11:05:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentProcessorAuthToken" file="payments/tests/apis/v3/test_apis.py" line="262" name="test_unallowed_list_methods" time="0.394" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentProcessorAuthToken" file="payments/tests/apis/v3/test_apis.py" line="257" name="test_unauthorized" time="0.334" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

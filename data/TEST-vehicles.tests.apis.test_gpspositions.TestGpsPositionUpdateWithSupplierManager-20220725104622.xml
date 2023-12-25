@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/test_gpspositions.py" name="vehicles.tests.apis.test_gpspositions.TestGpsPositionUpdateWithSupplierManager-20220725104622" skipped="0" tests="1" time="0.000" timestamp="2019-11-14T19:00:00">
+	<testcase classname="vehicles.tests.apis.test_gpspositions.TestGpsPositionUpdateWithSupplierManager" file="vehicles/tests/apis/test_gpspositions.py" line="39" name="test_gps_creation_with_supplier" time="0.000" timestamp="2019-11-14T19:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

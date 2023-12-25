@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_email_utils.py" name="django_utils.tests.utils.test_email_utils.EmailValidationTest-20220725104740" skipped="0" tests="2" time="1.359" timestamp="2022-07-25T10:54:36">
+	<testcase classname="django_utils.tests.utils.test_email_utils.EmailValidationTest" file="django_utils/tests/utils/test_email_utils.py" line="23" name="test_user_list_validation_where_all_emails_are_valid" time="0.684" timestamp="2022-07-25T10:54:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_email_utils.EmailValidationTest" file="django_utils/tests/utils/test_email_utils.py" line="29" name="test_user_list_validation_where_some_emails_are_invalid" time="0.674" timestamp="2022-07-25T10:54:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

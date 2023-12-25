@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/tasks/test_rental_payments.py" name="payments.tests.tasks.test_rental_payments.TestFailedHoldPaymentTasks-20220725104819" skipped="0" tests="1" time="0.432" timestamp="2022-07-25T10:49:59">
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestFailedHoldPaymentTasks" file="payments/tests/tasks/test_rental_payments.py" line="56" name="test_hold_failed_scheduled_rental_request_payments" time="0.432" timestamp="2022-07-25T10:49:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

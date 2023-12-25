@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation-20220725110857" skipped="1" tests="46" time="38.759" timestamp="2022-07-25T11:10:08">
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="330" name="test_alert_skipped_for_inactive_vehicle" time="1.266" timestamp="2022-07-25T11:09:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="996" name="test_closed_higher_value_alert_should_not_create_schduled_alert" time="0.892" timestamp="2022-07-25T11:09:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1289" name="test_dtc_create_alert_with_already_existing" time="0.906" timestamp="2022-07-25T11:09:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1319" name="test_dtc_create_alert_with_already_existing_closed" time="0.918" timestamp="2022-07-25T11:09:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1208" name="test_dtc_create_alert_with_multiple_automation_setting_items" time="0.816" timestamp="2022-07-25T11:09:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1427" name="test_dtc_create_alert_with_multiple_dtc_codes_and_with_invalid_classification" time="0.799" timestamp="2022-07-25T11:09:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1249" name="test_dtc_create_alert_with_one_recommendation_matched_multiple_dtc_code" time="0.814" timestamp="2022-07-25T11:09:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1391" name="test_dtc_create_alert_with_out_matching_recommendation_id" time="0.805" timestamp="2022-07-25T11:09:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1350" name="test_dtc_skip_alert_with_inactive_automaion_setting" time="0.751" timestamp="2022-07-25T11:09:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1368" name="test_dtc_skip_hella_call_all_dtc_codes_alert_exists" time="0.892" timestamp="2022-07-25T11:09:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="773" name="test_duplicate_setting_should_create_new_alert_for_vehicle_with_existing_alert_of_other_type" time="0.793" timestamp="2022-07-25T11:09:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="749" name="test_duplicate_setting_should_not_create_duplicate_alert_for_vehicle" time="0.801" timestamp="2022-07-25T11:09:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="962" name="test_duplicate_setting_with_same_or_diff_job_type_should_not_create_duplicate_scheduled_alert_for_vehicle" time="0.777" timestamp="2022-07-25T11:09:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="317" name="test_newly_created_alert_contains_trigger_value" time="0.780" timestamp="2022-07-25T11:09:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="480" name="test_process_telematics_event_check_vehicle_rental_in_progress_for_move_to_maintenance_status" time="1.243" timestamp="2022-07-25T11:09:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="459" name="test_process_telematics_event_check_vehicle_reservation_status_for_move_to_maintenance_status" time="0.935" timestamp="2022-07-25T11:09:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="281" name="test_process_telematics_event_create_trigger_alert" time="0.798" timestamp="2022-07-25T11:09:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1116" name="test_process_telematics_event_create_trigger_alert_engine_mil_status" time="0.789" timestamp="2022-07-25T11:09:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="299" name="test_process_telematics_event_create_trigger_alert_with_conversion_unit" time="0.891" timestamp="2022-07-25T11:09:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="373" name="test_process_telematics_event_create_trigger_alert_with_empty_vehicle_types" time="0.780" timestamp="2022-07-25T11:09:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="806" name="test_process_telematics_event_create_trigger_alert_with_existing_alert_on_other_vehicle" time="0.804" timestamp="2022-07-25T11:09:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="393" name="test_process_telematics_event_create_trigger_alert_with_move_to_maintenance_status" time="0.865" timestamp="2022-07-25T11:09:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="437" name="test_process_telematics_event_does_move_to_maintenance_if_size_permits" time="1.308" timestamp="2022-07-25T11:09:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1145" name="test_process_telematics_event_does_not_log_error_when_engine_mil_status_is_false" time="0.769" timestamp="2022-07-25T11:09:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="415" name="test_process_telematics_event_does_not_move_to_maintenance_if_limit_is_reached" time="0.820" timestamp="2022-07-25T11:09:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1166" name="test_process_telematics_event_logs_error_for_any_value_missing" time="0.772" timestamp="2022-07-25T11:09:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1175" name="test_process_telematics_event_logs_error_for_engine_mil_status_missing" time="0.764" timestamp="2022-07-25T11:09:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="895" name="test_process_telematics_event_should_catch_and_log_unsupported_conversion" time="0.854" timestamp="2022-07-25T11:09:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="863" name="test_process_telematics_event_should_create_scheduled_alert" time="0.776" timestamp="2022-07-25T11:09:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1046" name="test_process_telematics_event_should_create_scheduled_alert_when_exist_other_schduled_alert" time="0.786" timestamp="2022-07-25T11:09:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="879" name="test_process_telematics_event_should_create_scheduled_alert_with_conversion_unit" time="0.869" timestamp="2022-07-25T11:09:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="946" name="test_process_telematics_event_should_not_create_duplicate_scheduled_alert" time="0.749" timestamp="2022-07-25T11:09:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1077" name="test_process_telematics_event_should_not_create_duplicate_telematics_data_event_rows" time="0.768" timestamp="2022-07-25T11:09:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="917" name="test_process_telematics_event_should_not_create_scheduled_alert_for_deleted_setting" time="0.779" timestamp="2022-07-25T11:09:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="931" name="test_process_telematics_event_should_not_create_scheduled_alert_for_inactive_setting" time="0.773" timestamp="2022-07-25T11:09:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="342" name="test_process_telematics_event_should_not_create_trigger_alert_for_deleted_setting" time="0.747" timestamp="2022-07-25T11:10:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="357" name="test_process_telematics_event_should_not_create_trigger_alert_for_inactive_setting" time="0.753" timestamp="2022-07-25T11:10:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="553" name="test_process_telematics_event_should_resolve_trigger_alert" time="0.800" timestamp="2022-07-25T11:10:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="714" name="test_process_telematics_event_should_resolve_trigger_alert_with_deleted_setting" time="0.784" timestamp="2022-07-25T11:10:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="731" name="test_process_telematics_event_should_resolve_trigger_alert_with_inactive_setting" time="0.774" timestamp="2022-07-25T11:10:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="570" name="test_process_telematics_event_should_resolve_trigger_alert_with_move_to_available_status" time="1.042" timestamp="2022-07-25T11:10:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="598" name="test_process_telematics_event_with_resolve_trigger_alert_with_multiple_alerts_and_move_to_original_groups" time="1.141" timestamp="2022-07-25T11:10:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="660" name="test_process_telematics_single_event_with_multiple_alerts_and_move_to_original_groups" time="1.077" timestamp="2022-07-25T11:10:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1017" name="test_scheduled_alert_creation_with_multiple_settings" time="0.835" timestamp="2022-07-25T11:10:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="501" name="test_sets_service_id_for_subsequent_trigger_alert_with_move_to_maintenance_status" time="0.903" timestamp="2022-07-25T11:10:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestDTCAutomation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1088" name="test_duplicate_rows_removed" time="0.002" timestamp="2022-07-25T11:09:38">
+		<skipped message="test_logic_for_clear_duplicate_telematic_data_event" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

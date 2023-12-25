@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/actions/test_actions.py" name="calendars.tests.actions.test_actions.TestActivePricingAction-20220725104740" skipped="0" tests="3" time="0.311" timestamp="2022-07-25T10:53:08">
+	<testcase classname="calendars.tests.actions.test_actions.TestActivePricingAction" file="calendars/tests/actions/test_actions.py" line="25" name="test_action_updates_carsharingpricing" time="0.262" timestamp="2022-07-25T10:53:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.actions.test_actions.TestActivePricingAction" file="calendars/tests/actions/test_actions.py" line="45" name="test_invalid_action_object_id_carsharingpricing" time="0.024" timestamp="2022-07-25T10:53:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.actions.test_actions.TestActivePricingAction" file="calendars/tests/actions/test_actions.py" line="35" name="test_noop" time="0.025" timestamp="2022-07-25T10:53:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

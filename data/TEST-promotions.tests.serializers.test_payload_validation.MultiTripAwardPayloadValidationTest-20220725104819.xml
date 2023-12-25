@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/serializers/test_payload_validation.py" name="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest-20220725104819" skipped="0" tests="13" time="10.360" timestamp="2022-07-25T10:59:02">
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="113" name="test_cannot_extract_number_of_codes_without_validating_emails" time="0.979" timestamp="2022-07-25T10:58:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="124" name="test_complete_rides_by_cannot_be_before_starts_at" time="0.796" timestamp="2022-07-25T10:58:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="134" name="test_credit_expiry_in_days_must_be_positive" time="0.758" timestamp="2022-07-25T10:58:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="117" name="test_number_of_codes_matches_validated_users" time="0.799" timestamp="2022-07-25T10:58:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="142" name="test_usage_expiry_of_promotion_can_be_calculated_given_payload" time="0.882" timestamp="2022-07-25T10:58:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="96" name="test_user_list_validation_where_all_emails_are_valid" time="0.786" timestamp="2022-07-25T10:58:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="102" name="test_user_list_validation_where_some_emails_are_invalid" time="0.743" timestamp="2022-07-25T10:58:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="62" name="test_validation_succeeds_with_all_attributes" time="0.721" timestamp="2022-07-25T10:58:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="72" name="test_validation_with_attributes_which_must_not_be_present_should_fail" time="0.756" timestamp="2022-07-25T10:58:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="65" name="test_validation_with_empty_user_list_fails" time="0.936" timestamp="2022-07-25T10:58:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="79" name="test_validation_with_missing_attributes_which_must_be_present_should_fail" time="0.762" timestamp="2022-07-25T10:59:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="149" name="test_validation_with_partial_data" time="0.708" timestamp="2022-07-25T10:59:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_payload_validation.MultiTripAwardPayloadValidationTest" file="promotions/tests/serializers/test_payload_validation.py" line="89" name="test_validation_with_partial_data_must_check_partial_attributes" time="0.733" timestamp="2022-07-25T10:59:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

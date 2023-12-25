@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_vehicle_leasing.py" name="rentals.tests.apis.v3.test_vehicle_leasing.TestSRRVehicleLeasingV3API-20220725105046" skipped="0" tests="3" time="2.015" timestamp="2022-07-25T11:04:51">
+	<testcase classname="rentals.tests.apis.v3.test_vehicle_leasing.TestSRRVehicleLeasingV3API" file="rentals/tests/apis/v3/test_vehicle_leasing.py" line="74" name="test_successful_lease_srr" time="0.926" timestamp="2022-07-25T11:04:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_vehicle_leasing.TestSRRVehicleLeasingV3API" file="rentals/tests/apis/v3/test_vehicle_leasing.py" line="85" name="test_vehicle_type_leasing_entity_is_active" time="0.549" timestamp="2022-07-25T11:04:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_vehicle_leasing.TestSRRVehicleLeasingV3API" file="rentals/tests/apis/v3/test_vehicle_leasing.py" line="98" name="test_vehicle_type_leasing_entity_plan_is_not_deleted" time="0.539" timestamp="2022-07-25T11:04:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

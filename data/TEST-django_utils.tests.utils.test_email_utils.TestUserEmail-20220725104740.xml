@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_email_utils.py" name="django_utils.tests.utils.test_email_utils.TestUserEmail-20220725104740" skipped="0" tests="3" time="1.042" timestamp="2022-07-25T10:54:37">
+	<testcase classname="django_utils.tests.utils.test_email_utils.TestUserEmail" file="django_utils/tests/utils/test_email_utils.py" line="87" name="test_send_user_email_internal_customer_plus_address_considered" time="0.359" timestamp="2022-07-25T10:54:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_email_utils.TestUserEmail" file="django_utils/tests/utils/test_email_utils.py" line="95" name="test_send_user_email_internal_staff_plus_address_considered" time="0.339" timestamp="2022-07-25T10:54:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_email_utils.TestUserEmail" file="django_utils/tests/utils/test_email_utils.py" line="79" name="test_send_user_email_internal_staff_plus_address_ignored" time="0.344" timestamp="2022-07-25T10:54:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

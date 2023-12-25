@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_carsharing_customers.py" name="users.tests.apis.v3.test_carsharing_customers.TestCarsharingCustomerFiltering-20220725104545" skipped="0" tests="5" time="5.068" timestamp="2022-07-25T11:03:07">
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCarsharingCustomerFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="100" name="test_customer_phone_search" time="0.954" timestamp="2022-07-25T11:03:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCarsharingCustomerFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="52" name="test_filter_by_service_id" time="1.865" timestamp="2022-07-25T11:03:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCarsharingCustomerFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="93" name="test_get_customer" time="0.634" timestamp="2022-07-25T11:03:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCarsharingCustomerFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="147" name="test_id_search" time="0.657" timestamp="2022-07-25T11:03:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCarsharingCustomerFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="119" name="test_name_search" time="0.958" timestamp="2022-07-25T11:03:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications-20220725105046" skipped="0" tests="20" time="17.346" timestamp="2022-07-25T11:04:09">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4879" name="test_assigned_change_end_time_sends_correct_notification" time="0.948" timestamp="2022-07-25T11:03:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4897" name="test_assigned_change_vehicle_type_sends_correct_notification" time="0.755" timestamp="2022-07-25T11:03:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="5006" name="test_cancel_notification" time="0.759" timestamp="2022-07-25T11:03:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="5021" name="test_cancel_notification_is_cancelled_flag" time="0.759" timestamp="2022-07-25T11:03:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="5036" name="test_customer_cancel_notification_is_cancelled_flag" time="0.798" timestamp="2022-07-25T11:03:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="5071" name="test_end_location_notification" time="0.795" timestamp="2022-07-25T11:03:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4827" name="test_end_time_change_sends_correct_notification" time="0.769" timestamp="2022-07-25T11:03:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="5051" name="test_end_time_notification" time="0.932" timestamp="2022-07-25T11:03:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="5091" name="test_multiple_notification" time="1.223" timestamp="2022-07-25T11:04:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4810" name="test_post_buffer_end_time_notification" time="0.887" timestamp="2022-07-25T11:04:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4793" name="test_pre_buffer_end_time_notification" time="2.299" timestamp="2022-07-25T11:04:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4778" name="test_pre_buffer_notification" time="0.767" timestamp="2022-07-25T11:04:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4972" name="test_vehicle_assign_in_service_works" time="0.863" timestamp="2022-07-25T11:04:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4961" name="test_vehicle_assign_not_in_service_fails" time="0.687" timestamp="2022-07-25T11:04:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4935" name="test_vehicle_notification" time="0.489" timestamp="2022-07-25T11:04:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4987" name="test_vehicle_reassign_in_service_works" time="1.032" timestamp="2022-07-25T11:04:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4860" name="test_vehicle_type_and_vehicle_assign_sends_correct_notification" time="0.769" timestamp="2022-07-25T11:04:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4843" name="test_vehicle_type_change_sends_correct_notification" time="0.692" timestamp="2022-07-25T11:04:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4917" name="test_vehicle_type_notification" time="0.662" timestamp="2022-07-25T11:04:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalUpdateNotifications" file="rentals/tests/apis/v3/test_scheduling.py" line="4948" name="test_vehicle_unassign_notification" time="0.462" timestamp="2022-07-25T11:04:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

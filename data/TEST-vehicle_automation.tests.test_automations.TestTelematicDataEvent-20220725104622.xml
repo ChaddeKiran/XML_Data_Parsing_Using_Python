@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automations.py" name="vehicle_automation.tests.test_automations.TestTelematicDataEvent-20220725104622" skipped="0" tests="1" time="0.143" timestamp="2022-07-25T10:52:03">
+	<testcase classname="vehicle_automation.tests.test_automations.TestTelematicDataEvent" file="vehicle_automation/tests/test_automations.py" line="151" name="test_create_telematic_data_event" time="0.143" timestamp="2022-07-25T10:52:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

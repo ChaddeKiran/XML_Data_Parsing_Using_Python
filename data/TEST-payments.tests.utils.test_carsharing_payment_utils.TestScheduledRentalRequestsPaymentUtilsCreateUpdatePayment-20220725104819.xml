@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateUpdatePayment-20220725104819" skipped="0" tests="3" time="2.611" timestamp="2022-07-25T10:51:47">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateUpdatePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3466" name="test_create_or_update_payment_with_scheduled_rental_no_overage" time="0.627" timestamp="2022-07-25T10:51:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateUpdatePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3505" name="test_create_or_update_payment_with_scheduled_rental_with_overage" time="0.810" timestamp="2022-07-25T10:51:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateUpdatePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3558" name="test_create_or_update_payment_with_scheduled_rental_with_overage_and_invalid_card" time="1.175" timestamp="2022-07-25T10:51:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

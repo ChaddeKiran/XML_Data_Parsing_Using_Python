@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_markers/tests/test_signals.py" name="vehicle_markers.tests.test_signals.TestMarkerTypeSignal-20220725104622" skipped="0" tests="2" time="0.194" timestamp="2022-07-25T10:59:09">
+	<testcase classname="vehicle_markers.tests.test_signals.TestMarkerTypeSignal" file="vehicle_markers/tests/test_signals.py" line="26" name="test_carsharing_vehicle_and_rental_are_republished_to_firebase_on_marker_type_deletion" time="0.104" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_markers.tests.test_signals.TestMarkerTypeSignal" file="vehicle_markers/tests/test_signals.py" line="45" name="test_carsharing_vehicle_and_rental_are_republished_to_firebase_on_marker_type_updation" time="0.089" timestamp="2022-07-25T10:59:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

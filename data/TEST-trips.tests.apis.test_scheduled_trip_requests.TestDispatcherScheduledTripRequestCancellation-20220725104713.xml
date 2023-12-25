@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCancellation-20220725104713" skipped="0" tests="3" time="3.218" timestamp="2022-07-25T10:56:38">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCancellation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2312" name="test_assign_driver_after_recently_cancelled_sched_trip_req" time="1.439" timestamp="2022-07-25T10:56:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCancellation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2298" name="test_scheduled_trip_request_cancellation" time="0.857" timestamp="2022-07-25T10:56:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCancellation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2303" name="test_scheduled_trip_request_cancellation_with_driver_assigned" time="0.922" timestamp="2022-07-25T10:56:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

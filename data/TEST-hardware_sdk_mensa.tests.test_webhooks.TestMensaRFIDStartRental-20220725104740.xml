@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestMensaRFIDStartRental-20220725104740" skipped="0" tests="7" time="8.895" timestamp="2022-07-25T11:00:09">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaRFIDStartRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1155" name="test_rfid_reservation_requested_confirmed_with_32_bit" time="1.296" timestamp="2022-07-25T11:00:01">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaRFIDStartRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1174" name="test_rfid_reservation_requested_confirmed_with_multiple_matching_rfids" time="1.871" timestamp="2022-07-25T11:00:03">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaRFIDStartRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1194" name="test_rfid_start_rental_carsharing_hardware_not_mensa" time="0.496" timestamp="2022-07-25T11:00:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaRFIDStartRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1087" name="test_rfid_start_rental_existing_rental_transition_to_booking" time="1.555" timestamp="2022-07-25T11:00:05">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaRFIDStartRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1131" name="test_rfid_start_rental_in_private_mode" time="1.270" timestamp="2022-07-25T11:00:07">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaRFIDStartRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1108" name="test_rfid_start_rental_incorrect_rfid" time="1.121" timestamp="2022-07-25T11:00:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaRFIDStartRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1063" name="test_rfid_start_rental_outside_private_mode" time="1.286" timestamp="2022-07-25T11:00:09">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

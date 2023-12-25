@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_carsharing_services.py" name="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous-20220725104713" skipped="0" tests="14" time="1.823" timestamp="2022-07-25T10:49:07">
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="160" name="test_delete" time="0.068" timestamp="2022-07-25T10:49:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="107" name="test_get" time="0.086" timestamp="2022-07-25T10:49:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="173" name="test_get_cities_for_carsharingservice" time="0.281" timestamp="2022-07-25T10:49:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="164" name="test_get_exclusive_service" time="0.128" timestamp="2022-07-25T10:49:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="116" name="test_get_for_business_service" time="0.384" timestamp="2022-07-25T10:49:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="53" name="test_list" time="0.079" timestamp="2022-07-25T10:49:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="61" name="test_list_for_business_service" time="0.198" timestamp="2022-07-25T10:49:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="70" name="test_list_is_ordered_by_name" time="0.302" timestamp="2022-07-25T10:49:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="81" name="test_list_with_fields_specified" time="0.065" timestamp="2022-07-25T10:49:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="91" name="test_list_with_nested_fields_specified" time="0.064" timestamp="2022-07-25T10:49:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="152" name="test_patch" time="0.065" timestamp="2022-07-25T10:49:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="148" name="test_post" time="0.039" timestamp="2022-07-25T10:49:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="156" name="test_put" time="0.042" timestamp="2022-07-25T10:49:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.TestCarsharingServicesAPIV3Anonymous" file="services/tests/apis/v3/test_carsharing_services.py" line="50" name="test_url" time="0.023" timestamp="2022-07-25T10:49:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

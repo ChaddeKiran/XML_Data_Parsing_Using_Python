@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/utils/test_user_utils.py" name="users.tests.utils.test_user_utils.TestValidateDOB-20220725104622" skipped="0" tests="3" time="0.000" timestamp="2022-07-25T10:42:43">
+	<testcase classname="users.tests.utils.test_user_utils.TestValidateDOB" file="users/tests/utils/test_user_utils.py" line="162" name="test_dob_is_none" time="0.000" timestamp="2022-07-25T10:42:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_user_utils.TestValidateDOB" file="users/tests/utils/test_user_utils.py" line="167" name="test_dob_is_too_young" time="0.000" timestamp="2022-07-25T10:42:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_user_utils.TestValidateDOB" file="users/tests/utils/test_user_utils.py" line="173" name="test_dob_old_enough" time="0.000" timestamp="2022-07-25T10:42:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

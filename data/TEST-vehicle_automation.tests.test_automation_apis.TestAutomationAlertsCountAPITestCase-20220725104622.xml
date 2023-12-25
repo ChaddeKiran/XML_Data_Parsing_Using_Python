@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automation_apis.py" name="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsCountAPITestCase-20220725104622" skipped="0" tests="8" time="0.000" timestamp="2017-12-19T12:54:09">
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsCountAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2745" name="test_get_alert_count_by_type" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsCountAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2841" name="test_get_alert_count_by_type_filter_by_automation_subtype_should_not_affect_count" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsCountAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2750" name="test_get_alert_count_by_type_filter_by_status_should_not_affect_count" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsCountAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2779" name="test_get_alert_count_by_type_filter_by_vehicle_make_should_not_affect_count" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsCountAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2907" name="test_get_alert_count_by_type_must_count_dtc_with_no_automation_setting_id" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsCountAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2874" name="test_get_alert_count_by_type_must_not_count_alerts_with_empty_service_id" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsCountAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2919" name="test_get_alert_count_by_type_must_not_count_dtc_with_empty_service_id" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsCountAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2811" name="test_get_automation_alerts_by_vehicle_reservation_status_should_not_affect_count" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC-20220725104819" skipped="0" tests="12" time="0.845" timestamp="2022-07-25T10:51:18">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4188" name="test_business_card_exempted_refund" time="0.108" timestamp="2022-07-25T10:51:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4218" name="test_cc_credit_multiple_refunds" time="0.094" timestamp="2022-07-25T10:51:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4050" name="test_cc_refund" time="0.046" timestamp="2022-07-25T10:51:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4202" name="test_credit_and_cc_refund" time="0.060" timestamp="2022-07-25T10:51:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4258" name="test_credit_and_cc_refund_fails" time="0.040" timestamp="2022-07-25T10:51:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4154" name="test_credit_and_referral_refund" time="0.061" timestamp="2022-07-25T10:51:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4087" name="test_credit_multitrip_and_cc_refund" time="0.063" timestamp="2022-07-25T10:51:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4071" name="test_credit_multitrip_flat_refund" time="0.062" timestamp="2022-07-25T10:51:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4105" name="test_credit_multitrip_percent_refund" time="0.136" timestamp="2022-07-25T10:51:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4059" name="test_credit_refund" time="0.080" timestamp="2022-07-25T10:51:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4277" name="test_credit_refund_fails" time="0.048" timestamp="2022-07-25T10:51:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestRefundingCreditsAndCC" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4176" name="test_exempted_refund" time="0.047" timestamp="2022-07-25T10:51:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

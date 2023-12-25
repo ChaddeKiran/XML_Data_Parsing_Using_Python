@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestCustomErrorHandling-20220725104740" skipped="0" tests="2" time="0.002" timestamp="2022-07-25T10:59:51">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestCustomErrorHandling" file="hardware_sdk_mensa/tests/test_webhooks.py" line="69" name="test_field_errors" time="0.001" timestamp="2022-07-25T10:59:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestCustomErrorHandling" file="hardware_sdk_mensa/tests/test_webhooks.py" line="74" name="test_non_field_errors" time="0.001" timestamp="2022-07-25T10:59:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

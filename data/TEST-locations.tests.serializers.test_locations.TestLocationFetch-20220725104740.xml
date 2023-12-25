@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/serializers/test_locations.py" name="locations.tests.serializers.test_locations.TestLocationFetch-20220725104740" skipped="0" tests="9" time="0.016" timestamp="2022-07-25T11:06:40">
+	<testcase classname="locations.tests.serializers.test_locations.TestLocationFetch" file="locations/tests/serializers/test_locations.py" line="252" name="test_alternate_location_label" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.serializers.test_locations.TestLocationFetch" file="locations/tests/serializers/test_locations.py" line="241" name="test_bare_location_resolved_by_serializer" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.serializers.test_locations.TestLocationFetch" file="locations/tests/serializers/test_locations.py" line="299" name="test_location_from_data_with_no_params" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.serializers.test_locations.TestLocationFetch" file="locations/tests/serializers/test_locations.py" line="293" name="test_location_from_lat_lng_requires_all_fields" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.serializers.test_locations.TestLocationFetch" file="locations/tests/serializers/test_locations.py" line="245" name="test_location_id" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.serializers.test_locations.TestLocationFetch" file="locations/tests/serializers/test_locations.py" line="279" name="test_location_id_is_taken_first" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.serializers.test_locations.TestLocationFetch" file="locations/tests/serializers/test_locations.py" line="289" name="test_location_in_id_is_returned" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.serializers.test_locations.TestLocationFetch" file="locations/tests/serializers/test_locations.py" line="266" name="test_location_lat_lng_display_name" time="0.003" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.serializers.test_locations.TestLocationFetch" file="locations/tests/serializers/test_locations.py" line="259" name="test_none_location_label" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

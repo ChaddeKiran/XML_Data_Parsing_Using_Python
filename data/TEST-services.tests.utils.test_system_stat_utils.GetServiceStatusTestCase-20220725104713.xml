@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/utils/test_system_stat_utils.py" name="services.tests.utils.test_system_stat_utils.GetServiceStatusTestCase-20220725104713" skipped="0" tests="2" time="1.204" timestamp="2022-07-25T10:51:50">
+	<testcase classname="services.tests.utils.test_system_stat_utils.GetServiceStatusTestCase" file="services/tests/utils/test_system_stat_utils.py" line="106" name="test_get_service_status_carsharing" time="0.718" timestamp="2022-07-25T10:51:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_system_stat_utils.GetServiceStatusTestCase" file="services/tests/utils/test_system_stat_utils.py" line="90" name="test_get_service_status_ridesharing" time="0.486" timestamp="2022-07-25T10:51:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

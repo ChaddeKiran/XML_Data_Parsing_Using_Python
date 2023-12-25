@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_business_entity.py" name="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI-20220725104740" skipped="0" tests="24" time="16.024" timestamp="2022-07-25T11:05:53">
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="362" name="test_brand_logo_from_get_apis" time="0.589" timestamp="2022-07-25T11:05:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="455" name="test_create_additional_resources" time="0.531" timestamp="2022-07-25T11:05:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="57" name="test_create_business_entity" time="0.677" timestamp="2022-07-25T11:05:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="245" name="test_create_business_entity_with_carsharing_services" time="0.669" timestamp="2022-07-25T11:05:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="153" name="test_create_business_entity_with_ext_intergation" time="0.508" timestamp="2022-07-25T11:05:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="142" name="test_create_business_entity_with_payment_type" time="0.411" timestamp="2022-07-25T11:05:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="209" name="test_delete_business_entity" time="0.575" timestamp="2022-07-25T11:05:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="301" name="test_empty_patch_does_not_remove_carsharing_service" time="0.795" timestamp="2022-07-25T11:05:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="437" name="test_filter_by_is_active" time="0.679" timestamp="2022-07-25T11:05:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="231" name="test_get_business_entity" time="0.762" timestamp="2022-07-25T11:05:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="160" name="test_get_business_entity_contains_payment_type" time="0.392" timestamp="2022-07-25T11:05:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="86" name="test_get_business_entity_preferred_group_vehicles" time="0.952" timestamp="2022-07-25T11:05:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="111" name="test_get_business_entity_user_groups" time="1.166" timestamp="2022-07-25T11:05:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="320" name="test_patch_with_invalid_carsharing_service" time="0.784" timestamp="2022-07-25T11:05:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="380" name="test_remove_brand_logo_to_existing_business_entity" time="0.553" timestamp="2022-07-25T11:05:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="396" name="test_search_by_id" time="0.653" timestamp="2022-07-25T11:05:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="405" name="test_search_by_legal_name" time="0.643" timestamp="2022-07-25T11:05:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="415" name="test_sort_by_legal_name" time="0.692" timestamp="2022-07-25T11:05:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="172" name="test_update_business_entity" time="0.643" timestamp="2022-07-25T11:05:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="262" name="test_update_business_entity_with_carsharing_services" time="0.801" timestamp="2022-07-25T11:05:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="277" name="test_update_business_entity_with_carsharing_services_doesnot_remove_existing_services" time="1.022" timestamp="2022-07-25T11:05:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="193" name="test_update_business_entity_with_payment_type" time="0.579" timestamp="2022-07-25T11:05:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="345" name="test_upload_brand_logo_to_existing_business_entity" time="0.560" timestamp="2022-07-25T11:05:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPI" file="payments/tests/apis/v3/test_business_entity.py" line="331" name="test_upload_brand_logo_with_business_entity_create" time="0.387" timestamp="2022-07-25T11:05:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

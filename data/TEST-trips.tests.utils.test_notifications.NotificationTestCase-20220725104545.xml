@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/utils/test_notifications.py" name="trips.tests.utils.test_notifications.NotificationTestCase-20220725104545" skipped="0" tests="1" time="0.866" timestamp="2022-07-25T10:50:32">
+	<testcase classname="trips.tests.utils.test_notifications.NotificationTestCase" file="trips/tests/utils/test_notifications.py" line="20" name="test_notify_driver_assigned" time="0.866" timestamp="2022-07-25T10:50:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

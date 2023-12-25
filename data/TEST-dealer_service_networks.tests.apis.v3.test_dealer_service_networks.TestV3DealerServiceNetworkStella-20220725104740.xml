@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" name="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella-20220725104740" skipped="0" tests="20" time="5.463" timestamp="2022-07-25T10:54:21">
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="227" name="test_cancel_dealer_appointment_failure_dealer_network_api_failure" time="0.261" timestamp="2022-07-25T10:54:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="219" name="test_cancel_dealer_appointment_failure_missing_params" time="0.256" timestamp="2022-07-25T10:54:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="237" name="test_cancel_dealer_appointment_failure_no_dealer_network" time="0.328" timestamp="2022-07-25T10:54:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="211" name="test_cancel_dealer_appointment_success" time="0.255" timestamp="2022-07-25T10:54:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="169" name="test_create_dealer_appointment_failure_dealer_network_api_failure" time="0.256" timestamp="2022-07-25T10:54:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="161" name="test_create_dealer_appointment_failure_missing_params" time="0.255" timestamp="2022-07-25T10:54:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="203" name="test_create_dealer_appointment_failure_no_dealer_network" time="0.333" timestamp="2022-07-25T10:54:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="128" name="test_create_dealer_appointment_success" time="0.256" timestamp="2022-07-25T10:54:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="108" name="test_get_dealer_appointment_failure_dealer_network_api_failure" time="0.257" timestamp="2022-07-25T10:54:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="100" name="test_get_dealer_appointment_failure_missing_params" time="0.254" timestamp="2022-07-25T10:54:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="119" name="test_get_dealer_appointment_failure_no_dealer_network" time="0.325" timestamp="2022-07-25T10:54:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="90" name="test_get_dealer_appointment_success" time="0.254" timestamp="2022-07-25T10:54:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="32" name="test_get_dealer_outlets_failure_dealer_network_api_failure" time="0.252" timestamp="2022-07-25T10:54:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="25" name="test_get_dealer_outlets_failure_missing_params" time="0.251" timestamp="2022-07-25T10:54:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="43" name="test_get_dealer_outlets_failure_no_dealer_network" time="0.332" timestamp="2022-07-25T10:54:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="15" name="test_get_dealer_outlets_success" time="0.253" timestamp="2022-07-25T10:54:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="70" name="test_get_dealer_timeslots_failure_dealer_network_api_failure" time="0.252" timestamp="2022-07-25T10:54:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="62" name="test_get_dealer_timeslots_failure_missing_params" time="0.251" timestamp="2022-07-25T10:54:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="81" name="test_get_dealer_timeslots_failure_no_dealer_network" time="0.325" timestamp="2022-07-25T10:54:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="dealer_service_networks.tests.apis.v3.test_dealer_service_networks.TestV3DealerServiceNetworkStella" file="dealer_service_networks/tests/apis/v3/test_dealer_service_networks.py" line="52" name="test_get_dealer_timeslots_success" time="0.256" timestamp="2022-07-25T10:54:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

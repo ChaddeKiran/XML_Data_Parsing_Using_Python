@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_event_reports.py" name="vehicles.tests.apis.v3.test_event_reports.TestEventReportAsDispatcher-20220725104622" skipped="0" tests="2" time="4.614" timestamp="2022-07-25T11:02:46">
+	<testcase classname="vehicles.tests.apis.v3.test_event_reports.TestEventReportAsDispatcher" file="vehicles/tests/apis/v3/test_event_reports.py" line="44" name="test_event_report" time="3.495" timestamp="2022-07-25T11:02:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_event_reports.TestEventReportAsDispatcher" file="vehicles/tests/apis/v3/test_event_reports.py" line="109" name="test_event_report_component" time="1.119" timestamp="2022-07-25T11:02:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

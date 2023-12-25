@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="uber_integration/tests/test_oauth_authenticate.py" name="uber_integration.tests.test_oauth_authenticate.UberCreateCustomerPOSTTest-20220725104545" skipped="0" tests="4" time="0.086" timestamp="2022-07-25T10:51:38">
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberCreateCustomerPOSTTest" file="uber_integration/tests/test_oauth_authenticate.py" line="44" name="test_duplicate_post_returns_2xx" time="0.036" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberCreateCustomerPOSTTest" file="uber_integration/tests/test_oauth_authenticate.py" line="66" name="test_post_fails_with_approved_to_drive_false" time="0.014" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberCreateCustomerPOSTTest" file="uber_integration/tests/test_oauth_authenticate.py" line="56" name="test_post_fails_with_approved_to_drive_nonexistence" time="0.014" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberCreateCustomerPOSTTest" file="uber_integration/tests/test_oauth_authenticate.py" line="31" name="test_post_normal" time="0.023" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

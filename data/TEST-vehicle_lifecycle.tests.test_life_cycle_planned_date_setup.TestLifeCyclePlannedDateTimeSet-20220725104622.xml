@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_life_cycle_planned_date_setup.py" name="vehicle_lifecycle.tests.test_life_cycle_planned_date_setup.TestLifeCyclePlannedDateTimeSet-20220725104622" skipped="0" tests="6" time="13.251" timestamp="2022-07-25T10:58:05">
+	<testcase classname="vehicle_lifecycle.tests.test_life_cycle_planned_date_setup.TestLifeCyclePlannedDateTimeSet" file="vehicle_lifecycle/tests/test_life_cycle_planned_date_setup.py" line="111" name="test_step_planned_date_time_setup_auto_backward_and_forward_estimation" time="2.667" timestamp="2022-07-25T10:57:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_life_cycle_planned_date_setup.TestLifeCyclePlannedDateTimeSet" file="vehicle_lifecycle/tests/test_life_cycle_planned_date_setup.py" line="44" name="test_step_planned_date_time_setup_auto_backward_estimation" time="2.438" timestamp="2022-07-25T10:57:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_life_cycle_planned_date_setup.TestLifeCyclePlannedDateTimeSet" file="vehicle_lifecycle/tests/test_life_cycle_planned_date_setup.py" line="144" name="test_step_planned_date_time_setup_auto_backward_estimation_dt_delivery_time" time="1.288" timestamp="2022-07-25T10:57:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_life_cycle_planned_date_setup.TestLifeCyclePlannedDateTimeSet" file="vehicle_lifecycle/tests/test_life_cycle_planned_date_setup.py" line="212" name="test_step_planned_date_time_setup_auto_backward_estimation_dt_delivery_time_dauration_15_days" time="2.194" timestamp="2022-07-25T10:58:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_start_at received a naive datetime (2022-03-28 20:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_end_at received a naive datetime (2022-04-18 20:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_start_at received a naive datetime (2022-03-28 19:59:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_end_at received a naive datetime (2022-03-28 20:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_start_at received a naive datetime (2022-03-28 19:58:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_end_at received a naive datetime (2022-03-28 19:59:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_life_cycle_planned_date_setup.TestLifeCyclePlannedDateTimeSet" file="vehicle_lifecycle/tests/test_life_cycle_planned_date_setup.py" line="172" name="test_step_planned_date_time_setup_auto_backward_estimation_dt_delivery_time_weekend" time="2.128" timestamp="2022-07-25T10:58:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_start_at received a naive datetime (2022-04-18 19:59:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_start_at received a naive datetime (2022-04-18 19:58:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_end_at received a naive datetime (2022-04-18 19:59:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_start_at received a naive datetime (2022-04-18 19:57:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.planned_end_at received a naive datetime (2022-04-18 19:58:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_life_cycle_planned_date_setup.TestLifeCyclePlannedDateTimeSet" file="vehicle_lifecycle/tests/test_life_cycle_planned_date_setup.py" line="77" name="test_step_planned_date_time_setup_auto_forward_estimation" time="2.536" timestamp="2022-07-25T10:58:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

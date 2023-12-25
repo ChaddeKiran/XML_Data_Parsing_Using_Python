@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_drivers.py" name="users.tests.apis.test_drivers.TestDriverViewSet-20220725104545" skipped="0" tests="25" time="20.872" timestamp="2022-07-25T10:55:46">
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="536" name="test_driver_can_edit_state" time="1.696" timestamp="2022-07-25T10:55:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="555" name="test_driver_can_go_offline_from_in_pin_mode" time="1.051" timestamp="2022-07-25T10:55:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="392" name="test_driver_can_view_self" time="0.678" timestamp="2022-07-25T10:55:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="484" name="test_driver_cannot_go_online_without_vehicle" time="0.813" timestamp="2022-07-25T10:55:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="330" name="test_driver_current_slot_no_assignment" time="0.599" timestamp="2022-07-25T10:55:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="334" name="test_driver_current_slot_with_assignment" time="0.546" timestamp="2022-07-25T10:55:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="338" name="test_driver_current_zone_no_assignment" time="0.487" timestamp="2022-07-25T10:55:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="342" name="test_driver_current_zone_with_assignment" time="0.550" timestamp="2022-07-25T10:55:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="470" name="test_driver_expand_vehicle" time="0.900" timestamp="2022-07-25T10:55:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="309" name="test_driver_has_active_trip_false" time="0.810" timestamp="2022-07-25T10:55:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="315" name="test_driver_has_active_trip_true" time="0.869" timestamp="2022-07-25T10:55:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="495" name="test_driver_logged_off_trip_if_in_trip_when_going_online" time="0.907" timestamp="2022-07-25T10:55:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="446" name="test_driver_offline_in_service" time="0.663" timestamp="2022-07-25T10:55:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="423" name="test_driver_online_in_service" time="1.079" timestamp="2022-07-25T10:55:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="456" name="test_driver_online_in_service_no_permission" time="0.830" timestamp="2022-07-25T10:55:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="404" name="test_driver_online_in_service_one_service" time="0.952" timestamp="2022-07-25T10:55:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="398" name="test_driver_view_with_license_expiry" time="0.632" timestamp="2022-07-25T10:55:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="526" name="test_driver_with_license_expired" time="0.722" timestamp="2022-07-25T10:55:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="382" name="test_filter_driver_active_status" time="1.981" timestamp="2022-07-25T10:55:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="352" name="test_get_driver_returns_null_zone_and_slot_when_not_assigned" time="0.711" timestamp="2022-07-25T10:55:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="357" name="test_get_driver_returns_null_zone_and_slot_when_not_assigned_even_with_expand" time="0.664" timestamp="2022-07-25T10:55:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="362" name="test_get_driver_returns_zone_and_slot_ids_when_assigned" time="0.664" timestamp="2022-07-25T10:55:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="376" name="test_get_driver_with_expand_can_return_geojson" time="0.646" timestamp="2022-07-25T10:55:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="368" name="test_get_driver_with_expand_returns_slot_info" time="0.709" timestamp="2022-07-25T10:55:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverViewSet" file="users/tests/apis/test_drivers.py" line="346" name="test_get_only_returns_self" time="0.715" timestamp="2022-07-25T10:55:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

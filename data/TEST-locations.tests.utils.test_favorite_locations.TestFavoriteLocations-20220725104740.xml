@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/utils/test_favorite_locations.py" name="locations.tests.utils.test_favorite_locations.TestFavoriteLocations-20220725104740" skipped="0" tests="6" time="1.511" timestamp="2022-07-25T11:02:42">
+	<testcase classname="locations.tests.utils.test_favorite_locations.TestFavoriteLocations" file="locations/tests/utils/test_favorite_locations.py" line="19" name="test_add_new_favorite_location" time="0.262" timestamp="2022-07-25T11:02:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.utils.test_favorite_locations.TestFavoriteLocations" file="locations/tests/utils/test_favorite_locations.py" line="29" name="test_delete_favorite_location" time="0.249" timestamp="2022-07-25T11:02:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.utils.test_favorite_locations.TestFavoriteLocations" file="locations/tests/utils/test_favorite_locations.py" line="42" name="test_delete_location_not_in_customer_favorites" time="0.250" timestamp="2022-07-25T11:02:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.utils.test_favorite_locations.TestFavoriteLocations" file="locations/tests/utils/test_favorite_locations.py" line="14" name="test_get_favorite_locations" time="0.249" timestamp="2022-07-25T11:02:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.utils.test_favorite_locations.TestFavoriteLocations" file="locations/tests/utils/test_favorite_locations.py" line="37" name="test_put_improper_id_as_favorite_location" time="0.239" timestamp="2022-07-25T11:02:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.utils.test_favorite_locations.TestFavoriteLocations" file="locations/tests/utils/test_favorite_locations.py" line="24" name="test_put_improper_lat_and_lng_in_favorite_location" time="0.262" timestamp="2022-07-25T11:02:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

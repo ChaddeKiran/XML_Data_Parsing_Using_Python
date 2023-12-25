@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_signals.py" name="hardware_sdk_mensa.tests.test_signals.TestVehicleSignals-20220725104740" skipped="0" tests="2" time="0.952" timestamp="2022-07-25T10:59:51">
+	<testcase classname="hardware_sdk_mensa.tests.test_signals.TestVehicleSignals" file="hardware_sdk_mensa/tests/test_signals.py" line="19" name="test_immobilization_subscription_sends_email" time="0.517" timestamp="2022-07-25T10:59:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_signals.TestVehicleSignals" file="hardware_sdk_mensa/tests/test_signals.py" line="35" name="test_removing_immobilization_removes_tag" time="0.435" timestamp="2022-07-25T10:59:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

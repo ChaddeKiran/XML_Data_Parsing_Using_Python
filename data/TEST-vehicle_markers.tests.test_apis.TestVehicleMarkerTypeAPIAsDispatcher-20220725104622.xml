@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_markers/tests/test_apis.py" name="vehicle_markers.tests.test_apis.TestVehicleMarkerTypeAPIAsDispatcher-20220725104622" skipped="0" tests="6" time="2.786" timestamp="2022-07-25T10:59:07">
+	<testcase classname="vehicle_markers.tests.test_apis.TestVehicleMarkerTypeAPIAsDispatcher" file="vehicle_markers/tests/test_apis.py" line="58" name="test_get_marker_type_with_invalid_marker_type_parameter" time="0.482" timestamp="2022-07-25T10:59:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_markers.tests.test_apis.TestVehicleMarkerTypeAPIAsDispatcher" file="vehicle_markers/tests/test_apis.py" line="47" name="test_get_marker_type_with_invalid_resolution_parameter" time="0.425" timestamp="2022-07-25T10:59:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_markers.tests.test_apis.TestVehicleMarkerTypeAPIAsDispatcher" file="vehicle_markers/tests/test_apis.py" line="70" name="test_get_marker_type_with_marker_type_parameter" time="0.439" timestamp="2022-07-25T10:59:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_markers.tests.test_apis.TestVehicleMarkerTypeAPIAsDispatcher" file="vehicle_markers/tests/test_apis.py" line="27" name="test_get_marker_type_with_resolution_parameter" time="0.464" timestamp="2022-07-25T10:59:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_markers.tests.test_apis.TestVehicleMarkerTypeAPIAsDispatcher" file="vehicle_markers/tests/test_apis.py" line="39" name="test_get_marker_type_without_resolution_parameter" time="0.479" timestamp="2022-07-25T10:59:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_markers.tests.test_apis.TestVehicleMarkerTypeAPIAsDispatcher" file="vehicle_markers/tests/test_apis.py" line="83" name="test_list" time="0.497" timestamp="2022-07-25T10:59:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

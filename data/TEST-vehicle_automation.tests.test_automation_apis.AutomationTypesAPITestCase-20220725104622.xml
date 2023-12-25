@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automation_apis.py" name="vehicle_automation.tests.test_automation_apis.AutomationTypesAPITestCase-20220725104622" skipped="0" tests="7" time="2.586" timestamp="2022-07-25T10:51:00">
+	<testcase classname="vehicle_automation.tests.test_automation_apis.AutomationTypesAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="130" name="test_bulk_create_automation_setting_type" time="0.392" timestamp="2022-07-25T10:50:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.AutomationTypesAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="168" name="test_create_automation_setting_type_throws_error_if_conversion_unit_is_missing" time="0.345" timestamp="2022-07-25T10:50:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.AutomationTypesAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="182" name="test_create_automation_setting_type_throws_error_if_raw_data_unit_is_missing" time="0.319" timestamp="2022-07-25T10:50:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.AutomationTypesAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="90" name="test_get_automation_setting_type_by_automation_subtype" time="0.437" timestamp="2022-07-25T10:50:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.AutomationTypesAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="69" name="test_get_automation_setting_type_by_automation_type" time="0.379" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.AutomationTypesAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="34" name="test_get_automation_types" time="0.364" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.AutomationTypesAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="110" name="test_post_automation_setting_type" time="0.350" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

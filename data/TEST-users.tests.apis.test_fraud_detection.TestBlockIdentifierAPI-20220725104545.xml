@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_fraud_detection.py" name="users.tests.apis.test_fraud_detection.TestBlockIdentifierAPI-20220725104545" skipped="0" tests="8" time="5.462" timestamp="2022-07-25T10:56:19">
+	<testcase classname="users.tests.apis.test_fraud_detection.TestBlockIdentifierAPI" file="users/tests/apis/test_fraud_detection.py" line="64" name="test_create_blocking_driver_license" time="0.666" timestamp="2022-07-25T10:56:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_fraud_detection.TestBlockIdentifierAPI" file="users/tests/apis/test_fraud_detection.py" line="79" name="test_create_blocking_email" time="0.687" timestamp="2022-07-25T10:56:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_fraud_detection.TestBlockIdentifierAPI" file="users/tests/apis/test_fraud_detection.py" line="27" name="test_customer_unauthorized" time="0.711" timestamp="2022-07-25T10:56:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_fraud_detection.TestBlockIdentifierAPI" file="users/tests/apis/test_fraud_detection.py" line="115" name="test_delete" time="0.692" timestamp="2022-07-25T10:56:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_fraud_detection.TestBlockIdentifierAPI" file="users/tests/apis/test_fraud_detection.py" line="41" name="test_list" time="0.725" timestamp="2022-07-25T10:56:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.fraud_prevention.BlockedIdentifier'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_fraud_detection.TestBlockIdentifierAPI" file="users/tests/apis/test_fraud_detection.py" line="54" name="test_retrieve" time="0.687" timestamp="2022-07-25T10:56:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_fraud_detection.TestBlockIdentifierAPI" file="users/tests/apis/test_fraud_detection.py" line="20" name="test_unauthorized" time="0.657" timestamp="2022-07-25T10:56:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_fraud_detection.TestBlockIdentifierAPI" file="users/tests/apis/test_fraud_detection.py" line="95" name="test_update" time="0.637" timestamp="2022-07-25T10:56:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/commands/test_init_trms.py" name="users.tests.commands.test_init_trms.TestInitTRMS-20220725104545" skipped="0" tests="7" time="1.021" timestamp="2022-07-25T11:05:45">
+	<testcase classname="users.tests.commands.test_init_trms.TestInitTRMS" file="users/tests/commands/test_init_trms.py" line="57" name="test_insert" time="0.128" timestamp="2022-07-25T11:05:44">
+		<system-out>
+<![CDATA[Starting import for tenant: a726c0303d79
+Importing rows 0-60. 
+Imported 60 records
+Done
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.commands.test_init_trms.TestInitTRMS" file="users/tests/commands/test_init_trms.py" line="64" name="test_insert_chunked" time="0.119" timestamp="2022-07-25T11:05:44">
+		<system-out>
+<![CDATA[Starting import for tenant: a726c0303d79
+Importing rows 0-11. 
+Importing rows 11-22. 
+Importing rows 22-33. 
+Importing rows 33-44. 
+Importing rows 44-55. 
+Importing rows 55-60. 
+Imported 60 records
+Done
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.commands.test_init_trms.TestInitTRMS" file="users/tests/commands/test_init_trms.py" line="71" name="test_insert_with_clear" time="0.122" timestamp="2022-07-25T11:05:45">
+		<system-out>
+<![CDATA[Clearing all data for tenant: a726c0303d79
+Starting import for tenant: a726c0303d79
+Importing rows 0-60. 
+Imported 60 records
+Done
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.commands.test_init_trms.TestInitTRMS" file="users/tests/commands/test_init_trms.py" line="42" name="test_invalid_application_id" time="0.193" timestamp="2022-07-25T11:05:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.commands.test_init_trms.TestInitTRMS" file="users/tests/commands/test_init_trms.py" line="50" name="test_invalid_tenant_id" time="0.104" timestamp="2022-07-25T11:05:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.commands.test_init_trms.TestInitTRMS" file="users/tests/commands/test_init_trms.py" line="34" name="test_invalid_transaction_risk_token" time="0.192" timestamp="2022-07-25T11:05:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.commands.test_init_trms.TestInitTRMS" file="users/tests/commands/test_init_trms.py" line="26" name="test_invalid_transaction_risk_url" time="0.164" timestamp="2022-07-25T11:05:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

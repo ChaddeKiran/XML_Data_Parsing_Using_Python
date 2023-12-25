@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_scheduling.py" name="rentals.tests.tasks.test_scheduling.TestSchedulingTasksPaymentHold-20220725105046" skipped="0" tests="5" time="12.944" timestamp="2022-07-25T11:07:39">
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksPaymentHold" file="rentals/tests/tasks/test_scheduling.py" line="1268" name="test_cancelled_scheduled_rental_request_gets_no_hold" time="2.596" timestamp="2022-07-25T11:07:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksPaymentHold" file="rentals/tests/tasks/test_scheduling.py" line="1279" name="test_fully_credited_hold_payment" time="2.709" timestamp="2022-07-25T11:07:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksPaymentHold" file="rentals/tests/tasks/test_scheduling.py" line="1257" name="test_payment_failed_no_emails_sent" time="2.429" timestamp="2022-07-25T11:07:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksPaymentHold" file="rentals/tests/tasks/test_scheduling.py" line="1221" name="test_payment_hold_and_email_no_resend" time="2.847" timestamp="2022-07-25T11:07:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksPaymentHold" file="rentals/tests/tasks/test_scheduling.py" line="1209" name="test_payment_hold_and_email_sent" time="2.364" timestamp="2022-07-25T11:07:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

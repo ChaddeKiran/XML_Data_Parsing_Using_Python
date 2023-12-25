@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/test_rental_operations.py" name="rentals.tests.apis.test_rental_operations.TestRentalAPIOperationsAsCustomer-20220725104819" skipped="0" tests="1" time="0.277" timestamp="2022-07-25T11:00:15">
+	<testcase classname="rentals.tests.apis.test_rental_operations.TestRentalAPIOperationsAsCustomer" file="rentals/tests/apis/test_rental_operations.py" line="202" name="test_validation_error_vehicle_from_service_not_available_to_customer" time="0.277" timestamp="2022-07-25T11:00:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

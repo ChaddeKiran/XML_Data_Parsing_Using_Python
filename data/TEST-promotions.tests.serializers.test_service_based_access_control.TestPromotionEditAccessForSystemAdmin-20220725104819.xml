@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/serializers/test_service_based_access_control.py" name="promotions.tests.serializers.test_service_based_access_control.TestPromotionEditAccessForSystemAdmin-20220725104819" skipped="0" tests="1" time="0.308" timestamp="2022-07-25T10:59:06">
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestPromotionEditAccessForSystemAdmin" file="promotions/tests/serializers/test_service_based_access_control.py" line="218" name="test_system_admin_can_always_edit_promo" time="0.308" timestamp="2022-07-25T10:59:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'promotions.models.models.Promotion'> PromotionQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+</testsuite>

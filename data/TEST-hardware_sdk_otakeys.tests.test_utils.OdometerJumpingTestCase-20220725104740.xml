@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_utils.py" name="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase-20220725104740" skipped="0" tests="13" time="0.508" timestamp="2022-07-25T11:01:42">
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="190" name="test_major_negative_odometer_jump" time="0.045" timestamp="2022-07-25T11:01:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="201" name="test_major_negative_odometer_jump_over_long_time" time="0.035" timestamp="2022-07-25T11:01:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="146" name="test_major_odometer_jump" time="0.043" timestamp="2022-07-25T11:01:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="157" name="test_major_odometer_jump_over_long_time" time="0.037" timestamp="2022-07-25T11:01:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="179" name="test_minor_negative_odometer_jump" time="0.040" timestamp="2022-07-25T11:01:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="135" name="test_minor_odometer_jump" time="0.039" timestamp="2022-07-25T11:01:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="237" name="test_negative_extra_distance" time="0.038" timestamp="2022-07-25T11:01:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="168" name="test_negative_odometer_jump" time="0.048" timestamp="2022-07-25T11:01:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="101" name="test_no_cached_values_odometer_jump" time="0.041" timestamp="2022-07-25T11:01:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="212" name="test_no_extra_distance" time="0.033" timestamp="2022-07-25T11:01:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="113" name="test_no_odometer_jump" time="0.036" timestamp="2022-07-25T11:01:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="124" name="test_normal_odometer_jump" time="0.035" timestamp="2022-07-25T11:01:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.OdometerJumpingTestCase" file="hardware_sdk_otakeys/tests/test_utils.py" line="223" name="test_positive_extra_distance" time="0.037" timestamp="2022-07-25T11:01:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

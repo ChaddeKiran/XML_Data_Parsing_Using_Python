@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestSRDateTimeAPIPeriodContiguousMidDayBreak-20220725105046" skipped="0" tests="4" time="2.076" timestamp="2022-07-25T10:58:24">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRDateTimeAPIPeriodContiguousMidDayBreak" file="rentals/tests/apis/v3/test_scheduling.py" line="4007" name="test_end_dates" time="0.564" timestamp="2022-07-25T10:58:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRDateTimeAPIPeriodContiguousMidDayBreak" file="rentals/tests/apis/v3/test_scheduling.py" line="4022" name="test_end_times" time="0.588" timestamp="2022-07-25T10:58:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2019-12-18 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2019-12-19 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRDateTimeAPIPeriodContiguousMidDayBreak" file="rentals/tests/apis/v3/test_scheduling.py" line="3990" name="test_start_dates" time="0.464" timestamp="2022-07-25T10:58:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRDateTimeAPIPeriodContiguousMidDayBreak" file="rentals/tests/apis/v3/test_scheduling.py" line="3998" name="test_start_times" time="0.460" timestamp="2022-07-25T10:58:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

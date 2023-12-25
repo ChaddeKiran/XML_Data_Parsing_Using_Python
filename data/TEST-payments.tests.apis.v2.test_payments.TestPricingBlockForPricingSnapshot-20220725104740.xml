@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v2/test_payments.py" name="payments.tests.apis.v2.test_payments.TestPricingBlockForPricingSnapshot-20220725104740" skipped="0" tests="3" time="0.937" timestamp="2022-07-25T11:05:00">
+	<testcase classname="payments.tests.apis.v2.test_payments.TestPricingBlockForPricingSnapshot" file="payments/tests/apis/v2/test_payments.py" line="152" name="test_editing_pricing_block" time="0.297" timestamp="2022-07-25T11:04:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_payments.TestPricingBlockForPricingSnapshot" file="payments/tests/apis/v2/test_payments.py" line="130" name="test_put_pricing_block" time="0.325" timestamp="2022-07-25T11:04:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_payments.TestPricingBlockForPricingSnapshot" file="payments/tests/apis/v2/test_payments.py" line="146" name="test_view_pricing_block" time="0.315" timestamp="2022-07-25T11:05:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

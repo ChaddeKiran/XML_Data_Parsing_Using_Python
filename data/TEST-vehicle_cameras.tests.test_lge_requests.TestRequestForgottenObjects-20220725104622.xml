@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_cameras/tests/test_lge_requests.py" name="vehicle_cameras.tests.test_lge_requests.TestRequestForgottenObjects-20220725104622" skipped="0" tests="5" time="0.042" timestamp="2022-07-25T10:56:57">
+	<testcase classname="vehicle_cameras.tests.test_lge_requests.TestRequestForgottenObjects" file="vehicle_cameras/tests/test_lge_requests.py" line="36" name="test_bad_rental_id" time="0.004" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_lge_requests.TestRequestForgottenObjects" file="vehicle_cameras/tests/test_lge_requests.py" line="27" name="test_good_request" time="0.009" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_lge_requests.TestRequestForgottenObjects" file="vehicle_cameras/tests/test_lge_requests.py" line="51" name="test_log_bad_request" time="0.009" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_lge_requests.TestRequestForgottenObjects" file="vehicle_cameras/tests/test_lge_requests.py" line="43" name="test_log_bad_status_code" time="0.009" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_lge_requests.TestRequestForgottenObjects" file="vehicle_cameras/tests/test_lge_requests.py" line="18" name="test_no_credentials" time="0.010" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

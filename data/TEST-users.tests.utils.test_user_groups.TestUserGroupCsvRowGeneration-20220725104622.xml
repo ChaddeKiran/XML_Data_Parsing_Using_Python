@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/utils/test_user_groups.py" name="users.tests.utils.test_user_groups.TestUserGroupCsvRowGeneration-20220725104622" skipped="0" tests="3" time="20.146" timestamp="2022-07-25T10:49:20">
+	<testcase classname="users.tests.utils.test_user_groups.TestUserGroupCsvRowGeneration" file="users/tests/utils/test_user_groups.py" line="31" name="test_add_multiple_users_to_user_group" time="19.869" timestamp="2022-07-25T10:49:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_user_groups.TestUserGroupCsvRowGeneration" file="users/tests/utils/test_user_groups.py" line="18" name="test_add_user_to_user_groups_duplicate_and_customer_exists" time="0.247" timestamp="2022-07-25T10:49:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_user_groups.TestUserGroupCsvRowGeneration" file="users/tests/utils/test_user_groups.py" line="10" name="test_add_user_to_user_groups_non_registered_customer" time="0.030" timestamp="2022-07-25T10:49:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

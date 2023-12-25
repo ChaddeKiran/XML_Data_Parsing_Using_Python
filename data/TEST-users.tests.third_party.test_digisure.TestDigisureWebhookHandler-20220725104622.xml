@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_digisure.py" name="users.tests.third_party.test_digisure.TestDigisureWebhookHandler-20220725104622" skipped="0" tests="1" time="1.499" timestamp="2022-07-25T10:48:12">
+	<testcase classname="users.tests.third_party.test_digisure.TestDigisureWebhookHandler" file="users/tests/third_party/test_digisure.py" line="191" name="test_customer_fields_are_set_correctly_based_on_webhook_payload" time="1.499" timestamp="2022-07-25T10:48:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:48:11.429269) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:48:11.575857) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:48:11.699049) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:48:11.815479) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:48:11.933579) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:48:12.044201) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:48:12.144684) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:48:12.256484) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

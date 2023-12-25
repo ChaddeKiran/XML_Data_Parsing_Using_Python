@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rest_utils/tests/test_authentication.py" name="rest_utils.tests.test_authentication.TestMFAResendAPIAsDispatcher-20220725105046" skipped="0" tests="2" time="0.612" timestamp="2022-07-25T11:08:34">
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAResendAPIAsDispatcher" file="rest_utils/tests/test_authentication.py" line="1230" name="test_resend_override_mfa_verification_mode" time="0.298" timestamp="2022-07-25T11:08:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAResendAPIAsDispatcher" file="rest_utils/tests/test_authentication.py" line="1258" name="test_resend_override_mfa_verification_mode_for_staff" time="0.315" timestamp="2022-07-25T11:08:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/utils/test_user_utils.py" name="users.tests.utils.test_user_utils.TestServicesForUser-20220725104622" skipped="0" tests="1" time="1.432" timestamp="2022-07-25T10:49:22">
+	<testcase classname="users.tests.utils.test_user_utils.TestServicesForUser" file="users/tests/utils/test_user_utils.py" line="192" name="test_supply_manager" time="1.432" timestamp="2022-07-25T10:49:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

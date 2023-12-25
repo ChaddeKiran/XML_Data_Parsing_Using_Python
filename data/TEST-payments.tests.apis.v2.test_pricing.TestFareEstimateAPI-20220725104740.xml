@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v2/test_pricing.py" name="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI-20220725104740" skipped="0" tests="13" time="9.383" timestamp="2022-07-25T11:05:09">
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="117" name="test_add_pricing_rule_response" time="0.744" timestamp="2022-07-25T11:05:01">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="199" name="test_fare_estimate_with_additional_fees" time="0.821" timestamp="2022-07-25T11:05:01">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="225" name="test_fare_estimate_with_additional_taxes" time="0.786" timestamp="2022-07-25T11:05:02">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="254" name="test_fare_estimate_with_minimum_fare" time="0.572" timestamp="2022-07-25T11:05:03">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="306" name="test_fare_range_with_vehicle_type" time="0.729" timestamp="2022-07-25T11:05:03">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="79" name="test_packaged_ride_response" time="0.552" timestamp="2022-07-25T11:05:04">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="101" name="test_pricing_rule_response" time="0.548" timestamp="2022-07-25T11:05:05">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="169" name="test_pricing_rule_response_service_time_start_inclusive" time="0.591" timestamp="2022-07-25T11:05:05">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="138" name="test_pricing_rule_response_service_times" time="0.565" timestamp="2022-07-25T11:05:06">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="20" name="test_response_integrity_with_snapshots" time="0.749" timestamp="2022-07-25T11:05:07">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="43" name="test_response_with_end_time" time="0.649" timestamp="2022-07-25T11:05:07">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="59" name="test_response_with_pickup_end_time" time="1.119" timestamp="2022-07-25T11:05:08">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v2.test_pricing.TestFareEstimateAPI" file="payments/tests/apis/v2/test_pricing.py" line="270" name="test_tolls_fare_estimate" time="0.959" timestamp="2022-07-25T11:05:09">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7811708298, -122.396364212, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.7730490428, -122.410443127, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

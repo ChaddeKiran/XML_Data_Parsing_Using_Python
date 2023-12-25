@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/serializers/test_trips.py" name="trips.tests.serializers.test_trips.TestPreserveDispatcherInfo-20220725104545" skipped="0" tests="1" time="1.261" timestamp="2022-07-25T10:50:15">
+	<testcase classname="trips.tests.serializers.test_trips.TestPreserveDispatcherInfo" file="trips/tests/serializers/test_trips.py" line="258" name="test_trip_attaches_extra_directions" time="1.261" timestamp="2022-07-25T10:50:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

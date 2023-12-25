@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_payment_utils.py" name="payments.tests.utils.test_payment_utils.TestNegativeAdditionalFees-20220725104819" skipped="0" tests="1" time="0.001" timestamp="2022-07-25T11:07:19">
+	<testcase classname="payments.tests.utils.test_payment_utils.TestNegativeAdditionalFees" file="payments/tests/utils/test_payment_utils.py" line="599" name="test_calculate_negative_additional_fees" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

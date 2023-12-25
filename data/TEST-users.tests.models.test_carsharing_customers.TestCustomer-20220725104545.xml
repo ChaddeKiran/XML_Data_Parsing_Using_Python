@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_carsharing_customers.py" name="users.tests.models.test_carsharing_customers.TestCustomer-20220725104545" skipped="0" tests="2" time="1.102" timestamp="2022-07-25T11:05:47">
+	<testcase classname="users.tests.models.test_carsharing_customers.TestCustomer" file="users/tests/models/test_carsharing_customers.py" line="19" name="test_mailing_address_not_required" time="0.541" timestamp="2022-07-25T11:05:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers.TestCustomer" file="users/tests/models/test_carsharing_customers.py" line="26" name="test_mailing_address_required_after_1_rental" time="0.560" timestamp="2022-07-25T11:05:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

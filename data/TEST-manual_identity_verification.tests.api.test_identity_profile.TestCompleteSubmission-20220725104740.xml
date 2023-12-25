@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="manual_identity_verification/tests/api/test_identity_profile.py" name="manual_identity_verification.tests.api.test_identity_profile.TestCompleteSubmission-20220725104740" skipped="0" tests="5" time="1.786" timestamp="2022-07-25T11:02:49">
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestCompleteSubmission" file="manual_identity_verification/tests/api/test_identity_profile.py" line="464" name="test_patch_documents_soft_deleted" time="0.407" timestamp="2022-07-25T11:02:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestCompleteSubmission" file="manual_identity_verification/tests/api/test_identity_profile.py" line="423" name="test_patch_no_documents_defined" time="0.376" timestamp="2022-07-25T11:02:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestCompleteSubmission" file="manual_identity_verification/tests/api/test_identity_profile.py" line="432" name="test_patch_without_sending_no_required_document" time="0.406" timestamp="2022-07-25T11:02:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestCompleteSubmission" file="manual_identity_verification/tests/api/test_identity_profile.py" line="442" name="test_patch_without_sending_required_document" time="0.255" timestamp="2022-07-25T11:02:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestCompleteSubmission" file="manual_identity_verification/tests/api/test_identity_profile.py" line="455" name="test_patch_without_sending_required_document_by_not_related_customer" time="0.343" timestamp="2022-07-25T11:02:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

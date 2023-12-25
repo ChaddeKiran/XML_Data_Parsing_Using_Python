@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_jumio.py" name="users.tests.third_party.test_jumio.TestJumioProcessingStatusChangeByCallback-20220725104622" skipped="0" tests="5" time="6.753" timestamp="2022-07-25T10:48:26">
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioProcessingStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="827" name="test_processing_to_accepted" time="2.435" timestamp="2022-07-25T10:48:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioProcessingStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="844" name="test_processing_to_declined" time="1.138" timestamp="2022-07-25T10:48:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioProcessingStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="878" name="test_processing_to_unsubmitted_missing_back" time="1.047" timestamp="2022-07-25T10:48:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioProcessingStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="861" name="test_processing_to_unsubmitted_no_document" time="1.098" timestamp="2022-07-25T10:48:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioProcessingStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="895" name="test_processing_to_unsubmitted_no_id" time="1.035" timestamp="2022-07-25T10:48:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

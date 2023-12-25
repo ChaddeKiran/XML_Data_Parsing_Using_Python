@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/test_operatingregions.py" name="service_regions.tests.test_operatingregions.TestV3RegistrationRegionAPIAsServiceManager-20220725105046" skipped="0" tests="2" time="1.171" timestamp="2022-07-25T11:09:01">
+	<testcase classname="service_regions.tests.test_operatingregions.TestV3RegistrationRegionAPIAsServiceManager" file="service_regions/tests/test_operatingregions.py" line="267" name="test_can_create_registration_region" time="0.572" timestamp="2022-07-25T11:09:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_operatingregions.TestV3RegistrationRegionAPIAsServiceManager" file="service_regions/tests/test_operatingregions.py" line="271" name="test_can_delete_registration_region" time="0.599" timestamp="2022-07-25T11:09:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

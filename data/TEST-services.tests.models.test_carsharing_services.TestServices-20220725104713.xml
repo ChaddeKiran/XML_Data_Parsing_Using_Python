@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_carsharing_services.py" name="services.tests.models.test_carsharing_services.TestServices-20220725104713" skipped="0" tests="7" time="4.059" timestamp="2022-07-25T10:51:01">
+	<testcase classname="services.tests.models.test_carsharing_services.TestServices" file="services/tests/models/test_carsharing_services.py" line="66" name="test_changing_service_changes_product" time="0.429" timestamp="2022-07-25T10:50:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestServices" file="services/tests/models/test_carsharing_services.py" line="56" name="test_dupe_carshare_first" time="0.319" timestamp="2022-07-25T10:50:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestServices" file="services/tests/models/test_carsharing_services.py" line="61" name="test_dupe_rideshare_first" time="0.201" timestamp="2022-07-25T10:50:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestServices" file="services/tests/models/test_carsharing_services.py" line="43" name="test_duplicate_base_service" time="0.396" timestamp="2022-07-25T10:50:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestServices" file="services/tests/models/test_carsharing_services.py" line="93" name="test_enable_station_based_rentals" time="1.141" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestServices" file="services/tests/models/test_carsharing_services.py" line="76" name="test_exclude_scheduled_rental_services" time="1.227" timestamp="2022-07-25T10:51:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestServices" file="services/tests/models/test_carsharing_services.py" line="109" name="test_service_period_created_for_on_demand_rental" time="0.345" timestamp="2022-07-25T10:51:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

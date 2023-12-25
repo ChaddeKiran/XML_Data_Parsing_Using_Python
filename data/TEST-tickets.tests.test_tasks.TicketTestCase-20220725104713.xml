@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="tickets/tests/test_tasks.py" name="tickets.tests.test_tasks.TicketTestCase-20220725104713" skipped="0" tests="2" time="0.281" timestamp="2022-07-25T10:53:30">
+	<testcase classname="tickets.tests.test_tasks.TicketTestCase" file="tickets/tests/test_tasks.py" line="68" name="test_send_ticket_assignment_email_notification_when_flag_disabled" time="0.089" timestamp="2022-07-25T10:53:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_tasks.TicketTestCase" file="tickets/tests/test_tasks.py" line="38" name="test_send_ticket_assignment_email_notification_when_flag_enabled" time="0.192" timestamp="2022-07-25T10:53:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

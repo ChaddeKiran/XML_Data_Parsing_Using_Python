@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin-20220725104713" skipped="0" tests="12" time="20.639" timestamp="2022-07-25T11:00:42">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4335" name="test_create_schedule_trip_with_inactive_business_admin" time="1.390" timestamp="2022-07-25T11:00:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4293" name="test_create_update_delete_scheduled_trip" time="2.346" timestamp="2022-07-25T11:00:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4348" name="test_filter_trip" time="5.049" timestamp="2022-07-25T11:00:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4420" name="test_package_scheduled_trip_create_for_non_register_user_with_deferred_payment" time="1.203" timestamp="2022-07-25T11:00:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4434" name="test_package_scheduled_trip_delete_for_non_register_user_with_deferred_payment" time="1.334" timestamp="2022-07-25T11:00:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4465" name="test_recurring_package_scheduled_trip_create_for_non_register_user_with_deferred_payment" time="1.263" timestamp="2022-07-25T11:00:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4485" name="test_recurring_package_scheduled_trip_delete_for_non_register_user_with_deferred_payment" time="1.388" timestamp="2022-07-25T11:00:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4439" name="test_recurring_scheduled_trip_create_for_non_register_user_with_deferred_payment" time="1.240" timestamp="2022-07-25T11:00:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4460" name="test_recurring_scheduled_trip_delete_for_non_register_user_with_deferred_payment" time="1.377" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4392" name="test_scheduled_trip_create_for_non_register_user_with_deferred_payment" time="1.224" timestamp="2022-07-25T11:00:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4490" name="test_scheduled_trip_create_for_non_register_user_without_deferred_payment" time="1.482" timestamp="2022-07-25T11:00:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripAPIAsBusinessAdmin" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4417" name="test_scheduled_trip_delete_for_non_register_user_with_deferred_payment" time="1.345" timestamp="2022-07-25T11:00:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

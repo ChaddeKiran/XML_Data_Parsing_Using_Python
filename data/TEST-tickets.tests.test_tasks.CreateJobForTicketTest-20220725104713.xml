@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="tickets/tests/test_tasks.py" name="tickets.tests.test_tasks.CreateJobForTicketTest-20220725104713" skipped="0" tests="7" time="5.365" timestamp="2022-07-25T10:53:29">
+	<testcase classname="tickets.tests.test_tasks.CreateJobForTicketTest" file="tickets/tests/test_tasks.py" line="154" name="test_create_job_called_for_ticket_with_closed_alert" time="0.742" timestamp="2022-07-25T10:53:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_tasks.CreateJobForTicketTest" file="tickets/tests/test_tasks.py" line="100" name="test_create_job_for_ticket" time="0.724" timestamp="2022-07-25T10:53:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_tasks.CreateJobForTicketTest" file="tickets/tests/test_tasks.py" line="139" name="test_create_job_for_ticket_with_closed_and_new_open_alert" time="0.756" timestamp="2022-07-25T10:53:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_tasks.CreateJobForTicketTest" file="tickets/tests/test_tasks.py" line="177" name="test_create_job_not_called_for_excluded_statuses" time="0.682" timestamp="2022-07-25T10:53:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_tasks.CreateJobForTicketTest" file="tickets/tests/test_tasks.py" line="165" name="test_create_job_not_called_for_ticket_having_job" time="0.667" timestamp="2022-07-25T10:53:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_tasks.CreateJobForTicketTest" file="tickets/tests/test_tasks.py" line="195" name="test_create_job_not_called_when_vehicle_is_not_free" time="0.946" timestamp="2022-07-25T10:53:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_tasks.CreateJobForTicketTest" file="tickets/tests/test_tasks.py" line="111" name="test_tickets_are_processed_in_isolated_transactions" time="0.848" timestamp="2022-07-25T10:53:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

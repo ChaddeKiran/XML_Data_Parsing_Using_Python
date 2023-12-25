@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/tasks/test_drivers.py" name="users.tests.tasks.test_drivers.TestDriverTasks-20220725104622" skipped="0" tests="1" time="0.758" timestamp="2022-07-25T10:47:55">
+	<testcase classname="users.tests.tasks.test_drivers.TestDriverTasks" file="users/tests/tasks/test_drivers.py" line="19" name="test_attempt_driver_confirm_for_scheduled_trip_request_to_on_demand" time="0.758" timestamp="2022-07-25T10:47:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

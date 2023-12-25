@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automations.py" name="vehicle_automation.tests.test_automations.TestAutomationSettingItem-20220725104622" skipped="0" tests="4" time="0.669" timestamp="2022-07-25T10:52:01">
+	<testcase classname="vehicle_automation.tests.test_automations.TestAutomationSettingItem" file="vehicle_automation/tests/test_automations.py" line="96" name="test_boolean_parsing" time="0.085" timestamp="2022-07-25T10:52:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automations.TestAutomationSettingItem" file="vehicle_automation/tests/test_automations.py" line="105" name="test_convert_to_typed_value" time="0.032" timestamp="2022-07-25T10:52:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automations.TestAutomationSettingItem" file="vehicle_automation/tests/test_automations.py" line="66" name="test_create_automation_setting_item" time="0.474" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automations.TestAutomationSettingItem" file="vehicle_automation/tests/test_automations.py" line="83" name="test_typed_value_extraction" time="0.079" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/tasks/test_payments.py" name="payments.tests.tasks.test_payments.TestHoldTripPaymentTasks-20220725104819" skipped="0" tests="2" time="0.461" timestamp="2022-07-25T10:49:50">
+	<testcase classname="payments.tests.tasks.test_payments.TestHoldTripPaymentTasks" file="payments/tests/tasks/test_payments.py" line="287" name="test_hold_failed_scheduled_trip_request_payments" time="0.361" timestamp="2022-07-25T10:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestHoldTripPaymentTasks" file="payments/tests/tasks/test_payments.py" line="326" name="test_place_hold_payment" time="0.099" timestamp="2022-07-25T10:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

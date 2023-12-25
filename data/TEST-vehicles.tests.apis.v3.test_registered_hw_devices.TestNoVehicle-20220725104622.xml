@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" name="vehicles.tests.apis.v3.test_registered_hw_devices.TestNoVehicle-20220725104622" skipped="0" tests="1" time="0.321" timestamp="2022-07-25T11:02:51">
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestNoVehicle" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="92" name="test_no_vehicle" time="0.321" timestamp="2022-07-25T11:02:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

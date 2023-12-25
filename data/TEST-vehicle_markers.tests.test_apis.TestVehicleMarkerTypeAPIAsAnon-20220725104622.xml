@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_markers/tests/test_apis.py" name="vehicle_markers.tests.test_apis.TestVehicleMarkerTypeAPIAsAnon-20220725104622" skipped="0" tests="2" time="0.167" timestamp="2022-07-25T10:59:04">
+	<testcase classname="vehicle_markers.tests.test_apis.TestVehicleMarkerTypeAPIAsAnon" file="vehicle_markers/tests/test_apis.py" line="109" name="test_get_marker_type_as_anonymous" time="0.098" timestamp="2022-07-25T10:59:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_markers.tests.test_apis.TestVehicleMarkerTypeAPIAsAnon" file="vehicle_markers/tests/test_apis.py" line="117" name="test_get_marker_type_without_resolution_parameter" time="0.070" timestamp="2022-07-25T10:59:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

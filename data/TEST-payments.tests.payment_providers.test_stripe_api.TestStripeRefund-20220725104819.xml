@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_stripe_api.py" name="payments.tests.payment_providers.test_stripe_api.TestStripeRefund-20220725104819" skipped="0" tests="4" time="0.349" timestamp="2022-07-25T10:49:28">
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeRefund" file="payments/tests/payment_providers/test_stripe_api.py" line="405" name="test_refund_charge_connected_account" time="0.055" timestamp="2022-07-25T10:49:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeRefund" file="payments/tests/payment_providers/test_stripe_api.py" line="484" name="test_refund_charge_connected_account_with_stripe_invoice" time="0.067" timestamp="2022-07-25T10:49:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeRefund" file="payments/tests/payment_providers/test_stripe_api.py" line="443" name="test_refund_charge_direct_account" time="0.110" timestamp="2022-07-25T10:49:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeRefund" file="payments/tests/payment_providers/test_stripe_api.py" line="523" name="test_refund_charge_direct_account_with_stripe_invoice" time="0.116" timestamp="2022-07-25T10:49:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

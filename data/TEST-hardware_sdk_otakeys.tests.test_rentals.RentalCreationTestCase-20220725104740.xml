@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_rentals.py" name="hardware_sdk_otakeys.tests.test_rentals.RentalCreationTestCase-20220725104740" skipped="0" tests="5" time="2.595" timestamp="2022-07-25T11:01:20">
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.RentalCreationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="425" name="test_create_booking_key_with_0_pending_SMS_delay" time="0.764" timestamp="2022-07-25T11:01:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.RentalCreationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="407" name="test_create_booking_key_with_available_vehicle" time="0.076" timestamp="2022-07-25T11:01:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.RentalCreationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="414" name="test_create_booking_key_with_not_available_vehicle" time="0.270" timestamp="2022-07-25T11:01:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.RentalCreationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="447" name="test_create_booking_key_with_really_long_pending_SMS_delay" time="0.760" timestamp="2022-07-25T11:01:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.RentalCreationTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="436" name="test_create_booking_key_with_short_pending_SMS_delay" time="0.725" timestamp="2022-07-25T11:01:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt-20220725104819" skipped="0" tests="12" time="8.978" timestamp="2022-07-25T10:50:44">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3857" name="test_business_card_exempt" time="0.645" timestamp="2022-07-25T10:50:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3874" name="test_business_rental_with_deferred_payment_type" time="1.182" timestamp="2022-07-25T10:50:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3930" name="test_business_rental_with_pay_per_rental" time="1.557" timestamp="2022-07-25T10:50:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3940" name="test_business_rental_without_payment_type" time="1.584" timestamp="2022-07-25T10:50:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3903" name="test_business_rental_without_user_invite" time="1.328" timestamp="2022-07-25T10:50:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3967" name="test_cancelled" time="0.004" timestamp="2022-07-25T10:50:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3981" name="test_cancelled_business_card_exempt" time="0.270" timestamp="2022-07-25T10:50:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3990" name="test_cancelled_business_rental_with_deferred_payment_type" time="0.696" timestamp="2022-07-25T10:50:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3973" name="test_cancelled_exempt" time="0.085" timestamp="2022-07-25T10:50:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3834" name="test_exempt" time="0.463" timestamp="2022-07-25T10:50:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3848" name="test_exempt_receipt_flag_off" time="0.230" timestamp="2022-07-25T10:50:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateUpdatePaymentSendsReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3824" name="test_normal" time="0.932" timestamp="2022-07-25T10:50:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

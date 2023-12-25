@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/utils/test_carsharing_validation_utils.py" name="rentals.tests.utils.test_carsharing_validation_utils.CarsharingSkipChargingBusinessCardValidationTestCase-20220725105046" skipped="0" tests="3" time="0.767" timestamp="2022-07-25T11:08:04">
+	<testcase classname="rentals.tests.utils.test_carsharing_validation_utils.CarsharingSkipChargingBusinessCardValidationTestCase" file="rentals/tests/utils/test_carsharing_validation_utils.py" line="163" name="test_validate_reservation_business_card_skip_pre_auth_and_refund" time="0.303" timestamp="2022-07-25T11:08:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_carsharing_validation_utils.CarsharingSkipChargingBusinessCardValidationTestCase" file="rentals/tests/utils/test_carsharing_validation_utils.py" line="179" name="test_validate_reservation_payments_disabled_skip_pre_auth_and_refund" time="0.120" timestamp="2022-07-25T11:08:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_carsharing_validation_utils.CarsharingSkipChargingBusinessCardValidationTestCase" file="rentals/tests/utils/test_carsharing_validation_utils.py" line="197" name="test_validate_reservation_personal_card_pre_auth_and_refund" time="0.344" timestamp="2022-07-25T11:08:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

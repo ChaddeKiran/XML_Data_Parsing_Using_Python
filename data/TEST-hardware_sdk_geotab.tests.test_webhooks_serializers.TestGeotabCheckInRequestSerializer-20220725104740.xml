@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" name="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabCheckInRequestSerializer-20220725104740" skipped="0" tests="5" time="0.587" timestamp="2022-07-25T10:59:08">
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabCheckInRequestSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="61" name="test_good_data" time="0.135" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabCheckInRequestSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="65" name="test_missing_device_serial_number" time="0.113" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabCheckInRequestSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="70" name="test_missing_tap_card_serial_number" time="0.114" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabCheckInRequestSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="80" name="test_no_associated_rfid_card" time="0.107" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabCheckInRequestSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="75" name="test_no_associated_vehicle" time="0.118" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

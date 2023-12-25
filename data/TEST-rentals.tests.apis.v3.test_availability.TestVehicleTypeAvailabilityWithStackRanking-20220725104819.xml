@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_availability.py" name="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailabilityWithStackRanking-20220725104819" skipped="0" tests="8" time="11.356" timestamp="2022-07-25T11:04:23">
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailabilityWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1411" name="test_exclusive_service_is_selected_for_vehicle_type_pricing_regardless_of_public_services_stack_ranking" time="1.565" timestamp="2022-07-25T11:04:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailabilityWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1455" name="test_highest_ranked_exclusive_service_is_selected_for_vehicle_type_pricing_from_exclusive_services" time="1.698" timestamp="2022-07-25T11:04:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailabilityWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1288" name="test_highest_ranked_service_is_selected_for_vehicle_type_pricing_form_public_services" time="1.245" timestamp="2022-07-25T11:04:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailabilityWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1353" name="test_highest_ranked_service_is_skipped_when_srr_duration_lass_than_service_srr_minimum_duration" time="0.867" timestamp="2022-07-25T11:04:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailabilityWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1319" name="test_highest_ranked_service_is_skipped_when_srr_start_date_time_less_than_service_srr_min_lead_time" time="0.906" timestamp="2022-07-25T11:04:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailabilityWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1238" name="test_list" time="0.623" timestamp="2022-07-25T11:04:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailabilityWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1250" name="test_list_for_business_mode" time="2.860" timestamp="2022-07-25T11:04:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailabilityWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1385" name="test_vehicle_type_is_not_available_from_highest_ranked_service_form_public_services" time="1.592" timestamp="2022-07-25T11:04:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

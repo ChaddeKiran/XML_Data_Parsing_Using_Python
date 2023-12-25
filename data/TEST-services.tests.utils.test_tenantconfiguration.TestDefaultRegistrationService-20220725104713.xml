@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/utils/test_tenantconfiguration.py" name="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService-20220725104713" skipped="0" tests="10" time="4.914" timestamp="2022-07-25T10:51:59">
+	<testcase classname="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService" file="services/tests/utils/test_tenantconfiguration.py" line="69" name="test_cannot_delete_associated_carsharingservice" time="0.427" timestamp="2022-07-25T10:51:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService" file="services/tests/utils/test_tenantconfiguration.py" line="75" name="test_cannot_delete_associated_ridesharingservice" time="0.468" timestamp="2022-07-25T10:51:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService" file="services/tests/utils/test_tenantconfiguration.py" line="63" name="test_cannot_delete_associated_service" time="0.425" timestamp="2022-07-25T10:51:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService" file="services/tests/utils/test_tenantconfiguration.py" line="19" name="test_create_carsharingservice_default_service_does_not_exist" time="0.412" timestamp="2022-07-25T10:51:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService" file="services/tests/utils/test_tenantconfiguration.py" line="44" name="test_create_carsharingservice_default_service_exist" time="0.657" timestamp="2022-07-25T10:51:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService" file="services/tests/utils/test_tenantconfiguration.py" line="27" name="test_create_ridesharingservice_default_service_does_not_exist" time="0.446" timestamp="2022-07-25T10:51:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService" file="services/tests/utils/test_tenantconfiguration.py" line="53" name="test_create_ridesharingservice_default_service_exist" time="0.674" timestamp="2022-07-25T10:51:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService" file="services/tests/utils/test_tenantconfiguration.py" line="11" name="test_create_service_default_service_does_not_exist" time="0.375" timestamp="2022-07-25T10:51:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService" file="services/tests/utils/test_tenantconfiguration.py" line="35" name="test_create_service_default_service_exist" time="0.617" timestamp="2022-07-25T10:51:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfiguration.TestDefaultRegistrationService" file="services/tests/utils/test_tenantconfiguration.py" line="82" name="test_update_service_does_not_assign_default_registration_service" time="0.413" timestamp="2022-07-25T10:51:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_rentals.py" name="rentals.tests.tasks.test_rentals.TestAutoCancelRentalTask-20220725105046" skipped="0" tests="5" time="3.917" timestamp="2022-07-25T11:05:52">
+	<testcase classname="rentals.tests.tasks.test_rentals.TestAutoCancelRentalTask" file="rentals/tests/tasks/test_rentals.py" line="184" name="test_queryset" time="1.832" timestamp="2022-07-25T11:05:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestAutoCancelRentalTask" file="rentals/tests/tasks/test_rentals.py" line="154" name="test_rental" time="0.544" timestamp="2022-07-25T11:05:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestAutoCancelRentalTask" file="rentals/tests/tasks/test_rentals.py" line="169" name="test_rental_cancellation_initiated" time="0.507" timestamp="2022-07-25T11:05:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestAutoCancelRentalTask" file="rentals/tests/tasks/test_rentals.py" line="161" name="test_rental_create_booked" time="0.518" timestamp="2022-07-25T11:05:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestAutoCancelRentalTask" file="rentals/tests/tasks/test_rentals.py" line="177" name="test_rental_invalid_until" time="0.516" timestamp="2022-07-25T11:05:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

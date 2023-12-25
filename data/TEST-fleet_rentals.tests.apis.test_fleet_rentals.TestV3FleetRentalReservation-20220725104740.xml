@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="fleet_rentals/tests/apis/test_fleet_rentals.py" name="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentalReservation-20220725104740" skipped="0" tests="5" time="6.929" timestamp="2022-07-25T10:56:42">
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentalReservation" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="691" name="test_associate_customer_to_reservation" time="1.523" timestamp="2022-07-25T10:56:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentalReservation" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="594" name="test_e2e_cancellation_workflow" time="2.626" timestamp="2022-07-25T10:56:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentalReservation" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="489" name="test_e2e_completion_workflow" time="1.218" timestamp="2022-07-25T10:56:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentalReservation" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="748" name="test_inspection_report" time="0.730" timestamp="2022-07-25T10:56:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentalReservation" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="785" name="test_rental_agreement_rentalnet_report" time="0.832" timestamp="2022-07-25T10:56:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

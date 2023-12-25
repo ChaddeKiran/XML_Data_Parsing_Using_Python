@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_first_available_slot.py" name="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPIAsWorker-20220725104622" skipped="0" tests="6" time="2.272" timestamp="2022-07-25T10:56:32">
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_first_available_slot.py" line="301" name="test_first_available_block_with_existing_assigned_srr" time="0.322" timestamp="2022-07-25T10:56:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_first_available_slot.py" line="324" name="test_first_available_block_with_existing_bookings" time="0.318" timestamp="2022-07-25T10:56:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_first_available_slot.py" line="278" name="test_first_available_block_with_existing_vehicle_block" time="0.306" timestamp="2022-07-25T10:56:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_first_available_slot.py" line="256" name="test_first_available_block_with_unassigned_srr" time="0.322" timestamp="2022-07-25T10:56:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_first_available_slot.py" line="369" name="test_first_available_block_with_unassigned_srr_and_sufficient_capacity" time="0.346" timestamp="2022-07-25T10:56:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_first_available_slot.py" line="392" name="test_first_available_slock_api" time="0.658" timestamp="2022-07-25T10:56:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

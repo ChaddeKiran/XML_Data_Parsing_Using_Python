@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/models/test_rentals.py" name="rentals.tests.models.test_rentals.TestScheduledRentalRequestFactory-20220725105046" skipped="0" tests="6" time="3.974" timestamp="2022-07-25T11:05:14">
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestFactory" file="rentals/tests/models/test_rentals.py" line="1416" name="test_active" time="0.658" timestamp="2022-07-25T11:05:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestFactory" file="rentals/tests/models/test_rentals.py" line="1422" name="test_ended" time="1.110" timestamp="2022-07-25T11:05:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestFactory" file="rentals/tests/models/test_rentals.py" line="1434" name="test_no_show" time="0.901" timestamp="2022-07-25T11:05:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestFactory" file="rentals/tests/models/test_rentals.py" line="1428" name="test_overdue" time="0.651" timestamp="2022-07-25T11:05:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestFactory" file="rentals/tests/models/test_rentals.py" line="1404" name="test_unassigned" time="0.311" timestamp="2022-07-25T11:05:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestFactory" file="rentals/tests/models/test_rentals.py" line="1410" name="test_upcoming" time="0.343" timestamp="2022-07-25T11:05:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

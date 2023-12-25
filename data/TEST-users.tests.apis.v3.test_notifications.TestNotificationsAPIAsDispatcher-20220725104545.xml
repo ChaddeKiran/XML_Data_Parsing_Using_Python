@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_notifications.py" name="users.tests.apis.v3.test_notifications.TestNotificationsAPIAsDispatcher-20220725104545" skipped="0" tests="4" time="1.316" timestamp="2022-07-25T11:04:46">
+	<testcase classname="users.tests.apis.v3.test_notifications.TestNotificationsAPIAsDispatcher" file="users/tests/apis/v3/test_notifications.py" line="52" name="test_delete" time="0.409" timestamp="2022-07-25T11:04:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_notifications.TestNotificationsAPIAsDispatcher" file="users/tests/apis/v3/test_notifications.py" line="44" name="test_get" time="0.346" timestamp="2022-07-25T11:04:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_notifications.TestNotificationsAPIAsDispatcher" file="users/tests/apis/v3/test_notifications.py" line="38" name="test_list" time="0.319" timestamp="2022-07-25T11:04:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.notifications.Notification'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_notifications.TestNotificationsAPIAsDispatcher" file="users/tests/apis/v3/test_notifications.py" line="34" name="test_url" time="0.242" timestamp="2022-07-25T11:04:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

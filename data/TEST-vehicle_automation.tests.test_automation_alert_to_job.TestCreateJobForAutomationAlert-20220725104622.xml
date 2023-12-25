@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automation_alert_to_job.py" name="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert-20220725104622" skipped="0" tests="14" time="10.041" timestamp="2022-07-25T10:50:09">
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="166" name="test_create_job_for_automation_alert_and_copy_original_group_with_vehicle_already_in_maintenance_group" time="0.830" timestamp="2022-07-25T10:49:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="144" name="test_create_job_for_automation_alert_and_move_vehicle_to_maintenance_group" time="0.686" timestamp="2022-07-25T10:50:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="251" name="test_create_job_for_automation_alert_with_None_VEHICLE_MAINTENANCE_GROUP_ID" time="0.587" timestamp="2022-07-25T10:50:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="76" name="test_create_job_for_automation_alert_with_perform_action_when_vehicle_available_false" time="0.547" timestamp="2022-07-25T10:50:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="315" name="test_create_job_for_automation_alert_with_perform_action_with_target_job_service" time="0.776" timestamp="2022-07-25T10:50:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="333" name="test_create_job_for_automation_alert_with_target_service_from_settings_services" time="0.691" timestamp="2022-07-25T10:50:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="197" name="test_create_job_for_automation_alert_with_vehicle_moved_to_maintenance_group" time="0.655" timestamp="2022-07-25T10:50:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="220" name="test_create_job_for_automation_alert_with_vehicle_moved_to_maintenance_group_and_none_service" time="0.712" timestamp="2022-07-25T10:50:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="90" name="test_create_job_for_automation_alert_with_vendor_id" time="0.577" timestamp="2022-07-25T10:50:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="272" name="test_create_job_from_alert_dtc_validation" time="0.570" timestamp="2022-07-25T10:50:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="131" name="test_should_create_job_with_car_mapped_to_multiple_services" time="0.886" timestamp="2022-07-25T10:50:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="125" name="test_should_not_create_job_if_fleetops_service_id_not_set" time="0.655" timestamp="2022-07-25T10:50:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="118" name="test_should_not_create_job_if_rental_in_progress" time="1.154" timestamp="2022-07-25T10:50:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCreateJobForAutomationAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="109" name="test_should_not_create_job_if_vehicle_reservation_status_not_free" time="0.714" timestamp="2022-07-25T10:50:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

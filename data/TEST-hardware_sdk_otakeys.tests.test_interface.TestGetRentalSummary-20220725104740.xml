@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_interface.py" name="hardware_sdk_otakeys.tests.test_interface.TestGetRentalSummary-20220725104740" skipped="0" tests="7" time="0.993" timestamp="2022-07-25T11:00:54">
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_otakeys/tests/test_interface.py" line="366" name="test_calculate_and_charge_parked_times_with_syn_data" time="0.138" timestamp="2022-07-25T11:00:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_otakeys/tests/test_interface.py" line="487" name="test_rental_summary_with_corrupt_mileage" time="0.131" timestamp="2022-07-25T11:00:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_otakeys/tests/test_interface.py" line="432" name="test_rental_summary_with_false_data" time="0.113" timestamp="2022-07-25T11:00:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_otakeys/tests/test_interface.py" line="426" name="test_rental_summary_with_no_data" time="0.140" timestamp="2022-07-25T11:00:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_otakeys/tests/test_interface.py" line="439" name="test_rental_summary_with_no_gps_info_in_syntheses" time="0.171" timestamp="2022-07-25T11:00:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_otakeys/tests/test_interface.py" line="360" name="test_synthesis_list_returns_101_syntheses" time="0.140" timestamp="2022-07-25T11:00:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_otakeys/tests/test_interface.py" line="363" name="test_synthesis_list_returns_201_syntheses" time="0.159" timestamp="2022-07-25T11:00:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_state_initialization.py" name="vehicle_lifecycle.tests.test_state_initialization.TestInitStateUsingVehicleVendorRecords-20220725104622" skipped="0" tests="9" time="1.842" timestamp="2022-07-25T10:58:47">
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestInitStateUsingVehicleVendorRecords" file="vehicle_lifecycle/tests/test_state_initialization.py" line="488" name="test_sync_state_for_one_vehicle_activate_in_mon_offre" time="0.160" timestamp="2022-07-25T10:58:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:42:43.518998) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestInitStateUsingVehicleVendorRecords" file="vehicle_lifecycle/tests/test_state_initialization.py" line="408" name="test_sync_state_for_one_vehicle_available_in_stock" time="0.134" timestamp="2022-07-25T10:58:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestInitStateUsingVehicleVendorRecords" file="vehicle_lifecycle/tests/test_state_initialization.py" line="518" name="test_sync_state_for_one_vehicle_deliver_to_customer" time="0.300" timestamp="2022-07-25T10:58:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestInitStateUsingVehicleVendorRecords" file="vehicle_lifecycle/tests/test_state_initialization.py" line="368" name="test_sync_state_for_one_vehicle_onroute" time="0.092" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestInitStateUsingVehicleVendorRecords" file="vehicle_lifecycle/tests/test_state_initialization.py" line="445" name="test_sync_state_for_one_vehicle_vehicle_allocated" time="0.135" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestInitStateUsingVehicleVendorRecords" file="vehicle_lifecycle/tests/test_state_initialization.py" line="328" name="test_sync_state_for_one_vehicle_vehicle_checked_in_storage" time="0.146" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestInitStateUsingVehicleVendorRecords" file="vehicle_lifecycle/tests/test_state_initialization.py" line="273" name="test_vehicle_movement_to_available_when_mon_offre_record_found" time="0.418" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestInitStateUsingVehicleVendorRecords" file="vehicle_lifecycle/tests/test_state_initialization.py" line="307" name="test_vehicle_movement_to_target_step_when_no_job_in_it_fleet" time="0.175" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestInitStateUsingVehicleVendorRecords" file="vehicle_lifecycle/tests/test_state_initialization.py" line="235" name="test_vehicle_movement_to_target_step_when_vehicle_checked_in_storage" time="0.283" timestamp="2022-07-25T10:58:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

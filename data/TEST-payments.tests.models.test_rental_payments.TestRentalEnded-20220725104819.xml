@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/models/test_rental_payments.py" name="payments.tests.models.test_rental_payments.TestRentalEnded-20220725104819" skipped="0" tests="1" time="1.579" timestamp="2022-07-25T10:48:53">
+	<testcase classname="payments.tests.models.test_rental_payments.TestRentalEnded" file="payments/tests/models/test_rental_payments.py" line="240" name="test_rental_ending_creates_payment_and_sends_receipt" time="1.579" timestamp="2022-07-25T10:48:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

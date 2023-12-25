@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_ods_report_api.py" name="vehicle_lifecycle.tests.test_ods_report_api.TestODSAPI-20220725104622" skipped="0" tests="5" time="10.710" timestamp="2022-07-25T10:58:44">
+	<testcase classname="vehicle_lifecycle.tests.test_ods_report_api.TestODSAPI" file="vehicle_lifecycle/tests/test_ods_report_api.py" line="89" name="test_create_vehicles_sets_up_post_code" time="2.722" timestamp="2022-07-25T10:58:36">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2017-03-31 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_start_date received a naive datetime (2017-07-03 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2012-04-16 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_start_date received a naive datetime (2012-04-17 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2010-09-30 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_start_date received a naive datetime (2010-10-15 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ArvalVehicleDetails.expected_delivery_date received a naive datetime (2010-10-18 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2011-03-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_start_date received a naive datetime (2011-03-02 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2014-05-12 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_start_date received a naive datetime (2014-05-12 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ArvalVehicleDetails.expected_delivery_date received a naive datetime (2014-05-12 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_ods_report_api.TestODSAPI" file="vehicle_lifecycle/tests/test_ods_report_api.py" line="29" name="test_create_vehicles_via_api" time="2.270" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_ods_report_api.TestODSAPI" file="vehicle_lifecycle/tests/test_ods_report_api.py" line="48" name="test_errors_when_creating_vehicles_are_isolated" time="1.985" timestamp="2022-07-25T10:58:41">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_ods_report_api.TestODSAPI" file="vehicle_lifecycle/tests/test_ods_report_api.py" line="85" name="test_missing_data_response" time="0.438" timestamp="2022-07-25T10:58:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_ods_report_api.TestODSAPI" file="vehicle_lifecycle/tests/test_ods_report_api.py" line="68" name="test_successive_calls_update_vehicles" time="3.294" timestamp="2022-07-25T10:58:44">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.798513, -122.450029, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

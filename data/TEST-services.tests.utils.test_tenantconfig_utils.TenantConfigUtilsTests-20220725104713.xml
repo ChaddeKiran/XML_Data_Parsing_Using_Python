@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/utils/test_tenantconfig_utils.py" name="services.tests.utils.test_tenantconfig_utils.TenantConfigUtilsTests-20220725104713" skipped="0" tests="5" time="0.536" timestamp="2022-07-25T10:51:54">
+	<testcase classname="services.tests.utils.test_tenantconfig_utils.TenantConfigUtilsTests" file="services/tests/utils/test_tenantconfig_utils.py" line="24" name="test_decorator_ordering" time="0.094" timestamp="2022-07-25T10:51:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfig_utils.TenantConfigUtilsTests" file="services/tests/utils/test_tenantconfig_utils.py" line="33" name="test_decorator_out_of_order" time="0.093" timestamp="2022-07-25T10:51:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfig_utils.TenantConfigUtilsTests" file="services/tests/utils/test_tenantconfig_utils.py" line="42" name="test_decorator_with_kwargs" time="0.097" timestamp="2022-07-25T10:51:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfig_utils.TenantConfigUtilsTests" file="services/tests/utils/test_tenantconfig_utils.py" line="20" name="test_patched_config" time="0.097" timestamp="2022-07-25T10:51:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_tenantconfig_utils.TenantConfigUtilsTests" file="services/tests/utils/test_tenantconfig_utils.py" line="10" name="test_scoped_config_change" time="0.154" timestamp="2022-07-25T10:51:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

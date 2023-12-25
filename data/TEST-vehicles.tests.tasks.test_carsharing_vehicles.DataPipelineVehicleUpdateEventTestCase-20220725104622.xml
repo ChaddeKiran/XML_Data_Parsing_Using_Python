@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/tasks/test_carsharing_vehicles.py" name="vehicles.tests.tasks.test_carsharing_vehicles.DataPipelineVehicleUpdateEventTestCase-20220725104622" skipped="0" tests="3" time="0.820" timestamp="2022-07-25T11:03:57">
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles.DataPipelineVehicleUpdateEventTestCase" file="vehicles/tests/tasks/test_carsharing_vehicles.py" line="337" name="test_gps_source_vehicle_update_for_gps_source_default" time="0.090" timestamp="2022-07-25T11:03:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles.DataPipelineVehicleUpdateEventTestCase" file="vehicles/tests/tasks/test_carsharing_vehicles.py" line="348" name="test_gps_source_vehicle_update_for_gps_source_geotab" time="0.092" timestamp="2022-07-25T11:03:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles.DataPipelineVehicleUpdateEventTestCase" file="vehicles/tests/tasks/test_carsharing_vehicles.py" line="324" name="test_vehicle_update_triggers_vehicle_update_event" time="0.638" timestamp="2022-07-25T11:03:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e69f0278>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e69f4668>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+</testsuite>

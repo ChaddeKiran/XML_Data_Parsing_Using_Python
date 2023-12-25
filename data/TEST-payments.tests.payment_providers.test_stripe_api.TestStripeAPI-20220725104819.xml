@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_stripe_api.py" name="payments.tests.payment_providers.test_stripe_api.TestStripeAPI-20220725104819" skipped="0" tests="1" time="0.095" timestamp="2022-07-25T10:49:25">
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeAPI" file="payments/tests/payment_providers/test_stripe_api.py" line="262" name="test_stripe_api_validate_card" time="0.095" timestamp="2022-07-25T10:49:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

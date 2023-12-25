@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_lifecycle_signals.py" name="vehicle_lifecycle.tests.test_lifecycle_signals.TestVehicleLifeCycleSignals-20220725104622" skipped="0" tests="8" time="4.764" timestamp="2022-07-25T10:58:10">
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_signals.TestVehicleLifeCycleSignals" file="vehicle_lifecycle/tests/test_lifecycle_signals.py" line="183" name="test_end_vehicle_booking_is_called" time="0.583" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_signals.TestVehicleLifeCycleSignals" file="vehicle_lifecycle/tests/test_lifecycle_signals.py" line="22" name="test_lc_stage_completion" time="0.487" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_signals.TestVehicleLifeCycleSignals" file="vehicle_lifecycle/tests/test_lifecycle_signals.py" line="81" name="test_stage_completion_loopback_to_start_cycle" time="0.498" timestamp="2022-07-25T10:58:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_signals.TestVehicleLifeCycleSignals" file="vehicle_lifecycle/tests/test_lifecycle_signals.py" line="37" name="test_stage_completion_with_branching" time="0.585" timestamp="2022-07-25T10:58:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_signals.TestVehicleLifeCycleSignals" file="vehicle_lifecycle/tests/test_lifecycle_signals.py" line="101" name="test_stage_completion_with_cycle_end" time="0.594" timestamp="2022-07-25T10:58:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_signals.TestVehicleLifeCycleSignals" file="vehicle_lifecycle/tests/test_lifecycle_signals.py" line="57" name="test_stage_completion_with_default_branching" time="0.644" timestamp="2022-07-25T10:58:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_signals.TestVehicleLifeCycleSignals" file="vehicle_lifecycle/tests/test_lifecycle_signals.py" line="161" name="test_start_vehicle_booking_is_called" time="0.614" timestamp="2022-07-25T10:58:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_signals.TestVehicleLifeCycleSignals" file="vehicle_lifecycle/tests/test_lifecycle_signals.py" line="120" name="test_step_completion" time="0.759" timestamp="2022-07-25T10:58:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

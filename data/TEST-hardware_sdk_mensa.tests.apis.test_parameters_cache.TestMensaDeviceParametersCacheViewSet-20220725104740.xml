@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" name="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaDeviceParametersCacheViewSet-20220725104740" skipped="0" tests="7" time="2.621" timestamp="2022-07-25T10:59:32">
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaDeviceParametersCacheViewSet" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" line="58" name="test_get_mensa_device_parameters" time="0.371" timestamp="2022-07-25T10:59:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaDeviceParametersCacheViewSet" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" line="54" name="test_get_mensa_device_parameters_with_no_record" time="0.348" timestamp="2022-07-25T10:59:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaDeviceParametersCacheViewSet" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" line="64" name="test_patch_mensa_device_parameters_basic" time="0.377" timestamp="2022-07-25T10:59:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaDeviceParametersCacheViewSet" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" line="100" name="test_patch_mensa_device_parameters_basic_with_invalid_data" time="0.384" timestamp="2022-07-25T10:59:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaDeviceParametersCacheViewSet" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" line="79" name="test_patch_mensa_device_parameters_basic_with_no_pending_device_params_record" time="0.382" timestamp="2022-07-25T10:59:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaDeviceParametersCacheViewSet" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" line="110" name="test_patch_mensa_device_parameters_readiness_criteria" time="0.408" timestamp="2022-07-25T10:59:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaDeviceParametersCacheViewSet" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" line="125" name="test_patch_mensa_device_parameters_with_no_mensa_vehicle" time="0.353" timestamp="2022-07-25T10:59:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

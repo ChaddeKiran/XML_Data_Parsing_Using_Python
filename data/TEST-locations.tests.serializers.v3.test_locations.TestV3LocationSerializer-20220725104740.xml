@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/serializers/v3/test_locations.py" name="locations.tests.serializers.v3.test_locations.TestV3LocationSerializer-20220725104740" skipped="0" tests="2" time="0.091" timestamp="2022-07-25T11:02:40">
+	<testcase classname="locations.tests.serializers.v3.test_locations.TestV3LocationSerializer" file="locations/tests/serializers/v3/test_locations.py" line="35" name="test_change_location_v3" time="0.061" timestamp="2022-07-25T11:02:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.serializers.v3.test_locations.TestV3LocationSerializer" file="locations/tests/serializers/v3/test_locations.py" line="27" name="test_create_location_v3" time="0.031" timestamp="2022-07-25T11:02:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

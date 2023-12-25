@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="billing/tests/test_invoices.py" name="billing.tests.test_invoices.InvoicesTestCase-20220725104740" skipped="0" tests="37" time="68.048" timestamp="2022-07-25T10:52:57">
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="547" name="test_bulk_async_charge" time="1.399" timestamp="2022-07-25T10:51:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="539" name="test_bulk_charging_invoices" time="1.640" timestamp="2022-07-25T10:51:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="518" name="test_bulk_create" time="1.381" timestamp="2022-07-25T10:51:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="532" name="test_bulk_create_task_with_charging" time="1.393" timestamp="2022-07-25T10:51:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="527" name="test_bulk_create_task_without_charging" time="1.400" timestamp="2022-07-25T10:51:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="624" name="test_bulk_invoice_creation_errors" time="1.605" timestamp="2022-07-25T10:51:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="303" name="test_charge_and_refund_invoice" time="1.750" timestamp="2022-07-25T10:51:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="322" name="test_charge_and_refund_invoice_with_reason" time="2.214" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="401" name="test_charge_fake_invoice" time="1.389" timestamp="2022-07-25T10:52:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="568" name="test_charge_refund_float_amount" time="2.028" timestamp="2022-07-25T10:52:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="559" name="test_charging_bulk_invoices" time="1.892" timestamp="2022-07-25T10:52:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="156" name="test_create_invoice" time="1.512" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="235" name="test_create_invoice_with_cancelled_rental" time="1.846" timestamp="2022-07-25T10:52:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="261" name="test_create_invoice_with_cancelled_trip" time="1.698" timestamp="2022-07-25T10:52:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="222" name="test_create_invoice_with_inprogress_rental" time="1.775" timestamp="2022-07-25T10:52:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="246" name="test_create_invoice_with_inprogress_trip" time="1.853" timestamp="2022-07-25T10:52:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="291" name="test_create_invoice_with_no_show_trip" time="1.849" timestamp="2022-07-25T10:52:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="196" name="test_create_invoice_with_rental_and_without_service_for_different_customer" time="1.966" timestamp="2022-07-25T10:52:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="167" name="test_create_invoice_with_rental_and_without_service_for_same_customer" time="1.848" timestamp="2022-07-25T10:52:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="180" name="test_create_invoice_with_trip_and_without_service_for_same_customer" time="1.920" timestamp="2022-07-25T10:52:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="209" name="test_create_invoice_with_trip_with_different_customer" time="1.852" timestamp="2022-07-25T10:52:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="272" name="test_create_invoice_with_violation_date_outside_trip_duration" time="1.711" timestamp="2022-07-25T10:52:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="424" name="test_create_invoice_without_service" time="1.461" timestamp="2022-07-25T10:52:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="654" name="test_delete_paid_invoice" time="1.756" timestamp="2022-07-25T10:52:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="670" name="test_delete_pending_invoice" time="1.505" timestamp="2022-07-25T10:52:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="631" name="test_editing_rental_id_on_invoice" time="2.025" timestamp="2022-07-25T10:52:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="441" name="test_get_fake_invoice" time="1.914" timestamp="2022-07-25T10:52:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="435" name="test_get_invoice" time="1.680" timestamp="2022-07-25T10:52:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="445" name="test_list_invoices" time="2.505" timestamp="2022-07-25T10:52:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="412" name="test_list_invoices_has_page_limit" time="5.880" timestamp="2022-07-25T10:52:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="504" name="test_patch_non_pending_invoice" time="1.634" timestamp="2022-07-25T10:52:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="473" name="test_patch_pending_invoice" time="1.514" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="405" name="test_re_charged_invoice" time="1.644" timestamp="2022-07-25T10:52:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="362" name="test_refund_correct_card" time="2.100" timestamp="2022-07-25T10:52:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="397" name="test_refund_fake_invoice" time="1.370" timestamp="2022-07-25T10:52:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="341" name="test_refund_payment_partial" time="1.752" timestamp="2022-07-25T10:52:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.test_invoices.InvoicesTestCase" file="billing/tests/test_invoices.py" line="604" name="test_violation_amount_max_length" time="1.386" timestamp="2022-07-25T10:52:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

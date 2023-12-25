@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="afm_integration/tests/test_afm_rule_engine_integration.py" name="afm_integration.tests.test_afm_rule_engine_integration.AFMRuleEngineClientExceptionsTests-20220725104740" skipped="0" tests="5" time="0.626" timestamp="2022-07-25T10:49:46">
+	<testcase classname="afm_integration.tests.test_afm_rule_engine_integration.AFMRuleEngineClientExceptionsTests" file="afm_integration/tests/test_afm_rule_engine_integration.py" line="213" name="test_bad_url" time="0.133" timestamp="2022-07-25T10:49:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_afm_rule_engine_integration.AFMRuleEngineClientExceptionsTests" file="afm_integration/tests/test_afm_rule_engine_integration.py" line="63" name="test_http_201" time="0.125" timestamp="2022-07-25T10:49:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_afm_rule_engine_integration.AFMRuleEngineClientExceptionsTests" file="afm_integration/tests/test_afm_rule_engine_integration.py" line="99" name="test_http_400" time="0.115" timestamp="2022-07-25T10:49:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_afm_rule_engine_integration.AFMRuleEngineClientExceptionsTests" file="afm_integration/tests/test_afm_rule_engine_integration.py" line="138" name="test_http_500" time="0.132" timestamp="2022-07-25T10:49:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_afm_rule_engine_integration.AFMRuleEngineClientExceptionsTests" file="afm_integration/tests/test_afm_rule_engine_integration.py" line="177" name="test_timeout" time="0.120" timestamp="2022-07-25T10:49:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

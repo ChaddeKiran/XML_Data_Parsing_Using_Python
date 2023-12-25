@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_create_trip.py" name="trips.tests.apis.test_create_trip.TestTripCreationExclusiveService-20220725104713" skipped="0" tests="4" time="1.930" timestamp="2022-07-25T10:54:05">
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreationExclusiveService" file="trips/tests/apis/test_create_trip.py" line="369" name="test_create_trip_customer_blocked" time="0.288" timestamp="2022-07-25T10:54:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreationExclusiveService" file="trips/tests/apis/test_create_trip.py" line="360" name="test_create_trip_customer_in_another_group_should_fail" time="0.283" timestamp="2022-07-25T10:54:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreationExclusiveService" file="trips/tests/apis/test_create_trip.py" line="347" name="test_create_trip_customer_in_group_should_succeed" time="1.089" timestamp="2022-07-25T10:54:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreationExclusiveService" file="trips/tests/apis/test_create_trip.py" line="355" name="test_create_trip_customer_not_in_group_should_fail" time="0.270" timestamp="2022-07-25T10:54:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

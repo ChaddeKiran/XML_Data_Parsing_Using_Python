@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/views/test_dispatch_ui.py" name="ops_center.tests.views.test_dispatch_ui.LoggedOutDispatcherUITestCase-20220725104740" skipped="0" tests="2" time="0.117" timestamp="2022-07-25T11:04:04">
+	<testcase classname="ops_center.tests.views.test_dispatch_ui.LoggedOutDispatcherUITestCase" file="ops_center/tests/views/test_dispatch_ui.py" line="18" name="test_dispatcher_login" time="0.063" timestamp="2022-07-25T11:04:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_dispatch_ui.LoggedOutDispatcherUITestCase" file="ops_center/tests/views/test_dispatch_ui.py" line="22" name="test_dispatcher_trips_page" time="0.054" timestamp="2022-07-25T11:04:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

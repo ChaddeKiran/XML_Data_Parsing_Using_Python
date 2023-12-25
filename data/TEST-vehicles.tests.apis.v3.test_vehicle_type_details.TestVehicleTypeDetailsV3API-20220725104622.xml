@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_vehicle_type_details.py" name="vehicles.tests.apis.v3.test_vehicle_type_details.TestVehicleTypeDetailsV3API-20220725104622" skipped="0" tests="6" time="7.130" timestamp="2022-07-25T11:03:15">
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_details.TestVehicleTypeDetailsV3API" file="vehicles/tests/apis/v3/test_vehicle_type_details.py" line="289" name="test_get_spanish" time="3.201" timestamp="2022-07-25T11:03:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_details.TestVehicleTypeDetailsV3API" file="vehicles/tests/apis/v3/test_vehicle_type_details.py" line="244" name="test_get_vehicle_type_details_filter_by_multiple_vehicle" time="0.982" timestamp="2022-07-25T11:03:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_details.TestVehicleTypeDetailsV3API" file="vehicles/tests/apis/v3/test_vehicle_type_details.py" line="200" name="test_get_vehicle_type_details_filter_by_vehicle" time="0.702" timestamp="2022-07-25T11:03:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_details.TestVehicleTypeDetailsV3API" file="vehicles/tests/apis/v3/test_vehicle_type_details.py" line="128" name="test_get_vehicle_type_details_list_all_services" time="0.731" timestamp="2022-07-25T11:03:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_details.TestVehicleTypeDetailsV3API" file="vehicles/tests/apis/v3/test_vehicle_type_details.py" line="84" name="test_get_vehicle_type_details_list_for_service" time="0.722" timestamp="2022-07-25T11:03:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_details.TestVehicleTypeDetailsV3API" file="vehicles/tests/apis/v3/test_vehicle_type_details.py" line="335" name="test_post_and_patch_new_vehicle_type_details" time="0.792" timestamp="2022-07-25T11:03:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

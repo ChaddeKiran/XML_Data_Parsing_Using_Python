@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerRegistrationCurrency-20220725104545" skipped="0" tests="2" time="1.714" timestamp="2022-07-25T11:00:01">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerRegistrationCurrency" file="users/tests/apis/v2/test_carsharing_customers.py" line="4265" name="test_currency_code_from_market_when_service_in_market" time="0.881" timestamp="2022-07-25T11:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerRegistrationCurrency" file="users/tests/apis/v2/test_carsharing_customers.py" line="4246" name="test_currency_code_from_tenant_config_when_service_not_in_market" time="0.833" timestamp="2022-07-25T11:00:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

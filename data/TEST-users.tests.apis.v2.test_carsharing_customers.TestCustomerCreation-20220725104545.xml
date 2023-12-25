@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerCreation-20220725104545" skipped="0" tests="3" time="3.663" timestamp="2022-07-25T10:59:48">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerCreation" file="users/tests/apis/v2/test_carsharing_customers.py" line="3107" name="test_customer_with_long_email" time="1.216" timestamp="2022-07-25T10:59:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerCreation" file="users/tests/apis/v2/test_carsharing_customers.py" line="3089" name="test_customer_with_long_first_name" time="1.203" timestamp="2022-07-25T10:59:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerCreation" file="users/tests/apis/v2/test_carsharing_customers.py" line="3098" name="test_customer_with_long_name" time="1.244" timestamp="2022-07-25T10:59:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

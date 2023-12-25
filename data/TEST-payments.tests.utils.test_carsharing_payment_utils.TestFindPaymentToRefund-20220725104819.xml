@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund-20220725104819" skipped="0" tests="10" time="1.449" timestamp="2022-07-25T10:51:01">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2463" name="test_all_non_captured_payments" time="0.050" timestamp="2022-07-25T10:50:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2417" name="test_create_creditcard_saves_to_firebase" time="0.638" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2473" name="test_exempt_rental_payments" time="0.155" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2458" name="test_mixed_captured_payments" time="0.039" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2448" name="test_multiple_captured_payments" time="0.040" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2453" name="test_multiple_captured_payments_without_refund_amount" time="0.038" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2468" name="test_previously_refunded_payments" time="0.037" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2442" name="test_single_captured_payment" time="0.025" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2445" name="test_single_captured_payment_refund_amount_too_large" time="0.025" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestFindPaymentToRefund" file="payments/tests/utils/test_carsharing_payment_utils.py" line="2430" name="test_update_creditcard_saves_to_firebase" time="0.403" timestamp="2022-07-25T10:51:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

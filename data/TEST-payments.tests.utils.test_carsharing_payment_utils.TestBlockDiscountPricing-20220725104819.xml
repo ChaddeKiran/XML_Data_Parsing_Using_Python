@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestBlockDiscountPricing-20220725104819" skipped="0" tests="6" time="2.217" timestamp="2022-07-25T10:50:16">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBlockDiscountPricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="354" name="test_block_isnt_used_with_cheaper_rates" time="0.548" timestamp="2022-07-25T10:50:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBlockDiscountPricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="418" name="test_calculate_fare_previously_scheduled_rental" time="0.372" timestamp="2022-07-25T10:50:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBlockDiscountPricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="399" name="test_fare_calculation_does_not_apply_discounted_block_pricing_when_pricing_packages_is_none_or_empty" time="0.658" timestamp="2022-07-25T10:50:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBlockDiscountPricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="389" name="test_total_booking_minutes_with_package_upgrades_exists" time="0.226" timestamp="2022-07-25T10:50:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBlockDiscountPricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="340" name="test_with_no_package_upgrade" time="0.211" timestamp="2022-07-25T10:50:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBlockDiscountPricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="347" name="test_with_package_upgrade" time="0.203" timestamp="2022-07-25T10:50:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

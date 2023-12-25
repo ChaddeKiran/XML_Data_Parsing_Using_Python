@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/serializers/test_trips.py" name="trips.tests.serializers.test_trips.TripSerializerTestCase-20220725104545" skipped="0" tests="1" time="0.698" timestamp="2022-07-25T10:50:24">
+	<testcase classname="trips.tests.serializers.test_trips.TripSerializerTestCase" file="trips/tests/serializers/test_trips.py" line="230" name="test_serializer_with_kiosk" time="0.698" timestamp="2022-07-25T10:50:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

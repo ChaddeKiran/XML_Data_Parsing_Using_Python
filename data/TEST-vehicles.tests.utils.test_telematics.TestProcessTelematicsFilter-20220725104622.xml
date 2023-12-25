@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/utils/test_telematics.py" name="vehicles.tests.utils.test_telematics.TestProcessTelematicsFilter-20220725104622" skipped="0" tests="1" time="0.351" timestamp="2022-07-25T11:05:23">
+	<testcase classname="vehicles.tests.utils.test_telematics.TestProcessTelematicsFilter" file="vehicles/tests/utils/test_telematics.py" line="149" name="test_telematics_filter_strip_data_flag_set" time="0.351" timestamp="2022-07-25T11:05:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

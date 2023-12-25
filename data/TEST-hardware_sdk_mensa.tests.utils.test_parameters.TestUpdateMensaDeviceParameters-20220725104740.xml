@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/utils/test_parameters.py" name="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters-20220725104740" skipped="0" tests="10" time="8.748" timestamp="2022-07-25T11:00:47">
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters" file="hardware_sdk_mensa/tests/utils/test_parameters.py" line="72" name="test_initialize_mensa_device_parameters" time="0.463" timestamp="2022-07-25T11:00:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters" file="hardware_sdk_mensa/tests/utils/test_parameters.py" line="78" name="test_initialize_mensa_device_parameters_two_vehicles" time="0.801" timestamp="2022-07-25T11:00:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters" file="hardware_sdk_mensa/tests/utils/test_parameters.py" line="92" name="test_initialize_mensa_device_parameters_with_synthesis" time="0.893" timestamp="2022-07-25T11:00:41">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters" file="hardware_sdk_mensa/tests/utils/test_parameters.py" line="186" name="test_multiple_update_mensa_device_parameters" time="0.494" timestamp="2022-07-25T11:00:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters" file="hardware_sdk_mensa/tests/utils/test_parameters.py" line="62" name="test_update_mensa_device_parameters" time="0.415" timestamp="2022-07-25T11:00:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters" file="hardware_sdk_mensa/tests/utils/test_parameters.py" line="395" name="test_update_mensa_device_parameters_to_apply_pending_inflight_update" time="0.880" timestamp="2022-07-25T11:00:43">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters" file="hardware_sdk_mensa/tests/utils/test_parameters.py" line="199" name="test_update_mensa_device_parameters_with_mensa_device_params_but_without_pending_params_record" time="0.462" timestamp="2022-07-25T11:00:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters" file="hardware_sdk_mensa/tests/utils/test_parameters.py" line="129" name="test_update_mensa_parameters_with_multiple_set_params_action" time="0.885" timestamp="2022-07-25T11:00:44">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters" file="hardware_sdk_mensa/tests/utils/test_parameters.py" line="212" name="test_update_mensa_parameters_with_retry_count_exhausted" time="1.714" timestamp="2022-07-25T11:00:46">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_parameters.TestUpdateMensaDeviceParameters" file="hardware_sdk_mensa/tests/utils/test_parameters.py" line="297" name="test_update_mensa_parameters_with_retry_count_exhausted_retry_set_params_last_time" time="1.741" timestamp="2022-07-25T11:00:47">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

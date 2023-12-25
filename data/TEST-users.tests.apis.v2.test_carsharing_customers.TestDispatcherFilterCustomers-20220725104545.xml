@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomers-20220725104545" skipped="0" tests="6" time="29.960" timestamp="2022-07-25T11:00:57">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomers" file="users/tests/apis/v2/test_carsharing_customers.py" line="1792" name="test_exclusive_service_customers" time="1.416" timestamp="2022-07-25T11:00:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.carsharing_customers.CarsharingCustomer'> CustomerQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomers" file="users/tests/apis/v2/test_carsharing_customers.py" line="1833" name="test_filter_all_customers_by_valid_cc" time="7.108" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomers" file="users/tests/apis/v2/test_carsharing_customers.py" line="1803" name="test_filter_by_is_rfid_assigned" time="9.749" timestamp="2022-07-25T11:00:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.carsharing_customers.CarsharingCustomer'> CustomerQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomers" file="users/tests/apis/v2/test_carsharing_customers.py" line="1872" name="test_filter_by_membership" time="1.362" timestamp="2022-07-25T11:00:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomers" file="users/tests/apis/v2/test_carsharing_customers.py" line="1773" name="test_get_all_customers" time="9.455" timestamp="2022-07-25T11:00:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomers" file="users/tests/apis/v2/test_carsharing_customers.py" line="1764" name="test_query_invalid_service" time="0.871" timestamp="2022-07-25T11:00:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

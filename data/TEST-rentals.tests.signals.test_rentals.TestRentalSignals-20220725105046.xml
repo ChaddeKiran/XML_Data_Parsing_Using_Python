@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/signals/test_rentals.py" name="rentals.tests.signals.test_rentals.TestRentalSignals-20220725105046" skipped="0" tests="5" time="3.228" timestamp="2022-07-25T11:05:47">
+	<testcase classname="rentals.tests.signals.test_rentals.TestRentalSignals" file="rentals/tests/signals/test_rentals.py" line="81" name="test_notify_of_ongoing_rental" time="0.348" timestamp="2022-07-25T11:05:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.signals.test_rentals.TestRentalSignals" file="rentals/tests/signals/test_rentals.py" line="139" name="test_notify_of_ongoing_rental_when_flag_disable" time="0.666" timestamp="2022-07-25T11:05:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.signals.test_rentals.TestRentalSignals" file="rentals/tests/signals/test_rentals.py" line="131" name="test_notify_of_ongoing_rental_when_flag_enable" time="0.683" timestamp="2022-07-25T11:05:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.signals.test_rentals.TestRentalSignals" file="rentals/tests/signals/test_rentals.py" line="97" name="test_rental_post_save_handler" time="1.193" timestamp="2022-07-25T11:05:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.signals.test_rentals.TestRentalSignals" file="rentals/tests/signals/test_rentals.py" line="53" name="test_rental_post_save_handler_generic" time="0.338" timestamp="2022-07-25T11:05:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

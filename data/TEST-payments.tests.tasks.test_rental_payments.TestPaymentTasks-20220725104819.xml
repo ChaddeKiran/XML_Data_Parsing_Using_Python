@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/tasks/test_rental_payments.py" name="payments.tests.tasks.test_rental_payments.TestPaymentTasks-20220725104819" skipped="0" tests="2" time="1.455" timestamp="2022-07-25T10:50:03">
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestPaymentTasks" file="payments/tests/tasks/test_rental_payments.py" line="151" name="test_payment_create_or_update_change_to_data_pipeline_flag_off" time="0.609" timestamp="2022-07-25T10:50:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.booked_at received a naive datetime (2017-04-24 12:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2017-04-24 12:20:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestPaymentTasks" file="payments/tests/tasks/test_rental_payments.py" line="121" name="test_payment_create_or_update_change_to_data_pipeline_flag_on" time="0.846" timestamp="2022-07-25T10:50:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

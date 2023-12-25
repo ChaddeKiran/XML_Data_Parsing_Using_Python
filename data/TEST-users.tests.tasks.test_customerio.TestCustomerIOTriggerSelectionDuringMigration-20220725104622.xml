@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/tasks/test_customerio.py" name="users.tests.tasks.test_customerio.TestCustomerIOTriggerSelectionDuringMigration-20220725104622" skipped="0" tests="4" time="0.395" timestamp="2022-07-25T10:47:54">
+	<testcase classname="users.tests.tasks.test_customerio.TestCustomerIOTriggerSelectionDuringMigration" file="users/tests/tasks/test_customerio.py" line="28" name="test_both_old_and_new_event_names_are_sent_when_migration_is_in_progress" time="0.105" timestamp="2022-07-25T10:47:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_customerio.TestCustomerIOTriggerSelectionDuringMigration" file="users/tests/tasks/test_customerio.py" line="36" name="test_new_event_name_is_sent_when_status_is_migrated" time="0.099" timestamp="2022-07-25T10:47:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_customerio.TestCustomerIOTriggerSelectionDuringMigration" file="users/tests/tasks/test_customerio.py" line="21" name="test_old_event_name_is_sent_when_status_is_unmigrated" time="0.096" timestamp="2022-07-25T10:47:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_customerio.TestCustomerIOTriggerSelectionDuringMigration" file="users/tests/tasks/test_customerio.py" line="43" name="test_only_one_event_is_sent_for_an_unchanging_trigger_name_when_migration_is_in_progress" time="0.095" timestamp="2022-07-25T10:47:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

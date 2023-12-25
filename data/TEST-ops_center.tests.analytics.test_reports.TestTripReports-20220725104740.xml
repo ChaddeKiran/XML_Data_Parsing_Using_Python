@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/analytics/test_reports.py" name="ops_center.tests.analytics.test_reports.TestTripReports-20220725104740" skipped="0" tests="7" time="7.415" timestamp="2022-07-25T11:03:43">
+	<testcase classname="ops_center.tests.analytics.test_reports.TestTripReports" file="ops_center/tests/analytics/test_reports.py" line="110" name="test_daily_trip_report" time="1.040" timestamp="2022-07-25T11:03:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField Trip.created_at received a naive datetime (2022-07-24 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_reports.TestTripReports" file="ops_center/tests/analytics/test_reports.py" line="212" name="test_driver_report_requests" time="0.888" timestamp="2022-07-25T11:03:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_reports.TestTripReports" file="ops_center/tests/analytics/test_reports.py" line="116" name="test_monthly_trip_report" time="0.995" timestamp="2022-07-25T11:03:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_reports.TestTripReports" file="ops_center/tests/analytics/test_reports.py" line="65" name="test_no_trips" time="0.423" timestamp="2022-07-25T11:03:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField Trip.created_at received a naive datetime (2022-07-25 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_reports.TestTripReports" file="ops_center/tests/analytics/test_reports.py" line="173" name="test_trips_display_name_vs_no_display_name" time="0.705" timestamp="2022-07-25T11:03:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_reports.TestTripReports" file="ops_center/tests/analytics/test_reports.py" line="113" name="test_weekly_trip_report" time="1.053" timestamp="2022-07-25T11:03:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_reports.TestTripReports" file="ops_center/tests/analytics/test_reports.py" line="119" name="test_with_trips_and_services" time="2.312" timestamp="2022-07-25T11:03:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

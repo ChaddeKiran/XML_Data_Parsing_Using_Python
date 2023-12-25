@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" name="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard-20220725104740" skipped="0" tests="11" time="8.453" timestamp="2022-07-25T11:03:24">
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="58" name="test_list_with_service_assigned" time="0.862" timestamp="2022-07-25T11:03:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'ops_center.models.analytics.PeriscopeDashboard'> BaseQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="47" name="test_list_with_service_assigned_periscope_disabled" time="0.902" timestamp="2022-07-25T11:03:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="38" name="test_list_with_service_unassigned" time="0.885" timestamp="2022-07-25T11:03:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="77" name="test_list_with_service_unassigned_as_manager" time="0.854" timestamp="2022-07-25T11:03:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="31" name="test_list_without_service" time="0.702" timestamp="2022-07-25T11:03:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="68" name="test_list_without_service_as_manager" time="0.690" timestamp="2022-07-25T11:03:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="21" name="test_periscope_dashboards_permissions" time="0.722" timestamp="2022-07-25T11:03:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="18" name="test_periscope_dashboards_url" time="0.601" timestamp="2022-07-25T11:03:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="93" name="test_unallowed_detail_methods" time="0.891" timestamp="2022-07-25T11:03:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="99" name="test_unallowed_list_methods" time="0.669" timestamp="2022-07-25T11:03:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_periscope_dashboard_api.TestPeriscopeDashboard" file="ops_center/tests/analytics/test_periscope_dashboard_api.py" line="88" name="test_unauthorized" time="0.674" timestamp="2022-07-25T11:03:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/models/test_locations.py" name="locations.tests.models.test_locations.TestGeoFence-20220725104740" skipped="0" tests="3" time="0.087" timestamp="2022-07-25T11:02:37">
+	<testcase classname="locations.tests.models.test_locations.TestGeoFence" file="locations/tests/models/test_locations.py" line="294" name="test_apply_once_can_be_set_to_true_only_for_geofence_all_locations_tag" time="0.035" timestamp="2022-07-25T11:02:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.models.test_locations.TestGeoFence" file="locations/tests/models/test_locations.py" line="286" name="test_default_model_values" time="0.024" timestamp="2022-07-25T11:02:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.models.test_locations.TestGeoFence" file="locations/tests/models/test_locations.py" line="319" name="test_negative_fee_is_allowed" time="0.028" timestamp="2022-07-25T11:02:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

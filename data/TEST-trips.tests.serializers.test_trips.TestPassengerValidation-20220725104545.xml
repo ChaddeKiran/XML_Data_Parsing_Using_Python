@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/serializers/test_trips.py" name="trips.tests.serializers.test_trips.TestPassengerValidation-20220725104545" skipped="0" tests="8" time="4.663" timestamp="2022-07-25T10:50:13">
+	<testcase classname="trips.tests.serializers.test_trips.TestPassengerValidation" file="trips/tests/serializers/test_trips.py" line="75" name="test_validate_num_passengers_above_max" time="0.633" timestamp="2022-07-25T10:50:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestPassengerValidation" file="trips/tests/serializers/test_trips.py" line="82" name="test_validate_num_passengers_invalid" time="0.564" timestamp="2022-07-25T10:50:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestPassengerValidation" file="trips/tests/serializers/test_trips.py" line="89" name="test_validate_num_passengers_no_vehicle" time="0.597" timestamp="2022-07-25T10:50:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestPassengerValidation" file="trips/tests/serializers/test_trips.py" line="95" name="test_validate_num_passengers_picked_up" time="0.583" timestamp="2022-07-25T10:50:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestPassengerValidation" file="trips/tests/serializers/test_trips.py" line="71" name="test_validate_num_passengers_valid" time="0.567" timestamp="2022-07-25T10:50:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestPassengerValidation" file="trips/tests/serializers/test_trips.py" line="42" name="test_validate_valid_passengers" time="0.586" timestamp="2022-07-25T10:50:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestPassengerValidation" file="trips/tests/serializers/test_trips.py" line="50" name="test_validate_with_invalid_type" time="0.591" timestamp="2022-07-25T10:50:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestPassengerValidation" file="trips/tests/serializers/test_trips.py" line="60" name="test_validate_with_no_mandatory" time="0.542" timestamp="2022-07-25T10:50:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

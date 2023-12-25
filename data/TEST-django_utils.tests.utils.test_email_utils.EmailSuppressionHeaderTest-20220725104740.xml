@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_email_utils.py" name="django_utils.tests.utils.test_email_utils.EmailSuppressionHeaderTest-20220725104740" skipped="0" tests="1" time="0.022" timestamp="2022-07-25T10:54:34">
+	<testcase classname="django_utils.tests.utils.test_email_utils.EmailSuppressionHeaderTest" file="django_utils/tests/utils/test_email_utils.py" line="43" name="test_send_email_with_suppression_headers" time="0.022" timestamp="2022-07-25T10:54:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

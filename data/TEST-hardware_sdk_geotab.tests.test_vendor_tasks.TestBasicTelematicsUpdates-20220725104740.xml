@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" name="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates-20220725104740" skipped="0" tests="10" time="2.154" timestamp="2022-07-25T10:58:46">
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="463" name="test_convert_geotab_telematics_tire_pressure_values_from_pascal_to_kilo_pascal" time="0.228" timestamp="2022-07-25T10:58:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="441" name="test_energy_percentage_and_remaining_range_for_phev_vehicle" time="0.188" timestamp="2022-07-25T10:58:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="328" name="test_parse_telematics_data_for_door_status_event_lock" time="0.271" timestamp="2022-07-25T10:58:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="311" name="test_parse_telematics_data_for_engine_status_event" time="0.291" timestamp="2022-07-25T10:58:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="294" name="test_parse_telematics_data_for_vehicle_update_event" time="0.180" timestamp="2022-07-25T10:58:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="419" name="test_update_ev_battery_percentage" time="0.194" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="401" name="test_update_liquid_fuel_percentage" time="0.179" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="343" name="test_update_vehicle_battery_level" time="0.194" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="362" name="test_update_vehicle_battery_level_when_battery_voltage_above_12v" time="0.166" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestBasicTelematicsUpdates" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="379" name="test_update_vehicle_gps_information" time="0.266" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (27.69565, 137.84653, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

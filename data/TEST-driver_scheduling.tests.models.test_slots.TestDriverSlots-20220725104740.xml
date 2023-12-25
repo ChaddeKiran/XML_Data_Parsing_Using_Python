@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/models/test_slots.py" name="driver_scheduling.tests.models.test_slots.TestDriverSlots-20220725104740" skipped="0" tests="14" time="4.129" timestamp="2022-07-25T10:56:15">
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="20" name="test_quantize_time" time="0.024" timestamp="2022-07-25T10:56:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="161" name="test_slot_borders_end" time="0.324" timestamp="2022-07-25T10:56:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="153" name="test_slot_borders_start" time="0.331" timestamp="2022-07-25T10:56:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="87" name="test_slot_calculate_payout" time="0.333" timestamp="2022-07-25T10:56:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="41" name="test_slot_create_duration_not_mod_5" time="0.296" timestamp="2022-07-25T10:56:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="48" name="test_slot_create_off_minute_start" time="0.302" timestamp="2022-07-25T10:56:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="26" name="test_slot_create_too_short" time="0.344" timestamp="2022-07-25T10:56:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="122" name="test_slot_overlaps_contains" time="0.304" timestamp="2022-07-25T10:56:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="94" name="test_slot_overlaps_different_zone" time="0.314" timestamp="2022-07-25T10:56:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="144" name="test_slot_overlaps_equal" time="0.305" timestamp="2022-07-25T10:56:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="133" name="test_slot_overlaps_is_contained" time="0.308" timestamp="2022-07-25T10:56:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="100" name="test_slot_overlaps_same_zone_after" time="0.317" timestamp="2022-07-25T10:56:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="111" name="test_slot_overlaps_same_zone_before" time="0.334" timestamp="2022-07-25T10:56:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_slots.TestDriverSlots" file="driver_scheduling/tests/models/test_slots.py" line="77" name="test_slot_properties" time="0.294" timestamp="2022-07-25T10:56:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

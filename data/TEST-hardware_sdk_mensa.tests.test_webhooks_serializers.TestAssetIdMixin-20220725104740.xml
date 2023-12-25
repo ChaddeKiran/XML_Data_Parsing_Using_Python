@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" name="hardware_sdk_mensa.tests.test_webhooks_serializers.TestAssetIdMixin-20220725104740" skipped="0" tests="2" time="0.010" timestamp="2022-07-25T11:00:35">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestAssetIdMixin" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="53" name="test_good_vehicle" time="0.004" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestAssetIdMixin" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="58" name="test_missing_vehicle" time="0.005" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

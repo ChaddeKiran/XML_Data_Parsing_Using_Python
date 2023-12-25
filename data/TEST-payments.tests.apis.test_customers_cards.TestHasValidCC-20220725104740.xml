@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/test_customers_cards.py" name="payments.tests.apis.test_customers_cards.TestHasValidCC-20220725104740" skipped="0" tests="5" time="3.777" timestamp="2022-07-25T11:04:36">
+	<testcase classname="payments.tests.apis.test_customers_cards.TestHasValidCC" file="payments/tests/apis/test_customers_cards.py" line="1428" name="test_has_valid_cc_is_false_when_customer_has_no_credit_cards" time="0.396" timestamp="2022-07-25T11:04:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestHasValidCC" file="payments/tests/apis/test_customers_cards.py" line="1446" name="test_has_valid_cc_is_false_when_in_use_card_is_invalid" time="0.506" timestamp="2022-07-25T11:04:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestHasValidCC" file="payments/tests/apis/test_customers_cards.py" line="1440" name="test_has_valid_cc_is_false_when_multiple_cards_and_none_are_in_use" time="1.260" timestamp="2022-07-25T11:04:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestHasValidCC" file="payments/tests/apis/test_customers_cards.py" line="1433" name="test_has_valid_cc_is_true_when_customer_has_single_valid_card" time="0.506" timestamp="2022-07-25T11:04:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestHasValidCC" file="payments/tests/apis/test_customers_cards.py" line="1453" name="test_has_valid_cc_is_true_with_multiple_cards_with_atleast_one_in_use_is_valid_and_not_expired" time="1.109" timestamp="2022-07-25T11:04:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

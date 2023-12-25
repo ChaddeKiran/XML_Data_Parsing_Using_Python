@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/utils/test_vehicle_transition_utils.py" name="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionFromGoldPin-20220725104622" skipped="0" tests="7" time="7.140" timestamp="2022-07-25T11:05:43">
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionFromGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="252" name="test_transition_from_gold_pin_for_non_gold_pin_vehicle_does_not_change_marker_type" time="0.672" timestamp="2022-07-25T11:05:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionFromGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="246" name="test_transition_from_gold_pin_for_non_gold_pin_vehicle_does_not_change_vehicle_type" time="0.727" timestamp="2022-07-25T11:05:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionFromGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="217" name="test_transition_from_gold_pin_is_atomic_and_rolls_back_on_failure" time="0.987" timestamp="2022-07-25T11:05:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionFromGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="217" name="test_transition_to_normal_state_removes_gold_pin_vehicle_group_from_vehicle" time="1.141" timestamp="2022-07-25T11:05:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionFromGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="217" name="test_transition_to_normal_state_restores_previous_marker_type" time="1.138" timestamp="2022-07-25T11:05:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionFromGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="271" name="test_transition_to_normal_state_restores_previous_marker_type_even_when_it_was_none" time="1.274" timestamp="2022-07-25T11:05:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionFromGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="217" name="test_transition_to_normal_state_restores_vehicle_type" time="1.202" timestamp="2022-07-25T11:05:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

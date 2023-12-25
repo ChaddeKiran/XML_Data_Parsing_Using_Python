@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="uber_integration/tests/test_rental_events_triggering.py" name="uber_integration.tests.test_rental_events_triggering.RentalEventsTest-20220725104545" skipped="0" tests="3" time="2.418" timestamp="2022-07-25T10:51:49">
+	<testcase classname="uber_integration.tests.test_rental_events_triggering.RentalEventsTest" file="uber_integration/tests/test_rental_events_triggering.py" line="43" name="test_cancel" time="0.721" timestamp="2022-07-25T10:51:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_rental_events_triggering.RentalEventsTest" file="uber_integration/tests/test_rental_events_triggering.py" line="24" name="test_create" time="0.548" timestamp="2022-07-25T10:51:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_rental_events_triggering.RentalEventsTest" file="uber_integration/tests/test_rental_events_triggering.py" line="30" name="test_start_and_end" time="1.149" timestamp="2022-07-25T10:51:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

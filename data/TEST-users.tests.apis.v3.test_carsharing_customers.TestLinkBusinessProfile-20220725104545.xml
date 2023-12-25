@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_carsharing_customers.py" name="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile-20220725104545" skipped="0" tests="19" time="25.377" timestamp="2022-07-25T11:03:52">
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1079" name="test_accepting_new_user_invite_after_revoking_old" time="2.373" timestamp="2022-07-25T11:03:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1056" name="test_accepting_user_invite_with_rfid" time="1.519" timestamp="2022-07-25T11:03:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1112" name="test_accepting_user_invite_without_default_user_group" time="1.416" timestamp="2022-07-25T11:03:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1377" name="test_add_user_group_to_accepted_user_invite" time="1.357" timestamp="2022-07-25T11:03:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1371" name="test_delete_user_group_of_accepted_user_invite" time="1.317" timestamp="2022-07-25T11:03:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1198" name="test_reinviting_revoked_user" time="1.756" timestamp="2022-07-25T11:03:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1172" name="test_send_user_invite_status_accepted_to_data_pipeline" time="1.998" timestamp="2022-07-25T11:03:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1237" name="test_user_cannot_call_link_profile_for_other_user" time="1.186" timestamp="2022-07-25T11:03:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1143" name="test_with_activation_code_is_case_insensitive" time="1.299" timestamp="2022-07-25T11:03:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1383" name="test_with_b2b_disabled" time="1.115" timestamp="2022-07-25T11:03:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1341" name="test_with_business_service_without_default_user_group" time="1.151" timestamp="2022-07-25T11:03:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1322" name="test_with_business_user_trying_to_link_profile_again" time="1.796" timestamp="2022-07-25T11:03:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1124" name="test_with_dummy_activation_code_for_debug_environment" time="1.063" timestamp="2022-07-25T11:03:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1162" name="test_with_dummy_activation_code_for_non_debug_environment" time="0.907" timestamp="2022-07-25T11:03:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1275" name="test_with_expired_activation_code" time="1.063" timestamp="2022-07-25T11:03:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1249" name="test_with_invalid_activation_code" time="1.007" timestamp="2022-07-25T11:03:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1303" name="test_with_revoked_user_invite" time="1.063" timestamp="2022-07-25T11:03:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1037" name="test_with_valid_activation_code" time="1.055" timestamp="2022-07-25T11:03:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestLinkBusinessProfile" file="users/tests/apis/v3/test_carsharing_customers.py" line="1262" name="test_without_activation_code" time="0.937" timestamp="2022-07-25T11:03:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

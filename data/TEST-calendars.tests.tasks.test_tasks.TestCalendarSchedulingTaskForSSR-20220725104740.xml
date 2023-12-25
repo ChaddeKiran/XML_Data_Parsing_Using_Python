@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/tasks/test_tasks.py" name="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForSSR-20220725104740" skipped="0" tests="4" time="0.187" timestamp="2022-07-25T10:53:54">
+	<testcase classname="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForSSR" file="calendars/tests/tasks/test_tasks.py" line="167" name="test_scheduler_call_is_no_op_if_flags_are_disabled" time="0.075" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForSSR" file="calendars/tests/tasks/test_tasks.py" line="143" name="test_scheduler_deleted_period_in_effect" time="0.042" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForSSR" file="calendars/tests/tasks/test_tasks.py" line="135" name="test_scheduler_no_period_in_effect" time="0.038" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForSSR" file="calendars/tests/tasks/test_tasks.py" line="159" name="test_scheduler_period_in_effect" time="0.033" timestamp="2022-07-25T10:53:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

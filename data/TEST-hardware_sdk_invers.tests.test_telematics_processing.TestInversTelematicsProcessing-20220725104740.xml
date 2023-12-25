@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_invers/tests/test_telematics_processing.py" name="hardware_sdk_invers.tests.test_telematics_processing.TestInversTelematicsProcessing-20220725104740" skipped="0" tests="7" time="0.366" timestamp="2022-07-25T10:59:10">
+	<testcase classname="hardware_sdk_invers.tests.test_telematics_processing.TestInversTelematicsProcessing" file="hardware_sdk_invers/tests/test_telematics_processing.py" line="118" name="test_device_status_data" time="0.048" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_telematics_processing.TestInversTelematicsProcessing" file="hardware_sdk_invers/tests/test_telematics_processing.py" line="101" name="test_event_data_processing" time="0.047" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_telematics_processing.TestInversTelematicsProcessing" file="hardware_sdk_invers/tests/test_telematics_processing.py" line="55" name="test_tracking_data_existing_data_is_preserved_no_fuel_data" time="0.058" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_telematics_processing.TestInversTelematicsProcessing" file="hardware_sdk_invers/tests/test_telematics_processing.py" line="75" name="test_tracking_data_existing_data_is_preserved_no_gps_data" time="0.061" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_telematics_processing.TestInversTelematicsProcessing" file="hardware_sdk_invers/tests/test_telematics_processing.py" line="95" name="test_tracking_data_processing_no_altitude" time="0.046" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_telematics_processing.TestInversTelematicsProcessing" file="hardware_sdk_invers/tests/test_telematics_processing.py" line="48" name="test_tracking_data_processing_no_fuel_level" time="0.045" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_telematics_processing.TestInversTelematicsProcessing" file="hardware_sdk_invers/tests/test_telematics_processing.py" line="68" name="test_tracking_data_processing_no_gps_data" time="0.060" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

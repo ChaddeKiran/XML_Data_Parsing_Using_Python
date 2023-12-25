@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="data_pipeline/tests/models/test_data_pipeline_registry.py" name="data_pipeline.tests.models.test_data_pipeline_registry.DataPipelineRegistryFullSnapshotTest-20220725104740" skipped="2" tests="2" time="0.001" timestamp="2022-07-25T10:54:12">
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline_registry.DataPipelineRegistryFullSnapshotTest" file="data_pipeline/tests/models/test_data_pipeline_registry.py" line="58" name="test_disabling_send_full_snapshot_to_data_pipeline_results_in_diff_being_sent" time="0.001" timestamp="2022-07-25T10:54:12">
+		<skipped message="DATA-2040 Has been broken since File Modularization (Jan 2020)" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline_registry.DataPipelineRegistryFullSnapshotTest" file="data_pipeline/tests/models/test_data_pipeline_registry.py" line="63" name="test_removing_send_full_snapshot_to_data_pipeline_results_in_diff_being_sent" time="0.000" timestamp="2022-07-25T10:54:12">
+		<skipped message="DATA-2040 Has been broken since File Modularization (Jan 2020)" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

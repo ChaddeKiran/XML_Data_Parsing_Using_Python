@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automation_apis.py" name="vehicle_automation.tests.test_automation_apis.TestDTCRecommendationAPI-20220725104622" skipped="0" tests="4" time="0.000" timestamp="2017-12-19T12:54:09">
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestDTCRecommendationAPI" file="vehicle_automation/tests/test_automation_apis.py" line="3092" name="test_create_dtc_recommendation" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestDTCRecommendationAPI" file="vehicle_automation/tests/test_automation_apis.py" line="3102" name="test_delete_dtc_recommendation" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestDTCRecommendationAPI" file="vehicle_automation/tests/test_automation_apis.py" line="3071" name="test_get_dtc_recommendations" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestDTCRecommendationAPI" file="vehicle_automation/tests/test_automation_apis.py" line="3109" name="test_update_dtc_recommendation" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

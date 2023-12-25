@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees-20220725104819" skipped="0" tests="16" time="14.132" timestamp="2022-07-25T10:51:15">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="775" name="test_geofence_calculation_considers_apply_once_for_geofence_with_all_tag" time="0.927" timestamp="2022-07-25T10:51:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1072" name="test_geofence_calculation_happy_flow" time="0.849" timestamp="2022-07-25T10:51:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="818" name="test_geofence_calculation_ignores_apply_once_if_geofence_with_all_tag_encloses_only_either_of_rental_locations" time="0.860" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1217" name="test_geofence_calculation_with_common_geofence_and_apply_once_false" time="0.848" timestamp="2022-07-25T10:51:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1141" name="test_geofence_calculation_with_common_geofence_and_apply_once_true" time="0.890" timestamp="2022-07-25T10:51:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1293" name="test_geofence_calculation_with_global_and_service_specific_geofence_together" time="0.879" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="990" name="test_geofence_fee_calculation_considers_geofences_with_negative_fee" time="1.013" timestamp="2022-07-25T10:51:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="654" name="test_geofence_fee_is_zero_when_no_geofences_are_configured" time="0.879" timestamp="2022-07-25T10:51:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="670" name="test_geofence_fees_include_only_global_geofences_when_configured" time="0.797" timestamp="2022-07-25T10:51:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="706" name="test_geofence_fees_include_only_service_specific_geofences_when_configured" time="0.834" timestamp="2022-07-25T10:51:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="742" name="test_geofence_fees_include_service_specific_and_global_both_when_configured" time="0.819" timestamp="2022-07-25T10:51:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="948" name="test_geofence_fees_with_each_tag_per_service_specific_and_global_geofence" time="0.836" timestamp="2022-07-25T10:51:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="635" name="test_geofence_with_zero_fee_are_ignored" time="0.880" timestamp="2022-07-25T10:51:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1034" name="test_old_geofence_code_pick_max_fee_geofence" time="0.918" timestamp="2022-07-25T10:51:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="917" name="test_payments_can_be_created_or_updated_even_without_geofence_line_item_details" time="0.783" timestamp="2022-07-25T10:51:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestGeofenceFees" file="payments/tests/utils/test_carsharing_payment_utils.py" line="863" name="test_rentals_from_distinct_services_are_applied_with_respective_service_specific_geofence_fee" time="1.121" timestamp="2022-07-25T10:51:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

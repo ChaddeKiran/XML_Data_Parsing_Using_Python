@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" name="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3-20220725104622" skipped="0" tests="6" time="1.740" timestamp="2022-07-25T11:03:17">
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="191" name="test_get_vehicle_type_leasing_entity_stations" time="0.499" timestamp="2022-07-25T11:03:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'stations.models.Station'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="183" name="test_get_vtle_plan_deleted" time="0.245" timestamp="2022-07-25T11:03:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleTypeLeasingEntity'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="175" name="test_is_active_filter_vehicletypeleasingentity" time="0.244" timestamp="2022-07-25T11:03:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="167" name="test_list_with_station_access" time="0.268" timestamp="2022-07-25T11:03:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="162" name="test_list_without_station_access" time="0.246" timestamp="2022-07-25T11:03:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="207" name="test_post_vehicle_type_leasing_entity_403_forbidden_as_customer" time="0.237" timestamp="2022-07-25T11:03:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

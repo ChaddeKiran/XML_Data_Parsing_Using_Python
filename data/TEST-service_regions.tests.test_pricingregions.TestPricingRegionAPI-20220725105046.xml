@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/test_pricingregions.py" name="service_regions.tests.test_pricingregions.TestPricingRegionAPI-20220725105046" skipped="0" tests="18" time="10.478" timestamp="2022-07-25T11:09:11">
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="160" name="test_create_locations_from_bad_kml" time="0.647" timestamp="2022-07-25T11:09:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="136" name="test_create_locations_from_empty_polygon_kml" time="0.668" timestamp="2022-07-25T11:09:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="70" name="test_create_locations_from_kml" time="0.668" timestamp="2022-07-25T11:09:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="91" name="test_create_locations_from_kml_conflicting_shape" time="0.682" timestamp="2022-07-25T11:09:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="148" name="test_create_locations_from_no_polygon_coordinates_kml" time="0.612" timestamp="2022-07-25T11:09:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="222" name="test_create_pricing_region_same_name" time="0.495" timestamp="2022-07-25T11:09:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="270" name="test_editing_shape_pricing_region" time="0.491" timestamp="2022-07-25T11:09:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="172" name="test_get_pricingregion_retrieve" time="0.488" timestamp="2022-07-25T11:09:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="181" name="test_get_pricingregion_service_specific" time="0.814" timestamp="2022-07-25T11:09:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="262" name="test_methods_not_allowed_pricing_region" time="0.517" timestamp="2022-07-25T11:09:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="65" name="test_pricingregion_creation" time="0.476" timestamp="2022-07-25T11:09:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="198" name="test_pricingregion_ordering" time="0.516" timestamp="2022-07-25T11:09:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="215" name="test_pricingregion_searching" time="0.505" timestamp="2022-07-25T11:09:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="253" name="test_set_pricing_region_inactive" time="0.538" timestamp="2022-07-25T11:09:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="108" name="test_update_locations_from_kml" time="0.699" timestamp="2022-07-25T11:09:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="61" name="test_urls" time="0.454" timestamp="2022-07-25T11:09:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="230" name="test_validate_unique_names_different_services" time="0.687" timestamp="2022-07-25T11:09:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_pricingregions.TestPricingRegionAPI" file="service_regions/tests/test_pricingregions.py" line="239" name="test_validate_unique_names_different_services_patch" time="0.524" timestamp="2022-07-25T11:09:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

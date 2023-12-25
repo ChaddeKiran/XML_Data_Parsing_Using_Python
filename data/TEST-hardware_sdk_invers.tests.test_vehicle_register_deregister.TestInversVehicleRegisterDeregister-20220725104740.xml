@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_invers/tests/test_vehicle_register_deregister.py" name="hardware_sdk_invers.tests.test_vehicle_register_deregister.TestInversVehicleRegisterDeregister-20220725104740" skipped="0" tests="4" time="2.927" timestamp="2022-07-25T10:59:22">
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_register_deregister.TestInversVehicleRegisterDeregister" file="hardware_sdk_invers/tests/test_vehicle_register_deregister.py" line="77" name="test_vehicle_registration_and_activation" time="1.088" timestamp="2022-07-25T10:59:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_register_deregister.TestInversVehicleRegisterDeregister" file="hardware_sdk_invers/tests/test_vehicle_register_deregister.py" line="29" name="test_vehicle_registration_and_deregistration" time="0.754" timestamp="2022-07-25T10:59:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_register_deregister.TestInversVehicleRegisterDeregister" file="hardware_sdk_invers/tests/test_vehicle_register_deregister.py" line="64" name="test_vehicle_registration_no_vin_mapping_found" time="0.488" timestamp="2022-07-25T10:59:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_register_deregister.TestInversVehicleRegisterDeregister" file="hardware_sdk_invers/tests/test_vehicle_register_deregister.py" line="51" name="test_vehicle_registration_over_multiple_pages_of_data" time="0.597" timestamp="2022-07-25T10:59:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

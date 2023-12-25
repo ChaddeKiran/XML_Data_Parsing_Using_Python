@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestTripCreationWithExemptions-20220725104545" skipped="0" tests="3" time="4.529" timestamp="2022-07-25T10:48:47">
+	<testcase classname="trips.tests.apis.test_trips.TestTripCreationWithExemptions" file="trips/tests/apis/test_trips.py" line="1272" name="test_trip_cancel_with_exemptions" time="2.637" timestamp="2022-07-25T10:48:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripCreationWithExemptions" file="trips/tests/apis/test_trips.py" line="1259" name="test_trip_create_in_exempt_area" time="0.490" timestamp="2022-07-25T10:48:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripCreationWithExemptions" file="trips/tests/apis/test_trips.py" line="1265" name="test_trip_create_in_exempt_area_with_exemption" time="1.403" timestamp="2022-07-25T10:48:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

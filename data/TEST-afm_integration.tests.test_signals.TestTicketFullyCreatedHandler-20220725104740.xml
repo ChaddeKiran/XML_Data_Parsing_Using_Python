@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="afm_integration/tests/test_signals.py" name="afm_integration.tests.test_signals.TestTicketFullyCreatedHandler-20220725104740" skipped="0" tests="3" time="1.947" timestamp="2022-07-25T10:49:55">
+	<testcase classname="afm_integration.tests.test_signals.TestTicketFullyCreatedHandler" file="afm_integration/tests/test_signals.py" line="64" name="test_rule_engine_connection_error" time="0.659" timestamp="2022-07-25T10:49:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_signals.TestTicketFullyCreatedHandler" file="afm_integration/tests/test_signals.py" line="71" name="test_rule_engine_response_not_serializable_to_json" time="0.649" timestamp="2022-07-25T10:49:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_signals.TestTicketFullyCreatedHandler" file="afm_integration/tests/test_signals.py" line="48" name="test_ticket_job_xid_set_after_receiver_success" time="0.640" timestamp="2022-07-25T10:49:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

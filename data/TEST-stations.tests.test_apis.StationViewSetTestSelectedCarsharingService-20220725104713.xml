@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_apis.py" name="stations.tests.test_apis.StationViewSetTestSelectedCarsharingService-20220725104713" skipped="0" tests="4" time="4.790" timestamp="2022-07-25T10:53:00">
+	<testcase classname="stations.tests.test_apis.StationViewSetTestSelectedCarsharingService" file="stations/tests/test_apis.py" line="1707" name="test_detail_selected_carsharing_service_for_user_as_customer" time="1.342" timestamp="2022-07-25T10:52:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestSelectedCarsharingService" file="stations/tests/test_apis.py" line="1601" name="test_list_selected_carsharing_service_for_user_as_customer" time="1.356" timestamp="2022-07-25T10:52:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestSelectedCarsharingService" file="stations/tests/test_apis.py" line="1645" name="test_list_selected_carsharing_service_for_user_as_dispatcher_and_customer" time="1.270" timestamp="2022-07-25T10:52:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestSelectedCarsharingService" file="stations/tests/test_apis.py" line="1675" name="test_list_selected_carsharing_service_for_user_not_authenticated" time="0.823" timestamp="2022-07-25T10:53:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

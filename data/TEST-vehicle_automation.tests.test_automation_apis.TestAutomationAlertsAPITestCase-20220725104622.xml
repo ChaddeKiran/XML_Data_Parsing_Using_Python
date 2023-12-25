@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automation_apis.py" name="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase-20220725104622" skipped="0" tests="35" time="0.000" timestamp="2017-12-19T12:54:09">
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2037" name="test_delete_automation_alerts" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2588" name="test_filter_automation_alerts_by_classification_type" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2103" name="test_filter_automation_alerts_by_multiple_alert_types" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="1907" name="test_get_automation_alerts" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2044" name="test_get_automation_alerts_by_automation_type" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2058" name="test_get_automation_alerts_by_automation_type_as_reminder" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2270" name="test_get_automation_alerts_by_automation_type_display_name" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2288" name="test_get_automation_alerts_by_automation_type_sguid" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2306" name="test_get_automation_alerts_by_automation_type_sguid_comma_separated" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2398" name="test_get_automation_alerts_by_job_type_id" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2135" name="test_get_automation_alerts_by_job_xid" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2120" name="test_get_automation_alerts_by_level" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2418" name="test_get_automation_alerts_by_license_plate_number" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2551" name="test_get_automation_alerts_by_service_id_and_vehicle_id" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2573" name="test_get_automation_alerts_by_service_id_and_vehicle_id_job_id" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2088" name="test_get_automation_alerts_by_status" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2377" name="test_get_automation_alerts_by_vehicle_make" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2442" name="test_get_automation_alerts_by_vehicle_reservation_status" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2508" name="test_get_automation_alerts_by_vehicle_type_ids" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2475" name="test_get_automation_alerts_by_vehicle_type_name" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2356" name="test_get_automation_alerts_by_vin_number" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2192" name="test_get_automation_alerts_search_by_multi_word" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2229" name="test_get_automation_alerts_search_by_special_char" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2326" name="test_get_automation_alerts_search_by_vin_number_and_filter_by_automation_type_display_name" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2151" name="test_get_automation_alerts_search_by_vin_number_or_license_plate_number_or_automation_display_or_setting_value" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="1939" name="test_get_dtc_automation_alerts" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="1983" name="test_get_dtc_automation_alerts_all_dtc_alerts" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2003" name="test_get_dtc_automation_alerts_with_occurrence" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2612" name="test_get_emission_reminder_alert_current_value" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.emission_inspection_expiry_date received a naive datetime (2021-01-22 12:30:59) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2648" name="test_get_insurance_reminder_alert_current_value" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.insurance_date received a naive datetime (2021-01-22 12:30:59) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2630" name="test_get_registration_reminder_alert_current_value" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2021-01-22 12:30:59) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2605" name="test_get_tire_pressure_trigger_current_value" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="1880" name="test_list_automation_alerts_with_pagination" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="1891" name="test_patch_automation_alerts" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="1856" name="test_post_automation_alerts" time="0.000" timestamp="2017-12-19T12:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

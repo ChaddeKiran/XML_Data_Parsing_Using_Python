@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/models/test_scheduled_trip_requests.py" name="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestUserGroupExemption-20220725104545" skipped="0" tests="6" time="1.316" timestamp="2022-07-25T10:49:38">
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestUserGroupExemption" file="trips/tests/models/test_scheduled_trip_requests.py" line="436" name="test_enabled_for_with_no_customer" time="0.021" timestamp="2022-07-25T10:49:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestUserGroupExemption" file="trips/tests/models/test_scheduled_trip_requests.py" line="425" name="test_exempt_only_in_user_group_exempt" time="0.299" timestamp="2022-07-25T10:49:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestUserGroupExemption" file="trips/tests/models/test_scheduled_trip_requests.py" line="414" name="test_exempt_only_in_user_group_not_exempt" time="0.255" timestamp="2022-07-25T10:49:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestUserGroupExemption" file="trips/tests/models/test_scheduled_trip_requests.py" line="409" name="test_exempt_only_not_in_user_group" time="0.232" timestamp="2022-07-25T10:49:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestUserGroupExemption" file="trips/tests/models/test_scheduled_trip_requests.py" line="399" name="test_service_disabled" time="0.274" timestamp="2022-07-25T10:49:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestUserGroupExemption" file="trips/tests/models/test_scheduled_trip_requests.py" line="404" name="test_service_enabled" time="0.234" timestamp="2022-07-25T10:49:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_services.py" name="services.tests.apis.test_services.TestServiceVisibilityForDriverCustomers-20220725104713" skipped="0" tests="7" time="10.416" timestamp="2022-07-25T10:48:12">
+	<testcase classname="services.tests.apis.test_services.TestServiceVisibilityForDriverCustomers" file="services/tests/apis/test_services.py" line="87" name="test_can_only_see_services_driver_has_access_to" time="0.516" timestamp="2022-07-25T10:48:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceVisibilityForDriverCustomers" file="services/tests/apis/test_services.py" line="50" name="test_can_see_50_services_not_a_member" time="7.745" timestamp="2022-07-25T10:48:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceVisibilityForDriverCustomers" file="services/tests/apis/test_services.py" line="57" name="test_can_see_exclusive_ridesharingservices_as_member" time="0.350" timestamp="2022-07-25T10:48:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceVisibilityForDriverCustomers" file="services/tests/apis/test_services.py" line="66" name="test_can_see_exclusive_ridesharingservices_not_a_member" time="0.336" timestamp="2022-07-25T10:48:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceVisibilityForDriverCustomers" file="services/tests/apis/test_services.py" line="35" name="test_can_see_exclusive_services_as_member" time="0.368" timestamp="2022-07-25T10:48:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceVisibilityForDriverCustomers" file="services/tests/apis/test_services.py" line="44" name="test_can_see_exclusive_services_not_a_member" time="0.365" timestamp="2022-07-25T10:48:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceVisibilityForDriverCustomers" file="services/tests/apis/test_services.py" line="72" name="test_scheduled_rental_requests_enabled" time="0.736" timestamp="2022-07-25T10:48:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

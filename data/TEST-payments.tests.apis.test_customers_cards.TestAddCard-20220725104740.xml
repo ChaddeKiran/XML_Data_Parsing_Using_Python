@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/test_customers_cards.py" name="payments.tests.apis.test_customers_cards.TestAddCard-20220725104740" skipped="0" tests="6" time="5.123" timestamp="2022-07-25T11:04:15">
+	<testcase classname="payments.tests.apis.test_customers_cards.TestAddCard" file="payments/tests/apis/test_customers_cards.py" line="443" name="test_add_card_customerhistory" time="0.836" timestamp="2022-07-25T11:04:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestAddCard" file="payments/tests/apis/test_customers_cards.py" line="328" name="test_add_valid_card" time="0.520" timestamp="2022-07-25T11:04:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestAddCard" file="payments/tests/apis/test_customers_cards.py" line="234" name="test_add_valid_card_results_in_previous_failed_invoice_payments_being_charged" time="0.923" timestamp="2022-07-25T11:04:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestAddCard" file="payments/tests/apis/test_customers_cards.py" line="367" name="test_add_valid_ocean_card" time="0.579" timestamp="2022-07-25T11:04:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestAddCard" file="payments/tests/apis/test_customers_cards.py" line="276" name="test_failed_payment_retry_does_not_use_promotion_credits" time="1.774" timestamp="2022-07-25T11:04:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestAddCard" file="payments/tests/apis/test_customers_cards.py" line="408" name="test_re_add_non_default_ocean_card_marks_it_default_card" time="0.490" timestamp="2022-07-25T11:04:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

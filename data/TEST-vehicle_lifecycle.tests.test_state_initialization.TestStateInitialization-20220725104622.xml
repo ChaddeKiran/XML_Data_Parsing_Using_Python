@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_state_initialization.py" name="vehicle_lifecycle.tests.test_state_initialization.TestStateInitialization-20220725104622" skipped="0" tests="4" time="1.195" timestamp="2022-07-25T10:58:49">
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestStateInitialization" file="vehicle_lifecycle/tests/test_state_initialization.py" line="202" name="test_vehicle_movement_to_target_step_when_no_job_in_it_fleet" time="0.196" timestamp="2022-07-25T10:58:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestStateInitialization" file="vehicle_lifecycle/tests/test_state_initialization.py" line="136" name="test_vehicle_movement_to_target_step_when_vehicle_checked_in_storage" time="0.319" timestamp="2022-07-25T10:58:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestStateInitialization" file="vehicle_lifecycle/tests/test_state_initialization.py" line="158" name="test_vehicle_movement_to_target_step_when_vehicle_in_mon_offre" time="0.476" timestamp="2022-07-25T10:58:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_initialization.TestStateInitialization" file="vehicle_lifecycle/tests/test_state_initialization.py" line="179" name="test_vehicle_movement_to_target_step_when_vehicle_on_route" time="0.204" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/tasks/test_analytic_aggregations.py" name="ops_center.tests.tasks.test_analytic_aggregations.AggregatedDriverSlotStatisticsTestCase-20220725104740" skipped="0" tests="9" time="8.368" timestamp="2022-07-25T11:03:58">
+	<testcase classname="ops_center.tests.tasks.test_analytic_aggregations.AggregatedDriverSlotStatisticsTestCase" file="ops_center/tests/tasks/test_analytic_aggregations.py" line="254" name="test_driver_ended_early" time="0.910" timestamp="2022-07-25T11:03:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.tasks.test_analytic_aggregations.AggregatedDriverSlotStatisticsTestCase" file="ops_center/tests/tasks/test_analytic_aggregations.py" line="56" name="test_driver_in_zone" time="1.122" timestamp="2022-07-25T11:03:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.tasks.test_analytic_aggregations.AggregatedDriverSlotStatisticsTestCase" file="ops_center/tests/tasks/test_analytic_aggregations.py" line="118" name="test_driver_in_zone_randomized" time="1.014" timestamp="2022-07-25T11:03:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.tasks.test_analytic_aggregations.AggregatedDriverSlotStatisticsTestCase" file="ops_center/tests/tasks/test_analytic_aggregations.py" line="88" name="test_driver_no_vehicle" time="0.936" timestamp="2022-07-25T11:03:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.tasks.test_analytic_aggregations.AggregatedDriverSlotStatisticsTestCase" file="ops_center/tests/tasks/test_analytic_aggregations.py" line="281" name="test_driver_normal_behavior" time="0.920" timestamp="2022-07-25T11:03:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.tasks.test_analytic_aggregations.AggregatedDriverSlotStatisticsTestCase" file="ops_center/tests/tasks/test_analytic_aggregations.py" line="156" name="test_driver_offline_in_zone" time="0.763" timestamp="2022-07-25T11:03:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.tasks.test_analytic_aggregations.AggregatedDriverSlotStatisticsTestCase" file="ops_center/tests/tasks/test_analytic_aggregations.py" line="204" name="test_driver_out_of_zone" time="0.835" timestamp="2022-07-25T11:03:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.tasks.test_analytic_aggregations.AggregatedDriverSlotStatisticsTestCase" file="ops_center/tests/tasks/test_analytic_aggregations.py" line="180" name="test_driver_paused_in_zone" time="0.960" timestamp="2022-07-25T11:03:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.tasks.test_analytic_aggregations.AggregatedDriverSlotStatisticsTestCase" file="ops_center/tests/tasks/test_analytic_aggregations.py" line="228" name="test_driver_started_late" time="0.909" timestamp="2022-07-25T11:03:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

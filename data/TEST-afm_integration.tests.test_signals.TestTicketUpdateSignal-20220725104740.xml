@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="afm_integration/tests/test_signals.py" name="afm_integration.tests.test_signals.TestTicketUpdateSignal-20220725104740" skipped="0" tests="5" time="5.172" timestamp="2022-07-25T10:50:01">
+	<testcase classname="afm_integration.tests.test_signals.TestTicketUpdateSignal" file="afm_integration/tests/test_signals.py" line="223" name="test_cancel_job_when_ticket_service_changed" time="1.381" timestamp="2022-07-25T10:49:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_signals.TestTicketUpdateSignal" file="afm_integration/tests/test_signals.py" line="202" name="test_cancel_ticket" time="0.954" timestamp="2022-07-25T10:49:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_signals.TestTicketUpdateSignal" file="afm_integration/tests/test_signals.py" line="106" name="test_supplier_company_update" time="1.095" timestamp="2022-07-25T10:49:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_signals.TestTicketUpdateSignal" file="afm_integration/tests/test_signals.py" line="147" name="test_when_job_id_does_match" time="0.892" timestamp="2022-07-25T10:50:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_signals.TestTicketUpdateSignal" file="afm_integration/tests/test_signals.py" line="121" name="test_when_job_id_does_not_match" time="0.849" timestamp="2022-07-25T10:50:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

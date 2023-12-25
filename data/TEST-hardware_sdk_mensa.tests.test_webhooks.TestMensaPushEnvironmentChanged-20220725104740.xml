@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushEnvironmentChanged-20220725104740" skipped="0" tests="3" time="0.492" timestamp="2022-07-25T10:59:58">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushEnvironmentChanged" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1609" name="test_missing_field" time="0.028" timestamp="2022-07-25T10:59:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushEnvironmentChanged" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1593" name="test_push_environment_changed" time="0.068" timestamp="2022-07-25T10:59:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushEnvironmentChanged" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1601" name="test_push_environment_changed_carsharing_hardware_not_mensa" time="0.396" timestamp="2022-07-25T10:59:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

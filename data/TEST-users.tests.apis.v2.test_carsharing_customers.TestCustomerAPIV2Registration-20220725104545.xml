@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration-20220725104545" skipped="0" tests="25" time="39.669" timestamp="2022-07-25T10:59:33">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="304" name="test_create_business_customer_for_business_service_without_default_user_group" time="1.487" timestamp="2022-07-25T10:58:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="278" name="test_create_business_customer_when_user_invite_is_revoked" time="1.096" timestamp="2022-07-25T10:58:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="243" name="test_create_business_customer_with_expired_activation_code" time="1.108" timestamp="2022-07-25T10:58:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="223" name="test_create_business_customer_with_invalid_activation_code" time="1.118" timestamp="2022-07-25T10:58:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="146" name="test_create_business_customer_with_no_rfid_in_invite" time="2.140" timestamp="2022-07-25T10:59:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="183" name="test_create_business_customer_with_rfid_in_invite" time="2.144" timestamp="2022-07-25T10:59:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="87" name="test_create_customer" time="1.790" timestamp="2022-07-25T10:59:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="111" name="test_create_customer_at_geotab_backend" time="1.873" timestamp="2022-07-25T10:59:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="590" name="test_create_customer_fleet_rental_disabled" time="1.489" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="563" name="test_create_customer_fleet_rental_enabled" time="1.549" timestamp="2022-07-25T10:59:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="376" name="test_create_customer_with_create_access_device_failure" time="2.263" timestamp="2022-07-25T10:59:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="396" name="test_create_customer_with_create_access_device_success" time="1.738" timestamp="2022-07-25T10:59:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="357" name="test_create_customer_with_more_than_6_decimal_lat_long" time="1.784" timestamp="2022-07-25T10:59:15">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (18.123457, 120.123457, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="331" name="test_create_customer_with_wrong_email_domain" time="0.873" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="549" name="test_patch_external_membership_number_no_phone_number" time="1.318" timestamp="2022-07-25T10:59:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="497" name="test_pin_masked" time="1.235" timestamp="2022-07-25T10:59:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="481" name="test_same_phone_number_ok" time="1.297" timestamp="2022-07-25T10:59:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="429" name="test_set_identity_override_not_allowed" time="1.214" timestamp="2022-07-25T10:59:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="457" name="test_set_phone_allowed" time="3.815" timestamp="2022-07-25T10:59:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="417" name="test_set_phone_not_allowed" time="1.092" timestamp="2022-07-25T10:59:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="487" name="test_set_pin" time="1.339" timestamp="2022-07-25T10:59:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="521" name="test_set_preference_pushed_to_firebase" time="0.985" timestamp="2022-07-25T10:59:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="534" name="test_set_preference_via_api_pushes_to_firebase" time="1.358" timestamp="2022-07-25T10:59:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="439" name="test_set_radio_station" time="2.095" timestamp="2022-07-25T10:59:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2Registration" file="users/tests/apis/v2/test_carsharing_customers.py" line="511" name="test_set_rfid" time="1.469" timestamp="2022-07-25T10:59:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

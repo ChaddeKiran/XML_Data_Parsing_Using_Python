@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/analytics/test_reports.py" name="ops_center.tests.analytics.test_reports.TestTripReportsSubscriptionAPIAsSystemAdmin-20220725104740" skipped="0" tests="1" time="0.503" timestamp="2022-07-25T11:03:46">
+	<testcase classname="ops_center.tests.analytics.test_reports.TestTripReportsSubscriptionAPIAsSystemAdmin" file="ops_center/tests/analytics/test_reports.py" line="286" name="test_get_subscriptions_for_all" time="0.503" timestamp="2022-07-25T11:03:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

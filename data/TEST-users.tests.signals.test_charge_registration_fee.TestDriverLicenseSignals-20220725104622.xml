@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/signals/test_charge_registration_fee.py" name="users.tests.signals.test_charge_registration_fee.TestDriverLicenseSignals-20220725104622" skipped="0" tests="5" time="4.368" timestamp="2022-07-25T10:46:52">
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestDriverLicenseSignals" file="users/tests/signals/test_charge_registration_fee.py" line="184" name="test_add_drivers_license" time="0.967" timestamp="2022-07-25T10:46:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestDriverLicenseSignals" file="users/tests/signals/test_charge_registration_fee.py" line="219" name="test_charge_registration_fee_is_triggered_on_bg_check_passed" time="0.963" timestamp="2022-07-25T10:46:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestDriverLicenseSignals" file="users/tests/signals/test_charge_registration_fee.py" line="193" name="test_charge_registration_on_checkr_allow_disable" time="0.843" timestamp="2022-07-25T10:46:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestDriverLicenseSignals" file="users/tests/signals/test_charge_registration_fee.py" line="211" name="test_charge_registration_on_report_completed" time="0.774" timestamp="2022-07-25T10:46:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestDriverLicenseSignals" file="users/tests/signals/test_charge_registration_fee.py" line="205" name="test_not_charge_registration_on_checkr_disallow_disable" time="0.820" timestamp="2022-07-25T10:46:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

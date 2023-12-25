@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pipelines/tests/serializers/v3/test_external_schema.py" name="pipelines.tests.serializers.v3.test_external_schema.IngestionPayloadSerializerTests-20220725104819" skipped="0" tests="6" time="0.148" timestamp="2022-07-25T10:52:58">
+	<testcase classname="pipelines.tests.serializers.v3.test_external_schema.IngestionPayloadSerializerTests" file="pipelines/tests/serializers/v3/test_external_schema.py" line="113" name="test_farm_in_schema_with_missing_field_in_location_raises_error" time="0.028" timestamp="2022-07-25T10:52:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.serializers.v3.test_external_schema.IngestionPayloadSerializerTests" file="pipelines/tests/serializers/v3/test_external_schema.py" line="96" name="test_farm_in_validation_with_good_schema_and_payload" time="0.030" timestamp="2022-07-25T10:52:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.serializers.v3.test_external_schema.IngestionPayloadSerializerTests" file="pipelines/tests/serializers/v3/test_external_schema.py" line="91" name="test_validation_passes_for_good_schema_and_payload" time="0.021" timestamp="2022-07-25T10:52:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.serializers.v3.test_external_schema.IngestionPayloadSerializerTests" file="pipelines/tests/serializers/v3/test_external_schema.py" line="63" name="test_validation_raises_exception_on_bad_schema_definition" time="0.024" timestamp="2022-07-25T10:52:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.serializers.v3.test_external_schema.IngestionPayloadSerializerTests" file="pipelines/tests/serializers/v3/test_external_schema.py" line="82" name="test_validation_raises_exception_on_invalid_schema_id" time="0.025" timestamp="2022-07-25T10:52:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.serializers.v3.test_external_schema.IngestionPayloadSerializerTests" file="pipelines/tests/serializers/v3/test_external_schema.py" line="51" name="test_validation_raises_exception_on_missing_required_fields" time="0.020" timestamp="2022-07-25T10:52:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

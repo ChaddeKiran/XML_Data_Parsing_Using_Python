@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduled_rental_addons.py" name="rentals.tests.apis.v3.test_scheduled_rental_addons.TestScheduledRentalRequestsAddon-20220725105046" skipped="0" tests="8" time="12.761" timestamp="2022-07-25T10:58:21">
+	<testcase classname="rentals.tests.apis.v3.test_scheduled_rental_addons.TestScheduledRentalRequestsAddon" file="rentals/tests/apis/v3/test_scheduled_rental_addons.py" line="137" name="test_create_booking" time="1.716" timestamp="2022-07-25T10:58:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduled_rental_addons.TestScheduledRentalRequestsAddon" file="rentals/tests/apis/v3/test_scheduled_rental_addons.py" line="174" name="test_create_hold_payment_with_addon_charges" time="1.006" timestamp="2022-07-25T10:58:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduled_rental_addons.TestScheduledRentalRequestsAddon" file="rentals/tests/apis/v3/test_scheduled_rental_addons.py" line="192" name="test_create_scheduled_rental_with_addon" time="1.592" timestamp="2022-07-25T10:58:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduled_rental_addons.TestScheduledRentalRequestsAddon" file="rentals/tests/apis/v3/test_scheduled_rental_addons.py" line="217" name="test_create_scheduled_rental_with_addon_from_different_service" time="1.097" timestamp="2022-07-25T10:58:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduled_rental_addons.TestScheduledRentalRequestsAddon" file="rentals/tests/apis/v3/test_scheduled_rental_addons.py" line="73" name="test_customer_rental_creation_and_end" time="2.476" timestamp="2022-07-25T10:58:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduled_rental_addons.TestScheduledRentalRequestsAddon" file="rentals/tests/apis/v3/test_scheduled_rental_addons.py" line="56" name="test_get_scheduled_rental_with_addons" time="1.324" timestamp="2022-07-25T10:58:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduled_rental_addons.TestScheduledRentalRequestsAddon" file="rentals/tests/apis/v3/test_scheduled_rental_addons.py" line="281" name="test_scheduled_rental_payment_with_overdue_time_addons" time="1.858" timestamp="2022-07-25T10:58:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduled_rental_addons.TestScheduledRentalRequestsAddon" file="rentals/tests/apis/v3/test_scheduled_rental_addons.py" line="243" name="test_update_scheduled_rental_with_addon_from_different_service" time="1.692" timestamp="2022-07-25T10:58:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

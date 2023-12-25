@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/views/test_dispatch_ui.py" name="ops_center.tests.views.test_dispatch_ui.TestVehiclePicView-20220725104740" skipped="0" tests="3" time="2.584" timestamp="2022-07-25T11:04:06">
+	<testcase classname="ops_center.tests.views.test_dispatch_ui.TestVehiclePicView" file="ops_center/tests/views/test_dispatch_ui.py" line="52" name="test_carsharing_vehicle_pic" time="0.939" timestamp="2022-07-25T11:04:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_dispatch_ui.TestVehiclePicView" file="ops_center/tests/views/test_dispatch_ui.py" line="41" name="test_common_vehicle_pic" time="0.671" timestamp="2022-07-25T11:04:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_dispatch_ui.TestVehiclePicView" file="ops_center/tests/views/test_dispatch_ui.py" line="68" name="test_do_not_update_similar_carsharing_vehicle_pic" time="0.975" timestamp="2022-07-25T11:04:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="data_pipeline/tests/utils/test_data_pipeline_transport_config_validation.py" name="data_pipeline.tests.utils.test_data_pipeline_transport_config_validation.SqsTransportConfigurationValidationTests-20220725104740" skipped="0" tests="2" time="0.041" timestamp="2022-07-25T10:54:13">
+	<testcase classname="data_pipeline.tests.utils.test_data_pipeline_transport_config_validation.SqsTransportConfigurationValidationTests" file="data_pipeline/tests/utils/test_data_pipeline_transport_config_validation.py" line="80" name="test_validation_with_sqs_disabled_and_missing_aws_fields" time="0.020" timestamp="2022-07-25T10:54:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.utils.test_data_pipeline_transport_config_validation.SqsTransportConfigurationValidationTests" file="data_pipeline/tests/utils/test_data_pipeline_transport_config_validation.py" line="63" name="test_validation_with_sqs_enabled_and_missing_parameters" time="0.020" timestamp="2022-07-25T10:54:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

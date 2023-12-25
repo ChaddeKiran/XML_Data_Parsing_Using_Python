@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestEmergencyCancel-20220725104713" skipped="0" tests="8" time="5.293" timestamp="2022-07-25T10:59:14">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestEmergencyCancel" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2927" name="test_cancel_another_driver" time="0.627" timestamp="2022-07-25T10:59:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestEmergencyCancel" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2946" name="test_cancel_too_late" time="0.921" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestEmergencyCancel" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2970" name="test_cancelled_trip_ready_to_become_on_demand" time="0.412" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestEmergencyCancel" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2879" name="test_emergency_cancel" time="0.678" timestamp="2022-07-25T10:59:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestEmergencyCancel" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2986" name="test_emergency_cancel_causes_trip_to_be_converted" time="0.672" timestamp="2022-07-25T10:59:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestEmergencyCancel" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2896" name="test_emergency_cancel_on_after_service_disabled_cancel" time="0.534" timestamp="2022-07-25T10:59:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestEmergencyCancel" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2911" name="test_emergency_cancel_recurring_ride" time="0.679" timestamp="2022-07-25T10:59:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestEmergencyCancel" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3000" name="test_emergency_cancelled_trip_claimed_sends_notification" time="0.771" timestamp="2022-07-25T10:59:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments_engine/tests/test_paytm_apis.py" name="payments_engine.tests.test_paytm_apis.TestPayTMValidation-20220725104819" skipped="0" tests="8" time="2.290" timestamp="2022-07-25T10:52:36">
+	<testcase classname="payments_engine.tests.test_paytm_apis.TestPayTMValidation" file="payments_engine/tests/test_paytm_apis.py" line="671" name="test_link_wallet_phone_number" time="0.340" timestamp="2022-07-25T10:52:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.test_paytm_apis.TestPayTMValidation" file="payments_engine/tests/test_paytm_apis.py" line="549" name="test_paytm_wallet_creation" time="0.286" timestamp="2022-07-25T10:52:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.test_paytm_apis.TestPayTMValidation" file="payments_engine/tests/test_paytm_apis.py" line="627" name="test_paytm_wallet_creation_invalid_authorization" time="0.271" timestamp="2022-07-25T10:52:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.test_paytm_apis.TestPayTMValidation" file="payments_engine/tests/test_paytm_apis.py" line="604" name="test_paytm_wallet_creation_invalid_otp" time="0.292" timestamp="2022-07-25T10:52:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.test_paytm_apis.TestPayTMValidation" file="payments_engine/tests/test_paytm_apis.py" line="660" name="test_paytm_wallet_creation_invalid_wallet_provider" time="0.277" timestamp="2022-07-25T10:52:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.test_paytm_apis.TestPayTMValidation" file="payments_engine/tests/test_paytm_apis.py" line="650" name="test_paytm_wallet_creation_missing_params" time="0.280" timestamp="2022-07-25T10:52:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.test_paytm_apis.TestPayTMValidation" file="payments_engine/tests/test_paytm_apis.py" line="576" name="test_paytm_wallet_creation_v2_url" time="0.296" timestamp="2022-07-25T10:52:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.test_paytm_apis.TestPayTMValidation" file="payments_engine/tests/test_paytm_apis.py" line="546" name="test_url" time="0.249" timestamp="2022-07-25T10:52:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_cameras/tests/test_lge_requests.py" name="vehicle_cameras.tests.test_lge_requests.TestRegisterVehicleCamera-20220725104622" skipped="0" tests="4" time="0.018" timestamp="2022-07-25T10:56:57">
+	<testcase classname="vehicle_cameras.tests.test_lge_requests.TestRegisterVehicleCamera" file="vehicle_cameras/tests/test_lge_requests.py" line="80" name="test_good_request" time="0.004" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_lge_requests.TestRegisterVehicleCamera" file="vehicle_cameras/tests/test_lge_requests.py" line="102" name="test_log_bad_request" time="0.004" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_lge_requests.TestRegisterVehicleCamera" file="vehicle_cameras/tests/test_lge_requests.py" line="91" name="test_log_bad_status_code" time="0.005" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_lge_requests.TestRegisterVehicleCamera" file="vehicle_cameras/tests/test_lge_requests.py" line="69" name="test_no_credentials" time="0.004" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

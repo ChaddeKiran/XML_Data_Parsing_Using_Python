@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_samba_safety.py" name="users.tests.third_party.test_samba_safety.TestSambaSafetyMvrOverCustomer-20220725104622" skipped="0" tests="8" time="8.546" timestamp="2022-07-25T10:48:48">
+	<testcase classname="users.tests.third_party.test_samba_safety.TestSambaSafetyMvrOverCustomer" file="users/tests/third_party/test_samba_safety.py" line="199" name="test_add_valid_card_triggers_mvr" time="1.289" timestamp="2022-07-25T10:48:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_samba_safety.TestSambaSafetyMvrOverCustomer" file="users/tests/third_party/test_samba_safety.py" line="107" name="test_driver_license_DL_Product" time="0.695" timestamp="2022-07-25T10:48:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_samba_safety.TestSambaSafetyMvrOverCustomer" file="users/tests/third_party/test_samba_safety.py" line="97" name="test_driver_license_LX_Product" time="0.864" timestamp="2022-07-25T10:48:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_samba_safety.TestSambaSafetyMvrOverCustomer" file="users/tests/third_party/test_samba_safety.py" line="136" name="test_driver_license_error_no_valid_cc_and_credit_card_to_use_check_is_true" time="0.842" timestamp="2022-07-25T10:48:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_samba_safety.TestSambaSafetyMvrOverCustomer" file="users/tests/third_party/test_samba_safety.py" line="183" name="test_driver_license_has_valid_cc_and_credit_card_to_use_check_is_false" time="1.360" timestamp="2022-07-25T10:48:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_samba_safety.TestSambaSafetyMvrOverCustomer" file="users/tests/third_party/test_samba_safety.py" line="167" name="test_driver_license_has_valid_cc_and_credit_card_to_use_check_is_true" time="1.230" timestamp="2022-07-25T10:48:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_samba_safety.TestSambaSafetyMvrOverCustomer" file="users/tests/third_party/test_samba_safety.py" line="151" name="test_driver_license_no_valid_cc_and_credit_card_to_use_check_is_false" time="1.140" timestamp="2022-07-25T10:48:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_samba_safety.TestSambaSafetyMvrOverCustomer" file="users/tests/third_party/test_samba_safety.py" line="121" name="test_driver_license_skip_state" time="1.126" timestamp="2022-07-25T10:48:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

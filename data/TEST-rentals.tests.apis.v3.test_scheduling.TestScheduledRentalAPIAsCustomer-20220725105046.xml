@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer-20220725105046" skipped="0" tests="10" time="15.672" timestamp="2022-07-25T10:59:05">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3480" name="test_business_rental_reason_saved_when_SR_created" time="1.397" timestamp="2022-07-25T10:58:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3506" name="test_create_and_update_scheduled_rental_with_no_hold_payment" time="1.881" timestamp="2022-07-25T10:58:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-02 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-03 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3435" name="test_create_b2b_sr_with_customer_license_expiring_before_sr_end_date_time_and_license_expiry_check_disabled" time="2.122" timestamp="2022-07-25T10:58:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2021-01-24 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3321" name="test_create_on_last_date_time" time="1.739" timestamp="2022-07-25T10:58:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-14 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3394" name="test_create_sr_with_customer_driving_license_expiring_before_sr_end_date_time_and_license_expiry_check_disabled" time="2.440" timestamp="2022-07-25T10:58:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2021-01-24 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3368" name="test_create_with_customer_driving_license_expiring_before_sr_end_date_time" time="1.226" timestamp="2022-07-25T10:59:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-02 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3226" name="test_create_with_location_lat_lng_display_name" time="1.468" timestamp="2022-07-25T10:59:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3296" name="test_create_with_location_lat_lng_display_name_and_id" time="1.395" timestamp="2022-07-25T10:59:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3270" name="test_create_with_location_lat_lng_display_name_outside_area_does_not_create_location" time="1.016" timestamp="2022-07-25T10:59:04">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (10.0, 20.0, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalAPIAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3249" name="test_create_without_all_location_lat_fields" time="0.987" timestamp="2022-07-25T10:59:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

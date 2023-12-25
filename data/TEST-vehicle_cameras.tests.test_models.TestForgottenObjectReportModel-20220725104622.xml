@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_cameras/tests/test_models.py" name="vehicle_cameras.tests.test_models.TestForgottenObjectReportModel-20220725104622" skipped="0" tests="3" time="0.275" timestamp="2022-07-25T10:56:59">
+	<testcase classname="vehicle_cameras.tests.test_models.TestForgottenObjectReportModel" file="vehicle_cameras/tests/test_models.py" line="17" name="test_report_with_image_and_object" time="0.097" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_models.TestForgottenObjectReportModel" file="vehicle_cameras/tests/test_models.py" line="13" name="test_report_with_image_but_no_objects" time="0.084" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_models.TestForgottenObjectReportModel" file="vehicle_cameras/tests/test_models.py" line="10" name="test_report_with_no_images_should_have_no_objects" time="0.094" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

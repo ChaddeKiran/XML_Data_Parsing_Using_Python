@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/apis/test_locations.py" name="locations.tests.apis.test_locations.TestGeofenceAsDispatcher-20220725104740" skipped="0" tests="4" time="1.330" timestamp="2022-07-25T11:02:13">
+	<testcase classname="locations.tests.apis.test_locations.TestGeofenceAsDispatcher" file="locations/tests/apis/test_locations.py" line="617" name="test_create" time="0.366" timestamp="2022-07-25T11:02:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestGeofenceAsDispatcher" file="locations/tests/apis/test_locations.py" line="636" name="test_create_with_invalid_combination_of_applyonce_and_tag_responds_with_bad_request" time="0.315" timestamp="2022-07-25T11:02:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestGeofenceAsDispatcher" file="locations/tests/apis/test_locations.py" line="645" name="test_patch_with_invalid_combination_of_applyonce_and_tag_responds_with_bad_request" time="0.387" timestamp="2022-07-25T11:02:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestGeofenceAsDispatcher" file="locations/tests/apis/test_locations.py" line="614" name="test_url" time="0.262" timestamp="2022-07-25T11:02:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments_engine/tests/tests_payment_utils.py" name="payments_engine.tests.tests_payment_utils.TestPaymentUtils-20220725104819" skipped="0" tests="8" time="4.715" timestamp="2022-07-25T10:52:43">
+	<testcase classname="payments_engine.tests.tests_payment_utils.TestPaymentUtils" file="payments_engine/tests/tests_payment_utils.py" line="56" name="test_apply_credits_if_applicable" time="0.575" timestamp="2022-07-25T10:52:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.tests_payment_utils.TestPaymentUtils" file="payments_engine/tests/tests_payment_utils.py" line="251" name="test_charge_amount_less_than_processor_minimum_should_halt_payment" time="0.518" timestamp="2022-07-25T10:52:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.tests_payment_utils.TestPaymentUtils" file="payments_engine/tests/tests_payment_utils.py" line="32" name="test_exempt_customer_should_halt_payment" time="0.551" timestamp="2022-07-25T10:52:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.tests_payment_utils.TestPaymentUtils" file="payments_engine/tests/tests_payment_utils.py" line="178" name="test_invalid_credit_card_should_halt_payment" time="0.515" timestamp="2022-07-25T10:52:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.tests_payment_utils.TestPaymentUtils" file="payments_engine/tests/tests_payment_utils.py" line="205" name="test_transaction_fee_is_calculated" time="0.724" timestamp="2022-07-25T10:52:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.tests_payment_utils.TestPaymentUtils" file="payments_engine/tests/tests_payment_utils.py" line="96" name="test_wallet_hold_should_be_released_if_charge_is_zero" time="0.698" timestamp="2022-07-25T10:52:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.tests_payment_utils.TestPaymentUtils" file="payments_engine/tests/tests_payment_utils.py" line="278" name="test_wallet_payment_mode_should_invoke_paytm_charge_function" time="0.648" timestamp="2022-07-25T10:52:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.tests_payment_utils.TestPaymentUtils" file="payments_engine/tests/tests_payment_utils.py" line="156" name="test_zero_total_charge_should_halt_payment" time="0.486" timestamp="2022-07-25T10:52:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

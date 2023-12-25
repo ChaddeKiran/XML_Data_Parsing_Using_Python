@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_customers.py" name="users.tests.apis.v3.test_customers.TestMarketingManagerPermissionsWithExcel-20220725104545" skipped="0" tests="1" time="2.347" timestamp="2022-07-25T11:04:42">
+	<testcase classname="users.tests.apis.v3.test_customers.TestMarketingManagerPermissionsWithExcel" file="users/tests/apis/v3/test_customers.py" line="281" name="test_marketing_manager_uploading_csv" time="2.347" timestamp="2022-07-25T11:04:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

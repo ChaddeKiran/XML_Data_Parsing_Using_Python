@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_carsharing_customers.py" name="users.tests.apis.v3.test_carsharing_customers.TestReservationSteps-20220725104545" skipped="0" tests="4" time="3.310" timestamp="2022-07-25T11:04:09">
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestReservationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="978" name="test_for_hybrid_profile_with_reservation_criteria" time="1.115" timestamp="2022-07-25T11:04:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestReservationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="993" name="test_for_hybrid_profile_with_updated_reservation_criteria" time="1.099" timestamp="2022-07-25T11:04:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestReservationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="956" name="test_for_personal_profile_with_reservation_criteria" time="0.607" timestamp="2022-07-25T11:04:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestReservationSteps" file="users/tests/apis/v3/test_carsharing_customers.py" line="948" name="test_for_personal_profile_without_reservation_criteria" time="0.489" timestamp="2022-07-25T11:04:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

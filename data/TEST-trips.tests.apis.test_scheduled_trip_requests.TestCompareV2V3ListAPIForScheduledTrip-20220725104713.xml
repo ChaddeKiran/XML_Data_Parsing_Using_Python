@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestCompareV2V3ListAPIForScheduledTrip-20220725104713" skipped="0" tests="1" time="6.758" timestamp="2022-07-25T10:55:24">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCompareV2V3ListAPIForScheduledTrip" file="trips/tests/apis/test_scheduled_trip_requests.py" line="4614" name="test_v2_v3_api_response" time="6.758" timestamp="2022-07-25T10:55:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

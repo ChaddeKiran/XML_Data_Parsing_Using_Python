@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_outages.py" name="services.tests.models.test_outages.TestOverloadEventManager-20220725104713" skipped="0" tests="2" time="0.486" timestamp="2022-07-25T10:51:03">
+	<testcase classname="services.tests.models.test_outages.TestOverloadEventManager" file="services/tests/models/test_outages.py" line="19" name="test_overload_event_resolves" time="0.403" timestamp="2022-07-25T10:51:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_outages.TestOverloadEventManager" file="services/tests/models/test_outages.py" line="9" name="test_resolve_multiple_events" time="0.083" timestamp="2022-07-25T10:51:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

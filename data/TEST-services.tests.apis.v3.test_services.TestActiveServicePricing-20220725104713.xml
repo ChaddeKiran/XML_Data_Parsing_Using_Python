@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_services.py" name="services.tests.apis.v3.test_services.TestActiveServicePricing-20220725104713" skipped="0" tests="13" time="7.100" timestamp="2022-07-25T10:50:31">
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="212" name="test_anonymous_readonly_access_is_allowed" time="0.435" timestamp="2022-07-25T10:50:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="281" name="test_error_is_returned_for_non_carsharing_service" time="0.428" timestamp="2022-07-25T10:50:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="270" name="test_if_override_is_defined_but_is_not_in_effect_normal_period_is_returned" time="0.893" timestamp="2022-07-25T10:50:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="231" name="test_methods_not_allowed_by_api" time="0.425" timestamp="2022-07-25T10:50:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="320" name="test_purged_period_should_not_show_up_in_response" time="0.519" timestamp="2022-07-25T10:50:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="217" name="test_readonly_access_as_customer_is_allowed" time="0.440" timestamp="2022-07-25T10:50:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="222" name="test_readonly_access_as_service_manager_is_allowed" time="0.743" timestamp="2022-07-25T10:50:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="291" name="test_response_for_missing_service_is_404" time="0.380" timestamp="2022-07-25T10:50:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="295" name="test_response_for_service_with_missing_calendar" time="0.625" timestamp="2022-07-25T10:50:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="300" name="test_soft_deleted_period_should_not_show_up_in_response" time="0.617" timestamp="2022-07-25T10:50:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="247" name="test_when_a_period_is_active_full_response_returned_for_carsharing_service" time="0.587" timestamp="2022-07-25T10:50:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="257" name="test_when_an_override_period_coincides_with_normal_period_override_is_returned" time="0.599" timestamp="2022-07-25T10:50:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestActiveServicePricing" file="services/tests/apis/v3/test_services.py" line="236" name="test_when_no_period_is_active_only_active_pricing_name_is_returned_for_carsharing_service" time="0.409" timestamp="2022-07-25T10:50:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

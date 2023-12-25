@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rest_utils/tests/test_authentication.py" name="rest_utils.tests.test_authentication.TestJWTAuthentication-20220725105046" skipped="0" tests="28" time="9.611" timestamp="2022-07-25T11:08:27">
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="459" name="test_check_disabled_user" time="0.301" timestamp="2022-07-25T11:08:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="598" name="test_default_svc_auth_key_for_fleetops" time="0.290" timestamp="2022-07-25T11:08:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="263" name="test_hacky_jwt_refresh_api" time="0.265" timestamp="2022-07-25T11:08:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="143" name="test_jwt_auth_case_insensitive_email" time="0.283" timestamp="2022-07-25T11:08:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="256" name="test_jwt_auth_in_api_request" time="0.363" timestamp="2022-07-25T11:08:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="285" name="test_jwt_auth_new_firebase_token_valid" time="0.274" timestamp="2022-07-25T11:08:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="268" name="test_jwt_auth_old_firebase_token_valid" time="0.315" timestamp="2022-07-25T11:08:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="73" name="test_jwt_auth_positive" time="0.330" timestamp="2022-07-25T11:08:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="121" name="test_jwt_auth_sso_enabled_exempt_staff_user" time="0.398" timestamp="2022-07-25T11:08:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="110" name="test_jwt_auth_sso_enabled_non_exempt_staff_user" time="0.372" timestamp="2022-07-25T11:08:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="86" name="test_jwt_auth_with_fcm_token" time="0.291" timestamp="2022-07-25T11:08:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="149" name="test_jwt_auth_wrong_json_schema" time="0.347" timestamp="2022-07-25T11:08:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="102" name="test_jwt_auth_wrong_password" time="0.251" timestamp="2022-07-25T11:08:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="133" name="test_jwt_failed_auth_does_not_set_fcm_token" time="0.273" timestamp="2022-07-25T11:08:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="204" name="test_jwt_with_expired_token" time="0.344" timestamp="2022-07-25T11:08:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="216" name="test_legacy_token" time="0.354" timestamp="2022-07-25T11:08:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="302" name="test_password_reset" time="0.421" timestamp="2022-07-25T11:08:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="388" name="test_password_reset_staff_sso_enabled" time="0.425" timestamp="2022-07-25T11:08:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="546" name="test_password_reset_unicode_collision" time="0.455" timestamp="2022-07-25T11:08:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="469" name="test_reset_password_token_gets_invalidated_after_email_change" time="0.273" timestamp="2022-07-25T11:08:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="486" name="test_session_gets_invalidated_on_email_change" time="0.394" timestamp="2022-07-25T11:08:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="502" name="test_session_gets_invalidated_on_logout" time="0.434" timestamp="2022-07-25T11:08:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="523" name="test_session_gets_invalidated_on_logout_with_redirect" time="0.466" timestamp="2022-07-25T11:08:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="581" name="test_tenant_check_in_token_for_fleetops_iss" time="0.323" timestamp="2022-07-25T11:08:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="193" name="test_tenant_info_in_token" time="0.297" timestamp="2022-07-25T11:08:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="420" name="test_user_v2_api_password_reset_staff_sso_enabled" time="0.406" timestamp="2022-07-25T11:08:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="240" name="test_validate_bad_token" time="0.312" timestamp="2022-07-25T11:08:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthentication" file="rest_utils/tests/test_authentication.py" line="185" name="test_validate_good_token" time="0.353" timestamp="2022-07-25T11:08:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

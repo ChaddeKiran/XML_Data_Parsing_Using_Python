@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/analytics/test_carsharing_reports.py" name="ops_center.tests.analytics.test_carsharing_reports.TestCarsharingReports-20220725104740" skipped="0" tests="5" time="7.513" timestamp="2022-07-25T11:03:13">
+	<testcase classname="ops_center.tests.analytics.test_carsharing_reports.TestCarsharingReports" file="ops_center/tests/analytics/test_carsharing_reports.py" line="156" name="test_celery_task" time="2.272" timestamp="2022-07-25T11:03:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_carsharing_reports.TestCarsharingReports" file="ops_center/tests/analytics/test_carsharing_reports.py" line="131" name="test_create_report_easy" time="2.330" timestamp="2022-07-25T11:03:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_carsharing_reports.TestCarsharingReports" file="ops_center/tests/analytics/test_carsharing_reports.py" line="115" name="test_create_report_no_ratings" time="0.025" timestamp="2022-07-25T11:03:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_carsharing_reports.TestCarsharingReports" file="ops_center/tests/analytics/test_carsharing_reports.py" line="120" name="test_create_report_none_in_service" time="0.690" timestamp="2022-07-25T11:03:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_carsharing_reports.TestCarsharingReports" file="ops_center/tests/analytics/test_carsharing_reports.py" line="185" name="test_membership_discount" time="2.197" timestamp="2022-07-25T11:03:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestDriverTripActions-20220725104713" skipped="0" tests="16" time="20.175" timestamp="2022-07-25T11:03:38">
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1643" name="test_cash_calc_fare_old_approach" time="2.272" timestamp="2022-07-25T11:03:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1667" name="test_cash_calc_fare_old_approach_with_negative_param" time="1.112" timestamp="2022-07-25T11:03:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1676" name="test_cash_fare_calculation_for_customer_with_coupon" time="1.289" timestamp="2022-07-25T11:03:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1561" name="test_dropoff_with_failed_payment_data" time="1.302" timestamp="2022-07-25T11:03:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1517" name="test_dropoff_with_location" time="1.132" timestamp="2022-07-25T11:03:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1525" name="test_dropoff_with_number_masking_not_associated" time="1.157" timestamp="2022-07-25T11:03:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1545" name="test_dropoff_with_payment_data" time="1.278" timestamp="2022-07-25T11:03:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1532" name="test_dropoff_without_location" time="1.110" timestamp="2022-07-25T11:03:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1432" name="test_pickup_with_location" time="0.819" timestamp="2022-07-25T11:03:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1485" name="test_pickup_with_location_outside_service_area_and_dropoff" time="1.291" timestamp="2022-07-25T11:03:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1440" name="test_pickup_with_same_number_masking" time="0.939" timestamp="2022-07-25T11:03:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1499" name="test_pickup_without_location" time="0.784" timestamp="2022-07-25T11:03:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1464" name="test_trip_correct_credit_card_payments_enabled" time="1.776" timestamp="2022-07-25T11:03:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1452" name="test_trip_patch_once_payments_enabled" time="0.879" timestamp="2022-07-25T11:03:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1592" name="test_with_cash_fare_calculation" time="1.155" timestamp="2022-07-25T11:03:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDriverTripActions" file="trips/tests/apis/test_trips.py" line="1604" name="test_with_cash_fare_calculation_with_change_end_location" time="1.880" timestamp="2022-07-25T11:03:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

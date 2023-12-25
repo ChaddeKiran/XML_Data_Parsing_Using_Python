@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_continental/tests/test_client_session.py" name="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI-20220725104740" skipped="0" tests="13" time="1.560" timestamp="2022-07-25T10:57:53">
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="190" name="test_continental_api_not_configured" time="0.109" timestamp="2022-07-25T10:57:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="139" name="test_disable_client_session" time="0.138" timestamp="2022-07-25T10:57:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="173" name="test_disable_client_session_connection_error" time="0.074" timestamp="2022-07-25T10:57:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="146" name="test_disable_client_session_invalid_carsharing_customer" time="0.246" timestamp="2022-07-25T10:57:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="154" name="test_disable_client_session_no_session_exists" time="0.067" timestamp="2022-07-25T10:57:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="159" name="test_disable_client_session_timeout" time="0.088" timestamp="2022-07-25T10:57:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="59" name="test_request_client_session" time="0.094" timestamp="2022-07-25T10:57:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="128" name="test_request_client_session_connection_error" time="0.073" timestamp="2022-07-25T10:57:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="74" name="test_request_client_session_existing_session_exists" time="0.118" timestamp="2022-07-25T10:57:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="112" name="test_request_client_session_invalid_carsharing_customer" time="0.268" timestamp="2022-07-25T10:57:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="106" name="test_request_client_session_invalid_session_token" time="0.119" timestamp="2022-07-25T10:57:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="97" name="test_request_client_session_no_session_token" time="0.078" timestamp="2022-07-25T10:57:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_client_session.TestClientSessionAPI" file="hardware_sdk_continental/tests/test_client_session.py" line="120" name="test_request_client_session_timeout" time="0.088" timestamp="2022-07-25T10:57:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

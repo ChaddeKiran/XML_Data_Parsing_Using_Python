@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_fault_data_tasks.py" name="hardware_sdk_geotab.tests.test_fault_data_tasks.TestFetchGo9FaultData-20220725104740" skipped="0" tests="6" time="1.419" timestamp="2022-07-25T10:58:22">
+	<testcase classname="hardware_sdk_geotab.tests.test_fault_data_tasks.TestFetchGo9FaultData" file="hardware_sdk_geotab/tests/test_fault_data_tasks.py" line="124" name="test_dtc_cleared_out" time="0.145" timestamp="2022-07-25T10:58:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_fault_data_tasks.TestFetchGo9FaultData" file="hardware_sdk_geotab/tests/test_fault_data_tasks.py" line="76" name="test_feature_off_periodic_task_skipped" time="0.040" timestamp="2022-07-25T10:58:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_fault_data_tasks.TestFetchGo9FaultData" file="hardware_sdk_geotab/tests/test_fault_data_tasks.py" line="147" name="test_unparsable_dtcs" time="0.151" timestamp="2022-07-25T10:58:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_fault_data_tasks.TestFetchGo9FaultData" file="hardware_sdk_geotab/tests/test_fault_data_tasks.py" line="85" name="test_vehicle_engine_on" time="0.783" timestamp="2022-07-25T10:58:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_fault_data_tasks.TestFetchGo9FaultData" file="hardware_sdk_geotab/tests/test_fault_data_tasks.py" line="103" name="test_vehicle_engine_on_last_ignition_on" time="0.165" timestamp="2022-07-25T10:58:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_fault_data_tasks.TestFetchGo9FaultData" file="hardware_sdk_geotab/tests/test_fault_data_tasks.py" line="64" name="test_vehicle_engine_on_periodic_task_skipped" time="0.136" timestamp="2022-07-25T10:58:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/filters/test_period_filter.py" name="calendars.tests.filters.test_period_filter.PeriodFilterMixinTests-20220725104740" skipped="0" tests="2" time="0.042" timestamp="2022-07-25T10:53:50">
+	<testcase classname="calendars.tests.filters.test_period_filter.PeriodFilterMixinTests" file="calendars/tests/filters/test_period_filter.py" line="20" name="test_filter_invalid_service_id_return_empty_response" time="0.021" timestamp="2022-07-25T10:53:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.filters.test_period_filter.PeriodFilterMixinTests" file="calendars/tests/filters/test_period_filter.py" line="24" name="test_filter_valid_service_id_returns_non_empty_response" time="0.021" timestamp="2022-07-25T10:53:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

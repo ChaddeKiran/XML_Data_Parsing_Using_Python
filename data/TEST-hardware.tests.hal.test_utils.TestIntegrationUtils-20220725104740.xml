@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware/tests/hal/test_utils.py" name="hardware.tests.hal.test_utils.TestIntegrationUtils-20220725104740" skipped="0" tests="10" time="0.906" timestamp="2022-07-25T10:57:50">
+	<testcase classname="hardware.tests.hal.test_utils.TestIntegrationUtils" file="hardware/tests/hal/test_utils.py" line="59" name="test_can_end_rental_doors_ajar" time="0.149" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_utils.TestIntegrationUtils" file="hardware/tests/hal/test_utils.py" line="72" name="test_can_end_rental_doors_ajar_and_flag_off" time="0.148" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_utils.TestIntegrationUtils" file="hardware/tests/hal/test_utils.py" line="123" name="test_can_end_rental_ignition_is_accessory_no_flag_set" time="0.144" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_utils.TestIntegrationUtils" file="hardware/tests/hal/test_utils.py" line="136" name="test_can_end_rental_ignition_is_accessory_when_flag_set" time="0.065" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_utils.TestIntegrationUtils" file="hardware/tests/hal/test_utils.py" line="35" name="test_can_end_rental_outside_service_region" time="0.062" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_utils.TestIntegrationUtils" file="hardware/tests/hal/test_utils.py" line="23" name="test_can_end_rental_positive_response" time="0.051" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_utils.TestIntegrationUtils" file="hardware/tests/hal/test_utils.py" line="47" name="test_can_end_rental_unlocked_doors" time="0.059" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_utils.TestIntegrationUtils" file="hardware/tests/hal/test_utils.py" line="97" name="test_can_end_rental_vehicle_on_doors_unlocked" time="0.058" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_utils.TestIntegrationUtils" file="hardware/tests/hal/test_utils.py" line="109" name="test_can_end_rental_vehicle_on_flag_True" time="0.111" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_utils.TestIntegrationUtils" file="hardware/tests/hal/test_utils.py" line="85" name="test_can_end_rental_while_in_accessory_mode" time="0.059" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

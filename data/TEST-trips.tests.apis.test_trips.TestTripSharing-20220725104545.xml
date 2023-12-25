@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestTripSharing-20220725104545" skipped="0" tests="4" time="2.463" timestamp="2022-07-25T10:49:08">
+	<testcase classname="trips.tests.apis.test_trips.TestTripSharing" file="trips/tests/apis/test_trips.py" line="2786" name="test_trip_sharing_ended_now" time="0.602" timestamp="2022-07-25T10:49:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripSharing" file="trips/tests/apis/test_trips.py" line="2768" name="test_trip_sharing_invalid_uuid" time="0.735" timestamp="2022-07-25T10:49:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripSharing" file="trips/tests/apis/test_trips.py" line="2774" name="test_trip_sharing_valid_uuid" time="0.594" timestamp="2022-07-25T10:49:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripSharing" file="trips/tests/apis/test_trips.py" line="2780" name="test_trip_sharing_valid_uuid_trip_ended_before_day" time="0.533" timestamp="2022-07-25T10:49:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

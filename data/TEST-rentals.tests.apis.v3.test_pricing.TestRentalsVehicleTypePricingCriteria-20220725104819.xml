@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_pricing.py" name="rentals.tests.apis.v3.test_pricing.TestRentalsVehicleTypePricingCriteria-20220725104819" skipped="0" tests="3" time="1.500" timestamp="2022-07-25T11:05:29">
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestRentalsVehicleTypePricingCriteria" file="rentals/tests/apis/v3/test_pricing.py" line="206" name="test_create_rental_no_active_vehicle_type_price" time="0.468" timestamp="2022-07-25T11:05:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestRentalsVehicleTypePricingCriteria" file="rentals/tests/apis/v3/test_pricing.py" line="191" name="test_create_rental_no_vehicle_type_price" time="0.475" timestamp="2022-07-25T11:05:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestRentalsVehicleTypePricingCriteria" file="rentals/tests/apis/v3/test_pricing.py" line="221" name="test_create_scheduled_rental_no_vehicle_type_price" time="0.557" timestamp="2022-07-25T11:05:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

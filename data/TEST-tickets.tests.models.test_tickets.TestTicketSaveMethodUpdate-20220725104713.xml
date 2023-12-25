@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="tickets/tests/models/test_tickets.py" name="tickets.tests.models.test_tickets.TestTicketSaveMethodUpdate-20220725104713" skipped="0" tests="2" time="0.445" timestamp="2022-07-25T10:53:22">
+	<testcase classname="tickets.tests.models.test_tickets.TestTicketSaveMethodUpdate" file="tickets/tests/models/test_tickets.py" line="34" name="test_when_automate_conversion_of_tickets_to_jobs_disabled" time="0.270" timestamp="2022-07-25T10:53:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.models.test_tickets.TestTicketSaveMethodUpdate" file="tickets/tests/models/test_tickets.py" line="20" name="test_when_automate_conversion_of_tickets_to_jobs_enabled" time="0.176" timestamp="2022-07-25T10:53:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

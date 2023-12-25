@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_carsharing_customers.py" name="users.tests.apis.test_carsharing_customers.TestCustomerEditAsDispatcher-20220725104545" skipped="0" tests="1" time="2.572" timestamp="2022-07-25T10:52:02">
+	<testcase classname="users.tests.apis.test_carsharing_customers.TestCustomerEditAsDispatcher" file="users/tests/apis/test_carsharing_customers.py" line="47" name="test_override_state_passed_by_user_if_override_license_issued_state_for_fingerprint_set" time="2.572" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

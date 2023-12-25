@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customer_signup.py" name="users.tests.apis.test_customer_signup.TestCustomerSignup-20220725104545" skipped="0" tests="8" time="2.764" timestamp="2022-07-25T10:52:08">
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignup" file="users/tests/apis/test_customer_signup.py" line="98" name="test_customer_correct_domain_signup" time="0.386" timestamp="2022-07-25T10:52:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignup" file="users/tests/apis/test_customer_signup.py" line="123" name="test_customer_correct_domain_with_full_name_signup" time="0.253" timestamp="2022-07-25T10:52:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignup" file="users/tests/apis/test_customer_signup.py" line="85" name="test_customer_missing_last_name" time="0.073" timestamp="2022-07-25T10:52:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignup" file="users/tests/apis/test_customer_signup.py" line="57" name="test_customer_missing_name" time="0.085" timestamp="2022-07-25T10:52:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignup" file="users/tests/apis/test_customer_signup.py" line="184" name="test_customer_registration" time="0.727" timestamp="2022-07-25T10:52:07">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (40.690998, -73.986508, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignup" file="users/tests/apis/test_customer_signup.py" line="138" name="test_customer_signup_manual_verification_required" time="1.081" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignup" file="users/tests/apis/test_customer_signup.py" line="69" name="test_customer_sso" time="0.089" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignup" file="users/tests/apis/test_customer_signup.py" line="43" name="test_customer_wrong_domain_signup" time="0.071" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

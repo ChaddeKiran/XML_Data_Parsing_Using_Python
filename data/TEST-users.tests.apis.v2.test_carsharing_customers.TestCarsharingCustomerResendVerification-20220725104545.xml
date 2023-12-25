@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCarsharingCustomerResendVerification-20220725104545" skipped="0" tests="1" time="0.617" timestamp="2022-07-25T10:57:16">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCarsharingCustomerResendVerification" file="users/tests/apis/v2/test_carsharing_customers.py" line="4012" name="test_carsharing_send_email_verification_code_rider_verification_enabled" time="0.617" timestamp="2022-07-25T10:57:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

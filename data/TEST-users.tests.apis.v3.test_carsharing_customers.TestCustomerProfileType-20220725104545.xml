@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_carsharing_customers.py" name="users.tests.apis.v3.test_carsharing_customers.TestCustomerProfileType-20220725104545" skipped="0" tests="5" time="7.411" timestamp="2022-07-25T11:03:20">
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerProfileType" file="users/tests/apis/v3/test_carsharing_customers.py" line="510" name="test_personal_profile" time="0.723" timestamp="2022-07-25T11:03:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerProfileType" file="users/tests/apis/v3/test_carsharing_customers.py" line="535" name="test_with_business_email_and_accepted_user_invite" time="1.334" timestamp="2022-07-25T11:03:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerProfileType" file="users/tests/apis/v3/test_carsharing_customers.py" line="523" name="test_with_business_email_and_revoked_user_invite" time="1.389" timestamp="2022-07-25T11:03:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerProfileType" file="users/tests/apis/v3/test_carsharing_customers.py" line="515" name="test_with_business_email_and_without_user_invite" time="0.845" timestamp="2022-07-25T11:03:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerProfileType" file="users/tests/apis/v3/test_carsharing_customers.py" line="547" name="test_with_different_business_email_and_accepted_user_invite" time="3.121" timestamp="2022-07-25T11:03:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

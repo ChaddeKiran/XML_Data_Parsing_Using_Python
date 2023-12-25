@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestIdentityAPIV3AsCustomer-20220725104545" skipped="0" tests="2" time="0.979" timestamp="2022-07-25T10:54:27">
+	<testcase classname="users.tests.apis.test_customers.TestIdentityAPIV3AsCustomer" file="users/tests/apis/test_customers.py" line="996" name="test_returns_scheduled_rental_enabled" time="0.743" timestamp="2022-07-25T10:54:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestIdentityAPIV3AsCustomer" file="users/tests/apis/test_customers.py" line="993" name="test_url" time="0.236" timestamp="2022-07-25T10:54:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

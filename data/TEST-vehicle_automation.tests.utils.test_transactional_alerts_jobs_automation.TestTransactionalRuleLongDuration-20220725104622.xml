@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleLongDuration-20220725104622" skipped="0" tests="3" time="4.846" timestamp="2022-07-25T10:55:23">
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleLongDuration" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="747" name="test_cleaning_transactional_rule_long_duration_without_existing_alert" time="1.589" timestamp="2022-07-25T10:55:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleLongDuration" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="778" name="test_cleaning_transactional_rule_long_duration_without_existing_alert_and_vehicle_types" time="1.515" timestamp="2022-07-25T10:55:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleLongDuration" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="810" name="test_cleaning_transactional_rule_without_existing_alert_last_rental_duration_less" time="1.742" timestamp="2022-07-25T10:55:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

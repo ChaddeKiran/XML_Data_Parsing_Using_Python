@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_services.py" name="services.tests.apis.test_services.TestRidesharingServiceAPIForCustomer-20220725104713" skipped="0" tests="2" time="0.985" timestamp="2022-07-25T10:47:56">
+	<testcase classname="services.tests.apis.test_services.TestRidesharingServiceAPIForCustomer" file="services/tests/apis/test_services.py" line="285" name="test_allow_rider_to_call_driver_get_api" time="0.527" timestamp="2022-07-25T10:47:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestRidesharingServiceAPIForCustomer" file="services/tests/apis/test_services.py" line="291" name="test_allow_rider_to_call_driver_patch_api" time="0.458" timestamp="2022-07-25T10:47:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

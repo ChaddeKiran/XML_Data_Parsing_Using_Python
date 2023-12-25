@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_eligibility.py" name="users.tests.apis.test_eligibility.TestCustomersEligibility-20220725104545" skipped="0" tests="3" time="1.230" timestamp="2022-07-25T10:56:00">
+	<testcase classname="users.tests.apis.test_eligibility.TestCustomersEligibility" file="users/tests/apis/test_eligibility.py" line="21" name="test_is_allowed" time="0.364" timestamp="2022-07-25T10:55:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_eligibility.TestCustomersEligibility" file="users/tests/apis/test_eligibility.py" line="29" name="test_is_outside_of_region" time="0.399" timestamp="2022-07-25T10:56:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_eligibility.TestCustomersEligibility" file="users/tests/apis/test_eligibility.py" line="37" name="test_waitlist_details" time="0.467" timestamp="2022-07-25T10:56:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

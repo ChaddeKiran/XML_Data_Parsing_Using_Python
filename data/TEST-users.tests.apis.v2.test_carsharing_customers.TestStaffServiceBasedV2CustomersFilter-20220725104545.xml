@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestStaffServiceBasedV2CustomersFilter-20220725104545" skipped="0" tests="5" time="17.674" timestamp="2022-07-25T11:02:22">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestStaffServiceBasedV2CustomersFilter" file="users/tests/apis/v2/test_carsharing_customers.py" line="2059" name="test_exclusive_service_customers" time="5.291" timestamp="2022-07-25T11:02:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestStaffServiceBasedV2CustomersFilter" file="users/tests/apis/v2/test_carsharing_customers.py" line="2006" name="test_get_all_customers" time="9.221" timestamp="2022-07-25T11:02:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestStaffServiceBasedV2CustomersFilter" file="users/tests/apis/v2/test_carsharing_customers.py" line="2030" name="test_get_customers_from_app" time="1.296" timestamp="2022-07-25T11:02:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestStaffServiceBasedV2CustomersFilter" file="users/tests/apis/v2/test_carsharing_customers.py" line="2071" name="test_get_customers_user_does_not_have_access_to" time="1.140" timestamp="2022-07-25T11:02:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestStaffServiceBasedV2CustomersFilter" file="users/tests/apis/v2/test_carsharing_customers.py" line="1998" name="test_query_invalid_service" time="0.725" timestamp="2022-07-25T11:02:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

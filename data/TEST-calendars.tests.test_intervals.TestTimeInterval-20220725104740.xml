@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/test_intervals.py" name="calendars.tests.test_intervals.TestTimeInterval-20220725104740" skipped="0" tests="5" time="0.006" timestamp="2022-07-25T11:06:38">
+	<testcase classname="calendars.tests.test_intervals.TestTimeInterval" file="calendars/tests/test_intervals.py" line="65" name="test_no_overlapping_after" time="0.002" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.test_intervals.TestTimeInterval" file="calendars/tests/test_intervals.py" line="78" name="test_no_overlapping_before" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.test_intervals.TestTimeInterval" file="calendars/tests/test_intervals.py" line="18" name="test_overlapping_encompassing" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.test_intervals.TestTimeInterval" file="calendars/tests/test_intervals.py" line="48" name="test_overlapping_ends_at" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.test_intervals.TestTimeInterval" file="calendars/tests/test_intervals.py" line="31" name="test_overlapping_starts_at" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

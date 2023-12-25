@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_services.py" name="services.tests.apis.test_services.TestServiceFields-20220725104713" skipped="0" tests="7" time="4.371" timestamp="2022-07-25T10:48:01">
+	<testcase classname="services.tests.apis.test_services.TestServiceFields" file="services/tests/apis/test_services.py" line="263" name="test_allow_rider_to_call_driver_get_api" time="0.564" timestamp="2022-07-25T10:47:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceFields" file="services/tests/apis/test_services.py" line="269" name="test_allow_rider_to_call_driver_patch_api" time="0.608" timestamp="2022-07-25T10:47:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceFields" file="services/tests/apis/test_services.py" line="210" name="test_scheduled_trip_requests_hold_lead_time" time="0.862" timestamp="2022-07-25T10:47:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceFields" file="services/tests/apis/test_services.py" line="254" name="test_tracking_url_in_notification" time="0.557" timestamp="2022-07-25T10:47:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceFields" file="services/tests/apis/test_services.py" line="258" name="test_tracking_url_in_notification_patch" time="0.572" timestamp="2022-07-25T10:48:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceFields" file="services/tests/apis/test_services.py" line="205" name="test_vehicle_type_selection_can_be_patched" time="0.561" timestamp="2022-07-25T10:48:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceFields" file="services/tests/apis/test_services.py" line="200" name="test_vehicle_type_selection_field_exists" time="0.646" timestamp="2022-07-25T10:48:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

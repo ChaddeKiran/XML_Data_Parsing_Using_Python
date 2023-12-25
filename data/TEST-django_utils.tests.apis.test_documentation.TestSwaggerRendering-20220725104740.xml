@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/apis/test_documentation.py" name="django_utils.tests.apis.test_documentation.TestSwaggerRendering-20220725104740" skipped="0" tests="2" time="2.235" timestamp="2022-07-25T10:54:23">
+	<testcase classname="django_utils.tests.apis.test_documentation.TestSwaggerRendering" file="django_utils/tests/apis/test_documentation.py" line="18" name="test_swagger_docs_loading" time="1.574" timestamp="2022-07-25T10:54:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'pipelines.apis.v3.rideshare_schema.RideShareSchemaViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'rest_utils.authentication.APIAuthLogout'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'users.apis.rider_preferences.RadioStationViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'trips.apis.trips_apis.MinimalTripViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'vehicles.apis.v2.carsharing_vehicles.GPFSViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'vehicles.apis.v2.carsharing_vehicles.SystemInformationViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'vehicles.apis.v2.carsharing_vehicles.StationInformationViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'vehicles.apis.v2.carsharing_vehicles.StationStatusViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.apis.test_documentation.TestSwaggerRendering" file="django_utils/tests/apis/test_documentation.py" line="23" name="test_swagger_docs_not_loading_in_production_mode" time="0.661" timestamp="2022-07-25T10:54:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

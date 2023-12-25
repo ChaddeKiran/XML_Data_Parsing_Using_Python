@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/utils/test_scheduling_utils.py" name="rentals.tests.utils.test_scheduling_utils.TestSchedulingTasks-20220725105046" skipped="0" tests="1" time="0.029" timestamp="2022-07-25T11:08:16">
+	<testcase classname="rentals.tests.utils.test_scheduling_utils.TestSchedulingTasks" file="rentals/tests/utils/test_scheduling_utils.py" line="69" name="test_aggregate_scheduled_rental_requests_overlap" time="0.029" timestamp="2022-07-25T11:08:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

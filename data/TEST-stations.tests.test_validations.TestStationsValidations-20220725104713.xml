@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_validations.py" name="stations.tests.test_validations.TestStationsValidations-20220725104713" skipped="0" tests="1" time="1.149" timestamp="2022-07-25T10:53:20">
+	<testcase classname="stations.tests.test_validations.TestStationsValidations" file="stations/tests/test_validations.py" line="37" name="test_validate_stations" time="1.149" timestamp="2022-07-25T10:53:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

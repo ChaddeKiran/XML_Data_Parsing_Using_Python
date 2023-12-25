@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestCustomersUserGroupsFilter-20220725104545" skipped="0" tests="4" time="2.760" timestamp="2022-07-25T10:54:14">
+	<testcase classname="users.tests.apis.test_customers.TestCustomersUserGroupsFilter" file="users/tests/apis/test_customers.py" line="1410" name="test_customers_user_groups_filter_all" time="0.812" timestamp="2022-07-25T10:54:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersUserGroupsFilter" file="users/tests/apis/test_customers.py" line="1422" name="test_customers_user_groups_filter_one" time="0.472" timestamp="2022-07-25T10:54:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersUserGroupsFilter" file="users/tests/apis/test_customers.py" line="1416" name="test_customers_user_groups_filter_two" time="0.690" timestamp="2022-07-25T10:54:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersUserGroupsFilter" file="users/tests/apis/test_customers.py" line="1405" name="test_customers_user_groups_filter_without" time="0.787" timestamp="2022-07-25T10:54:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

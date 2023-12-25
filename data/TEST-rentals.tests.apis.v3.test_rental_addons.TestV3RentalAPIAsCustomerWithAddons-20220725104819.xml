@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_rental_addons.py" name="rentals.tests.apis.v3.test_rental_addons.TestV3RentalAPIAsCustomerWithAddons-20220725104819" skipped="0" tests="5" time="9.004" timestamp="2022-07-25T11:05:47">
+	<testcase classname="rentals.tests.apis.v3.test_rental_addons.TestV3RentalAPIAsCustomerWithAddons" file="rentals/tests/apis/v3/test_rental_addons.py" line="40" name="test_create_rental_with_addons" time="2.112" timestamp="2022-07-25T11:05:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rental_addons.TestV3RentalAPIAsCustomerWithAddons" file="rentals/tests/apis/v3/test_rental_addons.py" line="108" name="test_create_rental_with_invalid_addons" time="1.256" timestamp="2022-07-25T11:05:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rental_addons.TestV3RentalAPIAsCustomerWithAddons" file="rentals/tests/apis/v3/test_rental_addons.py" line="91" name="test_rental_payment_with_distance_addons" time="2.040" timestamp="2022-07-25T11:05:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rental_addons.TestV3RentalAPIAsCustomerWithAddons" file="rentals/tests/apis/v3/test_rental_addons.py" line="60" name="test_rental_payment_with_flat_addons" time="1.829" timestamp="2022-07-25T11:05:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rental_addons.TestV3RentalAPIAsCustomerWithAddons" file="rentals/tests/apis/v3/test_rental_addons.py" line="73" name="test_rental_payment_with_time_addons" time="1.766" timestamp="2022-07-25T11:05:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="documents/tests/apis/test_document.py" name="documents.tests.apis.test_document.TestDocumentGroupAPI-20220725104740" skipped="0" tests="6" time="1.607" timestamp="2022-07-25T10:54:45">
+	<testcase classname="documents.tests.apis.test_document.TestDocumentGroupAPI" file="documents/tests/apis/test_document.py" line="92" name="test_create_document_group_with_docs" time="0.296" timestamp="2022-07-25T10:54:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="documents.tests.apis.test_document.TestDocumentGroupAPI" file="documents/tests/apis/test_document.py" line="113" name="test_create_document_group_with_inactive_docs" time="0.257" timestamp="2022-07-25T10:54:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="documents.tests.apis.test_document.TestDocumentGroupAPI" file="documents/tests/apis/test_document.py" line="82" name="test_create_document_group_without_docs" time="0.259" timestamp="2022-07-25T10:54:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="documents.tests.apis.test_document.TestDocumentGroupAPI" file="documents/tests/apis/test_document.py" line="65" name="test_list_document_group" time="0.275" timestamp="2022-07-25T10:54:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'documents.models.DocumentGroup'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="documents.tests.apis.test_document.TestDocumentGroupAPI" file="documents/tests/apis/test_document.py" line="134" name="test_update_document_group" time="0.260" timestamp="2022-07-25T10:54:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="documents.tests.apis.test_document.TestDocumentGroupAPI" file="documents/tests/apis/test_document.py" line="151" name="test_update_document_group_with_only_doc" time="0.260" timestamp="2022-07-25T10:54:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

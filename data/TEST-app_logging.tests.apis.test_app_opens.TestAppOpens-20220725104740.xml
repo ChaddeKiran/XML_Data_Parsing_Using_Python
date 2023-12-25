@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="app_logging/tests/apis/test_app_opens.py" name="app_logging.tests.apis.test_app_opens.TestAppOpens-20220725104740" skipped="0" tests="4" time="1.462" timestamp="2022-07-25T10:50:31">
+	<testcase classname="app_logging.tests.apis.test_app_opens.TestAppOpens" file="app_logging/tests/apis/test_app_opens.py" line="44" name="test_create_not_logged_in" time="0.374" timestamp="2022-07-25T10:50:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.apis.test_app_opens.TestAppOpens" file="app_logging/tests/apis/test_app_opens.py" line="33" name="test_list_appopens_unauthorized" time="0.359" timestamp="2022-07-25T10:50:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.apis.test_app_opens.TestAppOpens" file="app_logging/tests/apis/test_app_opens.py" line="52" name="test_no_lat_lng" time="0.330" timestamp="2022-07-25T10:50:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.apis.test_app_opens.TestAppOpens" file="app_logging/tests/apis/test_app_opens.py" line="58" name="test_success" time="0.400" timestamp="2022-07-25T10:50:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

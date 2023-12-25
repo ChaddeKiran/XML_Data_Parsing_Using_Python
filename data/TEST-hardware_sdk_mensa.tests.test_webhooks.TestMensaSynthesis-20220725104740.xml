@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis-20220725104740" skipped="0" tests="43" time="17.743" timestamp="2022-07-25T11:00:28">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="497" name="test_clear_keys_request_ignored_when_new_ble_keys_and_last_end_key_in_missing" time="0.368" timestamp="2022-07-25T11:00:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="473" name="test_clear_keys_request_ignored_when_no_keys_and_last_end_key_done" time="0.345" timestamp="2022-07-25T11:00:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="485" name="test_clear_keys_request_ignored_when_no_keys_and_last_end_key_in_progress" time="0.369" timestamp="2022-07-25T11:00:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="401" name="test_energy_percentage_and_remaining_range_for_phev_vehicle" time="0.368" timestamp="2022-07-25T11:00:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="433" name="test_flag_enabled_sends_raw_data_to_pipeline" time="1.734" timestamp="2022-07-25T11:00:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="705" name="test_mensa_synthesis_cache_basic" time="0.363" timestamp="2022-07-25T11:00:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="760" name="test_mensa_synthesis_cache_different_transaction_id" time="0.356" timestamp="2022-07-25T11:00:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="719" name="test_mensa_synthesis_cache_duplicate_transaction_id_ble" time="0.353" timestamp="2022-07-25T11:00:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="739" name="test_mensa_synthesis_cache_duplicate_transaction_id_cell" time="0.361" timestamp="2022-07-25T11:00:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="688" name="test_push_synthesis_doors_unlocked_in_invisible_mode" time="0.813" timestamp="2022-07-25T11:00:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="671" name="test_push_synthesis_engine_on_in_invisible_mode" time="0.829" timestamp="2022-07-25T11:00:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="650" name="test_push_synthesis_from_alt_keys_during_key_rotation" time="0.336" timestamp="2022-07-25T11:00:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="622" name="test_push_synthesis_switch_to_alt_backend" time="0.368" timestamp="2022-07-25T11:00:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="636" name="test_push_synthesis_switch_to_primary_backend" time="0.345" timestamp="2022-07-25T11:00:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="458" name="test_request_made_to_clear_keys_when_no_rental_and_last_end_key_inprogress" time="0.794" timestamp="2022-07-25T11:00:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="443" name="test_request_made_to_clear_keys_when_no_rental_and_last_end_key_missing" time="0.815" timestamp="2022-07-25T11:00:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="513" name="test_request_made_to_clear_keys_when_same_ble_keys_and_last_end_key_missing" time="0.808" timestamp="2022-07-25T11:00:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="213" name="test_synthesis_airbags_deployed" time="0.353" timestamp="2022-07-25T11:00:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="418" name="test_synthesis_carsharing_hardware_not_mensa" time="0.330" timestamp="2022-07-25T11:00:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="121" name="test_synthesis_doors_locked" time="0.092" timestamp="2022-07-25T11:00:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="138" name="test_synthesis_doors_unlocked" time="0.184" timestamp="2022-07-25T11:00:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="176" name="test_synthesis_engine_started" time="0.190" timestamp="2022-07-25T11:00:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="158" name="test_synthesis_engine_stopped" time="0.094" timestamp="2022-07-25T11:00:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="270" name="test_synthesis_future_gps_fix_time" time="0.358" timestamp="2022-07-25T11:00:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="246" name="test_synthesis_invalid_gps_coordinates" time="0.409" timestamp="2022-07-25T11:00:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="289" name="test_synthesis_invalid_gps_coordinates_with_no_previous_gps" time="0.073" timestamp="2022-07-25T11:00:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="555" name="test_synthesis_parameters_updated" time="0.377" timestamp="2022-07-25T11:00:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="566" name="test_synthesis_parameters_updated_with_existing_transaction_id" time="0.393" timestamp="2022-07-25T11:00:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="584" name="test_synthesis_reduced_fields" time="0.356" timestamp="2022-07-25T11:00:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="308" name="test_synthesis_seen_transaction_id_same_timestamp" time="0.390" timestamp="2022-07-25T11:00:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="321" name="test_synthesis_update_ccm_id_called" time="0.364" timestamp="2022-07-25T11:00:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="328" name="test_synthesis_update_existing_vin_with_same_ccm_id" time="0.748" timestamp="2022-07-25T11:00:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="259" name="test_synthesis_valid_gps_coordinates" time="0.434" timestamp="2022-07-25T11:00:25">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="278" name="test_synthesis_valid_gps_coordinates_with_no_previous_gps" time="0.357" timestamp="2022-07-25T11:00:25">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="607" name="test_synthesis_vehicle_does_not_exist" time="0.036" timestamp="2022-07-25T11:00:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="614" name="test_synthesis_vehicle_not_registered_with_a_mensa_tcu" time="0.375" timestamp="2022-07-25T11:00:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="196" name="test_synthesis_vehicle_update" time="0.108" timestamp="2022-07-25T11:00:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="299" name="test_synthesis_with_corrupt_odometer_value" time="0.075" timestamp="2022-07-25T11:00:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="386" name="test_update_ev_battery_percentage" time="0.362" timestamp="2022-07-25T11:00:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="346" name="test_update_liquid_fuel_percentage" time="0.399" timestamp="2022-07-25T11:00:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="359" name="test_update_liquid_fuel_percentage_with_fuel_liters" time="0.401" timestamp="2022-07-25T11:00:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="371" name="test_update_liquid_fuel_percentage_with_fuel_liters_for_electric_vehicle" time="0.387" timestamp="2022-07-25T11:00:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaSynthesis" file="hardware_sdk_mensa/tests/test_webhooks.py" line="541" name="test_update_mensa_vehicle_status" time="0.372" timestamp="2022-07-25T11:00:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

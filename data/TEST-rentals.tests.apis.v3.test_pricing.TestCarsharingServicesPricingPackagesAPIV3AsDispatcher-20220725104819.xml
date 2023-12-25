@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_pricing.py" name="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsDispatcher-20220725104819" skipped="0" tests="1" time="0.900" timestamp="2022-07-25T11:05:21">
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsDispatcher" file="rentals/tests/apis/v3/test_pricing.py" line="498" name="test_staff_user_can_not_receive_pricing_packages" time="0.900" timestamp="2022-07-25T11:05:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

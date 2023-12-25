@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="fleet_rentals/tests/apis/test_fleet_rentals.py" name="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentalsAsCustomer-20220725104740" skipped="0" tests="1" time="1.702" timestamp="2022-07-25T10:56:56">
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentalsAsCustomer" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="401" name="test_deactivate_vehicles" time="1.702" timestamp="2022-07-25T10:56:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

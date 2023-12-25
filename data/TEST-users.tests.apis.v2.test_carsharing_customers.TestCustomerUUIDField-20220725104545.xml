@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerUUIDField-20220725104545" skipped="0" tests="5" time="3.167" timestamp="2022-07-25T11:00:23">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerUUIDField" file="users/tests/apis/v2/test_carsharing_customers.py" line="3438" name="test_signup_calls_user_agreements" time="0.950" timestamp="2022-07-25T11:00:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerUUIDField" file="users/tests/apis/v2/test_carsharing_customers.py" line="3427" name="test_signup_no_uuid_required" time="0.838" timestamp="2022-07-25T11:00:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerUUIDField" file="users/tests/apis/v2/test_carsharing_customers.py" line="3491" name="test_update_uuid_fails" time="0.846" timestamp="2022-07-25T11:00:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerUUIDField" file="users/tests/apis/v2/test_carsharing_customers.py" line="3480" name="test_uuid_in_customer_get" time="0.359" timestamp="2022-07-25T11:00:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerUUIDField" file="users/tests/apis/v2/test_carsharing_customers.py" line="3512" name="test_uuid_in_firebase" time="0.173" timestamp="2022-07-25T11:00:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

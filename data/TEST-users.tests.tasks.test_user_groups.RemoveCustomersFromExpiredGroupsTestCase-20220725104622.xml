@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/tasks/test_user_groups.py" name="users.tests.tasks.test_user_groups.RemoveCustomersFromExpiredGroupsTestCase-20220725104622" skipped="0" tests="2" time="0.617" timestamp="2022-07-25T10:47:58">
+	<testcase classname="users.tests.tasks.test_user_groups.RemoveCustomersFromExpiredGroupsTestCase" file="users/tests/tasks/test_user_groups.py" line="39" name="test_get_customer_user_group_ids" time="0.187" timestamp="2022-07-25T10:47:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_user_groups.RemoveCustomersFromExpiredGroupsTestCase" file="users/tests/tasks/test_user_groups.py" line="15" name="test_removing_user_from_expired_group_updates_customerio" time="0.431" timestamp="2022-07-25T10:47:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" name="vehicles.tests.apis.v2.test_carsharing_vehicles.VehicleUpdateV2APITestCase-20220725104622" skipped="0" tests="5" time="2.455" timestamp="2022-07-25T11:00:33">
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehicleUpdateV2APITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="96" name="test_recent_vehicle_update_for_electric_vehicle" time="0.547" timestamp="2022-07-25T11:00:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VehicleUpdate.updated_datetime received a naive datetime (2016-08-03 12:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VehicleUpdate.updated_datetime received a naive datetime (2016-08-03 15:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehicleUpdateV2APITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="116" name="test_recent_vehicle_update_for_liquid_fuel_vehicle" time="0.498" timestamp="2022-07-25T11:00:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VehicleUpdate.updated_datetime received a naive datetime (2016-08-03 14:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehicleUpdateV2APITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="136" name="test_recent_vehicle_update_for_phev_vehicle" time="0.494" timestamp="2022-07-25T11:00:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VehicleUpdate.updated_datetime received a naive datetime (2016-08-03 12:05:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehicleUpdateV2APITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="77" name="test_sorting_by_event" time="0.499" timestamp="2022-07-25T11:00:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehicleUpdateV2APITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="91" name="test_unauthorized" time="0.417" timestamp="2022-07-25T11:00:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

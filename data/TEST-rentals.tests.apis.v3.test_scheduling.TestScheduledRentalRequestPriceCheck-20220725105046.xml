@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestPriceCheck-20220725105046" skipped="0" tests="7" time="8.815" timestamp="2022-07-25T11:00:34">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestPriceCheck" file="rentals/tests/apis/v3/test_scheduling.py" line="5289" name="test_price_check_extend_end_date_time" time="2.167" timestamp="2022-07-25T11:00:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestPriceCheck" file="rentals/tests/apis/v3/test_scheduling.py" line="5354" name="test_price_check_extend_end_date_time_block_components" time="1.770" timestamp="2022-07-25T11:00:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestPriceCheck" file="rentals/tests/apis/v3/test_scheduling.py" line="5250" name="test_price_check_extend_end_date_time_without_credit_card" time="2.012" timestamp="2022-07-25T11:00:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestPriceCheck" file="rentals/tests/apis/v3/test_scheduling.py" line="5457" name="test_price_check_prevents_customer_from_preponing_end_date_time" time="0.101" timestamp="2022-07-25T11:00:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestPriceCheck" file="rentals/tests/apis/v3/test_scheduling.py" line="5399" name="test_price_check_reduce_end_date_time" time="1.180" timestamp="2022-07-25T11:00:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestPriceCheck" file="rentals/tests/apis/v3/test_scheduling.py" line="5428" name="test_price_check_reduce_end_date_time_increase_price" time="1.097" timestamp="2022-07-25T11:00:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestPriceCheck" file="rentals/tests/apis/v3/test_scheduling.py" line="5229" name="test_price_check_without_hold_payment" time="0.489" timestamp="2022-07-25T11:00:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

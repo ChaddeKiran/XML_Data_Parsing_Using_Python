@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_markets.py" name="services.tests.apis.v3.test_markets.TestMarketAPIAsAnonymous-20220725104713" skipped="0" tests="2" time="0.517" timestamp="2022-07-25T10:50:10">
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsAnonymous" file="services/tests/apis/v3/test_markets.py" line="315" name="test_exclusive_excluded_for_anonymous" time="0.400" timestamp="2022-07-25T10:50:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'services.models.markets.Market'> MarketQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsAnonymous" file="services/tests/apis/v3/test_markets.py" line="309" name="test_market_list" time="0.117" timestamp="2022-07-25T10:50:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_scheduling.py" name="rentals.tests.tasks.test_scheduling.TestSchedulingTasks-20220725105046" skipped="0" tests="10" time="19.366" timestamp="2022-07-25T11:07:06">
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasks" file="rentals/tests/tasks/test_scheduling.py" line="132" name="test_no_overdue_notification_on_no_show" time="1.518" timestamp="2022-07-25T11:06:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasks" file="rentals/tests/tasks/test_scheduling.py" line="149" name="test_overdue_notification" time="1.533" timestamp="2022-07-25T11:06:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasks" file="rentals/tests/tasks/test_scheduling.py" line="249" name="test_rental_overdue_past_cutoff_notification" time="1.633" timestamp="2022-07-25T11:06:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasks" file="rentals/tests/tasks/test_scheduling.py" line="91" name="test_rental_park_notifications" time="2.182" timestamp="2022-07-25T11:06:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasks" file="rentals/tests/tasks/test_scheduling.py" line="317" name="test_scheduled_rental_create_event_to_data_pipeline_flag_off" time="1.631" timestamp="2022-07-25T11:06:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasks" file="rentals/tests/tasks/test_scheduling.py" line="298" name="test_scheduled_rental_create_event_to_data_pipeline_flag_on" time="1.749" timestamp="2022-07-25T11:06:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7f4a0842bf28>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasks" file="rentals/tests/tasks/test_scheduling.py" line="306" name="test_scheduled_rental_update_event_to_data_pipeline_flag_on" time="1.718" timestamp="2022-07-25T11:06:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7f4a080f2cc0>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasks" file="rentals/tests/tasks/test_scheduling.py" line="325" name="test_sync_customer_rfids_in_ota_backend" time="2.957" timestamp="2022-07-25T11:07:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasks" file="rentals/tests/tasks/test_scheduling.py" line="345" name="test_sync_customer_rfids_in_ota_backend_sync_failed" time="2.892" timestamp="2022-07-25T11:07:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasks" file="rentals/tests/tasks/test_scheduling.py" line="194" name="test_unassigned_notification" time="1.554" timestamp="2022-07-25T11:07:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

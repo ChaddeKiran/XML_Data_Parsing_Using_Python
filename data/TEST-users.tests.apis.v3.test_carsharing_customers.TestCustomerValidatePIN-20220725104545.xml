@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_carsharing_customers.py" name="users.tests.apis.v3.test_carsharing_customers.TestCustomerValidatePIN-20220725104545" skipped="0" tests="7" time="3.584" timestamp="2022-07-25T11:03:23">
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerValidatePIN" file="users/tests/apis/v3/test_carsharing_customers.py" line="400" name="test_invalid_requests_time_out" time="0.552" timestamp="2022-07-25T11:03:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerValidatePIN" file="users/tests/apis/v3/test_carsharing_customers.py" line="386" name="test_nbr_invalid_requests_exceeds_limit" time="0.503" timestamp="2022-07-25T11:03:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerValidatePIN" file="users/tests/apis/v3/test_carsharing_customers.py" line="364" name="test_pin_not_numeric" time="0.482" timestamp="2022-07-25T11:03:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerValidatePIN" file="users/tests/apis/v3/test_carsharing_customers.py" line="355" name="test_pin_not_provided" time="0.502" timestamp="2022-07-25T11:03:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerValidatePIN" file="users/tests/apis/v3/test_carsharing_customers.py" line="375" name="test_pin_wrong_length" time="0.511" timestamp="2022-07-25T11:03:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerValidatePIN" file="users/tests/apis/v3/test_carsharing_customers.py" line="418" name="test_timeout_expired_allow_requests" time="0.521" timestamp="2022-07-25T11:03:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerValidatePIN" file="users/tests/apis/v3/test_carsharing_customers.py" line="345" name="test_valid_request_returns_valid_response" time="0.513" timestamp="2022-07-25T11:03:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

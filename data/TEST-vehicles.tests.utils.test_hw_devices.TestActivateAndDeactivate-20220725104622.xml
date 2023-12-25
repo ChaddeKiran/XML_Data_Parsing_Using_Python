@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/utils/test_hw_devices.py" name="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate-20220725104622" skipped="0" tests="12" time="9.342" timestamp="2022-07-25T11:05:22">
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="109" name="test_geotab_to_geotab" time="0.348" timestamp="2022-07-25T11:05:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="115" name="test_geotab_to_mensa" time="0.934" timestamp="2022-07-25T11:05:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="103" name="test_geotab_to_otakeys_without_go9" time="0.924" timestamp="2022-07-25T11:05:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="134" name="test_mensa_to_geotab" time="0.938" timestamp="2022-07-25T11:05:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="140" name="test_mensa_to_mensa" time="0.336" timestamp="2022-07-25T11:05:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="122" name="test_mensa_to_otakeys_with_go9" time="1.110" timestamp="2022-07-25T11:05:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="128" name="test_mensa_to_otakeys_without_go9" time="0.942" timestamp="2022-07-25T11:05:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="83" name="test_otakeys_with_go9_to_mensa" time="1.109" timestamp="2022-07-25T11:05:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="71" name="test_otakeys_with_go9_to_otakeys" time="0.487" timestamp="2022-07-25T11:05:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="97" name="test_otakeys_without_go9_to_geotab" time="0.950" timestamp="2022-07-25T11:05:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="90" name="test_otakeys_without_go9_to_mensa" time="0.926" timestamp="2022-07-25T11:05:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_hw_devices.TestActivateAndDeactivate" file="vehicles/tests/utils/test_hw_devices.py" line="77" name="test_otakeys_without_go9_to_otakeys" time="0.339" timestamp="2022-07-25T11:05:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

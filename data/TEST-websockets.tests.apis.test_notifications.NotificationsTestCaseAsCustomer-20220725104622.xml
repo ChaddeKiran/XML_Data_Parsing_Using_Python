@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="websockets/tests/apis/test_notifications.py" name="websockets.tests.apis.test_notifications.NotificationsTestCaseAsCustomer-20220725104622" skipped="0" tests="1" time="1.067" timestamp="2022-07-25T11:06:07">
+	<testcase classname="websockets.tests.apis.test_notifications.NotificationsTestCaseAsCustomer" file="websockets/tests/apis/test_notifications.py" line="135" name="test_notifications_as_customer" time="1.067" timestamp="2022-07-25T11:06:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

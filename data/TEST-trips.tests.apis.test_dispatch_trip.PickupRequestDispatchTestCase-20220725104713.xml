@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_dispatch_trip.py" name="trips.tests.apis.test_dispatch_trip.PickupRequestDispatchTestCase-20220725104713" skipped="0" tests="7" time="6.714" timestamp="2022-07-25T10:55:07">
+	<testcase classname="trips.tests.apis.test_dispatch_trip.PickupRequestDispatchTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="590" name="test_dispatch_trip_far_driver" time="0.802" timestamp="2022-07-25T10:55:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.PickupRequestDispatchTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="546" name="test_dispatch_trip_pickuprequest_accept" time="1.333" timestamp="2022-07-25T10:55:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.PickupRequestDispatchTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="577" name="test_dispatch_trip_pickuprequest_expire" time="0.805" timestamp="2022-07-25T10:55:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.PickupRequestDispatchTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="563" name="test_dispatch_trip_pickuprequest_reject" time="0.849" timestamp="2022-07-25T10:55:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.PickupRequestDispatchTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="618" name="test_dispatch_trip_scheduled_ride_driver" time="1.112" timestamp="2022-07-25T10:55:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.PickupRequestDispatchTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="541" name="test_dispatch_trip_starts_waves" time="0.673" timestamp="2022-07-25T10:55:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.PickupRequestDispatchTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="603" name="test_scheduled_trip_request_blocks_on_demand_ride" time="1.139" timestamp="2022-07-25T10:55:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

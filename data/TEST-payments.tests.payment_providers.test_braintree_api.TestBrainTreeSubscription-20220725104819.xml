@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_braintree_api.py" name="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription-20220725104819" skipped="0" tests="13" time="2.531" timestamp="2022-07-25T10:48:56">
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="477" name="test_cancel_subscription" time="0.381" timestamp="2022-07-25T10:48:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="381" name="test_create_future_subscription_with_card_rejected" time="0.137" timestamp="2022-07-25T10:48:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="256" name="test_create_subscription_starts_immediately" time="0.139" timestamp="2022-07-25T10:48:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="282" name="test_create_subscription_starts_immediately_with_billing_cycles" time="0.136" timestamp="2022-07-25T10:48:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="303" name="test_create_subscription_starts_in_future" time="0.136" timestamp="2022-07-25T10:48:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="362" name="test_create_subscription_with_card_rejected" time="0.135" timestamp="2022-07-25T10:48:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="335" name="test_create_subscription_with_invalid_billing_cycles" time="0.134" timestamp="2022-07-25T10:48:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="344" name="test_create_subscription_with_invalid_card" time="0.126" timestamp="2022-07-25T10:48:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="353" name="test_create_subscription_with_invalid_plan" time="0.146" timestamp="2022-07-25T10:48:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="325" name="test_create_subscription_with_past_start_date" time="0.457" timestamp="2022-07-25T10:48:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="452" name="test_update_cancelled_subscription_credit_card" time="0.213" timestamp="2022-07-25T10:48:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="432" name="test_update_subscription_billing_cycles" time="0.200" timestamp="2022-07-25T10:48:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTreeSubscription" file="payments/tests/payment_providers/test_braintree_api.py" line="411" name="test_update_subscription_credit_card" time="0.191" timestamp="2022-07-25T10:48:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

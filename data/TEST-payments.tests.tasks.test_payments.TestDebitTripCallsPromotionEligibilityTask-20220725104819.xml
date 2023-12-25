@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/tasks/test_payments.py" name="payments.tests.tasks.test_payments.TestDebitTripCallsPromotionEligibilityTask-20220725104819" skipped="0" tests="3" time="1.577" timestamp="2022-07-25T10:49:49">
+	<testcase classname="payments.tests.tasks.test_payments.TestDebitTripCallsPromotionEligibilityTask" file="payments/tests/tasks/test_payments.py" line="197" name="test_debit_trip_calls_promotion_eligibility_task" time="0.540" timestamp="2022-07-25T10:49:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestDebitTripCallsPromotionEligibilityTask" file="payments/tests/tasks/test_payments.py" line="217" name="test_debit_trip_does_not_call_promotion_eligibility_task" time="0.533" timestamp="2022-07-25T10:49:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestDebitTripCallsPromotionEligibilityTask" file="payments/tests/tasks/test_payments.py" line="237" name="test_debit_trip_does_not_call_promotion_eligibility_task_when_payment_is_exempted" time="0.504" timestamp="2022-07-25T10:49:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_vehicle_blocks.py" name="vehicle_blocks.tests.test_vehicle_blocks.TestPatchVehicleBlockAPI-20220725104622" skipped="0" tests="1" time="0.355" timestamp="2022-07-25T10:56:49">
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestPatchVehicleBlockAPI" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="437" name="test_patch_comment_field" time="0.355" timestamp="2022-07-25T10:56:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

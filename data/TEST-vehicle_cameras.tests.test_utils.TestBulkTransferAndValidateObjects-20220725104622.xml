@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_cameras/tests/test_utils.py" name="vehicle_cameras.tests.test_utils.TestBulkTransferAndValidateObjects-20220725104622" skipped="0" tests="3" time="0.058" timestamp="2022-07-25T10:57:02">
+	<testcase classname="vehicle_cameras.tests.test_utils.TestBulkTransferAndValidateObjects" file="vehicle_cameras/tests/test_utils.py" line="42" name="test_s3_client_failure" time="0.020" timestamp="2022-07-25T10:57:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_utils.TestBulkTransferAndValidateObjects" file="vehicle_cameras/tests/test_utils.py" line="34" name="test_transfer_2_files" time="0.020" timestamp="2022-07-25T10:57:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_utils.TestBulkTransferAndValidateObjects" file="vehicle_cameras/tests/test_utils.py" line="48" name="test_validation_failure" time="0.019" timestamp="2022-07-25T10:57:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

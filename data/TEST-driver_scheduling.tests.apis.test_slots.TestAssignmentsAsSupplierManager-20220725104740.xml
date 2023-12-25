@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_slots.py" name="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsSupplierManager-20220725104740" skipped="0" tests="3" time="1.792" timestamp="2022-07-25T10:55:11">
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsSupplierManager" file="driver_scheduling/tests/apis/test_slots.py" line="574" name="test_assign_driver" time="0.607" timestamp="2022-07-25T10:55:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsSupplierManager" file="driver_scheduling/tests/apis/test_slots.py" line="581" name="test_assign_driver_not_yours_fails" time="0.538" timestamp="2022-07-25T10:55:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsSupplierManager" file="driver_scheduling/tests/apis/test_slots.py" line="559" name="test_get_assignments" time="0.647" timestamp="2022-07-25T10:55:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

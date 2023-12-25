@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation-20220725110435" skipped="1" tests="31" time="18.844" timestamp="2022-07-25T11:04:57">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1416" name="test_cannot_create_two_trips_at_the_same_time" time="0.916" timestamp="2022-07-25T11:04:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1381" name="test_create_schedule_ride_with_deferred_payment" time="0.759" timestamp="2022-07-25T11:04:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1356" name="test_create_schedule_ride_with_fare_estimate" time="0.633" timestamp="2022-07-25T11:04:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1366" name="test_create_schedule_ride_with_zero_fare_estimate" time="0.720" timestamp="2022-07-25T11:04:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1609" name="test_create_scheduled_trip_with_same_start_and_end_locations" time="0.510" timestamp="2022-07-25T11:04:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1426" name="test_only_one_trip_request_creation_at_a_time" time="1.552" timestamp="2022-07-25T11:04:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1400" name="test_scheduled_trip_request_creation_all_fields_present" time="0.606" timestamp="2022-07-25T11:04:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1343" name="test_scheduled_trip_request_creation_exempt_only_in_exempt_group" time="0.646" timestamp="2022-07-25T11:04:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1332" name="test_scheduled_trip_request_creation_exempt_only_not_in_exempt_group" time="0.470" timestamp="2022-07-25T11:04:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1535" name="test_scheduled_trip_request_creation_in_32_days" time="0.447" timestamp="2022-07-25T11:04:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1527" name="test_scheduled_trip_request_creation_in_an_hour" time="0.446" timestamp="2022-07-25T11:04:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1520" name="test_scheduled_trip_request_creation_in_the_past" time="0.462" timestamp="2022-07-25T11:04:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1465" name="test_scheduled_trip_request_creation_no_appid" time="0.595" timestamp="2022-07-25T11:04:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1317" name="test_scheduled_trip_request_creation_requires_service" time="0.411" timestamp="2022-07-25T11:04:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1324" name="test_scheduled_trip_request_creation_scheduled_trips_disabled" time="0.460" timestamp="2022-07-25T11:04:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1494" name="test_scheduled_trip_request_creation_unverified" time="0.451" timestamp="2022-07-25T11:04:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1510" name="test_scheduled_trip_request_creation_with_incorrect_passenger_types" time="0.413" timestamp="2022-07-25T11:04:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1451" name="test_scheduled_trip_request_creation_with_num_passengers" time="0.591" timestamp="2022-07-25T11:04:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1433" name="test_scheduled_trip_request_creation_with_payments" time="0.629" timestamp="2022-07-25T11:04:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1441" name="test_scheduled_trip_request_creation_with_payments_credit_card" time="0.630" timestamp="2022-07-25T11:04:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1574" name="test_scheduled_trip_request_creation_with_payments_enabled" time="0.767" timestamp="2022-07-25T11:04:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1562" name="test_scheduled_trip_request_creation_with_payments_enabled_no_payment_mode" time="0.694" timestamp="2022-07-25T11:04:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1584" name="test_scheduled_trip_request_creation_with_payments_mandatory" time="0.781" timestamp="2022-07-25T11:04:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1596" name="test_scheduled_trip_request_creation_with_payments_mandatory_no_credit_card" time="0.700" timestamp="2022-07-25T11:04:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1549" name="test_scheduled_trip_request_creation_with_scheduled_trip_requests_disabled_and_exempt_customer" time="0.801" timestamp="2022-07-25T11:04:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1543" name="test_scheduled_trip_request_creation_with_scheduled_trip_requests_disabled_for_customers" time="0.605" timestamp="2022-07-25T11:04:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1502" name="test_scheduled_trip_request_creation_without_passengers" time="0.463" timestamp="2022-07-25T11:04:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1473" name="test_scheduled_trip_request_includes_fare_estimate" time="0.644" timestamp="2022-07-25T11:04:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1483" name="test_scheduled_trip_request_includes_signed_map_url" time="0.601" timestamp="2022-07-25T11:04:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1290" name="test_scheduled_trip_request_list_returns_empty_list_200_response" time="0.439" timestamp="2022-07-25T11:04:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1296" name="test_scheduled_trip_request_list_performance" time="0.002" timestamp="2022-07-25T11:04:56">
+		<skipped message="This test is to test performance of list api. Performance is measured by computing time diff in api call" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

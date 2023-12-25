@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_staff.py" name="users.tests.apis.test_staff.TestStaffAPIAsDispatch-20220725104545" skipped="0" tests="22" time="19.115" timestamp="2022-07-25T10:56:50">
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="261" name="test_create_business_admin" time="0.742" timestamp="2022-07-25T10:56:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="334" name="test_create_business_admin_with_business_entity" time="1.054" timestamp="2022-07-25T10:56:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="352" name="test_create_business_admin_with_incorrect_business_entity" time="0.904" timestamp="2022-07-25T10:56:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="344" name="test_create_business_admin_with_no_business_admin_flag" time="1.001" timestamp="2022-07-25T10:56:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="301" name="test_create_business_admin_with_password_when_sso_enabled_for_staff" time="0.831" timestamp="2022-07-25T10:56:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="282" name="test_create_business_admin_without_password_when_sso_enabled_for_staff" time="0.928" timestamp="2022-07-25T10:56:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="195" name="test_create_opscenter" time="0.829" timestamp="2022-07-25T10:56:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="461" name="test_create_staff_with_disposable_email_off" time="0.840" timestamp="2022-07-25T10:56:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="80" name="test_create_when_password_is_missing" time="0.551" timestamp="2022-07-25T10:56:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="95" name="test_create_when_sso_enabled_for_staff" time="0.935" timestamp="2022-07-25T10:56:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="147" name="test_create_when_user_is_customer" time="0.736" timestamp="2022-07-25T10:56:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="67" name="test_create_when_user_is_missing_from_request_body" time="0.711" timestamp="2022-07-25T10:56:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="171" name="test_create_when_user_is_rider" time="0.880" timestamp="2022-07-25T10:56:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="121" name="test_create_when_user_is_supplier_manager" time="0.756" timestamp="2022-07-25T10:56:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="41" name="test_create_with_service" time="0.845" timestamp="2022-07-25T10:56:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="217" name="test_create_worker" time="0.803" timestamp="2022-07-25T10:56:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="246" name="test_create_worker_with_dispatcher" time="0.803" timestamp="2022-07-25T10:56:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="231" name="test_create_worker_with_explicit_dispatcher_false" time="0.756" timestamp="2022-07-25T10:56:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="411" name="test_delete" time="0.697" timestamp="2022-07-25T10:56:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="360" name="test_edit_business_admin_with_removal_business_entity" time="1.025" timestamp="2022-07-25T10:56:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="378" name="test_filter_business_admin_with_business_entities" time="1.504" timestamp="2022-07-25T10:56:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.staff.Staff'> BaseQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIAsDispatch" file="users/tests/apis/test_staff.py" line="425" name="test_update_user_info" time="0.982" timestamp="2022-07-25T10:56:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

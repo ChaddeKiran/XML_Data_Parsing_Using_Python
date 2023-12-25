@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_slots.py" name="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager-20220725104740" skipped="0" tests="21" time="15.198" timestamp="2022-07-25T10:55:43">
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="217" name="test_create_slot" time="0.688" timestamp="2022-07-25T10:55:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="239" name="test_create_slot_too_far_into_the_future" time="0.665" timestamp="2022-07-25T10:55:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="231" name="test_create_slot_with_optional_fields" time="0.663" timestamp="2022-07-25T10:55:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="322" name="test_release_sends_message_to_drivers" time="0.743" timestamp="2022-07-25T10:55:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="258" name="test_slot_bulk_patch" time="0.683" timestamp="2022-07-25T10:55:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="265" name="test_slot_bulk_patch_with_overlap" time="0.683" timestamp="2022-07-25T10:55:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="305" name="test_slot_delete" time="0.679" timestamp="2022-07-25T10:55:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="309" name="test_slot_delete_released" time="0.673" timestamp="2022-07-25T10:55:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="134" name="test_slot_get" time="0.663" timestamp="2022-07-25T10:55:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="252" name="test_slot_patch" time="0.692" timestamp="2022-07-25T10:55:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="298" name="test_slot_patch_disallowed_fields" time="0.644" timestamp="2022-07-25T10:55:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="288" name="test_slot_patch_released" time="0.740" timestamp="2022-07-25T10:55:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="317" name="test_slot_release_with_service" time="0.752" timestamp="2022-07-25T10:55:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="331" name="test_slot_release_with_zone" time="0.870" timestamp="2022-07-25T10:55:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="336" name="test_slot_release_without_service_or_zones" time="0.657" timestamp="2022-07-25T10:55:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="123" name="test_slots_list" time="0.843" timestamp="2022-07-25T10:55:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'driver_scheduling.models.scheduling.Slot'> SlotQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="192" name="test_slots_list_can_filter_time" time="0.800" timestamp="2022-07-25T10:55:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="170" name="test_slots_list_can_filter_zone" time="0.765" timestamp="2022-07-25T10:55:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="157" name="test_slots_list_has_one_service" time="0.871" timestamp="2022-07-25T10:55:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="153" name="test_slots_list_invalid_service" time="0.655" timestamp="2022-07-25T10:55:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="139" name="test_slots_list_limits_time_window_visibility" time="0.769" timestamp="2022-07-25T10:55:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

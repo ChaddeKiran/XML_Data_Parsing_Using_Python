@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/models/test_rentals.py" name="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment-20220725105046" skipped="0" tests="12" time="7.884" timestamp="2022-07-25T11:05:34">
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="678" name="test_email_when_assigned_vehicle_has_active_alert" time="0.454" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="712" name="test_find_available_vehicle_at_station" time="0.423" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="638" name="test_find_available_vehicle_early_ending_rental" time="1.158" timestamp="2022-07-25T11:05:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="612" name="test_find_available_vehicle_exclude_unresponsive" time="0.401" timestamp="2022-07-25T11:05:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="744" name="test_separate_requests_1" time="0.589" timestamp="2022-07-25T11:05:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="772" name="test_separate_requests_2" time="0.538" timestamp="2022-07-25T11:05:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="800" name="test_separate_requests_3" time="0.565" timestamp="2022-07-25T11:05:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="829" name="test_separate_requests_4" time="0.582" timestamp="2022-07-25T11:05:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="858" name="test_separate_requests_5" time="0.575" timestamp="2022-07-25T11:05:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="886" name="test_separate_requests_6" time="0.560" timestamp="2022-07-25T11:05:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="914" name="test_vehicle_available_while_in_active_rental" time="1.010" timestamp="2022-07-25T11:05:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequestsAutomaticAssignment" file="rentals/tests/models/test_rentals.py" line="952" name="test_vehicle_unavailable_while_in_overdue_rental" time="1.031" timestamp="2022-07-25T11:05:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

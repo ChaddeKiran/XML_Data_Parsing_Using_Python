@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="data_pipeline/tests/models/test_data_pipeline.py" name="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled-20220725104740" skipped="0" tests="11" time="9.145" timestamp="2022-07-25T10:54:12">
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="49" name="test_data_pipeline_can_update_recentgpsposition" time="0.024" timestamp="2022-07-25T10:54:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="111" name="test_data_pipeline_promotion_redeemed_user_activity_event_and_attributes" time="0.093" timestamp="2022-07-25T10:54:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="63" name="test_data_pipeline_send_user_activity_disabled" time="0.106" timestamp="2022-07-25T10:54:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="70" name="test_data_pipeline_send_user_activity_enabled" time="0.120" timestamp="2022-07-25T10:54:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="77" name="test_data_pipeline_send_user_activity_event_and_attributes" time="0.833" timestamp="2022-07-25T10:54:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="151" name="test_data_pipeline_sends_ridesharing_customer" time="0.344" timestamp="2022-07-25T10:54:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="139" name="test_data_pipeline_sends_ridesharing_driver" time="0.234" timestamp="2022-07-25T10:54:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="145" name="test_data_pipeline_sends_ridesharing_driver_location" time="0.254" timestamp="2022-07-25T10:54:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="172" name="test_data_pipeline_sends_ridesharing_driver_when_state_changes" time="4.492" timestamp="2022-07-25T10:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="157" name="test_data_pipeline_sends_ridesharing_payment" time="1.832" timestamp="2022-07-25T10:54:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineWhenEnabled" file="data_pipeline/tests/models/test_data_pipeline.py" line="123" name="test_data_pipeline_sends_ridesharing_trip" time="0.814" timestamp="2022-07-25T10:54:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Trip.cancelled_at received a naive datetime (2022-07-25 10:54:12.217439) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

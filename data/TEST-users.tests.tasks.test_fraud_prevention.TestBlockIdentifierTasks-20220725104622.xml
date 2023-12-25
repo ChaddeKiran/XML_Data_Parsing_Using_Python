@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/tasks/test_fraud_prevention.py" name="users.tests.tasks.test_fraud_prevention.TestBlockIdentifierTasks-20220725104622" skipped="0" tests="4" time="1.678" timestamp="2022-07-25T10:47:57">
+	<testcase classname="users.tests.tasks.test_fraud_prevention.TestBlockIdentifierTasks" file="users/tests/tasks/test_fraud_prevention.py" line="43" name="test_block_customers_driver_license" time="0.403" timestamp="2022-07-25T10:47:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_fraud_prevention.TestBlockIdentifierTasks" file="users/tests/tasks/test_fraud_prevention.py" line="25" name="test_block_customers_email" time="0.360" timestamp="2022-07-25T10:47:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_fraud_prevention.TestBlockIdentifierTasks" file="users/tests/tasks/test_fraud_prevention.py" line="54" name="test_unblock_customers_driver_license" time="0.471" timestamp="2022-07-25T10:47:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_fraud_prevention.TestBlockIdentifierTasks" file="users/tests/tasks/test_fraud_prevention.py" line="33" name="test_unblock_customers_email" time="0.444" timestamp="2022-07-25T10:47:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

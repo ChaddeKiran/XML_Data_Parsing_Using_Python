@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestCustomersAPIAsBusinessAdmin-20220725104545" skipped="0" tests="4" time="15.324" timestamp="2022-07-25T10:53:40">
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIAsBusinessAdmin" file="users/tests/apis/test_customers.py" line="1201" name="test_create_customer_with_business_entities" time="1.935" timestamp="2022-07-25T10:53:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIAsBusinessAdmin" file="users/tests/apis/test_customers.py" line="1317" name="test_create_update_customer_with_business_entities" time="2.069" timestamp="2022-07-25T10:53:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIAsBusinessAdmin" file="users/tests/apis/test_customers.py" line="1336" name="test_filter_customer_by_business_entities" time="8.118" timestamp="2022-07-25T10:53:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIAsBusinessAdmin" file="users/tests/apis/test_customers.py" line="1246" name="test_update_customer_with_business_entities" time="3.203" timestamp="2022-07-25T10:53:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

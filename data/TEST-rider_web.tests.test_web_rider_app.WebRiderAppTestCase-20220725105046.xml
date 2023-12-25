@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rider_web/tests/test_web_rider_app.py" name="rider_web.tests.test_web_rider_app.WebRiderAppTestCase-20220725105046" skipped="0" tests="6" time="3.024" timestamp="2022-07-25T11:08:56">
+	<testcase classname="rider_web.tests.test_web_rider_app.WebRiderAppTestCase" file="rider_web/tests/test_web_rider_app.py" line="39" name="test_cookies" time="0.548" timestamp="2022-07-25T11:08:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_web.tests.test_web_rider_app.WebRiderAppTestCase" file="rider_web/tests/test_web_rider_app.py" line="80" name="test_faq_item_desanitization" time="0.410" timestamp="2022-07-25T11:08:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_web.tests.test_web_rider_app.WebRiderAppTestCase" file="rider_web/tests/test_web_rider_app.py" line="53" name="test_redirection_to_platform_one" time="0.577" timestamp="2022-07-25T11:08:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_web.tests.test_web_rider_app.WebRiderAppTestCase" file="rider_web/tests/test_web_rider_app.py" line="60" name="test_rider_login_url_value_sso_mobile_request" time="0.506" timestamp="2022-07-25T11:08:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_web.tests.test_web_rider_app.WebRiderAppTestCase" file="rider_web/tests/test_web_rider_app.py" line="69" name="test_sso_mobile_request_authenticated" time="0.494" timestamp="2022-07-25T11:08:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_web.tests.test_web_rider_app.WebRiderAppTestCase" file="rider_web/tests/test_web_rider_app.py" line="65" name="test_sso_mobile_request_not_authenticated" time="0.490" timestamp="2022-07-25T11:08:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

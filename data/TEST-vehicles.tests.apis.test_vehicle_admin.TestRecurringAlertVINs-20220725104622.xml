@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/test_vehicle_admin.py" name="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertVINs-20220725104622" skipped="0" tests="3" time="0.261" timestamp="2022-07-25T11:06:43">
+	<testcase classname="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertVINs" file="vehicles/tests/apis/test_vehicle_admin.py" line="59" name="test_send_recurring_alert_notification_email" time="0.106" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertVINs" file="vehicles/tests/apis/test_vehicle_admin.py" line="70" name="test_send_recurring_alert_notification_email_with_feature_flag_off" time="0.073" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertVINs" file="vehicles/tests/apis/test_vehicle_admin.py" line="29" name="test_unique_vin_validation" time="0.082" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

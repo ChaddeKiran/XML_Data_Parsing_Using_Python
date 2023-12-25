@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation-20220725104713" skipped="0" tests="13" time="19.848" timestamp="2022-07-25T11:01:16">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="946" name="test_conflicting_driver_has_packaged_ride_and_assigned_recurring_ride" time="1.437" timestamp="2022-07-25T11:00:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="923" name="test_conflicting_driver_has_packaged_ride_and_assigned_scheduled_ride" time="1.247" timestamp="2022-07-25T11:00:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="971" name="test_conflicting_driver_has_packaged_rides_and_assigned_packaged_ride" time="1.891" timestamp="2022-07-25T11:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="891" name="test_conflicting_driver_has_recurring_ride_and_assigned_packaged_ride" time="1.370" timestamp="2022-07-25T11:01:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="769" name="test_conflicting_driver_has_recurring_ride_and_assigned_recurring_ride_after" time="1.403" timestamp="2022-07-25T11:01:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="738" name="test_conflicting_driver_has_recurring_ride_and_assigned_recurring_ride_before" time="1.507" timestamp="2022-07-25T11:01:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="860" name="test_conflicting_driver_has_recurring_ride_and_assigned_recurring_ride_once_after" time="2.587" timestamp="2022-07-25T11:01:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="710" name="test_conflicting_driver_has_recurring_ride_and_assigned_scheduled_ride" time="1.369" timestamp="2022-07-25T11:01:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="663" name="test_conflicting_driver_has_scheduled_ride_and_assigned_recurring_ride" time="1.435" timestamp="2022-07-25T11:01:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="642" name="test_conflicting_driver_has_scheduled_ride_and_assigned_scheduled_ride" time="1.246" timestamp="2022-07-25T11:01:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="686" name="test_conflicting_driver_has_scheduled_rides_and_assigned_packaged_ride" time="1.311" timestamp="2022-07-25T11:01:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="830" name="test_non_conflicting_driver_has_recurring_ride_and_assigned_recurring_ride_once_before" time="1.510" timestamp="2022-07-25T11:01:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripRequestDriverValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="800" name="test_non_conflicting_driver_has_recurring_ride_once_and_assigned_recurring_ride_after" time="1.536" timestamp="2022-07-25T11:01:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

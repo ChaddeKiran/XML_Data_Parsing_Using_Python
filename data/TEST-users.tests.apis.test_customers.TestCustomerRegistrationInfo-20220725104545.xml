@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestCustomerRegistrationInfo-20220725104545" skipped="0" tests="10" time="6.079" timestamp="2022-07-25T10:52:40">
+	<testcase classname="users.tests.apis.test_customers.TestCustomerRegistrationInfo" file="users/tests/apis/test_customers.py" line="774" name="test_do_not_consider_exclusive_service_for_lat_lng_product" time="0.661" timestamp="2022-07-25T10:52:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerRegistrationInfo" file="users/tests/apis/test_customers.py" line="796" name="test_error_if_invalid_service_id" time="0.496" timestamp="2022-07-25T10:52:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerRegistrationInfo" file="users/tests/apis/test_customers.py" line="732" name="test_filter_by_product" time="0.528" timestamp="2022-07-25T10:52:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerRegistrationInfo" file="users/tests/apis/test_customers.py" line="753" name="test_get_nearest_service" time="0.840" timestamp="2022-07-25T10:52:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerRegistrationInfo" file="users/tests/apis/test_customers.py" line="822" name="test_multiple_products_due_to_missing_product_param" time="0.677" timestamp="2022-07-25T10:52:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerRegistrationInfo" file="users/tests/apis/test_customers.py" line="769" name="test_no_lat_lng_and_service_id" time="0.448" timestamp="2022-07-25T10:52:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerRegistrationInfo" file="users/tests/apis/test_customers.py" line="745" name="test_no_service_within_radius_matching_product" time="0.486" timestamp="2022-07-25T10:52:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerRegistrationInfo" file="users/tests/apis/test_customers.py" line="803" name="test_only_lat_lng_provided" time="0.888" timestamp="2022-07-25T10:52:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerRegistrationInfo" file="users/tests/apis/test_customers.py" line="723" name="test_service_id_given" time="0.570" timestamp="2022-07-25T10:52:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerRegistrationInfo" file="users/tests/apis/test_customers.py" line="790" name="test_support_exclusive_service_if_service_id_provided" time="0.484" timestamp="2022-07-25T10:52:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

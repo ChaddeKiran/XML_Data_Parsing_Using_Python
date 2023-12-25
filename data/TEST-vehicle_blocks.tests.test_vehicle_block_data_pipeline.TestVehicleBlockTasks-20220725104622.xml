@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_vehicle_block_data_pipeline.py" name="vehicle_blocks.tests.test_vehicle_block_data_pipeline.TestVehicleBlockTasks-20220725104622" skipped="0" tests="1" time="0.163" timestamp="2022-07-25T10:56:32">
+	<testcase classname="vehicle_blocks.tests.test_vehicle_block_data_pipeline.TestVehicleBlockTasks" file="vehicle_blocks/tests/test_vehicle_block_data_pipeline.py" line="23" name="test_vehicle_block_create_event_to_data_pipeline_flag_on" time="0.163" timestamp="2022-07-25T10:56:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

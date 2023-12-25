@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_dispatch_permissions.py" name="users.tests.apis.test_dispatch_permissions.TestDispatcherViewPermissions-20220725104545" skipped="0" tests="3" time="3.062" timestamp="2022-07-25T10:54:51">
+	<testcase classname="users.tests.apis.test_dispatch_permissions.TestDispatcherViewPermissions" file="users/tests/apis/test_dispatch_permissions.py" line="40" name="test_access_matching_whitelisted_ip" time="1.139" timestamp="2022-07-25T10:54:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_dispatch_permissions.TestDispatcherViewPermissions" file="users/tests/apis/test_dispatch_permissions.py" line="30" name="test_access_whitelist_disabled" time="1.099" timestamp="2022-07-25T10:54:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_dispatch_permissions.TestDispatcherViewPermissions" file="users/tests/apis/test_dispatch_permissions.py" line="35" name="test_access_without_whitelist" time="0.824" timestamp="2022-07-25T10:54:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

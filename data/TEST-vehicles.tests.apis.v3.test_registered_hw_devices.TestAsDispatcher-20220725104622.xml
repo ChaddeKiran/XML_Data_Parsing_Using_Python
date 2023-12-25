@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" name="vehicles.tests.apis.v3.test_registered_hw_devices.TestAsDispatcher-20220725104622" skipped="0" tests="2" time="0.497" timestamp="2022-07-25T11:02:51">
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestAsDispatcher" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="33" name="test_feature_disabled" time="0.235" timestamp="2022-07-25T11:02:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestAsDispatcher" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="27" name="test_feature_enabled" time="0.262" timestamp="2022-07-25T11:02:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

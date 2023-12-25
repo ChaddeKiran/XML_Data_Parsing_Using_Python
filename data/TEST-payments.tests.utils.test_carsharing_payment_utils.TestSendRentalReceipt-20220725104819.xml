@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestSendRentalReceipt-20220725104819" skipped="0" tests="1" time="0.361" timestamp="2022-07-25T10:51:48">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestSendRentalReceipt" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4017" name="test_service_block_get_no_receipt" time="0.361" timestamp="2022-07-25T10:51:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

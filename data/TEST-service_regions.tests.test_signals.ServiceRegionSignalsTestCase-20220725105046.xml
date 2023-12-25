@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/test_signals.py" name="service_regions.tests.test_signals.ServiceRegionSignalsTestCase-20220725105046" skipped="0" tests="2" time="0.633" timestamp="2022-07-25T11:09:57">
+	<testcase classname="service_regions.tests.test_signals.ServiceRegionSignalsTestCase" file="service_regions/tests/test_signals.py" line="17" name="test_calendar_created_when_SSR_flag_is_turned_on" time="0.317" timestamp="2022-07-25T11:09:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_signals.ServiceRegionSignalsTestCase" file="service_regions/tests/test_signals.py" line="23" name="test_put_service_region_called" time="0.316" timestamp="2022-07-25T11:09:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

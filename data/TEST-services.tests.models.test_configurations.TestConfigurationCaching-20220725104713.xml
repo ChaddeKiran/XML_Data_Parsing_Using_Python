@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_configurations.py" name="services.tests.models.test_configurations.TestConfigurationCaching-20220725104713" skipped="0" tests="1" time="0.140" timestamp="2022-07-25T10:51:02">
+	<testcase classname="services.tests.models.test_configurations.TestConfigurationCaching" file="services/tests/models/test_configurations.py" line="10" name="test_cache_eviction_on_save" time="0.140" timestamp="2022-07-25T10:51:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

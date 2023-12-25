@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/test_serviceregions.py" name="service_regions.tests.test_serviceregions.TestIsRouteAllowed-20220725105046" skipped="0" tests="13" time="4.791" timestamp="2022-07-25T11:09:18">
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1164" name="test_basic_unrestricted" time="0.357" timestamp="2022-07-25T11:09:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1201" name="test_exempt_customer" time="0.489" timestamp="2022-07-25T11:09:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1274" name="test_hidden_disabled_service_region" time="0.341" timestamp="2022-07-25T11:09:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1268" name="test_in_progress_trip_region_unserviceable" time="0.321" timestamp="2022-07-25T11:09:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1190" name="test_location_drop_off_only" time="0.341" timestamp="2022-07-25T11:09:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1183" name="test_location_unserviced" time="0.312" timestamp="2022-07-25T11:09:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1169" name="test_out_of_area" time="0.333" timestamp="2022-07-25T11:09:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1257" name="test_partly_within_region_only" time="0.371" timestamp="2022-07-25T11:09:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1236" name="test_pickup_only" time="0.357" timestamp="2022-07-25T11:09:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1217" name="test_temporal_unrestricted" time="0.402" timestamp="2022-07-25T11:09:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1226" name="test_temporal_unserviced" time="0.422" timestamp="2022-07-25T11:09:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1177" name="test_unserviced" time="0.331" timestamp="2022-07-25T11:09:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestIsRouteAllowed" file="service_regions/tests/test_serviceregions.py" line="1246" name="test_within_region_only" time="0.414" timestamp="2022-07-25T11:09:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

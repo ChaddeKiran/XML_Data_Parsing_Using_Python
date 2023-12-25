@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" name="hardware_sdk_otakeys.tests.test_vehicle_utils.TestAutoSwitchGPSSource-20220725104740" skipped="0" tests="9" time="3.543" timestamp="2022-07-25T11:01:46">
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestAutoSwitchGPSSource" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="130" name="test_automatically_switch_to_available_gps_source_engine_off" time="0.362" timestamp="2022-07-25T11:01:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestAutoSwitchGPSSource" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="122" name="test_automatically_switch_to_available_gps_source_engine_on" time="0.367" timestamp="2022-07-25T11:01:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestAutoSwitchGPSSource" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="184" name="test_automatically_switch_to_available_gps_source_noswitch" time="0.472" timestamp="2022-07-25T11:01:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestAutoSwitchGPSSource" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="212" name="test_automatically_switch_to_available_gps_source_null_cell_data_synthesis" time="0.436" timestamp="2022-07-25T11:01:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestAutoSwitchGPSSource" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="172" name="test_automatically_switch_to_primary_gps_source_engine_off" time="0.369" timestamp="2022-07-25T11:01:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestAutoSwitchGPSSource" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="159" name="test_automatically_switch_to_primary_gps_source_engine_on" time="0.378" timestamp="2022-07-25T11:01:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestAutoSwitchGPSSource" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="138" name="test_do_not_switch_to_available_gps_source_inactive_pool" time="0.390" timestamp="2022-07-25T11:01:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestAutoSwitchGPSSource" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="148" name="test_do_not_switch_to_available_gps_source_null_geotab_db_id" time="0.395" timestamp="2022-07-25T11:01:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestAutoSwitchGPSSource" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="199" name="test_prevent_autoswitch_if_vehicle_not_registered_with_geotab" time="0.374" timestamp="2022-07-25T11:01:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

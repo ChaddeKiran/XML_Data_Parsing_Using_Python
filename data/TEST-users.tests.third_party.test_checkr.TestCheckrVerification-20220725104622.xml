@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_checkr.py" name="users.tests.third_party.test_checkr.TestCheckrVerification-20220725104622" skipped="0" tests="3" time="0.671" timestamp="2022-07-25T10:48:03">
+	<testcase classname="users.tests.third_party.test_checkr.TestCheckrVerification" file="users/tests/third_party/test_checkr.py" line="33" name="test_handle_completed_report_cleared_license_check" time="0.278" timestamp="2022-07-25T10:48:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:48:02.996975) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_checkr.TestCheckrVerification" file="users/tests/third_party/test_checkr.py" line="24" name="test_handle_completed_report_driving_license_not_found" time="0.128" timestamp="2022-07-25T10:48:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_checkr.TestCheckrVerification" file="users/tests/third_party/test_checkr.py" line="44" name="test_handle_completed_report_failed_license_check" time="0.266" timestamp="2022-07-25T10:48:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:48:03.385598) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

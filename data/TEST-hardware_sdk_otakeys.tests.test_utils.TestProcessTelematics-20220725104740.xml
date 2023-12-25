@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_utils.py" name="hardware_sdk_otakeys.tests.test_utils.TestProcessTelematics-20220725104740" skipped="0" tests="1" time="0.502" timestamp="2022-07-25T11:01:42">
+	<testcase classname="hardware_sdk_otakeys.tests.test_utils.TestProcessTelematics" file="hardware_sdk_otakeys/tests/test_utils.py" line="307" name="test_process_telematics_for_missing_optional_fields" time="0.502" timestamp="2022-07-25T11:01:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

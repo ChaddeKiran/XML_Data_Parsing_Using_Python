@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_services.py" name="services.tests.apis.test_services.CosmeticsInServicesAPITestCase-20220725104713" skipped="0" tests="2" time="1.190" timestamp="2022-07-25T10:47:52">
+	<testcase classname="services.tests.apis.test_services.CosmeticsInServicesAPITestCase" file="services/tests/apis/test_services.py" line="105" name="test_cosmetics_in_ridesharing_services_api" time="0.566" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.CosmeticsInServicesAPITestCase" file="services/tests/apis/test_services.py" line="96" name="test_cosmetics_in_services_api" time="0.624" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushCCMParameters-20220725104740" skipped="0" tests="4" time="0.553" timestamp="2022-07-25T10:59:55">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushCCMParameters" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1382" name="test_params_with_corrupt_payload" time="0.028" timestamp="2022-07-25T10:59:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushCCMParameters" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1340" name="test_push_ccm_parameters" time="0.030" timestamp="2022-07-25T10:59:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushCCMParameters" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1352" name="test_push_ccm_parameters_mensa_not_active" time="0.243" timestamp="2022-07-25T10:59:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushCCMParameters" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1370" name="test_push_ccm_parameters_mensa_not_registered" time="0.251" timestamp="2022-07-25T10:59:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

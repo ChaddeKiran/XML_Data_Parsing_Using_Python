@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" name="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis-20220725104740" skipped="0" tests="11" time="0.494" timestamp="2022-07-25T11:00:49">
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="52" name="test_process_telematics_all_corrupt_dtcs" time="0.053" timestamp="2022-07-25T11:00:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="47" name="test_process_telematics_dtcs" time="0.043" timestamp="2022-07-25T11:00:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="126" name="test_process_telematics_network_rssi_dbm" time="0.045" timestamp="2022-07-25T11:00:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="133" name="test_process_telematics_network_rssi_dbm_with_0" time="0.050" timestamp="2022-07-25T11:00:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="57" name="test_process_telematics_partially_corrupt_dtcs" time="0.043" timestamp="2022-07-25T11:00:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="117" name="test_process_telematics_with_future_gps_time" time="0.042" timestamp="2022-07-25T11:00:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="99" name="test_process_telematics_with_ignition_value_accessory_engine_off" time="0.043" timestamp="2022-07-25T11:00:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="88" name="test_process_telematics_with_ignition_value_battery_engine_off" time="0.046" timestamp="2022-07-25T11:00:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="77" name="test_process_telematics_with_ignition_value_engine_started" time="0.044" timestamp="2022-07-25T11:00:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="62" name="test_process_telematics_with_ignition_value_ignition" time="0.043" timestamp="2022-07-25T11:00:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_synthesis.TestMensaSynthesis" file="hardware_sdk_mensa/tests/utils/test_synthesis.py" line="110" name="test_process_telematics_with_invalid_gps_date" time="0.043" timestamp="2022-07-25T11:00:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

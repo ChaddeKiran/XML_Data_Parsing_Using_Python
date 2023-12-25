@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestEndTimeUpdateAsCustomer-20220725105046" skipped="0" tests="3" time="1.994" timestamp="2022-07-25T10:59:39">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestEndTimeUpdateAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="5588" name="test_customer_can_postpone_end_time" time="0.862" timestamp="2022-07-25T10:59:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestEndTimeUpdateAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="5596" name="test_customer_can_postpone_end_time_only_if_rental_extension_flag_enabled" time="0.613" timestamp="2022-07-25T10:59:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestEndTimeUpdateAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="5606" name="test_customer_cannot_prepone_end_time" time="0.518" timestamp="2022-07-25T10:59:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_pricing.py" name="rentals.tests.apis.v3.test_pricing.TestVehicleTypeServicePricingAPI-20220725104819" skipped="0" tests="8" time="4.292" timestamp="2022-07-25T11:05:37">
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestVehicleTypeServicePricingAPI" file="rentals/tests/apis/v3/test_pricing.py" line="103" name="test_create_vtsp" time="0.635" timestamp="2022-07-25T11:05:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestVehicleTypeServicePricingAPI" file="rentals/tests/apis/v3/test_pricing.py" line="126" name="test_create_vtsp_with_fees" time="0.591" timestamp="2022-07-25T11:05:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestVehicleTypeServicePricingAPI" file="rentals/tests/apis/v3/test_pricing.py" line="98" name="test_delete_is_disallowed" time="0.481" timestamp="2022-07-25T11:05:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestVehicleTypeServicePricingAPI" file="rentals/tests/apis/v3/test_pricing.py" line="61" name="test_get_vtsps" time="0.526" timestamp="2022-07-25T11:05:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestVehicleTypeServicePricingAPI" file="rentals/tests/apis/v3/test_pricing.py" line="77" name="test_get_vtsps_both_filters" time="0.596" timestamp="2022-07-25T11:05:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestVehicleTypeServicePricingAPI" file="rentals/tests/apis/v3/test_pricing.py" line="65" name="test_get_vtsps_service_filter" time="0.477" timestamp="2022-07-25T11:05:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestVehicleTypeServicePricingAPI" file="rentals/tests/apis/v3/test_pricing.py" line="71" name="test_get_vtsps_vehicle_type_filter" time="0.441" timestamp="2022-07-25T11:05:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestVehicleTypeServicePricingAPI" file="rentals/tests/apis/v3/test_pricing.py" line="85" name="test_update_vtsp" time="0.544" timestamp="2022-07-25T11:05:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

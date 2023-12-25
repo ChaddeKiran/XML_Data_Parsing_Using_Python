@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/apis/test_credits.py" name="promotions.tests.apis.test_credits.CreditBalanceAPITest-20220725104819" skipped="0" tests="4" time="2.481" timestamp="2022-07-25T10:53:58">
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceAPITest" file="promotions/tests/apis/test_credits.py" line="91" name="test_credit_balances_usable_balance_amount_products_when_carsharing_and_ridesharing_enabled" time="0.707" timestamp="2022-07-25T10:53:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceAPITest" file="promotions/tests/apis/test_credits.py" line="67" name="test_credit_balances_usable_balance_amount_products_when_carsharing_enabled" time="0.651" timestamp="2022-07-25T10:53:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceAPITest" file="promotions/tests/apis/test_credits.py" line="108" name="test_credit_balances_usable_balance_amount_products_when_none_of_the_product_types_enabled" time="0.564" timestamp="2022-07-25T10:53:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceAPITest" file="promotions/tests/apis/test_credits.py" line="79" name="test_credit_balances_usable_balance_amount_products_when_ridesharing_enabled" time="0.559" timestamp="2022-07-25T10:53:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

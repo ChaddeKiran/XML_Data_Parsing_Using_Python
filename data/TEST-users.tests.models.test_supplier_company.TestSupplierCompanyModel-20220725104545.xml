@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_supplier_company.py" name="users.tests.models.test_supplier_company.TestSupplierCompanyModel-20220725104545" skipped="0" tests="5" time="0.223" timestamp="2022-07-25T11:06:26">
+	<testcase classname="users.tests.models.test_supplier_company.TestSupplierCompanyModel" file="users/tests/models/test_supplier_company.py" line="33" name="test_not_driver_provider_does_not_need_phone" time="0.068" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_supplier_company.TestSupplierCompanyModel" file="users/tests/models/test_supplier_company.py" line="37" name="test_not_driver_provider_still_cannot_provide_invalid_phone" time="0.039" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_supplier_company.TestSupplierCompanyModel" file="users/tests/models/test_supplier_company.py" line="24" name="test_with_invalid_phone" time="0.033" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_supplier_company.TestSupplierCompanyModel" file="users/tests/models/test_supplier_company.py" line="29" name="test_with_long_phone" time="0.047" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_supplier_company.TestSupplierCompanyModel" file="users/tests/models/test_supplier_company.py" line="19" name="test_with_ten_digit_us_phone" time="0.036" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

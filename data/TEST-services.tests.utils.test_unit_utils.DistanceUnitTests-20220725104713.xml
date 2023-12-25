@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/utils/test_unit_utils.py" name="services.tests.utils.test_unit_utils.DistanceUnitTests-20220725104713" skipped="0" tests="3" time="0.833" timestamp="2022-07-25T10:52:00">
+	<testcase classname="services.tests.utils.test_unit_utils.DistanceUnitTests" file="services/tests/utils/test_unit_utils.py" line="19" name="test_calculate_distance_for_rental" time="0.271" timestamp="2022-07-25T10:51:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_unit_utils.DistanceUnitTests" file="services/tests/utils/test_unit_utils.py" line="27" name="test_calculate_distance_from_meters" time="0.277" timestamp="2022-07-25T10:51:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_unit_utils.DistanceUnitTests" file="services/tests/utils/test_unit_utils.py" line="12" name="test_unit_short_string" time="0.285" timestamp="2022-07-25T10:52:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

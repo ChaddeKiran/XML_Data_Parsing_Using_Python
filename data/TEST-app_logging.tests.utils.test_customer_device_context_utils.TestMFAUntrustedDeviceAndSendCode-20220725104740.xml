@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="app_logging/tests/utils/test_customer_device_context_utils.py" name="app_logging.tests.utils.test_customer_device_context_utils.TestMFAUntrustedDeviceAndSendCode-20220725104740" skipped="0" tests="6" time="3.719" timestamp="2022-07-25T10:50:41">
+	<testcase classname="app_logging.tests.utils.test_customer_device_context_utils.TestMFAUntrustedDeviceAndSendCode" file="app_logging/tests/utils/test_customer_device_context_utils.py" line="140" name="test_send_code_user_locale" time="0.545" timestamp="2022-07-25T10:50:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.utils.test_customer_device_context_utils.TestMFAUntrustedDeviceAndSendCode" file="app_logging/tests/utils/test_customer_device_context_utils.py" line="160" name="test_send_code_via_email" time="0.660" timestamp="2022-07-25T10:50:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.utils.test_customer_device_context_utils.TestMFAUntrustedDeviceAndSendCode" file="app_logging/tests/utils/test_customer_device_context_utils.py" line="184" name="test_send_code_via_email_user_locale" time="0.749" timestamp="2022-07-25T10:50:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.utils.test_customer_device_context_utils.TestMFAUntrustedDeviceAndSendCode" file="app_logging/tests/utils/test_customer_device_context_utils.py" line="52" name="test_with_existing_device_id" time="0.616" timestamp="2022-07-25T10:50:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.utils.test_customer_device_context_utils.TestMFAUntrustedDeviceAndSendCode" file="app_logging/tests/utils/test_customer_device_context_utils.py" line="70" name="test_with_existing_device_id_and_non_expired_prior_attempt" time="0.627" timestamp="2022-07-25T10:50:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.utils.test_customer_device_context_utils.TestMFAUntrustedDeviceAndSendCode" file="app_logging/tests/utils/test_customer_device_context_utils.py" line="123" name="test_with_new_device_id" time="0.522" timestamp="2022-07-25T10:50:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

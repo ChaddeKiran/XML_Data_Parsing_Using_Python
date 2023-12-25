@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/utils/test_api_utils.py" name="services.tests.utils.test_api_utils.TestValidateCoordinatesParams-20220725104713" skipped="0" tests="2" time="0.066" timestamp="2022-07-25T10:51:19">
+	<testcase classname="services.tests.utils.test_api_utils.TestValidateCoordinatesParams" file="services/tests/utils/test_api_utils.py" line="7" name="test_happy_validation" time="0.032" timestamp="2022-07-25T10:51:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_api_utils.TestValidateCoordinatesParams" file="services/tests/utils/test_api_utils.py" line="24" name="test_sad_validation" time="0.035" timestamp="2022-07-25T10:51:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

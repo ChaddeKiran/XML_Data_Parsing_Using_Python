@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_stripe_api.py" name="payments.tests.payment_providers.test_stripe_api.TestCustomerPricingViewOnly-20220725104819" skipped="0" tests="1" time="0.246" timestamp="2022-07-25T10:49:21">
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestCustomerPricingViewOnly" file="payments/tests/payment_providers/test_stripe_api.py" line="57" name="test_customer_api_permissions" time="0.246" timestamp="2022-07-25T10:49:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

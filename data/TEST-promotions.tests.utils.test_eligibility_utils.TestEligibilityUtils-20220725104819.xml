@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/utils/test_eligibility_utils.py" name="promotions.tests.utils.test_eligibility_utils.TestEligibilityUtils-20220725104819" skipped="0" tests="2" time="2.213" timestamp="2022-07-25T11:00:06">
+	<testcase classname="promotions.tests.utils.test_eligibility_utils.TestEligibilityUtils" file="promotions/tests/utils/test_eligibility_utils.py" line="22" name="test_consider_rental_for_evaluating_mta_promo_eligibility_returns_false_when_multi_trip_promo_disabled" time="1.013" timestamp="2022-07-25T11:00:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_eligibility_utils.TestEligibilityUtils" file="promotions/tests/utils/test_eligibility_utils.py" line="33" name="test_consider_trip_for_evaluating_mta_promo_eligibility_returns_false_when_multi_trip_promo_disabled" time="1.200" timestamp="2022-07-25T11:00:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

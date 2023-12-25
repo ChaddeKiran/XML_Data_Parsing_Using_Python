@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="app_logging/tests/models/test_customer_device_context.py" name="app_logging.tests.models.test_customer_device_context.TestCustomersDeviceContextModel-20220725104740" skipped="0" tests="4" time="0.153" timestamp="2022-07-25T10:50:37">
+	<testcase classname="app_logging.tests.models.test_customer_device_context.TestCustomersDeviceContextModel" file="app_logging/tests/models/test_customer_device_context.py" line="33" name="test_save_with_mismatch_user_profile" time="0.054" timestamp="2022-07-25T10:50:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.models.test_customer_device_context.TestCustomersDeviceContextModel" file="app_logging/tests/models/test_customer_device_context.py" line="39" name="test_save_without_customer_or_user_profile" time="0.027" timestamp="2022-07-25T10:50:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.models.test_customer_device_context.TestCustomersDeviceContextModel" file="app_logging/tests/models/test_customer_device_context.py" line="16" name="test_unique_customer_device_id" time="0.038" timestamp="2022-07-25T10:50:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.models.test_customer_device_context.TestCustomersDeviceContextModel" file="app_logging/tests/models/test_customer_device_context.py" line="24" name="test_unique_customer_user_profile_device_id" time="0.034" timestamp="2022-07-25T10:50:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

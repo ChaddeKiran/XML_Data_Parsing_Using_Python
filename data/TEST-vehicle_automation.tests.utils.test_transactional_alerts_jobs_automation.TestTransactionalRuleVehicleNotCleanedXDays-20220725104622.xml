@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleVehicleNotCleanedXDays-20220725104622" skipped="0" tests="2" time="2.946" timestamp="2022-07-25T10:55:59">
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleVehicleNotCleanedXDays" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="966" name="test_cleaning_transactional_rule_not_cleaned_x_days" time="1.214" timestamp="2022-07-25T10:55:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleVehicleNotCleanedXDays" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="985" name="test_cleaning_transactional_rule_not_cleaned_x_days_without_closed_alert" time="1.732" timestamp="2022-07-25T10:55:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

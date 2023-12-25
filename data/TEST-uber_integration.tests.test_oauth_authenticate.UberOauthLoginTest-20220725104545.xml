@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="uber_integration/tests/test_oauth_authenticate.py" name="uber_integration.tests.test_oauth_authenticate.UberOauthLoginTest-20220725104545" skipped="0" tests="7" time="7.539" timestamp="2022-07-25T10:51:46">
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberOauthLoginTest" file="uber_integration/tests/test_oauth_authenticate.py" line="108" name="test_first_login" time="2.042" timestamp="2022-07-25T10:51:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberOauthLoginTest" file="uber_integration/tests/test_oauth_authenticate.py" line="192" name="test_first_login_fails_if_license_not_unique" time="0.409" timestamp="2022-07-25T10:51:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberOauthLoginTest" file="uber_integration/tests/test_oauth_authenticate.py" line="98" name="test_first_login_no_uber_user" time="0.267" timestamp="2022-07-25T10:51:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberOauthLoginTest" file="uber_integration/tests/test_oauth_authenticate.py" line="146" name="test_first_login_updates_existing_user_data" time="1.856" timestamp="2022-07-25T10:51:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberOauthLoginTest" file="uber_integration/tests/test_oauth_authenticate.py" line="232" name="test_no_exception_if_user_already_has_default_uber_sso_usergroup_on_login" time="0.641" timestamp="2022-07-25T10:51:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberOauthLoginTest" file="uber_integration/tests/test_oauth_authenticate.py" line="172" name="test_second_login_does_not_update_email" time="1.707" timestamp="2022-07-25T10:51:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_oauth_authenticate.UberOauthLoginTest" file="uber_integration/tests/test_oauth_authenticate.py" line="213" name="test_user_added_to_default_uber_sso_usergroup_on_login" time="0.616" timestamp="2022-07-25T10:51:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

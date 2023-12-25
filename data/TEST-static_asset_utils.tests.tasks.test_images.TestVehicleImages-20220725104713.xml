@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="static_asset_utils/tests/tasks/test_images.py" name="static_asset_utils.tests.tasks.test_images.TestVehicleImages-20220725104713" skipped="0" tests="2" time="0.144" timestamp="2022-07-25T10:52:02">
+	<testcase classname="static_asset_utils.tests.tasks.test_images.TestVehicleImages" file="static_asset_utils/tests/tasks/test_images.py" line="20" name="test_cloudfront_image_url" time="0.075" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="static_asset_utils.tests.tasks.test_images.TestVehicleImages" file="static_asset_utils/tests/tasks/test_images.py" line="27" name="test_image_url_no_cloudfront" time="0.069" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

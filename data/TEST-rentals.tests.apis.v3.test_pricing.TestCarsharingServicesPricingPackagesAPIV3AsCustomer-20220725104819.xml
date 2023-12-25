@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_pricing.py" name="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer-20220725104819" skipped="0" tests="10" time="9.278" timestamp="2022-07-25T11:05:20">
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer" file="rentals/tests/apis/v3/test_pricing.py" line="334" name="test_anonymous_role_cannot_access_exclusive_service" time="0.935" timestamp="2022-07-25T11:05:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer" file="rentals/tests/apis/v3/test_pricing.py" line="268" name="test_anonymous_user_can_receive_pricing_packages" time="0.891" timestamp="2022-07-25T11:05:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer" file="rentals/tests/apis/v3/test_pricing.py" line="261" name="test_customer_can_receive_pricing_packages" time="0.862" timestamp="2022-07-25T11:05:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer" file="rentals/tests/apis/v3/test_pricing.py" line="291" name="test_invalid_role_raises_exception" time="0.918" timestamp="2022-07-25T11:05:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer" file="rentals/tests/apis/v3/test_pricing.py" line="276" name="test_invalid_service_id_raises_exception" time="0.888" timestamp="2022-07-25T11:05:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer" file="rentals/tests/apis/v3/test_pricing.py" line="319" name="test_missing_mandatory_role_parameter_raises_exception" time="0.848" timestamp="2022-07-25T11:05:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer" file="rentals/tests/apis/v3/test_pricing.py" line="312" name="test_missing_mandatory_service_id_parameter_raises_exception" time="0.808" timestamp="2022-07-25T11:05:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer" file="rentals/tests/apis/v3/test_pricing.py" line="444" name="test_pricing_packages_with_all_pricing_engine_packages" time="1.068" timestamp="2022-07-25T11:05:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer" file="rentals/tests/apis/v3/test_pricing.py" line="385" name="test_pricing_packages_with_partial_pricing_engine_packages" time="1.032" timestamp="2022-07-25T11:05:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestCarsharingServicesPricingPackagesAPIV3AsCustomer" file="rentals/tests/apis/v3/test_pricing.py" line="344" name="test_pricing_packages_without_pricing_engine_packages" time="1.028" timestamp="2022-07-25T11:05:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

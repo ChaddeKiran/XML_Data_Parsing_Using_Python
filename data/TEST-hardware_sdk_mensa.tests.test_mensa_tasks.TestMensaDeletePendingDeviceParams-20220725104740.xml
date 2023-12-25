@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" name="hardware_sdk_mensa.tests.test_mensa_tasks.TestMensaDeletePendingDeviceParams-20220725104740" skipped="0" tests="2" time="0.066" timestamp="2022-07-25T10:59:49">
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_tasks.TestMensaDeletePendingDeviceParams" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" line="241" name="test_delete_pending_device_params_for_less_than_120_days" time="0.031" timestamp="2022-07-25T10:59:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_tasks.TestMensaDeletePendingDeviceParams" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" line="235" name="test_delete_pending_device_params_for_older_than_120_days" time="0.035" timestamp="2022-07-25T10:59:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

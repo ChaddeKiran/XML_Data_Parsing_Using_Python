@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customer_user_groups.py" name="users.tests.apis.test_customer_user_groups.TestCustomerUserGroupAPIAsDispatcher-20220725104545" skipped="0" tests="3" time="1.975" timestamp="2022-07-25T10:52:25">
+	<testcase classname="users.tests.apis.test_customer_user_groups.TestCustomerUserGroupAPIAsDispatcher" file="users/tests/apis/test_customer_user_groups.py" line="22" name="test_customer_user_group" time="0.620" timestamp="2022-07-25T10:52:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_user_groups.TestCustomerUserGroupAPIAsDispatcher" file="users/tests/apis/test_customer_user_groups.py" line="45" name="test_delete_customer_user_group_triggers_data_pipline_events" time="0.633" timestamp="2022-07-25T10:52:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_user_groups.TestCustomerUserGroupAPIAsDispatcher" file="users/tests/apis/test_customer_user_groups.py" line="31" name="test_dispatcher_customer_sees_group_members" time="0.723" timestamp="2022-07-25T10:52:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

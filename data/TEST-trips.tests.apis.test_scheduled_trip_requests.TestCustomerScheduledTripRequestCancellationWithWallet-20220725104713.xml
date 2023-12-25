@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCancellationWithWallet-20220725104713" skipped="0" tests="7" time="6.118" timestamp="2022-07-25T10:56:06">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCancellationWithWallet" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1999" name="test_converted_package_scheduled_trip_cancellation" time="1.079" timestamp="2022-07-25T10:56:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCancellationWithWallet" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1941" name="test_converted_scheduled_trip_cancellation_outside_cutoff_window" time="0.968" timestamp="2022-07-25T10:56:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCancellationWithWallet" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1955" name="test_converted_scheduled_trip_cancellation_within_cutoff_window" time="0.935" timestamp="2022-07-25T10:56:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCancellationWithWallet" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1988" name="test_package_scheduled_trip_cancellation_outside_cutoff_window" time="0.798" timestamp="2022-07-25T10:56:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCancellationWithWallet" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1972" name="test_package_scheduled_trip_cancellation_within_cutoff_window" time="0.846" timestamp="2022-07-25T10:56:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCancellationWithWallet" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1924" name="test_scheduled_trip_cancellation_before_on_demand_conversion" time="0.740" timestamp="2022-07-25T10:56:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCancellationWithWallet" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1932" name="test_scheduled_trip_cancellation_without_hold_payment" time="0.752" timestamp="2022-07-25T10:56:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

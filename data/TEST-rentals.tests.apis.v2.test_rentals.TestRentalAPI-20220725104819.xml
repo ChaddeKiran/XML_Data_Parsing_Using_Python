@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v2/test_rentals.py" name="rentals.tests.apis.v2.test_rentals.TestRentalAPI-20220725104819" skipped="0" tests="45" time="40.938" timestamp="2022-07-25T11:01:53">
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="993" name="test_cancel" time="1.083" timestamp="2022-07-25T11:01:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1009" name="test_cancel_converted_scheduled_rental" time="0.925" timestamp="2022-07-25T11:01:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="975" name="test_cancelled_rental_decouple_as_customer" time="0.836" timestamp="2022-07-25T11:01:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="984" name="test_cancelled_rental_force_reset_as_customer" time="0.802" timestamp="2022-07-25T11:01:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="764" name="test_cannot_see_other_customer_rentals" time="1.033" timestamp="2022-07-25T11:01:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'rentals.models.rentals_models.Rental'> RentalQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1064" name="test_correct_augmented_gps_data" time="0.653" timestamp="2022-07-25T11:01:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1189" name="test_create_rental_for_other_customer" time="1.005" timestamp="2022-07-25T11:01:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="502" name="test_create_under_ondemand_service_succeeds" time="1.132" timestamp="2022-07-25T11:01:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="471" name="test_create_under_scheduled_rental_service_fails" time="0.315" timestamp="2022-07-25T11:01:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1001" name="test_customer_cannot_cancel_other_customers_rental" time="0.697" timestamp="2022-07-25T11:01:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1052" name="test_damage_screen_shown_handles_malformed_parameter" time="0.554" timestamp="2022-07-25T11:01:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1035" name="test_damage_screen_shown_is_a_one_way_flag" time="0.928" timestamp="2022-07-25T11:01:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1023" name="test_damage_screen_shown_works_with_update" time="0.809" timestamp="2022-07-25T11:01:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="803" name="test_data_pipeline_sender_data_on_post_ratings_to_rental" time="0.942" timestamp="2022-07-25T11:01:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="836" name="test_data_sent_to_pipeline_has_latest_timestamp_computed_using_rating" time="1.248" timestamp="2022-07-25T11:01:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fb8c04c1c18>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="850" name="test_data_sent_to_pipeline_has_no_timestamp_if_rental_rating_is_not_found" time="1.248" timestamp="2022-07-25T11:01:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fb8c427d748>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="955" name="test_ended_rental_decouple_as_customer" time="0.870" timestamp="2022-07-25T11:01:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="965" name="test_ended_rental_force_reset_as_customer" time="0.864" timestamp="2022-07-25T11:01:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1208" name="test_expand_serializer_works_with_update" time="1.239" timestamp="2022-07-25T11:01:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1159" name="test_missing_field_in_augmented_gps_data" time="0.569" timestamp="2022-07-25T11:01:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="752" name="test_multiple_vehicle_type_filtering" time="1.044" timestamp="2022-07-25T11:01:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1099" name="test_no_optional_augmented_gps_data" time="0.502" timestamp="2022-07-25T11:01:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1130" name="test_nonexistent_rental_submitting_augmented_gps_data" time="0.303" timestamp="2022-07-25T11:01:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="774" name="test_post_ratings_to_rental" time="0.531" timestamp="2022-07-25T11:01:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="860" name="test_post_ratings_to_rental_with_unicode_text" time="0.534" timestamp="2022-07-25T11:01:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="485" name="test_rental_create" time="1.097" timestamp="2022-07-25T11:01:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1225" name="test_rental_created_passed_pricing_id_deprecated" time="0.979" timestamp="2022-07-25T11:01:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="730" name="test_rental_created_passed_pricing_id_with_pricing_snapshot_disabled" time="1.166" timestamp="2022-07-25T11:01:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="700" name="test_rental_created_passed_pricing_id_with_pricing_snapshot_enabled" time="1.240" timestamp="2022-07-25T11:01:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="611" name="test_rental_created_with_pricing_snapshot_enabled" time="1.143" timestamp="2022-07-25T11:01:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="630" name="test_rental_created_with_pricing_snapshot_enabled_has_valid_pricing_info" time="1.166" timestamp="2022-07-25T11:01:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="683" name="test_rental_estimate_response_contains_additional_fees" time="0.638" timestamp="2022-07-25T11:01:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="656" name="test_rental_estimate_response_contains_pricing_id_with_pricing_snapshot_enabled" time="0.825" timestamp="2022-07-25T11:01:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1273" name="test_rental_resync_access_device_error" time="0.626" timestamp="2022-07-25T11:01:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1299" name="test_rental_resync_access_device_exists" time="1.323" timestamp="2022-07-25T11:01:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="1243" name="test_rental_rfid_synced_with_otakeys_is_None" time="1.058" timestamp="2022-07-25T11:01:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="895" name="test_rental_send_destination" time="0.813" timestamp="2022-07-25T11:01:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="913" name="test_rental_send_destination_without_lat" time="0.755" timestamp="2022-07-25T11:01:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="875" name="test_rentals_optimized_list_with_no_vehicle_position" time="1.151" timestamp="2022-07-25T11:01:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="789" name="test_that_customer_cannot_rate_a_rental_he_did_not_take" time="0.594" timestamp="2022-07-25T11:01:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="556" name="test_user_is_added_to_default_user_group_of_instant_rental_service" time="1.047" timestamp="2022-07-25T11:01:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="545" name="test_user_is_added_to_default_user_group_of_rental_service" time="1.098" timestamp="2022-07-25T11:01:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="568" name="test_user_is_not_added_to_default_user_group_of_rental_service_if_its_already_part_of_default_user_group" time="1.024" timestamp="2022-07-25T11:01:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="588" name="test_user_is_not_added_to_default_user_group_of_rental_service_if_its_already_part_of_non_default_user_group" time="1.297" timestamp="2022-07-25T11:01:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalAPI" file="rentals/tests/apis/v2/test_rentals.py" line="929" name="test_v2_list_has_start_location" time="1.231" timestamp="2022-07-25T11:01:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

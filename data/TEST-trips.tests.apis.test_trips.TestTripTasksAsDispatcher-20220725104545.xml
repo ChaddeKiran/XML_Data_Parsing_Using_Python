@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestTripTasksAsDispatcher-20220725104545" skipped="0" tests="1" time="0.343" timestamp="2022-07-25T10:49:13">
+	<testcase classname="trips.tests.apis.test_trips.TestTripTasksAsDispatcher" file="trips/tests/apis/test_trips.py" line="2181" name="test_trip_task_driver_endpoint_as_dispatcher" time="0.343" timestamp="2022-07-25T10:49:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

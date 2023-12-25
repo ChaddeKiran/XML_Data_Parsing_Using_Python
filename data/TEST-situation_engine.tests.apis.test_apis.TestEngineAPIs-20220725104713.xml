@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="situation_engine/tests/apis/test_apis.py" name="situation_engine.tests.apis.test_apis.TestEngineAPIs-20220725104713" skipped="0" tests="4" time="1.362" timestamp="2022-07-25T10:52:01">
+	<testcase classname="situation_engine.tests.apis.test_apis.TestEngineAPIs" file="situation_engine/tests/apis/test_apis.py" line="125" name="test_action_metadata" time="0.443" timestamp="2022-07-25T10:52:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.apis.test_apis.TestEngineAPIs" file="situation_engine/tests/apis/test_apis.py" line="58" name="test_api_updates" time="0.355" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.apis.test_apis.TestEngineAPIs" file="situation_engine/tests/apis/test_apis.py" line="12" name="test_api_validation" time="0.304" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.apis.test_apis.TestEngineAPIs" file="situation_engine/tests/apis/test_apis.py" line="110" name="test_criterion_metadata" time="0.261" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

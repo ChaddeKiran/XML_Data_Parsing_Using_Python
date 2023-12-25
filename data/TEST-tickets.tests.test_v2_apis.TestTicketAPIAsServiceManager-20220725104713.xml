@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="tickets/tests/test_v2_apis.py" name="tickets.tests.test_v2_apis.TestTicketAPIAsServiceManager-20220725104713" skipped="0" tests="2" time="1.434" timestamp="2022-07-25T10:53:36">
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketAPIAsServiceManager" file="tickets/tests/test_v2_apis.py" line="219" name="test_can_list" time="0.630" timestamp="2022-07-25T10:53:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketAPIAsServiceManager" file="tickets/tests/test_v2_apis.py" line="228" name="test_list_is_filtered_to_staff_and_closed" time="0.804" timestamp="2022-07-25T10:53:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

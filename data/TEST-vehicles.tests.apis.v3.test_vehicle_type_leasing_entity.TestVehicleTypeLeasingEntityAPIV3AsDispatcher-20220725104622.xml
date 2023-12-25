@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" name="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher-20220725104622" skipped="0" tests="11" time="3.643" timestamp="2022-07-25T11:03:21">
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="65" name="test_get_vehicle_type_leasing_entity_stations" time="0.291" timestamp="2022-07-25T11:03:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="58" name="test_get_vtle_plan_deleted" time="0.235" timestamp="2022-07-25T11:03:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="51" name="test_is_active_filter_vehicletypeleasingentity" time="0.237" timestamp="2022-07-25T11:03:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="34" name="test_list" time="0.301" timestamp="2022-07-25T11:03:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="137" name="test_patch_vehicle_type_leasing_enitites" time="0.656" timestamp="2022-07-25T11:03:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="90" name="test_post_vehicle_type_leasing_entities_is_active_field" time="0.317" timestamp="2022-07-25T11:03:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="103" name="test_post_vehicle_type_leasing_entities_other_validations" time="0.340" timestamp="2022-07-25T11:03:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="73" name="test_post_vehicle_type_leasing_entity_required_fields" time="0.226" timestamp="2022-07-25T11:03:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="124" name="test_post_vtle_stations_associations" time="0.622" timestamp="2022-07-25T11:03:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="46" name="test_unauth_list" time="0.220" timestamp="2022-07-25T11:03:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicle_type_leasing_entity.TestVehicleTypeLeasingEntityAPIV3AsDispatcher" file="vehicles/tests/apis/v3/test_vehicle_type_leasing_entity.py" line="31" name="test_url" time="0.197" timestamp="2022-07-25T11:03:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

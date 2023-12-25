@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/test_vehicle_types.py" name="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer-20220725104622" skipped="0" tests="11" time="12.321" timestamp="2022-07-25T10:59:53">
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="208" name="test_available" time="2.084" timestamp="2022-07-25T10:59:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="185" name="test_available_with_many_vehicles_query_count" time="2.278" timestamp="2022-07-25T10:59:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="334" name="test_get_vehicle_type_detail" time="0.712" timestamp="2022-07-25T10:59:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="158" name="test_get_vehicle_type_list" time="0.753" timestamp="2022-07-25T10:59:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="247" name="test_get_vehicle_type_list_all" time="0.765" timestamp="2022-07-25T10:59:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="164" name="test_get_vehicle_type_list_multiple_service_vehicles" time="1.042" timestamp="2022-07-25T10:59:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="284" name="test_get_vehicle_type_list_with_motor_constraint" time="0.908" timestamp="2022-07-25T10:59:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="265" name="test_get_vehicle_type_list_with_passenger_constraint" time="0.932" timestamp="2022-07-25T10:59:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="255" name="test_get_vehicle_type_list_with_search" time="0.940" timestamp="2022-07-25T10:59:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="306" name="test_get_vehicle_type_list_with_transmission_constraint" time="1.161" timestamp="2022-07-25T10:59:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypesAsCommonCustomer" file="vehicles/tests/apis/test_vehicle_types.py" line="339" name="test_post_vehicle_type_should_fail" time="0.744" timestamp="2022-07-25T10:59:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_interface.py" name="hardware_sdk_geotab.tests.test_interface.TestVehicleAction-20220725104740" skipped="0" tests="6" time="0.164" timestamp="2022-07-25T10:58:39">
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestVehicleAction" file="hardware_sdk_geotab/tests/test_interface.py" line="560" name="test_allow_start_engine_vehicle_action" time="0.031" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestVehicleAction" file="hardware_sdk_geotab/tests/test_interface.py" line="542" name="test_lock_doors_vehicle_action" time="0.028" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestVehicleAction" file="hardware_sdk_geotab/tests/test_interface.py" line="581" name="test_refresh_data_vehicle_action" time="0.022" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestVehicleAction" file="hardware_sdk_geotab/tests/test_interface.py" line="590" name="test_trigger_vehicle_status" time="0.022" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestVehicleAction" file="hardware_sdk_geotab/tests/test_interface.py" line="570" name="test_unlock_doors_and_allow_start_vehicle_action" time="0.028" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestVehicleAction" file="hardware_sdk_geotab/tests/test_interface.py" line="551" name="test_unlock_doors_vehicle_action" time="0.032" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

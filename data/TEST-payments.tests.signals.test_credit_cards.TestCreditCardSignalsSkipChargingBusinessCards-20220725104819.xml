@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/signals/test_credit_cards.py" name="payments.tests.signals.test_credit_cards.TestCreditCardSignalsSkipChargingBusinessCards-20220725104819" skipped="0" tests="1" time="1.035" timestamp="2022-07-25T10:49:37">
+	<testcase classname="payments.tests.signals.test_credit_cards.TestCreditCardSignalsSkipChargingBusinessCards" file="payments/tests/signals/test_credit_cards.py" line="67" name="test_valid_business_card" time="1.035" timestamp="2022-07-25T10:49:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

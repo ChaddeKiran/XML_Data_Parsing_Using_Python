@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/models/test_rental_payments.py" name="payments.tests.models.test_rental_payments.TestPayments-20220725104819" skipped="0" tests="11" time="11.311" timestamp="2022-07-25T10:48:51">
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="197" name="test_capture_charge_fails_already_processed" time="2.747" timestamp="2022-07-25T10:48:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="208" name="test_capture_charge_fails_other_reason" time="0.927" timestamp="2022-07-25T10:48:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="185" name="test_capture_charge_fails_unprocessed_payment" time="0.742" timestamp="2022-07-25T10:48:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="177" name="test_capture_charge_less_than_minimum" time="0.766" timestamp="2022-07-25T10:48:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="165" name="test_capture_charge_payment_exempted" time="0.746" timestamp="2022-07-25T10:48:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="95" name="test_process_charge_failed_invalid_credit_card" time="1.037" timestamp="2022-07-25T10:48:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="117" name="test_process_charge_failed_other_reason" time="0.865" timestamp="2022-07-25T10:48:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="140" name="test_process_charge_less_than_minimum" time="0.828" timestamp="2022-07-25T10:48:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="70" name="test_process_charge_not_captured_success" time="1.003" timestamp="2022-07-25T10:48:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="152" name="test_process_charge_payment_exempted" time="0.770" timestamp="2022-07-25T10:48:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestPayments" file="payments/tests/models/test_rental_payments.py" line="56" name="test_process_charge_successful" time="0.880" timestamp="2022-07-25T10:48:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

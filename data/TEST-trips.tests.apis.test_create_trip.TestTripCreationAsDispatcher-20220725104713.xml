@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_create_trip.py" name="trips.tests.apis.test_create_trip.TestTripCreationAsDispatcher-20220725104713" skipped="0" tests="5" time="4.461" timestamp="2022-07-25T10:54:03">
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreationAsDispatcher" file="trips/tests/apis/test_create_trip.py" line="150" name="test_create_trip_exclusive_service_matching_user" time="1.241" timestamp="2022-07-25T10:53:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreationAsDispatcher" file="trips/tests/apis/test_create_trip.py" line="163" name="test_create_trip_exclusive_service_not_matching_user" time="0.447" timestamp="2022-07-25T10:54:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreationAsDispatcher" file="trips/tests/apis/test_create_trip.py" line="173" name="test_create_trip_for_unregistered_user_starts_in_pin_dispatch_region" time="0.436" timestamp="2022-07-25T10:54:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreationAsDispatcher" file="trips/tests/apis/test_create_trip.py" line="145" name="test_create_trip_with_all_required_fields" time="1.034" timestamp="2022-07-25T10:54:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreationAsDispatcher" file="trips/tests/apis/test_create_trip.py" line="184" name="test_driver_patch_for_trip_starts_in_pin_dispatch_region" time="1.304" timestamp="2022-07-25T10:54:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

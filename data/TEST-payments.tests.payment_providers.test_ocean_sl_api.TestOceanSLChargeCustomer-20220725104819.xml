@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_ocean_sl_api.py" name="payments.tests.payment_providers.test_ocean_sl_api.TestOceanSLChargeCustomer-20220725104819" skipped="0" tests="4" time="4.119" timestamp="2022-07-25T10:49:02">
+	<testcase classname="payments.tests.payment_providers.test_ocean_sl_api.TestOceanSLChargeCustomer" file="payments/tests/payment_providers/test_ocean_sl_api.py" line="122" name="test_charge_and_refund" time="1.292" timestamp="2022-07-25T10:48:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_ocean_sl_api.TestOceanSLChargeCustomer" file="payments/tests/payment_providers/test_ocean_sl_api.py" line="33" name="test_charge_customer" time="0.586" timestamp="2022-07-25T10:49:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_ocean_sl_api.TestOceanSLChargeCustomer" file="payments/tests/payment_providers/test_ocean_sl_api.py" line="53" name="test_put_and_capture_hold" time="1.104" timestamp="2022-07-25T10:49:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_ocean_sl_api.TestOceanSLChargeCustomer" file="payments/tests/payment_providers/test_ocean_sl_api.py" line="87" name="test_put_and_remove_hold" time="1.137" timestamp="2022-07-25T10:49:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

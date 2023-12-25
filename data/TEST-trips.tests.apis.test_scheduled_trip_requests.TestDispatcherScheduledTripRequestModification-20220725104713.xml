@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification-20220725104713" skipped="0" tests="13" time="111.809" timestamp="2022-07-25T10:58:46">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2173" name="test_assign_converted_scheduled_trip_notification_with_unicode" time="1.818" timestamp="2022-07-25T10:56:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2153" name="test_assign_converted_scheduled_trip_sends_notification_to_rider" time="1.742" timestamp="2022-07-25T10:56:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2248" name="test_assign_trip_sends_notification" time="1.362" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2262" name="test_assign_trip_sends_notifications_both_drivers" time="1.339" timestamp="2022-07-25T10:57:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2216" name="test_assigning_trip_does_not_change_payment_mode" time="1.454" timestamp="2022-07-25T10:57:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2193" name="test_can_reassign_trip_request" time="1.294" timestamp="2022-07-25T10:57:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2229" name="test_can_unassign_trip_request" time="1.265" timestamp="2022-07-25T10:57:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2200" name="test_reassign_trip_request_on_driver_license_service_feature" time="1.133" timestamp="2022-07-25T10:57:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2063" name="test_recurring_ride_conversion_and_sorting" time="3.652" timestamp="2022-07-25T10:57:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2123" name="test_recurring_ride_scheduled_date_change_after_ondemand_conversion_failure" time="1.222" timestamp="2022-07-25T10:57:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2139" name="test_recurring_schedule_trip_detail_api" time="1.739" timestamp="2022-07-25T10:57:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2035" name="test_scheduled_and_recurring_trips_api_sort_by_pickup" time="92.538" timestamp="2022-07-25T10:58:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestModification" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2236" name="test_unassign_trip_request_sends_notification" time="1.251" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="tickets/tests/test_v2_apis.py" name="tickets.tests.test_v2_apis.TestTicketAPI-20220725104713" skipped="0" tests="7" time="2.792" timestamp="2022-07-25T10:53:34">
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketAPI" file="tickets/tests/test_v2_apis.py" line="343" name="test_create" time="0.295" timestamp="2022-07-25T10:53:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketAPI" file="tickets/tests/test_v2_apis.py" line="334" name="test_create_duplicate" time="0.258" timestamp="2022-07-25T10:53:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketAPI" file="tickets/tests/test_v2_apis.py" line="312" name="test_filter_by_service_type" time="0.626" timestamp="2022-07-25T10:53:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'tickets.models.Ticket'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketAPI" file="tickets/tests/test_v2_apis.py" line="358" name="test_is_auto_status_change_values" time="0.383" timestamp="2022-07-25T10:53:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketAPI" file="tickets/tests/test_v2_apis.py" line="273" name="test_list_tickets" time="0.668" timestamp="2022-07-25T10:53:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketAPI" file="tickets/tests/test_v2_apis.py" line="389" name="test_supplier_ticket_assignment_email_notification_task_is_called_on_ticket_creation" time="0.341" timestamp="2022-07-25T10:53:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketAPI" file="tickets/tests/test_v2_apis.py" line="268" name="test_unauthenticated_request" time="0.220" timestamp="2022-07-25T10:53:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

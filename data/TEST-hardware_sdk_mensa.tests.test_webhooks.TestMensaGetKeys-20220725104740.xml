@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestMensaGetKeys-20220725104740" skipped="0" tests="4" time="2.590" timestamp="2022-07-25T10:59:54">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaGetKeys" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1252" name="test_get_keys" time="0.441" timestamp="2022-07-25T10:59:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaGetKeys" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1277" name="test_get_keys_carsharing_hardware_not_mensa" time="0.646" timestamp="2022-07-25T10:59:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaGetKeys" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1290" name="test_get_keys_vehicle_not_in_active_rental" time="0.757" timestamp="2022-07-25T10:59:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaGetKeys" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1264" name="test_get_keys_without_rfid" time="0.746" timestamp="2022-07-25T10:59:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

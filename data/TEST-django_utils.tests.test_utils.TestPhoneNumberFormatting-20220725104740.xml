@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/test_utils.py" name="django_utils.tests.test_utils.TestPhoneNumberFormatting-20220725104740" skipped="0" tests="6" time="0.006" timestamp="2022-07-25T11:06:38">
+	<testcase classname="django_utils.tests.test_utils.TestPhoneNumberFormatting" file="django_utils/tests/test_utils.py" line="83" name="test_invalid_phone" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.test_utils.TestPhoneNumberFormatting" file="django_utils/tests/test_utils.py" line="68" name="test_none" time="0.000" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.test_utils.TestPhoneNumberFormatting" file="django_utils/tests/test_utils.py" line="77" name="test_valid_intl_phone" time="0.003" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.test_utils.TestPhoneNumberFormatting" file="django_utils/tests/test_utils.py" line="80" name="test_valid_intl_phone_without_plus" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.test_utils.TestPhoneNumberFormatting" file="django_utils/tests/test_utils.py" line="71" name="test_valid_phone_number" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.test_utils.TestPhoneNumberFormatting" file="django_utils/tests/test_utils.py" line="74" name="test_valid_phone_number_without_plus" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

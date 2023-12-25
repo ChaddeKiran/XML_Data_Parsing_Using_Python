@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_outages.py" name="services.tests.apis.test_outages.TestServiceOutage-20220725104713" skipped="0" tests="2" time="2.284" timestamp="2022-07-25T10:47:48">
+	<testcase classname="services.tests.apis.test_outages.TestServiceOutage" file="services/tests/apis/test_outages.py" line="132" name="test_firebase_task_called" time="0.822" timestamp="2022-07-25T10:47:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_outages.TestServiceOutage" file="services/tests/apis/test_outages.py" line="152" name="test_service_outage_apps" time="1.461" timestamp="2022-07-25T10:47:48">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.781142, -122.396485, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.762316, -122.466425, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

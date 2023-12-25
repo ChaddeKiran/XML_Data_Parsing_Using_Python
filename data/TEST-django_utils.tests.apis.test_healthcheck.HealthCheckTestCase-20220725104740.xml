@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/apis/test_healthcheck.py" name="django_utils.tests.apis.test_healthcheck.HealthCheckTestCase-20220725104740" skipped="0" tests="3" time="0.093" timestamp="2022-07-25T10:54:24">
+	<testcase classname="django_utils.tests.apis.test_healthcheck.HealthCheckTestCase" file="django_utils/tests/apis/test_healthcheck.py" line="17" name="test_db_broken" time="0.047" timestamp="2022-07-25T10:54:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.apis.test_healthcheck.HealthCheckTestCase" file="django_utils/tests/apis/test_healthcheck.py" line="12" name="test_normal" time="0.023" timestamp="2022-07-25T10:54:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.apis.test_healthcheck.HealthCheckTestCase" file="django_utils/tests/apis/test_healthcheck.py" line="23" name="test_old_url" time="0.023" timestamp="2022-07-25T10:54:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

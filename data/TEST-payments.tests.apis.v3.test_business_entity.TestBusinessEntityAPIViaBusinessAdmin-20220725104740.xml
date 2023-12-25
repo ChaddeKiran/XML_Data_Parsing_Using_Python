@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_business_entity.py" name="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIViaBusinessAdmin-20220725104740" skipped="0" tests="9" time="1.940" timestamp="2022-07-25T11:05:59">
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIViaBusinessAdmin" file="payments/tests/apis/v3/test_business_entity.py" line="551" name="test_brand_logo_from_get_apis" time="0.262" timestamp="2022-07-25T11:05:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIViaBusinessAdmin" file="payments/tests/apis/v3/test_business_entity.py" line="484" name="test_create_business_entity" time="0.154" timestamp="2022-07-25T11:05:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIViaBusinessAdmin" file="payments/tests/apis/v3/test_business_entity.py" line="511" name="test_delete_business_entity" time="0.301" timestamp="2022-07-25T11:05:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIViaBusinessAdmin" file="payments/tests/apis/v3/test_business_entity.py" line="472" name="test_get_business_entity" time="0.209" timestamp="2022-07-25T11:05:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIViaBusinessAdmin" file="payments/tests/apis/v3/test_business_entity.py" line="569" name="test_remove_brand_logo_to_existing_business_entity" time="0.211" timestamp="2022-07-25T11:05:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIViaBusinessAdmin" file="payments/tests/apis/v3/test_business_entity.py" line="491" name="test_update_business_entity" time="0.228" timestamp="2022-07-25T11:05:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIViaBusinessAdmin" file="payments/tests/apis/v3/test_business_entity.py" line="504" name="test_update_business_entity_with_preferred_vehicle_group" time="0.175" timestamp="2022-07-25T11:05:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIViaBusinessAdmin" file="payments/tests/apis/v3/test_business_entity.py" line="534" name="test_upload_brand_logo_to_existing_business_entity" time="0.227" timestamp="2022-07-25T11:05:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIViaBusinessAdmin" file="payments/tests/apis/v3/test_business_entity.py" line="526" name="test_upload_brand_logo_with_business_entity_create" time="0.173" timestamp="2022-07-25T11:05:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

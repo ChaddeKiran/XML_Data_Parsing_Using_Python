@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/models/test_zones.py" name="driver_scheduling.tests.models.test_zones.TestZoneModel-20220725104740" skipped="0" tests="7" time="2.569" timestamp="2022-07-25T10:56:22">
+	<testcase classname="driver_scheduling.tests.models.test_zones.TestZoneModel" file="driver_scheduling/tests/models/test_zones.py" line="46" name="test_create_another_zone_same_service_no_overlap" time="0.349" timestamp="2022-07-25T10:56:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_zones.TestZoneModel" file="driver_scheduling/tests/models/test_zones.py" line="58" name="test_create_zone_overlaps_with_another_zone" time="0.345" timestamp="2022-07-25T10:56:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_zones.TestZoneModel" file="driver_scheduling/tests/models/test_zones.py" line="51" name="test_create_zone_with_an_empty_zone" time="0.347" timestamp="2022-07-25T10:56:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_zones.TestZoneModel" file="driver_scheduling/tests/models/test_zones.py" line="39" name="test_create_zone_with_no_service_region_overlap" time="0.317" timestamp="2022-07-25T10:56:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_zones.TestZoneModel" file="driver_scheduling/tests/models/test_zones.py" line="33" name="test_create_zone_with_required_data" time="0.332" timestamp="2022-07-25T10:56:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_zones.TestZoneModel" file="driver_scheduling/tests/models/test_zones.py" line="65" name="test_zones_can_have_touching_neighborhoods" time="0.352" timestamp="2022-07-25T10:56:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.models.test_zones.TestZoneModel" file="driver_scheduling/tests/models/test_zones.py" line="71" name="test_zones_in_different_services_can_overlap" time="0.527" timestamp="2022-07-25T10:56:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

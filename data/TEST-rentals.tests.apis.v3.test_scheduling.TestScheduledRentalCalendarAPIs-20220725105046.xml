@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs-20220725105046" skipped="0" tests="14" time="11.027" timestamp="2022-07-25T10:59:21">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4497" name="test_list" time="0.428" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'rentals.models.rentals_models.ScheduledRentalRequest'> ScheduledRentalRequestQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4679" name="test_list_date_time" time="0.448" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4597" name="test_list_filter_by_end_station" time="1.045" timestamp="2022-07-25T10:59:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4635" name="test_list_filter_by_multiple_end_stations" time="1.741" timestamp="2022-07-25T10:59:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4613" name="test_list_filter_by_multiple_start_stations" time="1.704" timestamp="2022-07-25T10:59:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4577" name="test_list_filter_by_start_station" time="1.072" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4557" name="test_list_filter_by_status" time="0.599" timestamp="2022-07-25T10:59:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4699" name="test_list_filter_multiple_vehicle_types" time="0.798" timestamp="2022-07-25T10:59:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4531" name="test_list_ordering_start_date_time" time="0.382" timestamp="2022-07-25T10:59:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4657" name="test_list_prohibited_actions" time="0.363" timestamp="2022-07-25T10:59:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4379" name="test_summary" time="1.159" timestamp="2022-07-25T10:59:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4467" name="test_summary_filter_multiple_vehicle_types" time="0.356" timestamp="2022-07-25T10:59:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4711" name="test_summary_list_parity" time="0.528" timestamp="2022-07-25T10:59:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalCalendarAPIs" file="rentals/tests/apis/v3/test_scheduling.py" line="4438" name="test_summary_prohibited_actions" time="0.405" timestamp="2022-07-25T10:59:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

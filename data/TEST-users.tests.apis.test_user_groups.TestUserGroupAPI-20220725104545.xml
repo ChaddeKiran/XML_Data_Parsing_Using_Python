@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_user_groups.py" name="users.tests.apis.test_user_groups.TestUserGroupAPI-20220725104545" skipped="0" tests="2" time="1.097" timestamp="2022-07-25T10:56:55">
+	<testcase classname="users.tests.apis.test_user_groups.TestUserGroupAPI" file="users/tests/apis/test_user_groups.py" line="28" name="test_create_user_group_with_just_name" time="0.385" timestamp="2022-07-25T10:56:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_user_groups.TestUserGroupAPI" file="users/tests/apis/test_user_groups.py" line="14" name="test_create_user_group_with_optional_data" time="0.712" timestamp="2022-07-25T10:56:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

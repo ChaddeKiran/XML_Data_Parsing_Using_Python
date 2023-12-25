@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_availability.py" name="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability-20220725104819" skipped="1" tests="28" time="14.201" timestamp="2022-07-25T11:04:07">
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="860" name="test_availability_with_addon_available" time="0.414" timestamp="2022-07-25T11:03:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="870" name="test_availability_without_addon_available" time="0.366" timestamp="2022-07-25T11:03:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="878" name="test_customer_cannot_query_an_inaccessible_service" time="0.337" timestamp="2022-07-25T11:03:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="799" name="test_disallowed_methods" time="0.393" timestamp="2022-07-25T11:03:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1071" name="test_filter_by_station_id" time="1.644" timestamp="2022-07-25T11:03:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1168" name="test_filter_by_station_id_with_vehicle_having_closed_fuel_alert_and_active_unused_alert" time="0.532" timestamp="2022-07-25T11:03:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1119" name="test_filter_by_station_id_with_vehicle_in_inactive_pool" time="0.759" timestamp="2022-07-25T11:03:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="846" name="test_get_is_disallowed" time="0.300" timestamp="2022-07-25T11:03:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="814" name="test_list" time="0.393" timestamp="2022-07-25T11:03:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="809" name="test_list_with_missing_params" time="0.295" timestamp="2022-07-25T11:03:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="822" name="test_list_with_rental_hours" time="0.390" timestamp="2022-07-25T11:03:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="830" name="test_list_with_vehicle_type_filter" time="0.427" timestamp="2022-07-25T11:03:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="852" name="test_price_is_estimated" time="0.385" timestamp="2022-07-25T11:04:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="796" name="test_url" time="0.229" timestamp="2022-07-25T11:04:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="954" name="test_vehicle_type_is_included_when_vehicle_has_active_cleanness_alert" time="0.386" timestamp="2022-07-25T11:04:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="990" name="test_vehicle_type_is_included_when_vehicle_has_closed_aux_battery_alert_and_active_unused_alert" time="0.392" timestamp="2022-07-25T11:04:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1006" name="test_vehicle_type_is_included_when_vehicle_has_closed_ev_battery_alert_and_active_unused_alert" time="0.404" timestamp="2022-07-25T11:04:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1022" name="test_vehicle_type_is_included_when_vehicle_has_closed_fuel_alert_and_active_unused_alert" time="0.395" timestamp="2022-07-25T11:04:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="965" name="test_vehicle_type_is_included_with_alerts_for_ondemand_pickup_rental" time="0.843" timestamp="2022-07-25T11:04:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="903" name="test_vehicle_type_is_not_included_when_vehicle_has_active_aux_battery_alert" time="0.459" timestamp="2022-07-25T11:04:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="937" name="test_vehicle_type_is_not_included_when_vehicle_has_active_ev_battery_alert" time="0.460" timestamp="2022-07-25T11:04:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="920" name="test_vehicle_type_is_not_included_when_vehicle_has_active_fuel_alert" time="0.446" timestamp="2022-07-25T11:04:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="893" name="test_vehicle_type_is_not_included_when_vehicle_is_in_inactive_pool" time="0.489" timestamp="2022-07-25T11:04:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1038" name="test_vehicle_type_is_not_included_when_vehicle_is_not_active" time="0.504" timestamp="2022-07-25T11:04:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="885" name="test_vehicle_type_is_not_included_when_vehicle_is_reserved" time="0.410" timestamp="2022-07-25T11:04:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1047" name="test_vehicle_type_reserved_in_other_service_is_unavailable" time="0.853" timestamp="2022-07-25T11:04:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1057" name="test_vehicle_type_with_two_consecutive_scheduled_rentals_is_available" time="1.295" timestamp="2022-07-25T11:04:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypeAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1140" name="test_filter_by_station_id_with_vehicle_having_fuel_alert" time="0.002" timestamp="2022-07-25T11:03:57">
+		<skipped message="We no longer check vehicles for critical alerts during listing vehicle types availability" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

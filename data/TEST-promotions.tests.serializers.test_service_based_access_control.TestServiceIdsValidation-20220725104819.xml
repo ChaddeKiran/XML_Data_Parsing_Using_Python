@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/serializers/test_service_based_access_control.py" name="promotions.tests.serializers.test_service_based_access_control.TestServiceIdsValidation-20220725104819" skipped="0" tests="4" time="0.563" timestamp="2022-07-25T10:59:10">
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestServiceIdsValidation" file="promotions/tests/serializers/test_service_based_access_control.py" line="115" name="test_empty_service_ids_field_is_considered_valid" time="0.109" timestamp="2022-07-25T10:59:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestServiceIdsValidation" file="promotions/tests/serializers/test_service_based_access_control.py" line="122" name="test_invalid_service_ids_are_considered_invalid" time="0.100" timestamp="2022-07-25T10:59:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestServiceIdsValidation" file="promotions/tests/serializers/test_service_based_access_control.py" line="108" name="test_valid_service_ids_are_considered_valid" time="0.187" timestamp="2022-07-25T10:59:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestServiceIdsValidation" file="promotions/tests/serializers/test_service_based_access_control.py" line="133" name="test_valid_service_ids_but_lacking_staff_access_are_considered_invalid" time="0.167" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

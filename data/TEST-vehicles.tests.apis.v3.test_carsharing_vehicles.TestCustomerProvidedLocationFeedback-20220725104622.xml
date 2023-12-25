@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" name="vehicles.tests.apis.v3.test_carsharing_vehicles.TestCustomerProvidedLocationFeedback-20220725104622" skipped="0" tests="4" time="1.041" timestamp="2022-07-25T11:01:07">
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestCustomerProvidedLocationFeedback" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1659" name="test_vehicle_location_feedback_feature_flag" time="0.243" timestamp="2022-07-25T11:01:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestCustomerProvidedLocationFeedback" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1648" name="test_vehicle_location_feedback_invalid" time="0.205" timestamp="2022-07-25T11:01:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestCustomerProvidedLocationFeedback" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1672" name="test_vehicle_location_feedback_strings_available_unauthenticated" time="0.228" timestamp="2022-07-25T11:01:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestCustomerProvidedLocationFeedback" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1631" name="test_vehicle_location_feedback_valid" time="0.365" timestamp="2022-07-25T11:01:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

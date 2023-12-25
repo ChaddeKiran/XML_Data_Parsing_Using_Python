@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2RegistrationServiceRegistration-20220725104545" skipped="1" tests="7" time="10.572" timestamp="2022-07-25T10:59:44">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2RegistrationServiceRegistration" file="users/tests/apis/v2/test_carsharing_customers.py" line="1480" name="test_create_customer_no_service_in_range_no_default_service" time="1.640" timestamp="2022-07-25T10:59:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2RegistrationServiceRegistration" file="users/tests/apis/v2/test_carsharing_customers.py" line="1411" name="test_create_customer_pick_default_service_when_no_in_range" time="1.758" timestamp="2022-07-25T10:59:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2RegistrationServiceRegistration" file="users/tests/apis/v2/test_carsharing_customers.py" line="1439" name="test_create_customer_pick_default_service_when_no_in_range_then_updates_registration_service" time="2.120" timestamp="2022-07-25T10:59:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2RegistrationServiceRegistration" file="users/tests/apis/v2/test_carsharing_customers.py" line="1388" name="test_create_customer_pick_service_in_range_instead_of_default" time="1.827" timestamp="2022-07-25T10:59:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2RegistrationServiceRegistration" file="users/tests/apis/v2/test_carsharing_customers.py" line="1257" name="test_create_customer_with_service_registration" time="1.776" timestamp="2022-07-25T10:59:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2RegistrationServiceRegistration" file="users/tests/apis/v2/test_carsharing_customers.py" line="1501" name="test_update_customer_service_registration" time="1.442" timestamp="2022-07-25T10:59:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2RegistrationServiceRegistration" file="users/tests/apis/v2/test_carsharing_customers.py" line="1292" name="test_create_customer_with_service_registration_validations" time="0.010" timestamp="2022-07-25T10:59:43">
+		<skipped message="Test too fragile and changes results" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

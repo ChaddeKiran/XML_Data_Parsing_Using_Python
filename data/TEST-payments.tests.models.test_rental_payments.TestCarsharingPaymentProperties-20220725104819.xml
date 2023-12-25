@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/models/test_rental_payments.py" name="payments.tests.models.test_rental_payments.TestCarsharingPaymentProperties-20220725104819" skipped="0" tests="2" time="1.173" timestamp="2022-07-25T10:48:37">
+	<testcase classname="payments.tests.models.test_rental_payments.TestCarsharingPaymentProperties" file="payments/tests/models/test_rental_payments.py" line="350" name="test_base_fare" time="0.612" timestamp="2022-07-25T10:48:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_rental_payments.TestCarsharingPaymentProperties" file="payments/tests/models/test_rental_payments.py" line="347" name="test_base_fare_when_block_fare_is_available" time="0.562" timestamp="2022-07-25T10:48:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

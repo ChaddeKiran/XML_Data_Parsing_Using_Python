@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate-20220725104740" skipped="0" tests="10" time="0.433" timestamp="2022-07-25T10:59:59">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate" file="hardware_sdk_mensa/tests/test_webhooks.py" line="2075" name="test_push_fwota_status_response_type_action_failure" time="0.041" timestamp="2022-07-25T10:59:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate" file="hardware_sdk_mensa/tests/test_webhooks.py" line="2061" name="test_push_fwota_status_response_type_action_success" time="0.044" timestamp="2022-07-25T10:59:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate" file="hardware_sdk_mensa/tests/test_webhooks.py" line="2090" name="test_push_fwota_status_response_type_download_fail" time="0.045" timestamp="2022-07-25T10:59:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate" file="hardware_sdk_mensa/tests/test_webhooks.py" line="2030" name="test_push_fwota_status_response_type_download_success" time="0.054" timestamp="2022-07-25T10:59:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate" file="hardware_sdk_mensa/tests/test_webhooks.py" line="2003" name="test_push_fwota_status_response_type_schedule_success" time="0.041" timestamp="2022-07-25T10:59:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate" file="hardware_sdk_mensa/tests/test_webhooks.py" line="2016" name="test_push_fwota_status_response_type_start_success" time="0.046" timestamp="2022-07-25T10:59:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate" file="hardware_sdk_mensa/tests/test_webhooks.py" line="2105" name="test_push_fwota_status_response_type_update_fail" time="0.040" timestamp="2022-07-25T10:59:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate" file="hardware_sdk_mensa/tests/test_webhooks.py" line="2044" name="test_push_fwota_status_response_type_update_success" time="0.039" timestamp="2022-07-25T10:59:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate" file="hardware_sdk_mensa/tests/test_webhooks.py" line="2123" name="test_push_fwota_update_if_mensa_vehicle_does_not_exist" time="0.056" timestamp="2022-07-25T10:59:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushFWOTAUpdate" file="hardware_sdk_mensa/tests/test_webhooks.py" line="2136" name="test_push_fwota_update_invalid_module_type" time="0.028" timestamp="2022-07-25T10:59:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

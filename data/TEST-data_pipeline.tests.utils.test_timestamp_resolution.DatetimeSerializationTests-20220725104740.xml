@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="data_pipeline/tests/utils/test_timestamp_resolution.py" name="data_pipeline.tests.utils.test_timestamp_resolution.DatetimeSerializationTests-20220725104740" skipped="0" tests="2" time="0.040" timestamp="2022-07-25T10:54:13">
+	<testcase classname="data_pipeline.tests.utils.test_timestamp_resolution.DatetimeSerializationTests" file="data_pipeline/tests/utils/test_timestamp_resolution.py" line="48" name="test_conversion_of_timestamp_with_non_utc_timezone" time="0.021" timestamp="2022-07-25T10:54:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.utils.test_timestamp_resolution.DatetimeSerializationTests" file="data_pipeline/tests/utils/test_timestamp_resolution.py" line="44" name="test_conversion_of_timestamp_with_utc_timezone" time="0.019" timestamp="2022-07-25T10:54:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

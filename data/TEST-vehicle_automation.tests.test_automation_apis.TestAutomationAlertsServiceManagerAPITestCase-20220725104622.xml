@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automation_apis.py" name="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsServiceManagerAPITestCase-20220725104622" skipped="0" tests="1" time="1.210" timestamp="2022-07-25T10:51:47">
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestAutomationAlertsServiceManagerAPITestCase" file="vehicle_automation/tests/test_automation_apis.py" line="2952" name="test_list_automation_alerts_with_pagination" time="1.210" timestamp="2022-07-25T10:51:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

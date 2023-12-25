@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/utils/test_promotion_eligibility_processors.py" name="promotions.tests.utils.test_promotion_eligibility_processors.EligibilityProcessorRegistryTest-20220725104819" skipped="0" tests="3" time="0.062" timestamp="2022-07-25T11:00:07">
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.EligibilityProcessorRegistryTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="27" name="test_registering_processor_without_contract_methods_fails" time="0.025" timestamp="2022-07-25T11:00:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.EligibilityProcessorRegistryTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="35" name="test_registering_processor_without_meta_args_fails" time="0.019" timestamp="2022-07-25T11:00:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.EligibilityProcessorRegistryTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="52" name="test_registry_is_populated_with_valid_processor_for_given_promotion_type" time="0.018" timestamp="2022-07-25T11:00:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

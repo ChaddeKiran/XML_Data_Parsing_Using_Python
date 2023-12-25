@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/test_vehicle_types.py" name="vehicles.tests.apis.test_vehicle_types.TestVehicleTypeModel-20220725104622" skipped="0" tests="8" time="8.362" timestamp="2022-07-25T10:59:41">
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypeModel" file="vehicles/tests/apis/test_vehicle_types.py" line="128" name="test_adding_new_vehicle_type_should_create_image_stubs" time="0.063" timestamp="2022-07-25T10:59:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypeModel" file="vehicles/tests/apis/test_vehicle_types.py" line="29" name="test_create_vehicle_type_with_conflicting_name" time="0.032" timestamp="2022-07-25T10:59:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypeModel" file="vehicles/tests/apis/test_vehicle_types.py" line="34" name="test_model_availability" time="1.021" timestamp="2022-07-25T10:59:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypeModel" file="vehicles/tests/apis/test_vehicle_types.py" line="48" name="test_model_availability_with_is_active" time="0.652" timestamp="2022-07-25T10:59:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypeModel" file="vehicles/tests/apis/test_vehicle_types.py" line="58" name="test_model_availability_with_services" time="1.525" timestamp="2022-07-25T10:59:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypeModel" file="vehicles/tests/apis/test_vehicle_types.py" line="79" name="test_queryset_availability" time="3.150" timestamp="2022-07-25T10:59:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypeModel" file="vehicles/tests/apis/test_vehicle_types.py" line="93" name="test_queryset_availability_with_is_active" time="0.686" timestamp="2022-07-25T10:59:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_types.TestVehicleTypeModel" file="vehicles/tests/apis/test_vehicle_types.py" line="103" name="test_queryset_availability_with_services" time="1.232" timestamp="2022-07-25T10:59:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

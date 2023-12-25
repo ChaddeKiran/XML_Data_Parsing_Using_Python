@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/models/test_payments.py" name="payments.tests.models.test_payments.TestTransactionRiskExemption-20220725104819" skipped="0" tests="2" time="0.061" timestamp="2022-07-25T10:48:35">
+	<testcase classname="payments.tests.models.test_payments.TestTransactionRiskExemption" file="payments/tests/models/test_payments.py" line="198" name="test_exempted_emails" time="0.031" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.models.test_payments.TestTransactionRiskExemption" file="payments/tests/models/test_payments.py" line="206" name="test_non_exempted_emails" time="0.030" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

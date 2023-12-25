@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/test_registrationregions.py" name="service_regions.tests.test_registrationregions.TestV3RegistrationRegionAPI-20220725105046" skipped="0" tests="1" time="0.287" timestamp="2022-07-25T11:09:12">
+	<testcase classname="service_regions.tests.test_registrationregions.TestV3RegistrationRegionAPI" file="service_regions/tests/test_registrationregions.py" line="19" name="test_pre_process_feedback_kml_for_registration_region_kml" time="0.287" timestamp="2022-07-25T11:09:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

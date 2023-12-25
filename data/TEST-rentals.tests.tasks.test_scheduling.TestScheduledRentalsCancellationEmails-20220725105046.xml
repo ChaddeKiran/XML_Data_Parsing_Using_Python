@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_scheduling.py" name="rentals.tests.tasks.test_scheduling.TestScheduledRentalsCancellationEmails-20220725105046" skipped="0" tests="7" time="12.413" timestamp="2022-07-25T11:06:46">
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalsCancellationEmails" file="rentals/tests/tasks/test_scheduling.py" line="1871" name="test_cancellation_email_data_when_cancelled_after_cutoff" time="1.963" timestamp="2022-07-25T11:06:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalsCancellationEmails" file="rentals/tests/tasks/test_scheduling.py" line="1852" name="test_cancellation_email_data_when_cancelled_before_cutoff" time="1.529" timestamp="2022-07-25T11:06:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalsCancellationEmails" file="rentals/tests/tasks/test_scheduling.py" line="1906" name="test_cancellation_email_data_when_cancelled_once_live" time="1.961" timestamp="2022-07-25T11:06:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalsCancellationEmails" file="rentals/tests/tasks/test_scheduling.py" line="1838" name="test_cancellation_emails_when_cancelled_after_cutoff_and_charge_failed" time="1.747" timestamp="2022-07-25T11:06:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalsCancellationEmails" file="rentals/tests/tasks/test_scheduling.py" line="1827" name="test_cancellation_emails_when_cancelled_after_cutoff_and_charge_successful" time="1.749" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalsCancellationEmails" file="rentals/tests/tasks/test_scheduling.py" line="1816" name="test_cancellation_emails_when_cancelled_before_cutoff_so_no_charge_levied" time="1.516" timestamp="2022-07-25T11:06:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalsCancellationEmails" file="rentals/tests/tasks/test_scheduling.py" line="1806" name="test_change_cc_before_cancellation_charge" time="1.948" timestamp="2022-07-25T11:06:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

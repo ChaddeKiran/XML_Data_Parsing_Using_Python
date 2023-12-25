@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_drivers.py" name="users.tests.apis.test_drivers.TestDriverSignals-20220725104545" skipped="0" tests="1" time="0.066" timestamp="2022-07-25T10:55:25">
+	<testcase classname="users.tests.apis.test_drivers.TestDriverSignals" file="users/tests/apis/test_drivers.py" line="40" name="test_firebase_task_called" time="0.066" timestamp="2022-07-25T10:55:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

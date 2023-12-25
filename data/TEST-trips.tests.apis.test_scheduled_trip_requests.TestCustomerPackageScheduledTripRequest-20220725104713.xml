@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest-20220725104713" skipped="0" tests="20" time="28.331" timestamp="2022-07-25T10:55:52">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="417" name="test_able_to_edit_package_rides" time="1.578" timestamp="2022-07-25T10:55:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="385" name="test_cancel_package_trip_after_cancellation_time" time="1.017" timestamp="2022-07-25T10:55:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="367" name="test_cancel_package_trip_before_cancellation_time" time="1.010" timestamp="2022-07-25T10:55:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="273" name="test_convert_package_trip_to_on_demand" time="1.111" timestamp="2022-07-25T10:55:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="296" name="test_convert_package_trip_to_on_demand_with_deferred_payment" time="1.007" timestamp="2022-07-25T10:55:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="313" name="test_convert_package_trip_to_on_demand_with_wallet_payment" time="1.039" timestamp="2022-07-25T10:55:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="340" name="test_convert_package_trip_to_on_demand_with_wallet_payment_hold_failed" time="1.015" timestamp="2022-07-25T10:55:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="585" name="test_create_package_ride_with_promos" time="3.348" timestamp="2022-07-25T10:55:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="206" name="test_create_package_scheduled_trip_with_same_start_and_end_locations" time="0.984" timestamp="2022-07-25T10:55:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="247" name="test_create_recurring_scheduled_request_with_vehicle_type" time="1.022" timestamp="2022-07-25T10:55:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="239" name="test_create_scheduled_request_with_vehicle_type" time="0.986" timestamp="2022-07-25T10:55:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="434" name="test_entire_payments_flow_package_rides" time="1.184" timestamp="2022-07-25T10:55:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="406" name="test_error_when_creating_scheduled_ride_with_cash_as_payment_mode" time="0.884" timestamp="2022-07-25T10:55:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="553" name="test_filter_trip" time="1.468" timestamp="2022-07-25T10:55:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="518" name="test_pre_hold_failure_and_convert_failure_for_package_trip_with_wallet_payment" time="3.113" timestamp="2022-07-25T10:55:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="480" name="test_pre_hold_failure_and_convert_success_for_package_trip_with_wallet_payment" time="3.251" timestamp="2022-07-25T10:55:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="450" name="test_pre_hold_success_and_convert_success_for_package_trip_with_wallet_payment" time="1.197" timestamp="2022-07-25T10:55:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="217" name="test_scheduled_trip_package_request_with_deferred_payment" time="0.792" timestamp="2022-07-25T10:55:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="227" name="test_scheduled_trip_package_request_with_wallet_payment" time="1.031" timestamp="2022-07-25T10:55:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerPackageScheduledTripRequest" file="trips/tests/apis/test_scheduled_trip_requests.py" line="257" name="test_update_scheduled_request_with_vehicle_type" time="1.295" timestamp="2022-07-25T10:55:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

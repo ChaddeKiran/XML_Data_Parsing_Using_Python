@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="manual_identity_verification/tests/models/test_identity_profile.py" name="manual_identity_verification.tests.models.test_identity_profile.TestIdentityProfileSendsEmail-20220725104740" skipped="0" tests="2" time="1.699" timestamp="2022-07-25T11:03:02">
+	<testcase classname="manual_identity_verification.tests.models.test_identity_profile.TestIdentityProfileSendsEmail" file="manual_identity_verification/tests/models/test_identity_profile.py" line="69" name="test_language_send_mail" time="0.941" timestamp="2022-07-25T11:03:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.models.test_identity_profile.TestIdentityProfileSendsEmail" file="manual_identity_verification/tests/models/test_identity_profile.py" line="20" name="test_status_changes_sends_email" time="0.758" timestamp="2022-07-25T11:03:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/views/test_about_pages.py" name="ops_center.tests.views.test_about_pages.TestAboutPages-20220725104740" skipped="0" tests="7" time="5.419" timestamp="2022-07-25T11:04:03">
+	<testcase classname="ops_center.tests.views.test_about_pages.TestAboutPages" file="ops_center/tests/views/test_about_pages.py" line="32" name="test_about_faq" time="0.833" timestamp="2022-07-25T11:03:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_about_pages.TestAboutPages" file="ops_center/tests/views/test_about_pages.py" line="35" name="test_about_how" time="0.773" timestamp="2022-07-25T11:04:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_about_pages.TestAboutPages" file="ops_center/tests/views/test_about_pages.py" line="29" name="test_about_parking" time="0.757" timestamp="2022-07-25T11:04:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_about_pages.TestAboutPages" file="ops_center/tests/views/test_about_pages.py" line="44" name="test_about_partners" time="0.740" timestamp="2022-07-25T11:04:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_about_pages.TestAboutPages" file="ops_center/tests/views/test_about_pages.py" line="41" name="test_about_privacy" time="0.786" timestamp="2022-07-25T11:04:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_about_pages.TestAboutPages" file="ops_center/tests/views/test_about_pages.py" line="47" name="test_about_rates" time="0.719" timestamp="2022-07-25T11:04:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_about_pages.TestAboutPages" file="ops_center/tests/views/test_about_pages.py" line="38" name="test_about_terms" time="0.811" timestamp="2022-07-25T11:04:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_interface.py" name="hardware_sdk_geotab.tests.test_interface.TestLockImmobilize-20220725104740" skipped="0" tests="3" time="0.068" timestamp="2022-07-25T10:58:32">
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestLockImmobilize" file="hardware_sdk_geotab/tests/test_interface.py" line="460" name="test_lock_vehicle_and_disable_engine_start" time="0.022" timestamp="2022-07-25T10:58:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestLockImmobilize" file="hardware_sdk_geotab/tests/test_interface.py" line="469" name="test_lock_vehicle_and_disable_engine_start_with_unauthorized_response" time="0.024" timestamp="2022-07-25T10:58:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestLockImmobilize" file="hardware_sdk_geotab/tests/test_interface.py" line="479" name="test_lock_vehicle_and_disable_engine_start_with_unknown_exception" time="0.022" timestamp="2022-07-25T10:58:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="websockets/tests/apis/test_bindings.py" name="websockets.tests.apis.test_bindings.PostBindingFilterTest-20220725104622" skipped="0" tests="8" time="9.470" timestamp="2022-07-25T11:06:06">
+	<testcase classname="websockets.tests.apis.test_bindings.PostBindingFilterTest" file="websockets/tests/apis/test_bindings.py" line="151" name="test_compare" time="1.180" timestamp="2022-07-25T11:05:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_bindings.PostBindingFilterTest" file="websockets/tests/apis/test_bindings.py" line="38" name="test_does_instance_pass_filters" time="1.144" timestamp="2022-07-25T11:05:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_bindings.PostBindingFilterTest" file="websockets/tests/apis/test_bindings.py" line="70" name="test_does_instance_pass_filters_come_back" time="1.258" timestamp="2022-07-25T11:06:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_bindings.PostBindingFilterTest" file="websockets/tests/apis/test_bindings.py" line="59" name="test_does_instance_pass_filters_delete" time="1.295" timestamp="2022-07-25T11:06:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_bindings.PostBindingFilterTest" file="websockets/tests/apis/test_bindings.py" line="48" name="test_does_instance_pass_filters_update" time="1.157" timestamp="2022-07-25T11:06:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_bindings.PostBindingFilterTest" file="websockets/tests/apis/test_bindings.py" line="81" name="test_post_binding_filters" time="1.132" timestamp="2022-07-25T11:06:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_bindings.PostBindingFilterTest" file="websockets/tests/apis/test_bindings.py" line="121" name="test_post_binding_gt_lt_filters" time="1.151" timestamp="2022-07-25T11:06:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_bindings.PostBindingFilterTest" file="websockets/tests/apis/test_bindings.py" line="137" name="test_post_binding_in_filters" time="1.153" timestamp="2022-07-25T11:06:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

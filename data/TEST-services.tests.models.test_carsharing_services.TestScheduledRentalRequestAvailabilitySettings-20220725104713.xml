@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_carsharing_services.py" name="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings-20220725104713" skipped="0" tests="17" time="8.849" timestamp="2022-07-25T10:50:56">
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="143" name="test_maximum_time_set_by_lead_time" time="0.151" timestamp="2022-07-25T10:50:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="483" name="test_min_value_for_scheduled_rental_requests_delivery_reminder_lead_time" time="0.125" timestamp="2022-07-25T10:50:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="489" name="test_min_value_for_scheduled_rental_requests_retrieval_reminder_lead_time" time="0.126" timestamp="2022-07-25T10:50:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="137" name="test_minimum_time_set_by_lead_time" time="0.158" timestamp="2022-07-25T10:50:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="415" name="test_possible_end_dates_based_on_min_and_max_booking_time" time="0.156" timestamp="2022-07-25T10:50:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="431" name="test_possible_end_dates_from_last_start_date" time="0.161" timestamp="2022-07-25T10:50:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="344" name="test_possible_end_times_obeys_valet_events" time="2.699" timestamp="2022-07-25T10:50:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2016-01-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="149" name="test_possible_start_dates_based_on_min_and_max_lead_times" time="0.159" timestamp="2022-07-25T10:50:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="310" name="test_possible_start_times_ignores_valet_events_with_flag_disabled" time="1.410" timestamp="2022-07-25T10:50:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="163" name="test_possible_start_times_in_service_timezone" time="0.159" timestamp="2022-07-25T10:50:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="201" name="test_possible_start_times_obeys_maximum_lead_time" time="0.157" timestamp="2022-07-25T10:50:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="183" name="test_possible_start_times_obeys_minimum_lead_time" time="0.154" timestamp="2022-07-25T10:50:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="275" name="test_possible_start_times_obeys_valet_events" time="1.469" timestamp="2022-07-25T10:50:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="392" name="test_possible_start_times_obeys_vehicle_availability_with_another_vehicle" time="1.289" timestamp="2022-07-25T10:50:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="447" name="test_start_date_time_range" time="0.132" timestamp="2022-07-25T10:50:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="219" name="test_valid_start_times_obeys_maximum_lead_time" time="0.160" timestamp="2022-07-25T10:50:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestAvailabilitySettings" file="services/tests/models/test_carsharing_services.py" line="242" name="test_valid_start_times_obeys_maximum_lead_time_over_days" time="0.183" timestamp="2022-07-25T10:50:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_mensa_action_status.py" name="hardware_sdk_mensa.tests.test_mensa_action_status.TestMensaActionStatus-20220725104740" skipped="0" tests="5" time="2.350" timestamp="2022-07-25T10:59:47">
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_action_status.TestMensaActionStatus" file="hardware_sdk_mensa/tests/test_mensa_action_status.py" line="103" name="test_perform_vehicle_action_asset_status" time="0.382" timestamp="2022-07-25T10:59:45">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_action_status.TestMensaActionStatus" file="hardware_sdk_mensa/tests/test_mensa_action_status.py" line="138" name="test_perform_vehicle_action_asset_status_get_params" time="0.058" timestamp="2022-07-25T10:59:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_action_status.TestMensaActionStatus" file="hardware_sdk_mensa/tests/test_mensa_action_status.py" line="115" name="test_perform_vehicle_action_asset_status_set_params" time="0.367" timestamp="2022-07-25T10:59:45">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_action_status.TestMensaActionStatus" file="hardware_sdk_mensa/tests/test_mensa_action_status.py" line="83" name="test_perform_vehicle_action_doors_locked" time="0.383" timestamp="2022-07-25T10:59:45">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_action_status.TestMensaActionStatus" file="hardware_sdk_mensa/tests/test_mensa_action_status.py" line="159" name="test_reserve_vehicle_action" time="1.159" timestamp="2022-07-25T10:59:47">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automation_apis.py" name="vehicle_automation.tests.test_automation_apis.TestDTCAlertOrder-20220725104622" skipped="0" tests="2" time="3.169" timestamp="2022-07-25T10:51:51">
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestDTCAlertOrder" file="vehicle_automation/tests/test_automation_apis.py" line="2998" name="test_get_dtc_automation_alerts_default_ordering" time="2.074" timestamp="2022-07-25T10:51:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestDTCAlertOrder" file="vehicle_automation/tests/test_automation_apis.py" line="3015" name="test_get_dtc_automation_alerts_ordering_dtc_classification" time="1.095" timestamp="2022-07-25T10:51:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

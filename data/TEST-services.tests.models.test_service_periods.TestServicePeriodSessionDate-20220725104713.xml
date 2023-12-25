@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_service_periods.py" name="services.tests.models.test_service_periods.TestServicePeriodSessionDate-20220725104713" skipped="0" tests="5" time="0.153" timestamp="2022-07-25T10:51:08">
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriodSessionDate" file="services/tests/models/test_service_periods.py" line="437" name="test_session_date_last_day_pre_rollover" time="0.032" timestamp="2022-07-25T10:51:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriodSessionDate" file="services/tests/models/test_service_periods.py" line="433" name="test_session_date_next_day_post_rollover" time="0.030" timestamp="2022-07-25T10:51:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriodSessionDate" file="services/tests/models/test_service_periods.py" line="422" name="test_session_date_post_rollover" time="0.031" timestamp="2022-07-25T10:51:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriodSessionDate" file="services/tests/models/test_service_periods.py" line="427" name="test_session_date_pre_rollover" time="0.030" timestamp="2022-07-25T10:51:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriodSessionDate" file="services/tests/models/test_service_periods.py" line="443" name="test_session_date_spans_week_same_day" time="0.030" timestamp="2022-07-25T10:51:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

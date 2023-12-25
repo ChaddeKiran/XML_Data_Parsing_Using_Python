@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_apis.py" name="payments.tests.apis.v3.test_apis.TestV3PaymentRefund-20220725104740" skipped="0" tests="9" time="9.823" timestamp="2022-07-25T11:05:36">
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentRefund" file="payments/tests/apis/v3/test_apis.py" line="186" name="test_business_card_exempted_refund" time="0.655" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentRefund" file="payments/tests/apis/v3/test_apis.py" line="75" name="test_business_rental_refund" time="1.378" timestamp="2022-07-25T11:05:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentRefund" file="payments/tests/apis/v3/test_apis.py" line="179" name="test_exempted_refund" time="0.727" timestamp="2022-07-25T11:05:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentRefund" file="payments/tests/apis/v3/test_apis.py" line="194" name="test_receipt_id" time="1.411" timestamp="2022-07-25T11:05:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentRefund" file="payments/tests/apis/v3/test_apis.py" line="137" name="test_refund_srr_cancellation" time="1.057" timestamp="2022-07-25T11:05:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentRefund" file="payments/tests/apis/v3/test_apis.py" line="118" name="test_refund_srr_hold" time="1.035" timestamp="2022-07-25T11:05:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentRefund" file="payments/tests/apis/v3/test_apis.py" line="46" name="test_rental_payments" time="1.072" timestamp="2022-07-25T11:05:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentRefund" file="payments/tests/apis/v3/test_apis.py" line="93" name="test_rental_payments_with_coupon" time="1.063" timestamp="2022-07-25T11:05:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentRefund" file="payments/tests/apis/v3/test_apis.py" line="157" name="test_srr_with_rental_payments" time="1.427" timestamp="2022-07-25T11:05:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

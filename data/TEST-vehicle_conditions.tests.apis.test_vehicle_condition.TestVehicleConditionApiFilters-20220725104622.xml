@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" name="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiFilters-20220725104622" skipped="0" tests="1" time="4.650" timestamp="2022-07-25T10:57:14">
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiFilters" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="33" name="test_api_filters" time="4.650" timestamp="2022-07-25T10:57:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

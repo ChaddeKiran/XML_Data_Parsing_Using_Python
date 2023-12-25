@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/views/test_live_trip_map.py" name="ops_center.tests.views.test_live_trip_map.TestLiveMapIsServiceAware-20220725104740" skipped="0" tests="3" time="2.468" timestamp="2022-07-25T11:04:09">
+	<testcase classname="ops_center.tests.views.test_live_trip_map.TestLiveMapIsServiceAware" file="ops_center/tests/views/test_live_trip_map.py" line="18" name="test_invalid_service_slug_gets_redirect_to_first_existing_service" time="0.802" timestamp="2022-07-25T11:04:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_live_trip_map.TestLiveMapIsServiceAware" file="ops_center/tests/views/test_live_trip_map.py" line="38" name="test_no_service_slug_with_many_services_gets_redirect_to_first_service" time="1.010" timestamp="2022-07-25T11:04:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.views.test_live_trip_map.TestLiveMapIsServiceAware" file="ops_center/tests/views/test_live_trip_map.py" line="10" name="test_service_slug_gets_service" time="0.655" timestamp="2022-07-25T11:04:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

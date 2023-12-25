@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_localized_measurement_units.py" name="payments.tests.utils.test_localized_measurement_units.QuantizationTests-20220725104819" skipped="0" tests="4" time="0.072" timestamp="2022-07-25T10:52:08">
+	<testcase classname="payments.tests.utils.test_localized_measurement_units.QuantizationTests" file="payments/tests/utils/test_localized_measurement_units.py" line="64" name="test_hours_over_day_limit_quantized_as_hours" time="0.018" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_localized_measurement_units.QuantizationTests" file="payments/tests/utils/test_localized_measurement_units.py" line="56" name="test_hours_over_week_limit_quantized_as_hours" time="0.017" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_localized_measurement_units.QuantizationTests" file="payments/tests/utils/test_localized_measurement_units.py" line="60" name="test_quantize_full_days" time="0.018" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_localized_measurement_units.QuantizationTests" file="payments/tests/utils/test_localized_measurement_units.py" line="52" name="test_quantize_full_weeks" time="0.018" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

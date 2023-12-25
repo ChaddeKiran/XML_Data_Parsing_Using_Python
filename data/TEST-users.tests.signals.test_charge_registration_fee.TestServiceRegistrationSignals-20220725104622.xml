@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/signals/test_charge_registration_fee.py" name="users.tests.signals.test_charge_registration_fee.TestServiceRegistrationSignals-20220725104622" skipped="0" tests="3" time="2.564" timestamp="2022-07-25T10:47:31">
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestServiceRegistrationSignals" file="users/tests/signals/test_charge_registration_fee.py" line="145" name="test_no_serviceregistration" time="0.734" timestamp="2022-07-25T10:47:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestServiceRegistrationSignals" file="users/tests/signals/test_charge_registration_fee.py" line="149" name="test_serviceregistration_not_waived" time="0.934" timestamp="2022-07-25T10:47:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestServiceRegistrationSignals" file="users/tests/signals/test_charge_registration_fee.py" line="154" name="test_serviceregistration_waived" time="0.896" timestamp="2022-07-25T10:47:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

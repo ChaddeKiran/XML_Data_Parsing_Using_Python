@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/models/test_credits.py" name="promotions.tests.models.test_credits.CreditManagerTestCase-20220725104819" skipped="0" tests="7" time="0.375" timestamp="2022-07-25T10:58:47">
+	<testcase classname="promotions.tests.models.test_credits.CreditManagerTestCase" file="promotions/tests/models/test_credits.py" line="220" name="test_aggregated_balance_default_behavior" time="0.038" timestamp="2022-07-25T10:58:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditManagerTestCase" file="promotions/tests/models/test_credits.py" line="228" name="test_aggregated_balance_for_product_specific_promotion" time="0.053" timestamp="2022-07-25T10:58:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditManagerTestCase" file="promotions/tests/models/test_credits.py" line="268" name="test_aggregated_balance_for_promotion_with_multiple_product_types" time="0.056" timestamp="2022-07-25T10:58:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditManagerTestCase" file="promotions/tests/models/test_credits.py" line="224" name="test_aggregated_balance_including_multi_trip_promotions" time="0.028" timestamp="2022-07-25T10:58:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditManagerTestCase" file="promotions/tests/models/test_credits.py" line="247" name="test_aggregated_balance_including_multi_trip_promotions_for_product_specific_promotion" time="0.058" timestamp="2022-07-25T10:58:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditManagerTestCase" file="promotions/tests/models/test_credits.py" line="291" name="test_aggregated_balance_including_multi_trip_promotions_for_promotion_with_multiple_product_types" time="0.081" timestamp="2022-07-25T10:58:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditManagerTestCase" file="promotions/tests/models/test_credits.py" line="318" name="test_aggregated_balance_shall_return_zero_when_product_specific_promotion_credits_are_unavailable" time="0.060" timestamp="2022-07-25T10:58:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

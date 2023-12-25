@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_cameras/tests/test_apis.py" name="vehicle_cameras.tests.test_apis.TestOpsCenterDashcamReportsViewSet-20220725104622" skipped="0" tests="3" time="1.295" timestamp="2022-07-25T10:56:55">
+	<testcase classname="vehicle_cameras.tests.test_apis.TestOpsCenterDashcamReportsViewSet" file="vehicle_cameras/tests/test_apis.py" line="60" name="test_delete_images_and_videos_bad_report" time="0.430" timestamp="2022-07-25T10:56:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_apis.TestOpsCenterDashcamReportsViewSet" file="vehicle_cameras/tests/test_apis.py" line="69" name="test_delete_images_and_videos_failure" time="0.441" timestamp="2022-07-25T10:56:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_apis.TestOpsCenterDashcamReportsViewSet" file="vehicle_cameras/tests/test_apis.py" line="54" name="test_delete_images_and_videos_success" time="0.424" timestamp="2022-07-25T10:56:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

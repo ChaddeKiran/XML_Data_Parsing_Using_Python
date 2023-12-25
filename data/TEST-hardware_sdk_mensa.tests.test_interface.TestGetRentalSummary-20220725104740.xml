@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_interface.py" name="hardware_sdk_mensa.tests.test_interface.TestGetRentalSummary-20220725104740" skipped="0" tests="7" time="3.264" timestamp="2022-07-25T10:59:39">
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_mensa/tests/test_interface.py" line="364" name="test_get_rental_summary_basic" time="0.034" timestamp="2022-07-25T10:59:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_mensa/tests/test_interface.py" line="432" name="test_get_rental_summary_data_bolt" time="0.024" timestamp="2022-07-25T10:59:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_mensa/tests/test_interface.py" line="419" name="test_get_rental_summary_data_jetta" time="0.024" timestamp="2022-07-25T10:59:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_mensa/tests/test_interface.py" line="370" name="test_get_rental_summary_using_local_cached_synthesis" time="0.179" timestamp="2022-07-25T10:59:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_mensa/tests/test_interface.py" line="414" name="test_get_rental_summary_with_connection_exception" time="0.598" timestamp="2022-07-25T10:59:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_mensa/tests/test_interface.py" line="393" name="test_get_rental_summary_with_connection_timeout_exception" time="1.781" timestamp="2022-07-25T10:59:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestGetRentalSummary" file="hardware_sdk_mensa/tests/test_interface.py" line="398" name="test_get_rental_summary_with_temporary_connection_timeout_exception" time="0.624" timestamp="2022-07-25T10:59:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestIdentityAPIAsCustomer-20220725104545" skipped="0" tests="2" time="1.321" timestamp="2022-07-25T10:54:22">
+	<testcase classname="users.tests.apis.test_customers.TestIdentityAPIAsCustomer" file="users/tests/apis/test_customers.py" line="1014" name="test_identity" time="0.750" timestamp="2022-07-25T10:54:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestIdentityAPIAsCustomer" file="users/tests/apis/test_customers.py" line="1025" name="test_identity_role_filter" time="0.572" timestamp="2022-07-25T10:54:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

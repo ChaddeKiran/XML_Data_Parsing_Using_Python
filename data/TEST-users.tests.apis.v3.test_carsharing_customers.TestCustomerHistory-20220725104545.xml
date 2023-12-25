@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_carsharing_customers.py" name="users.tests.apis.v3.test_carsharing_customers.TestCustomerHistory-20220725104545" skipped="0" tests="1" time="0.490" timestamp="2022-07-25T11:03:12">
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerHistory" file="users/tests/apis/v3/test_carsharing_customers.py" line="319" name="test_history_filtering" time="0.490" timestamp="2022-07-25T11:03:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

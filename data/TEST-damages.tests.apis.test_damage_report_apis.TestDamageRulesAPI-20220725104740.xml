@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="damages/tests/apis/test_damage_report_apis.py" name="damages.tests.apis.test_damage_report_apis.TestDamageRulesAPI-20220725104740" skipped="0" tests="4" time="1.394" timestamp="2022-07-25T10:53:55">
+	<testcase classname="damages.tests.apis.test_damage_report_apis.TestDamageRulesAPI" file="damages/tests/apis/test_damage_report_apis.py" line="21" name="test_create_damage_report" time="0.457" timestamp="2022-07-25T10:53:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="damages.tests.apis.test_damage_report_apis.TestDamageRulesAPI" file="damages/tests/apis/test_damage_report_apis.py" line="48" name="test_damage_report_search" time="0.376" timestamp="2022-07-25T10:53:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'damages.models.DamageReport'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="damages.tests.apis.test_damage_report_apis.TestDamageRulesAPI" file="damages/tests/apis/test_damage_report_apis.py" line="36" name="test_get_damage_report" time="0.330" timestamp="2022-07-25T10:53:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="damages.tests.apis.test_damage_report_apis.TestDamageRulesAPI" file="damages/tests/apis/test_damage_report_apis.py" line="18" name="test_url" time="0.232" timestamp="2022-07-25T10:53:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

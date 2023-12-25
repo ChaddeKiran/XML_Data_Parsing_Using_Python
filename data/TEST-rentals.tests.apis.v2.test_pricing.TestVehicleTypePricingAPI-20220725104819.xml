@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v2/test_pricing.py" name="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI-20220725104819" skipped="0" tests="14" time="8.473" timestamp="2022-07-25T11:01:11">
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="946" name="test_vehicle_pricing" time="0.580" timestamp="2022-07-25T11:01:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="1280" name="test_vehicle_pricing_accept_language_header" time="0.709" timestamp="2022-07-25T11:01:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="1309" name="test_vehicle_pricing_accept_language_not_in_settings" time="0.611" timestamp="2022-07-25T11:01:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="1255" name="test_vehicle_pricing_contains_preferred_pricing_type" time="0.488" timestamp="2022-07-25T11:01:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="1224" name="test_vehicle_pricing_contains_pricing_packages" time="0.375" timestamp="2022-07-25T11:01:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="1295" name="test_vehicle_pricing_default_locale_to_tenant_configuration" time="0.620" timestamp="2022-07-25T11:01:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="1173" name="test_vehicle_pricing_is_distance_based_pricing_when_setup_as_preferred_with_valid_configuration" time="0.715" timestamp="2022-07-25T11:01:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="1137" name="test_vehicle_pricing_uses_configured_unit_for_distance_based_pricing" time="0.661" timestamp="2022-07-25T11:01:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="1083" name="test_vehicle_pricing_with_pricing_engine_rules_with_pricing_snapshot_enabled_flag_on" time="0.499" timestamp="2022-07-25T11:01:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="1057" name="test_vehicle_pricing_with_pricing_snapshot_enabled_flag_on" time="0.490" timestamp="2022-07-25T11:01:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="923" name="test_vehicle_type_pricing" time="1.320" timestamp="2022-07-25T11:01:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="913" name="test_vehicle_type_pricing_misconfigured" time="0.405" timestamp="2022-07-25T11:01:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="1002" name="test_vehicle_type_pricing_with_pricing_engine_rules_with_pricing_snapshot_enabled_flag_on" time="0.497" timestamp="2022-07-25T11:01:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestVehicleTypePricingAPI" file="rentals/tests/apis/v2/test_pricing.py" line="970" name="test_vehicle_type_pricing_with_pricing_snapshot_enabled_flag_on" time="0.502" timestamp="2022-07-25T11:01:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_rentals.py" name="rentals.tests.tasks.test_rentals.TestAutoDecoupleRentalTask-20220725105046" skipped="0" tests="3" time="9.829" timestamp="2022-07-25T11:06:03">
+	<testcase classname="rentals.tests.tasks.test_rentals.TestAutoDecoupleRentalTask" file="rentals/tests/tasks/test_rentals.py" line="244" name="test_auto_decouple_rental" time="3.874" timestamp="2022-07-25T11:05:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestAutoDecoupleRentalTask" file="rentals/tests/tasks/test_rentals.py" line="266" name="test_auto_decouple_rental_hw_vendor_not_mensa" time="3.374" timestamp="2022-07-25T11:06:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestAutoDecoupleRentalTask" file="rentals/tests/tasks/test_rentals.py" line="281" name="test_auto_decouple_rental_with_flag_being_set_to_null" time="2.582" timestamp="2022-07-25T11:06:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

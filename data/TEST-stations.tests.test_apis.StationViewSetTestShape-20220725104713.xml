@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_apis.py" name="stations.tests.test_apis.StationViewSetTestShape-20220725104713" skipped="0" tests="10" time="6.234" timestamp="2022-07-25T10:53:07">
+	<testcase classname="stations.tests.test_apis.StationViewSetTestShape" file="stations/tests/test_apis.py" line="968" name="test_create_with_polygon_path" time="1.095" timestamp="2022-07-25T10:53:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestShape" file="stations/tests/test_apis.py" line="1113" name="test_create_with_polygon_path_bad_input" time="0.586" timestamp="2022-07-25T10:53:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestShape" file="stations/tests/test_apis.py" line="1020" name="test_delete_shape" time="0.482" timestamp="2022-07-25T10:53:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestShape" file="stations/tests/test_apis.py" line="1052" name="test_delete_shape_polygon_path" time="0.407" timestamp="2022-07-25T10:53:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestShape" file="stations/tests/test_apis.py" line="1183" name="test_get_with_geojson_flag" time="0.744" timestamp="2022-07-25T10:53:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestShape" file="stations/tests/test_apis.py" line="999" name="test_patch_shape" time="0.524" timestamp="2022-07-25T10:53:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestShape" file="stations/tests/test_apis.py" line="1148" name="test_patch_shape_was_none" time="0.598" timestamp="2022-07-25T10:53:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestShape" file="stations/tests/test_apis.py" line="1034" name="test_patch_shape_with_polygon_path" time="0.492" timestamp="2022-07-25T10:53:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestShape" file="stations/tests/test_apis.py" line="1063" name="test_patch_shape_with_polygon_path_bad_input" time="0.914" timestamp="2022-07-25T10:53:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestShape" file="stations/tests/test_apis.py" line="936" name="test_retrieve_polygon_path" time="0.392" timestamp="2022-07-25T10:53:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

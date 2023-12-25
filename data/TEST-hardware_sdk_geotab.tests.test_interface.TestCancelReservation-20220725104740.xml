@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_interface.py" name="hardware_sdk_geotab.tests.test_interface.TestCancelReservation-20220725104740" skipped="0" tests="3" time="5.417" timestamp="2022-07-25T10:58:30">
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestCancelReservation" file="hardware_sdk_geotab/tests/test_interface.py" line="368" name="test_cancel_reservation" time="2.138" timestamp="2022-07-25T10:58:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestCancelReservation" file="hardware_sdk_geotab/tests/test_interface.py" line="418" name="test_cancel_reservation_repopulate_nfc_tags" time="2.141" timestamp="2022-07-25T10:58:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestCancelReservation" file="hardware_sdk_geotab/tests/test_interface.py" line="394" name="test_cancel_reservation_without_device_wakeup" time="1.137" timestamp="2022-07-25T10:58:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/serializers/test_payment_items.py" name="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests-20220725104819" skipped="0" tests="15" time="2.076" timestamp="2022-07-25T10:49:32">
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="175" name="test_amount_display_text_is_localized" time="0.110" timestamp="2022-07-25T10:49:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="61" name="test_driving_rate_for_distance_based_pricing" time="0.176" timestamp="2022-07-25T10:49:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="88" name="test_driving_rate_for_time_based_pricing_with_short_trip_disabled" time="0.166" timestamp="2022-07-25T10:49:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="73" name="test_driving_rate_for_time_based_pricing_with_short_trip_enabled" time="0.140" timestamp="2022-07-25T10:49:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="168" name="test_get_rate_type" time="0.078" timestamp="2022-07-25T10:49:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="37" name="test_get_serialized_response_unit_with_distance_based_pricing" time="0.156" timestamp="2022-07-25T10:49:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="48" name="test_get_serialized_response_unit_with_time_based_pricing" time="0.145" timestamp="2022-07-25T10:49:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="210" name="test_label_display_for_parking_fare" time="0.157" timestamp="2022-07-25T10:49:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="185" name="test_label_display_text_contains_correct_unit_of_measurement_for_distance_based_pricing" time="0.132" timestamp="2022-07-25T10:49:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="198" name="test_label_display_text_contains_correct_unit_of_measurement_for_time_based_pricing" time="0.068" timestamp="2022-07-25T10:49:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="102" name="test_parking_rate_for_distance_based_pricing" time="0.146" timestamp="2022-07-25T10:49:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="117" name="test_parking_rate_for_time_based_pricing" time="0.152" timestamp="2022-07-25T10:49:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="27" name="test_pricing_type_detection_with_short_trip_disabled" time="0.143" timestamp="2022-07-25T10:49:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="17" name="test_pricing_type_detection_with_short_trip_enabled" time="0.141" timestamp="2022-07-25T10:49:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_items.PaymentItemSchemaTests" file="payments/tests/serializers/test_payment_items.py" line="135" name="test_short_display_text_localization" time="0.167" timestamp="2022-07-25T10:49:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

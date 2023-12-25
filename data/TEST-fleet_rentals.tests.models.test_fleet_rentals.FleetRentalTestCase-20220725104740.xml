@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="fleet_rentals/tests/models/test_fleet_rentals.py" name="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase-20220725104740" skipped="0" tests="14" time="17.883" timestamp="2022-07-25T10:57:14">
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="299" name="test_can_deactivate_vehicles" time="1.669" timestamp="2022-07-25T10:56:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="119" name="test_fleet_rental_add_vehicles" time="1.007" timestamp="2022-07-25T10:56:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="91" name="test_fleet_rental_complete" time="0.912" timestamp="2022-07-25T10:57:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="256" name="test_fleet_rental_deactivate_vehicles" time="1.243" timestamp="2022-07-25T10:57:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="289" name="test_fleet_rental_deactivate_vehicles_ends_rental" time="1.475" timestamp="2022-07-25T10:57:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="77" name="test_fleet_rental_end" time="0.861" timestamp="2022-07-25T10:57:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="270" name="test_fleet_rental_generate_rental_agreement_from_template" time="0.999" timestamp="2022-07-25T10:57:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="135" name="test_fleet_rental_remove_vehicles" time="1.123" timestamp="2022-07-25T10:57:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="151" name="test_fleet_rental_remove_vehicles_completes_rental" time="1.254" timestamp="2022-07-25T10:57:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="44" name="test_fleet_rental_reserve" time="0.935" timestamp="2022-07-25T10:57:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="64" name="test_fleet_rental_start" time="0.864" timestamp="2022-07-25T10:57:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="164" name="test_fleet_rental_vehicle_used" time="2.153" timestamp="2022-07-25T10:57:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="56" name="test_fleet_rentals_with_invalid_restrictions" time="0.784" timestamp="2022-07-25T10:57:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.models.test_fleet_rentals.FleetRentalTestCase" file="fleet_rentals/tests/models/test_fleet_rentals.py" line="103" name="test_is_first_rental_function" time="2.604" timestamp="2022-07-25T10:57:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

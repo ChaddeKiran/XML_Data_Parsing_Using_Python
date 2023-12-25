@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/tasks/test_carsharing_customers.py" name="users.tests.tasks.test_carsharing_customers.TestCustomerTasks-20220725104622" skipped="0" tests="16" time="1.990" timestamp="2022-07-25T10:47:53">
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="96" name="test_customer_profile_add_credit_card_event_to_data_pipeline_flag_off" time="0.085" timestamp="2022-07-25T10:47:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="37" name="test_customer_profile_add_credit_card_event_to_data_pipeline_flag_on" time="0.198" timestamp="2022-07-25T10:47:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="88" name="test_customer_profile_add_licence_event_to_data_pipeline_flag_off" time="0.089" timestamp="2022-07-25T10:47:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="29" name="test_customer_profile_add_license_event_to_data_pipeline_flag_on" time="0.177" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="126" name="test_customer_profile_change_event_to_data_pipeline_flag_off" time="0.078" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="82" name="test_customer_profile_create_event_to_data_pipeline_flag_off" time="0.079" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="21" name="test_customer_profile_create_event_to_data_pipeline_flag_on" time="0.158" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="113" name="test_customer_profile_delete_license_event_to_data_pipeline_flag_off" time="0.079" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="54" name="test_customer_profile_delete_license_event_to_data_pipeline_flag_on" time="0.155" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="105" name="test_customer_profile_modify_license_event_to_data_pipeline_flag_off" time="0.080" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="46" name="test_customer_profile_modify_license_event_to_data_pipeline_flag_on" time="0.159" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="67" name="test_customer_profile_pin_update_event_to_data_pipeline_flag_on" time="0.164" timestamp="2022-07-25T10:47:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="120" name="test_customer_profile_registration_fee_event_to_data_pipeline_flag_off" time="0.082" timestamp="2022-07-25T10:47:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="61" name="test_customer_profile_registration_fee_event_to_data_pipeline_flag_on" time="0.166" timestamp="2022-07-25T10:47:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="134" name="test_customer_profile_rfid_update_event_to_data_pipeline_flag_off" time="0.080" timestamp="2022-07-25T10:47:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_carsharing_customers.TestCustomerTasks" file="users/tests/tasks/test_carsharing_customers.py" line="75" name="test_customer_profile_rfid_update_event_to_data_pipeline_flag_on" time="0.162" timestamp="2022-07-25T10:47:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

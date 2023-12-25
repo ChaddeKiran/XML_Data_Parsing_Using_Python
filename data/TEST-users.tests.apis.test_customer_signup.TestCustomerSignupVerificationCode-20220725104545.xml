@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customer_signup.py" name="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode-20220725104545" skipped="0" tests="16" time="9.298" timestamp="2022-07-25T10:52:20">
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="353" name="test_case_insensitive_verification_customer_with_right_verification_code" time="0.665" timestamp="2022-07-25T10:52:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="324" name="test_customer_with_verification_disabled_ridesharing_service" time="0.779" timestamp="2022-07-25T10:52:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="319" name="test_customer_with_verification_enabled_ridesharing_service" time="0.723" timestamp="2022-07-25T10:52:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="244" name="test_signup_and_login_with_MFA" time="0.470" timestamp="2022-07-25T10:52:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="229" name="test_signup_fails_MFA_enabled_and_omit_device_id" time="0.158" timestamp="2022-07-25T10:52:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="293" name="test_staff_login_sso_required" time="0.354" timestamp="2022-07-25T10:52:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="423" name="test_verification_code_after_exceeding_retry_limit" time="0.971" timestamp="2022-07-25T10:52:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="367" name="test_verification_code_expire_after_x_retries" time="0.626" timestamp="2022-07-25T10:52:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="398" name="test_verification_code_rules_changed_after_generation" time="0.718" timestamp="2022-07-25T10:52:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="387" name="test_verification_code_with_generated_with_certain_chars" time="0.530" timestamp="2022-07-25T10:52:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="480" name="test_verification_code_within_retry_limit" time="1.031" timestamp="2022-07-25T10:52:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="547" name="test_verify_customer_with_debug_success" time="0.474" timestamp="2022-07-25T10:52:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="337" name="test_verify_customer_with_empty_verification_code" time="0.444" timestamp="2022-07-25T10:52:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="534" name="test_verify_customer_with_no_debug_verify_attempt" time="0.441" timestamp="2022-07-25T10:52:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="330" name="test_verify_customer_with_no_verification_code" time="0.469" timestamp="2022-07-25T10:52:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customer_signup.TestCustomerSignupVerificationCode" file="users/tests/apis/test_customer_signup.py" line="345" name="test_verify_customer_with_wrong_verification_code" time="0.443" timestamp="2022-07-25T10:52:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

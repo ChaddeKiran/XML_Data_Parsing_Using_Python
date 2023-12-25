@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" name="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestRegisterMensaMobileDeviceViewSet-20220725104740" skipped="0" tests="5" time="1.546" timestamp="2022-07-25T10:59:29">
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestRegisterMensaMobileDeviceViewSet" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="54" name="test_bad_data" time="0.351" timestamp="2022-07-25T10:59:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestRegisterMensaMobileDeviceViewSet" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="67" name="test_existing_device" time="0.299" timestamp="2022-07-25T10:59:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestRegisterMensaMobileDeviceViewSet" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="78" name="test_handling_duplicate_mobile_device_per_customer" time="0.315" timestamp="2022-07-25T10:59:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestRegisterMensaMobileDeviceViewSet" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="60" name="test_new_device" time="0.299" timestamp="2022-07-25T10:59:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestRegisterMensaMobileDeviceViewSet" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="49" name="test_unauthenticated" time="0.282" timestamp="2022-07-25T10:59:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

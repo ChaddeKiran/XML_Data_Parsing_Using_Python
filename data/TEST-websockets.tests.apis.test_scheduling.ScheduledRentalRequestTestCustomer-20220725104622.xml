@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="websockets/tests/apis/test_scheduling.py" name="websockets.tests.apis.test_scheduling.ScheduledRentalRequestTestCustomer-20220725104622" skipped="0" tests="2" time="2.395" timestamp="2022-07-25T11:06:18">
+	<testcase classname="websockets.tests.apis.test_scheduling.ScheduledRentalRequestTestCustomer" file="websockets/tests/apis/test_scheduling.py" line="456" name="test_as_correct_customer" time="1.155" timestamp="2022-07-25T11:06:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.ScheduledRentalRequestTestCustomer" file="websockets/tests/apis/test_scheduling.py" line="467" name="test_as_wrong_customer" time="1.240" timestamp="2022-07-25T11:06:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

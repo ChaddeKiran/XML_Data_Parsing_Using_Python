@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="billing/tests/test_invoices.py" name="billing.tests.test_invoices.TestInvoicesWithPermissions-20220725104740" skipped="0" tests="1" time="0.000" timestamp="2016-01-01T01:00:00">
+	<testcase classname="billing.tests.test_invoices.TestInvoicesWithPermissions" file="billing/tests/test_invoices.py" line="684" name="test_service_manager_only_has_access_to_invoices_from_his_services" time="0.000" timestamp="2016-01-01T01:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+</testsuite>

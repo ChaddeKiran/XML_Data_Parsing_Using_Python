@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_vehicle_blocks.py" name="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPI-20220725104622" skipped="0" tests="5" time="2.975" timestamp="2022-07-25T10:56:36">
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="58" name="test_create_vehicle_block" time="0.638" timestamp="2022-07-25T10:56:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="84" name="test_create_vehicle_block_with_conflicting_times" time="0.683" timestamp="2022-07-25T10:56:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="66" name="test_create_vehicle_block_with_invalid_vin" time="0.540" timestamp="2022-07-25T10:56:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="78" name="test_create_vehicle_block_with_past_end_date" time="0.555" timestamp="2022-07-25T10:56:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="72" name="test_create_vehicle_block_with_past_start_date" time="0.559" timestamp="2022-07-25T10:56:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

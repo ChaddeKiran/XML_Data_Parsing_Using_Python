@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/apis/test_coupons.py" name="promotions.tests.apis.test_coupons.TestCouponAPIs-20220725104819" skipped="0" tests="4" time="2.204" timestamp="2022-07-25T10:53:55">
+	<testcase classname="promotions.tests.apis.test_coupons.TestCouponAPIs" file="promotions/tests/apis/test_coupons.py" line="32" name="test_create_coupon" time="0.556" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_coupons.TestCouponAPIs" file="promotions/tests/apis/test_coupons.py" line="42" name="test_create_invalid_coupon_codes" time="0.645" timestamp="2022-07-25T10:53:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_coupons.TestCouponAPIs" file="promotions/tests/apis/test_coupons.py" line="60" name="test_product_type_for_coupon_with_no_promotion_is_None" time="0.478" timestamp="2022-07-25T10:53:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_coupons.TestCouponAPIs" file="promotions/tests/apis/test_coupons.py" line="21" name="test_unauthorized" time="0.525" timestamp="2022-07-25T10:53:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v2/test_services.py" name="services.tests.apis.v2.test_services.TestServicesAPIAnonymous-20220725104713" skipped="0" tests="5" time="0.348" timestamp="2022-07-25T10:48:37">
+	<testcase classname="services.tests.apis.v2.test_services.TestServicesAPIAnonymous" file="services/tests/apis/v2/test_services.py" line="285" name="test_delete" time="0.069" timestamp="2022-07-25T10:48:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestServicesAPIAnonymous" file="services/tests/apis/v2/test_services.py" line="289" name="test_get_exclusive_service" time="0.126" timestamp="2022-07-25T10:48:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestServicesAPIAnonymous" file="services/tests/apis/v2/test_services.py" line="277" name="test_patch" time="0.071" timestamp="2022-07-25T10:48:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestServicesAPIAnonymous" file="services/tests/apis/v2/test_services.py" line="273" name="test_post" time="0.037" timestamp="2022-07-25T10:48:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestServicesAPIAnonymous" file="services/tests/apis/v2/test_services.py" line="281" name="test_put" time="0.045" timestamp="2022-07-25T10:48:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

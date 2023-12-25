@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rest_utils/tests/test_paginator.py" name="rest_utils.tests.test_paginator.TestV3StandardPagination-20220725105046" skipped="0" tests="4" time="1.465" timestamp="2022-07-25T11:08:38">
+	<testcase classname="rest_utils.tests.test_paginator.TestV3StandardPagination" file="rest_utils/tests/test_paginator.py" line="32" name="test_response_with_no_page_size_specified" time="0.380" timestamp="2022-07-25T11:08:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleClass'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_paginator.TestV3StandardPagination" file="rest_utils/tests/test_paginator.py" line="43" name="test_response_with_non_numeric_page_size" time="0.339" timestamp="2022-07-25T11:08:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_paginator.TestV3StandardPagination" file="rest_utils/tests/test_paginator.py" line="55" name="test_response_with_positive_page_size_specified" time="0.385" timestamp="2022-07-25T11:08:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_paginator.TestV3StandardPagination" file="rest_utils/tests/test_paginator.py" line="20" name="test_response_with_zero_page_size" time="0.360" timestamp="2022-07-25T11:08:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

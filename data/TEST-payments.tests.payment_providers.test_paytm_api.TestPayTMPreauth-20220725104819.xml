@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_paytm_api.py" name="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth-20220725104819" skipped="0" tests="16" time="13.303" timestamp="2022-07-25T10:49:18">
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="245" name="test_charge_customer_bad_phone" time="0.841" timestamp="2022-07-25T10:49:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="294" name="test_charge_customer_error" time="0.800" timestamp="2022-07-25T10:49:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="271" name="test_charge_customer_failure" time="0.967" timestamp="2022-07-25T10:49:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="222" name="test_charge_customer_success" time="0.828" timestamp="2022-07-25T10:49:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="110" name="test_check_balance_bad_response" time="0.907" timestamp="2022-07-25T10:49:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="97" name="test_check_balance_insufficient" time="0.858" timestamp="2022-07-25T10:49:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="82" name="test_check_balance_success" time="0.812" timestamp="2022-07-25T10:49:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="157" name="test_place_hold_bad_response" time="0.776" timestamp="2022-07-25T10:49:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="187" name="test_place_hold_error_deletes_trip" time="0.695" timestamp="2022-07-25T10:49:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="172" name="test_place_hold_error_response" time="0.765" timestamp="2022-07-25T10:49:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="140" name="test_place_hold_failure" time="0.811" timestamp="2022-07-25T10:49:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="123" name="test_place_hold_success" time="0.795" timestamp="2022-07-25T10:49:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="317" name="test_refund" time="0.834" timestamp="2022-07-25T10:49:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="202" name="test_release_hold" time="0.847" timestamp="2022-07-25T10:49:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="346" name="test_release_hold_if_full_promo_trip" time="0.864" timestamp="2022-07-25T10:49:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMPreauth" file="payments/tests/payment_providers/test_paytm_api.py" line="375" name="test_trip_cancellation_charges" time="0.902" timestamp="2022-07-25T10:49:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_pricing.py" name="rentals.tests.apis.v3.test_pricing.TestScheduledRentalPricingEstimateAPI-20220725104819" skipped="0" tests="3" time="1.636" timestamp="2022-07-25T11:05:31">
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestScheduledRentalPricingEstimateAPI" file="rentals/tests/apis/v3/test_pricing.py" line="886" name="test_pricing_estimate_vehicle_type_rule" time="0.692" timestamp="2022-07-25T11:05:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestScheduledRentalPricingEstimateAPI" file="rentals/tests/apis/v3/test_pricing.py" line="917" name="test_pricing_estimate_with_membership_rule" time="0.578" timestamp="2022-07-25T11:05:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestScheduledRentalPricingEstimateAPI" file="rentals/tests/apis/v3/test_pricing.py" line="872" name="test_pricing_estimate_without_params" time="0.366" timestamp="2022-07-25T11:05:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

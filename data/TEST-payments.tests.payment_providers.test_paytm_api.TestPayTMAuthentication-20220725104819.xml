@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_paytm_api.py" name="payments.tests.payment_providers.test_paytm_api.TestPayTMAuthentication-20220725104819" skipped="0" tests="8" time="2.232" timestamp="2022-07-25T10:49:04">
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMAuthentication" file="payments/tests/payment_providers/test_paytm_api.py" line="419" name="test_paytm_get_otp" time="0.285" timestamp="2022-07-25T10:49:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMAuthentication" file="payments/tests/payment_providers/test_paytm_api.py" line="485" name="test_paytm_get_otp_invalid_authorization" time="0.261" timestamp="2022-07-25T10:49:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMAuthentication" file="payments/tests/payment_providers/test_paytm_api.py" line="464" name="test_paytm_get_otp_invalid_mobile" time="0.274" timestamp="2022-07-25T10:49:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMAuthentication" file="payments/tests/payment_providers/test_paytm_api.py" line="535" name="test_paytm_get_otp_invalid_wallet_type" time="0.278" timestamp="2022-07-25T10:49:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMAuthentication" file="payments/tests/payment_providers/test_paytm_api.py" line="506" name="test_paytm_get_otp_login_failed" time="0.291" timestamp="2022-07-25T10:49:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMAuthentication" file="payments/tests/payment_providers/test_paytm_api.py" line="527" name="test_paytm_get_otp_missing_phone_number" time="0.279" timestamp="2022-07-25T10:49:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMAuthentication" file="payments/tests/payment_providers/test_paytm_api.py" line="441" name="test_paytm_get_otp_v2_url" time="0.299" timestamp="2022-07-25T10:49:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_paytm_api.TestPayTMAuthentication" file="payments/tests/payment_providers/test_paytm_api.py" line="416" name="test_url" time="0.265" timestamp="2022-07-25T10:49:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

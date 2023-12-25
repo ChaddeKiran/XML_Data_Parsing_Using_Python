@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_staff.py" name="users.tests.apis.test_staff.TestStaffAPIViaBusinessAdmin-20220725104545" skipped="0" tests="5" time="3.776" timestamp="2022-07-25T10:56:54">
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIViaBusinessAdmin" file="users/tests/apis/test_staff.py" line="493" name="test_create_business_admin_with_assigned_business_entity" time="0.659" timestamp="2022-07-25T10:56:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIViaBusinessAdmin" file="users/tests/apis/test_staff.py" line="508" name="test_create_business_admin_with_unknown_business_entity" time="0.452" timestamp="2022-07-25T10:56:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIViaBusinessAdmin" file="users/tests/apis/test_staff.py" line="561" name="test_create_dispatcher_manager_user" time="0.352" timestamp="2022-07-25T10:56:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIViaBusinessAdmin" file="users/tests/apis/test_staff.py" line="523" name="test_edit_business_admin_with_new_business_entity" time="0.968" timestamp="2022-07-25T10:56:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_staff.TestStaffAPIViaBusinessAdmin" file="users/tests/apis/test_staff.py" line="576" name="test_filter_business_admin_with_business_entities" time="1.344" timestamp="2022-07-25T10:56:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

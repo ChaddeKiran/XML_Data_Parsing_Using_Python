@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/tasks/test_payments.py" name="payments.tests.tasks.test_payments.TestSendRefundEmailReceiptData-20220725104819" skipped="0" tests="3" time="1.260" timestamp="2022-07-25T10:49:52">
+	<testcase classname="payments.tests.tasks.test_payments.TestSendRefundEmailReceiptData" file="payments/tests/tasks/test_payments.py" line="47" name="test__build_refund_email_data" time="0.411" timestamp="2022-07-25T10:49:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestSendRefundEmailReceiptData" file="payments/tests/tasks/test_payments.py" line="59" name="test_build_refund_email_data_no_refund_reason" time="0.432" timestamp="2022-07-25T10:49:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestSendRefundEmailReceiptData" file="payments/tests/tasks/test_payments.py" line="54" name="test_build_refund_email_data_partial_refund" time="0.418" timestamp="2022-07-25T10:49:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

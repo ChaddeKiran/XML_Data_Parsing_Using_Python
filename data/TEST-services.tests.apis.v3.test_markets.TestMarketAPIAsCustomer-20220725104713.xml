@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_markets.py" name="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer-20220725104713" skipped="0" tests="14" time="7.573" timestamp="2022-07-25T10:50:19">
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="34" name="test_market_list" time="0.750" timestamp="2022-07-25T10:50:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="42" name="test_market_list_with_exclusive_on_demand_service" time="0.887" timestamp="2022-07-25T10:50:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="64" name="test_market_list_with_exclusive_scheduled_service" time="0.444" timestamp="2022-07-25T10:50:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="73" name="test_market_patch" time="0.326" timestamp="2022-07-25T10:50:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="133" name="test_market_returns_default_for_jumio_enabled_if_not_set" time="0.536" timestamp="2022-07-25T10:50:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="113" name="test_market_returns_default_identity_verification_system_if_not_set" time="0.490" timestamp="2022-07-25T10:50:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="162" name="test_market_returns_identity_verification_required_false_if_not_set_in_market_or_tenant_config" time="0.501" timestamp="2022-07-25T10:50:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="144" name="test_market_returns_identity_verification_required_true_if_set" time="0.482" timestamp="2022-07-25T10:50:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="153" name="test_market_returns_identity_verification_required_true_if_set_only_in_tenant_config" time="0.485" timestamp="2022-07-25T10:50:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="122" name="test_market_returns_jumio_enabled_if_set" time="0.524" timestamp="2022-07-25T10:50:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="104" name="test_market_returns_market_identity_verification_system_if_set" time="0.483" timestamp="2022-07-25T10:50:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="78" name="test_market_with_carsharing_services" time="0.727" timestamp="2022-07-25T10:50:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="91" name="test_market_with_carsharing_services_scheduled_rental_requests_master_disabled" time="0.706" timestamp="2022-07-25T10:50:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIAsCustomer" file="services/tests/apis/v3/test_markets.py" line="30" name="test_url" time="0.233" timestamp="2022-07-25T10:50:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" name="vehicles.tests.apis.v2.test_carsharing_vehicles.TestDiscoverVehicleAPIAsCustomer-20220725104622" skipped="0" tests="2" time="1.271" timestamp="2022-07-25T10:59:55">
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestDiscoverVehicleAPIAsCustomer" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="744" name="test_discover_vehicle_without_customer_having_rental_with_the_vehicle" time="0.906" timestamp="2022-07-25T10:59:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestDiscoverVehicleAPIAsCustomer" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="740" name="test_discover_vehicle_without_vehicle_having_rental" time="0.365" timestamp="2022-07-25T10:59:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

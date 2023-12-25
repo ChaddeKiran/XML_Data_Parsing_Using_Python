@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/apis/test_credits.py" name="promotions.tests.apis.test_credits.CreditBalanceWithRegistrationCredits-20220725104819" skipped="0" tests="7" time="8.740" timestamp="2022-07-25T10:54:08">
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceWithRegistrationCredits" file="promotions/tests/apis/test_credits.py" line="259" name="test_registration_credit_truncation_only_truncates_registration_credits" time="1.079" timestamp="2022-07-25T10:54:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceWithRegistrationCredits" file="promotions/tests/apis/test_credits.py" line="188" name="test_registration_credits_do_not_show_up_in_creditbalance_if_customer_registration_is_complete" time="1.077" timestamp="2022-07-25T10:54:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceWithRegistrationCredits" file="promotions/tests/apis/test_credits.py" line="177" name="test_registration_credits_show_up_in_creditbalance_if_customer_is_not_registered" time="0.995" timestamp="2022-07-25T10:54:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceWithRegistrationCredits" file="promotions/tests/apis/test_credits.py" line="226" name="test_registration_with_fee_equal_to_credit_has_no_charge_and_zero_credit_leftover" time="1.335" timestamp="2022-07-25T10:54:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceWithRegistrationCredits" file="promotions/tests/apis/test_credits.py" line="202" name="test_registration_with_fee_greater_than_credit_charges_difference" time="1.450" timestamp="2022-07-25T10:54:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceWithRegistrationCredits" file="promotions/tests/apis/test_credits.py" line="213" name="test_registration_with_fee_less_than_credit_has_no_charge_and_zero_credit_leftover" time="1.383" timestamp="2022-07-25T10:54:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_credits.CreditBalanceWithRegistrationCredits" file="promotions/tests/apis/test_credits.py" line="239" name="test_registration_with_zero_fee_has_no_charge_and_zero_credit_leftover" time="1.421" timestamp="2022-07-25T10:54:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_interface.py" name="hardware_sdk_otakeys.tests.test_interface.TestRemoveAccessDevice-20220725104740" skipped="0" tests="2" time="0.063" timestamp="2022-07-25T11:00:56">
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestRemoveAccessDevice" file="hardware_sdk_otakeys/tests/test_interface.py" line="134" name="test_remove_access_device" time="0.032" timestamp="2022-07-25T11:00:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestRemoveAccessDevice" file="hardware_sdk_otakeys/tests/test_interface.py" line="149" name="test_remove_access_device_with_application_error" time="0.031" timestamp="2022-07-25T11:00:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

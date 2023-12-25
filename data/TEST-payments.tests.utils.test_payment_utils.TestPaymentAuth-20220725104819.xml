@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_payment_utils.py" name="payments.tests.utils.test_payment_utils.TestPaymentAuth-20220725104819" skipped="0" tests="2" time="0.735" timestamp="2022-07-25T10:52:15">
+	<testcase classname="payments.tests.utils.test_payment_utils.TestPaymentAuth" file="payments/tests/utils/test_payment_utils.py" line="558" name="test_payment_exemption" time="0.355" timestamp="2022-07-25T10:52:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestPaymentAuth" file="payments/tests/utils/test_payment_utils.py" line="551" name="test_zero_auth_fails" time="0.380" timestamp="2022-07-25T10:52:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

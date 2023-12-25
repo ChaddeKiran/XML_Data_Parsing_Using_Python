@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestCustomerSearch-20220725104545" skipped="0" tests="8" time="7.423" timestamp="2022-07-25T10:52:54">
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearch" file="users/tests/apis/test_customers.py" line="857" name="test_find_nothing" time="0.903" timestamp="2022-07-25T10:52:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.customers.Customer'> CustomerQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearch" file="users/tests/apis/test_customers.py" line="868" name="test_search_by_email" time="0.814" timestamp="2022-07-25T10:52:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearch" file="users/tests/apis/test_customers.py" line="861" name="test_search_by_full_name" time="0.804" timestamp="2022-07-25T10:52:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearch" file="users/tests/apis/test_customers.py" line="871" name="test_search_by_id" time="1.041" timestamp="2022-07-25T10:52:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearch" file="users/tests/apis/test_customers.py" line="864" name="test_search_by_phone" time="0.886" timestamp="2022-07-25T10:52:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearch" file="users/tests/apis/test_customers.py" line="898" name="test_search_pagination_works" time="0.841" timestamp="2022-07-25T10:52:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearch" file="users/tests/apis/test_customers.py" line="903" name="test_search_pagination_works_with_no_page_size" time="0.910" timestamp="2022-07-25T10:52:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearch" file="users/tests/apis/test_customers.py" line="889" name="test_service_names_exist" time="1.225" timestamp="2022-07-25T10:52:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

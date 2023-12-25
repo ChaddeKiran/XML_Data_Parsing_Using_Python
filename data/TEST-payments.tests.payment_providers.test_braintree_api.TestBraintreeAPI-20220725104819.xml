@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_braintree_api.py" name="payments.tests.payment_providers.test_braintree_api.TestBraintreeAPI-20220725104819" skipped="0" tests="7" time="0.889" timestamp="2022-07-25T10:48:57">
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBraintreeAPI" file="payments/tests/payment_providers/test_braintree_api.py" line="146" name="test_card_validation_with_3d_secure_flag_on_skips_avs_check" time="0.092" timestamp="2022-07-25T10:48:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBraintreeAPI" file="payments/tests/payment_providers/test_braintree_api.py" line="152" name="test_card_validation_with_3d_secure_flag_on_skips_cvv_check" time="0.093" timestamp="2022-07-25T10:48:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBraintreeAPI" file="payments/tests/payment_providers/test_braintree_api.py" line="87" name="test_invalidate_card" time="0.158" timestamp="2022-07-25T10:48:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBraintreeAPI" file="payments/tests/payment_providers/test_braintree_api.py" line="125" name="test_modify_braintree_customer" time="0.077" timestamp="2022-07-25T10:48:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBraintreeAPI" file="payments/tests/payment_providers/test_braintree_api.py" line="113" name="test_no_invalidate_card" time="0.162" timestamp="2022-07-25T10:48:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBraintreeAPI" file="payments/tests/payment_providers/test_braintree_api.py" line="100" name="test_no_invalidate_card_not_in_invalidate_card_status_codes" time="0.181" timestamp="2022-07-25T10:48:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBraintreeAPI" file="payments/tests/payment_providers/test_braintree_api.py" line="73" name="test_validate_card" time="0.126" timestamp="2022-07-25T10:48:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

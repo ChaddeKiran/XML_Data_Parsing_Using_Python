@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="billing/tests/utils/test_invoice_utils.py" name="billing.tests.utils.test_invoice_utils.TestChargeInvoice-20220725104740" skipped="0" tests="2" time="0.117" timestamp="2022-07-25T10:53:07">
+	<testcase classname="billing.tests.utils.test_invoice_utils.TestChargeInvoice" file="billing/tests/utils/test_invoice_utils.py" line="25" name="test_heirarchy_of_cards" time="0.075" timestamp="2022-07-25T10:53:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.utils.test_invoice_utils.TestChargeInvoice" file="billing/tests/utils/test_invoice_utils.py" line="62" name="test_invoice_amount_precision" time="0.042" timestamp="2022-07-25T10:53:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

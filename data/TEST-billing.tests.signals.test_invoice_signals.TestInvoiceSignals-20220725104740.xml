@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="billing/tests/signals/test_invoice_signals.py" name="billing.tests.signals.test_invoice_signals.TestInvoiceSignals-20220725104740" skipped="0" tests="1" time="0.334" timestamp="2022-07-25T10:51:48">
+	<testcase classname="billing.tests.signals.test_invoice_signals.TestInvoiceSignals" file="billing/tests/signals/test_invoice_signals.py" line="9" name="test_send_invoice_events_to_data_pipeline" time="0.334" timestamp="2022-07-25T10:51:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

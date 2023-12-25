@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_create_trip.py" name="trips.tests.apis.test_create_trip.TestCreateKioskTrip-20220725104713" skipped="0" tests="2" time="0.788" timestamp="2022-07-25T10:53:47">
+	<testcase classname="trips.tests.apis.test_create_trip.TestCreateKioskTrip" file="trips/tests/apis/test_create_trip.py" line="398" name="test_create_trip_kiosk" time="0.454" timestamp="2022-07-25T10:53:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestCreateKioskTrip" file="trips/tests/apis/test_create_trip.py" line="411" name="test_create_trip_kiosk_no_phone_number" time="0.334" timestamp="2022-07-25T10:53:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

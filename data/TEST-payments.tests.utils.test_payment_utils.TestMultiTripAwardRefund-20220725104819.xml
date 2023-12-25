@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_payment_utils.py" name="payments.tests.utils.test_payment_utils.TestMultiTripAwardRefund-20220725104819" skipped="0" tests="3" time="0.710" timestamp="2022-07-25T10:52:14">
+	<testcase classname="payments.tests.utils.test_payment_utils.TestMultiTripAwardRefund" file="payments/tests/utils/test_payment_utils.py" line="709" name="test_multi_trip_award_credit_is_refunded" time="0.296" timestamp="2022-07-25T10:52:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestMultiTripAwardRefund" file="payments/tests/utils/test_payment_utils.py" line="655" name="test_refund_payment_does_not_change_num_completed_trips" time="0.216" timestamp="2022-07-25T10:52:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestMultiTripAwardRefund" file="payments/tests/utils/test_payment_utils.py" line="678" name="test_refund_payment_increases_credit_balance_by_multi_trip_award_credit_amount" time="0.199" timestamp="2022-07-25T10:52:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

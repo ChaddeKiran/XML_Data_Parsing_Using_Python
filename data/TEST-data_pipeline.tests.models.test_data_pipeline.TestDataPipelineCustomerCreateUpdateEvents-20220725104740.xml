@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="data_pipeline/tests/models/test_data_pipeline.py" name="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineCustomerCreateUpdateEvents-20220725104740" skipped="0" tests="6" time="1.509" timestamp="2022-07-25T10:54:02">
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineCustomerCreateUpdateEvents" file="data_pipeline/tests/models/test_data_pipeline.py" line="388" name="test_mvr_verified_date_is_part_of_member_update" time="0.168" timestamp="2022-07-25T10:54:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:54:01.345570) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineCustomerCreateUpdateEvents" file="data_pipeline/tests/models/test_data_pipeline.py" line="312" name="test_send_member_update_for_carsharing" time="0.257" timestamp="2022-07-25T10:54:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineCustomerCreateUpdateEvents" file="data_pipeline/tests/models/test_data_pipeline.py" line="396" name="test_send_member_update_for_carsharing_driver_lic_address" time="0.321" timestamp="2022-07-25T10:54:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineCustomerCreateUpdateEvents" file="data_pipeline/tests/models/test_data_pipeline.py" line="477" name="test_send_member_update_for_common" time="0.102" timestamp="2022-07-25T10:54:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineCustomerCreateUpdateEvents" file="data_pipeline/tests/models/test_data_pipeline.py" line="549" name="test_send_member_update_for_common_pin_number" time="0.294" timestamp="2022-07-25T10:54:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestDataPipelineCustomerCreateUpdateEvents" file="data_pipeline/tests/models/test_data_pipeline.py" line="296" name="test_user_group_updates_result_in_events_to_data_pipeline_with_latest_timestamp" time="0.366" timestamp="2022-07-25T10:54:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

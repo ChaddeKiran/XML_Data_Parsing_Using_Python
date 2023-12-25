@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_scheduling.py" name="rentals.tests.tasks.test_scheduling.TestDebitFailedPaymentsFlow-20220725105046" skipped="0" tests="5" time="7.669" timestamp="2022-07-25T11:06:17">
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestDebitFailedPaymentsFlow" file="rentals/tests/tasks/test_scheduling.py" line="1309" name="test_debit_failed_new_cc" time="1.030" timestamp="2022-07-25T11:06:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestDebitFailedPaymentsFlow" file="rentals/tests/tasks/test_scheduling.py" line="1323" name="test_debit_failed_without_new_card" time="0.874" timestamp="2022-07-25T11:06:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestDebitFailedPaymentsFlow" file="rentals/tests/tasks/test_scheduling.py" line="1372" name="test_exempted_customer_zero_charge" time="0.454" timestamp="2022-07-25T11:06:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestDebitFailedPaymentsFlow" file="rentals/tests/tasks/test_scheduling.py" line="1335" name="test_rental_failed_new_cc_added" time="2.409" timestamp="2022-07-25T11:06:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.booked_at received a naive datetime (2017-01-20 00:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2017-01-20 01:40:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestDebitFailedPaymentsFlow" file="rentals/tests/tasks/test_scheduling.py" line="1392" name="test_srr_failed_hold_retry" time="2.902" timestamp="2022-07-25T11:06:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

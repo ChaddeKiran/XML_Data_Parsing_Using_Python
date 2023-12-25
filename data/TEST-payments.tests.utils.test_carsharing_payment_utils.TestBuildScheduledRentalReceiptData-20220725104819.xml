@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestBuildScheduledRentalReceiptData-20220725104819" skipped="0" tests="2" time="0.313" timestamp="2022-07-25T10:50:22">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBuildScheduledRentalReceiptData" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4352" name="test_building_receipt_data" time="0.124" timestamp="2022-07-25T10:50:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBuildScheduledRentalReceiptData" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4386" name="test_building_receipt_data_overage" time="0.189" timestamp="2022-07-25T10:50:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

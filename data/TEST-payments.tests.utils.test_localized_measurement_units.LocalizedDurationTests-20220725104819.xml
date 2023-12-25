@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_localized_measurement_units.py" name="payments.tests.utils.test_localized_measurement_units.LocalizedDurationTests-20220725104819" skipped="0" tests="2" time="0.042" timestamp="2022-07-25T10:52:08">
+	<testcase classname="payments.tests.utils.test_localized_measurement_units.LocalizedDurationTests" file="payments/tests/utils/test_localized_measurement_units.py" line="33" name="test_localization_for_days" time="0.021" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_localized_measurement_units.LocalizedDurationTests" file="payments/tests/utils/test_localized_measurement_units.py" line="16" name="test_localization_for_weeks" time="0.021" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

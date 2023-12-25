@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DeleteCreditCard-20220725104545" skipped="0" tests="1" time="1.358" timestamp="2022-07-25T10:57:23">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2DeleteCreditCard" file="users/tests/apis/v2/test_carsharing_customers.py" line="4152" name="test_delete_card" time="1.358" timestamp="2022-07-25T10:57:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

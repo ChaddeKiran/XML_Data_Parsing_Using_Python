@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/models/test_credits.py" name="promotions.tests.models.test_credits.CreditBalanceModelTestCase-20220725104819" skipped="0" tests="13" time="0.795" timestamp="2022-07-25T10:58:46">
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="518" name="test_deduct_amount_default_behaviour" time="0.038" timestamp="2022-07-25T10:58:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="528" name="test_deduct_amount_for_product_specific_promotion" time="0.071" timestamp="2022-07-25T10:58:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="560" name="test_deduct_amount_for_promotion_with_multiple_product_types" time="0.077" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="593" name="test_deduct_amount_returns_no_used_coupons_for_product_specific_promotion" time="0.071" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="615" name="test_usable_balance_amount_across_any_promotion_product_types_default_behaviour" time="0.061" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="631" name="test_usable_balance_amount_across_any_promotion_product_types_including_multi_trip_promotions" time="0.083" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="611" name="test_usable_balance_amount_default_behaviour" time="0.029" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="387" name="test_usable_balance_amount_of_next_credit_type_default_behaviour" time="0.029" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="391" name="test_usable_balance_amount_of_next_credit_type_for_product_specific_promotion" time="0.068" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="463" name="test_usable_balance_amount_of_next_credit_type_for_product_specific_promotion_with_mta_credits" time="0.082" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="494" name="test_usable_balance_amount_of_next_credit_type_returns_zero_when_prod_specific_promo_credits_unavailable" time="0.090" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="416" name="test_usable_balance_amount_when_next_credit_type_is_multi_trip_flat_for_product_specific_promotion" time="0.045" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_credits.CreditBalanceModelTestCase" file="promotions/tests/models/test_credits.py" line="436" name="test_usable_balance_amount_when_next_credit_type_is_multi_trip_percent_for_product_specific_promotion" time="0.051" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

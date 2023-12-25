@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" name="vehicles.tests.apis.v3.test_carsharing_vehicles.TestSupplierVehiclesAPISerializer-20220725104622" skipped="0" tests="2" time="1.426" timestamp="2022-07-25T11:01:14">
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestSupplierVehiclesAPISerializer" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1184" name="test_vehicles_list_api_for_supplier_serializer" time="0.684" timestamp="2022-07-25T11:01:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestSupplierVehiclesAPISerializer" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1204" name="test_vehicles_list_api_for_v3_api_standards" time="0.742" timestamp="2022-07-25T11:01:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

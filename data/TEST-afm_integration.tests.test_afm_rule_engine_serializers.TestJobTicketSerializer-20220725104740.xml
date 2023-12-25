@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="afm_integration/tests/test_afm_rule_engine_serializers.py" name="afm_integration.tests.test_afm_rule_engine_serializers.TestJobTicketSerializer-20220725104740" skipped="0" tests="4" time="3.468" timestamp="2022-07-25T10:49:50">
+	<testcase classname="afm_integration.tests.test_afm_rule_engine_serializers.TestJobTicketSerializer" file="afm_integration/tests/test_afm_rule_engine_serializers.py" line="120" name="test_raise_when_no_service_type" time="0.665" timestamp="2022-07-25T10:49:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_afm_rule_engine_serializers.TestJobTicketSerializer" file="afm_integration/tests/test_afm_rule_engine_serializers.py" line="25" name="test_serialize" time="0.663" timestamp="2022-07-25T10:49:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_afm_rule_engine_serializers.TestJobTicketSerializer" file="afm_integration/tests/test_afm_rule_engine_serializers.py" line="53" name="test_serialize_multiple_services" time="1.418" timestamp="2022-07-25T10:49:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_afm_rule_engine_serializers.TestJobTicketSerializer" file="afm_integration/tests/test_afm_rule_engine_serializers.py" line="92" name="test_serialize_no_service" time="0.723" timestamp="2022-07-25T10:49:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

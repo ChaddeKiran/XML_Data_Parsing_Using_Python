@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="uber_integration/tests/test_rentals_api.py" name="uber_integration.tests.test_rentals_api.UberApiAuthenticationTest-20220725104545" skipped="0" tests="3" time="0.116" timestamp="2022-07-25T10:51:49">
+	<testcase classname="uber_integration.tests.test_rentals_api.UberApiAuthenticationTest" file="uber_integration/tests/test_rentals_api.py" line="150" name="test_invalid_token_sig" time="0.064" timestamp="2022-07-25T10:51:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_rentals_api.UberApiAuthenticationTest" file="uber_integration/tests/test_rentals_api.py" line="171" name="test_no_token" time="0.015" timestamp="2022-07-25T10:51:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_rentals_api.UberApiAuthenticationTest" file="uber_integration/tests/test_rentals_api.py" line="141" name="test_valid_token" time="0.037" timestamp="2022-07-25T10:51:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'rentals.models.rentals_models.Rental'> RentalQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+</testsuite>

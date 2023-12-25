@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_apis.py" name="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCaseAsSuperUser-20220725104622" skipped="0" tests="4" time="1.602" timestamp="2022-07-25T10:57:42">
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCaseAsSuperUser" file="vehicle_lifecycle/tests/test_apis.py" line="47" name="test_get_life_cycle" time="0.443" timestamp="2022-07-25T10:57:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCaseAsSuperUser" file="vehicle_lifecycle/tests/test_apis.py" line="62" name="test_get_life_cycle_by_id" time="0.414" timestamp="2022-07-25T10:57:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCaseAsSuperUser" file="vehicle_lifecycle/tests/test_apis.py" line="76" name="test_get_life_cycle_with_stages" time="0.372" timestamp="2022-07-25T10:57:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCaseAsSuperUser" file="vehicle_lifecycle/tests/test_apis.py" line="91" name="test_get_life_cycle_with_stages_and_steps" time="0.373" timestamp="2022-07-25T10:57:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

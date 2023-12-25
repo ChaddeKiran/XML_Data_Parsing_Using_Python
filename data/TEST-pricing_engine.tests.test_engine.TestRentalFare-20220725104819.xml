@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pricing_engine/tests/test_engine.py" name="pricing_engine.tests.test_engine.TestRentalFare-20220725104819" skipped="0" tests="4" time="3.172" timestamp="2022-07-25T10:53:24">
+	<testcase classname="pricing_engine.tests.test_engine.TestRentalFare" file="pricing_engine/tests/test_engine.py" line="591" name="test_business_entity_rule_applied_to_business_rental" time="1.279" timestamp="2022-07-25T10:53:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.test_engine.TestRentalFare" file="pricing_engine/tests/test_engine.py" line="621" name="test_business_entity_rule_applied_to_business_scheduled_rental" time="1.216" timestamp="2022-07-25T10:53:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.test_engine.TestRentalFare" file="pricing_engine/tests/test_engine.py" line="653" name="test_business_entity_set_pricing_rule" time="0.539" timestamp="2022-07-25T10:53:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.test_engine.TestRentalFare" file="pricing_engine/tests/test_engine.py" line="570" name="test_fare_calculation_for_rental_includes_trust_and_safety_fee" time="0.139" timestamp="2022-07-25T10:53:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

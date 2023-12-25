@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_continental/tests/test_vehicle_register_deregister.py" name="hardware_sdk_continental.tests.test_vehicle_register_deregister.TestContinentalVehicleRegisterDeregister-20220725104740" skipped="0" tests="3" time="2.050" timestamp="2022-07-25T10:58:03">
+	<testcase classname="hardware_sdk_continental.tests.test_vehicle_register_deregister.TestContinentalVehicleRegisterDeregister" file="hardware_sdk_continental/tests/test_vehicle_register_deregister.py" line="74" name="test_vehicle_registration_and_activation" time="0.749" timestamp="2022-07-25T10:58:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_vehicle_register_deregister.TestContinentalVehicleRegisterDeregister" file="hardware_sdk_continental/tests/test_vehicle_register_deregister.py" line="38" name="test_vehicle_registration_and_deregistration" time="0.797" timestamp="2022-07-25T10:58:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_vehicle_register_deregister.TestContinentalVehicleRegisterDeregister" file="hardware_sdk_continental/tests/test_vehicle_register_deregister.py" line="61" name="test_vehicle_registration_no_vin_on_continental_backend" time="0.505" timestamp="2022-07-25T10:58:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

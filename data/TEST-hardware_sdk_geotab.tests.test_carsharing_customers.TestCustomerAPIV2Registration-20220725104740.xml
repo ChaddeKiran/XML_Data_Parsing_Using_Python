@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" name="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration-20220725104740" skipped="0" tests="12" time="12.262" timestamp="2022-07-25T10:58:19">
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="30" name="test_deassign_nfc_tag" time="1.297" timestamp="2022-07-25T10:58:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="42" name="test_invalid_geotab_nfc_tag" time="0.998" timestamp="2022-07-25T10:58:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="54" name="test_invalid_nfc_tag" time="0.669" timestamp="2022-07-25T10:58:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="66" name="test_multiple_nfc_tags" time="0.941" timestamp="2022-07-25T10:58:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="120" name="test_multiple_nfc_tags_already_assigned" time="1.389" timestamp="2022-07-25T10:58:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="90" name="test_multiple_nfc_tags_one_duplicate" time="0.928" timestamp="2022-07-25T10:58:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="105" name="test_multiple_nfc_tags_one_duplicate_ignore_case" time="0.916" timestamp="2022-07-25T10:58:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="78" name="test_multiple_nfc_tags_one_invalid" time="0.680" timestamp="2022-07-25T10:58:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="136" name="test_nfc_tags_empty" time="1.301" timestamp="2022-07-25T10:58:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="152" name="test_nfc_tags_empty_only_existing" time="1.070" timestamp="2022-07-25T10:58:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="166" name="test_nfc_tags_remove_only_generic_tag" time="1.104" timestamp="2022-07-25T10:58:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_customers.TestCustomerAPIV2Registration" file="hardware_sdk_geotab/tests/test_carsharing_customers.py" line="20" name="test_update_nfc_tag" time="0.969" timestamp="2022-07-25T10:58:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

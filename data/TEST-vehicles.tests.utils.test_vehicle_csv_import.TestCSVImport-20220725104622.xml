@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/utils/test_vehicle_csv_import.py" name="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport-20220725104622" skipped="0" tests="16" time="1.544" timestamp="2022-07-25T11:05:27">
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="57" name="test_csv_import_different_number_of_fields_in_row" time="0.112" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="71" name="test_csv_import_fleet_mismatch" time="0.056" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="30" name="test_csv_import_not_strict_vehicle_type" time="0.097" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="21" name="test_csv_import_sample" time="0.091" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="83" name="test_csv_import_vehicle_type_mismatch" time="0.053" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="215" name="test_csv_import_with_connect_to_uber_flag_having_empty_value" time="0.150" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="196" name="test_csv_import_with_connect_to_uber_flag_having_invalid_value" time="0.150" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="175" name="test_csv_import_with_connect_to_uber_flag_having_valid_value" time="0.166" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="94" name="test_csv_import_with_empty_model_year" time="0.091" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="38" name="test_csv_import_with_missing_headers" time="0.023" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="146" name="test_csv_import_with_model_year_greater_than_upper_limit" time="0.092" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="133" name="test_csv_import_with_model_year_less_than_lower_limit" time="0.089" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="120" name="test_csv_import_with_non_numeric_model_year" time="0.094" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="47" name="test_csv_import_with_unrecognized_field" time="0.091" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="107" name="test_csv_import_with_valid_model_year" time="0.095" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_csv_import.TestCSVImport" file="vehicles/tests/utils/test_vehicle_csv_import.py" line="162" name="test_csv_import_with_valid_model_year_and_column_position_not_at_end" time="0.093" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

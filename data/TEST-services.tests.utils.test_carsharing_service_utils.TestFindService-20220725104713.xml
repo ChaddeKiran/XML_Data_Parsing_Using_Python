@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/utils/test_carsharing_service_utils.py" name="services.tests.utils.test_carsharing_service_utils.TestFindService-20220725104713" skipped="0" tests="18" time="17.771" timestamp="2022-07-25T10:51:37">
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="311" name="test_cache_behaviour_when_vehicle_belonging_to_non_exclusive_service_is_also_added_to_exclusive_service" time="1.268" timestamp="2022-07-25T10:51:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="383" name="test_cache_behaviour_when_vehicle_is_added_to_one_more_vehicle_group" time="1.243" timestamp="2022-07-25T10:51:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="251" name="test_cache_exclusive" time="0.613" timestamp="2022-07-25T10:51:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="283" name="test_cache_nonexclusive" time="0.235" timestamp="2022-07-25T10:51:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="118" name="test_customer_services_when_user_is_part_of_default_usergroup_of_exclusive_service" time="0.568" timestamp="2022-07-25T10:51:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="130" name="test_customer_station_services_when_user_is_part_of_default_usergroup_of_exclusive_service" time="0.615" timestamp="2022-07-25T10:51:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="89" name="test_exclusive" time="0.871" timestamp="2022-07-25T10:51:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="143" name="test_non_matching" time="0.256" timestamp="2022-07-25T10:51:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="47" name="test_nonexclusive" time="0.809" timestamp="2022-07-25T10:51:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="217" name="test_ranking_exclusive" time="1.258" timestamp="2022-07-25T10:51:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="179" name="test_ranking_nonexclusive" time="1.223" timestamp="2022-07-25T10:51:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="149" name="test_user_in_system_rfid" time="1.141" timestamp="2022-07-25T10:51:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="576" name="test_with_rental_mode_business_for_anonymous_customer" time="1.074" timestamp="2022-07-25T10:51:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="533" name="test_with_rental_mode_business_for_hybrid_customer" time="1.645" timestamp="2022-07-25T10:51:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="556" name="test_with_rental_mode_business_for_regular_customer" time="1.107" timestamp="2022-07-25T10:51:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="515" name="test_with_rental_mode_personal_for_anonymous_customer" time="1.156" timestamp="2022-07-25T10:51:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="473" name="test_with_rental_mode_personal_for_hybrid_customer" time="1.593" timestamp="2022-07-25T10:51:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestFindService" file="services/tests/utils/test_carsharing_service_utils.py" line="496" name="test_with_rental_mode_personal_for_regular_customer" time="1.095" timestamp="2022-07-25T10:51:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

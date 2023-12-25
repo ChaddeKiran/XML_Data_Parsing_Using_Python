@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/tasks/test_auto_classify.py" name="users.tests.tasks.test_auto_classify.TestAutoClassifyTask-20220725104622" skipped="0" tests="5" time="3.044" timestamp="2022-07-25T10:47:50">
+	<testcase classname="users.tests.tasks.test_auto_classify.TestAutoClassifyTask" file="users/tests/tasks/test_auto_classify.py" line="26" name="test_default_group" time="0.651" timestamp="2022-07-25T10:47:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_auto_classify.TestAutoClassifyTask" file="users/tests/tasks/test_auto_classify.py" line="67" name="test_manual_verification_required_off_and_auto_classify_off" time="0.599" timestamp="2022-07-25T10:47:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_auto_classify.TestAutoClassifyTask" file="users/tests/tasks/test_auto_classify.py" line="82" name="test_manual_verification_required_off_and_auto_classify_on" time="0.547" timestamp="2022-07-25T10:47:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_auto_classify.TestAutoClassifyTask" file="users/tests/tasks/test_auto_classify.py" line="36" name="test_manual_verification_required_on_and_auto_classify_off" time="0.630" timestamp="2022-07-25T10:47:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_auto_classify.TestAutoClassifyTask" file="users/tests/tasks/test_auto_classify.py" line="51" name="test_manual_verification_required_on_and_auto_classify_on" time="0.617" timestamp="2022-07-25T10:47:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/commands/test_carsharing_customers_sync_rfid_card_ordered.py" name="users.tests.commands.test_carsharing_customers_sync_rfid_card_ordered.TestSyncRfidCardOrderedCommand-20220725104545" skipped="0" tests="5" time="1.460" timestamp="2022-07-25T11:05:27">
+	<testcase classname="users.tests.commands.test_carsharing_customers_sync_rfid_card_ordered.TestSyncRfidCardOrderedCommand" file="users/tests/commands/test_carsharing_customers_sync_rfid_card_ordered.py" line="80" name="test_update_failure" time="0.223" timestamp="2022-07-25T11:05:25">
+		<system-out>
+<![CDATA[Retrieving all the customers with RFID card assigned but not RFID card ordered....
+Number of customers found = 1
+Number of customers successfully updated = 0
+Number of customers failed to be updated = 1
+Failed customer IDs = [98]
+]]>		</system-out>
+		<system-err>
+<![CDATA[Error updating customer: 98
+Error: <class 'django.db.utils.DatabaseError'> 
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.commands.test_carsharing_customers_sync_rfid_card_ordered.TestSyncRfidCardOrderedCommand" file="users/tests/commands/test_carsharing_customers_sync_rfid_card_ordered.py" line="50" name="test_with_empty_rfid" time="0.321" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[Retrieving all the customers with RFID card assigned but not RFID card ordered....
+Number of customers found = 0
+Number of customers successfully updated = 0
+Number of customers failed to be updated = 0
+Failed customer IDs = []
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.commands.test_carsharing_customers_sync_rfid_card_ordered.TestSyncRfidCardOrderedCommand" file="users/tests/commands/test_carsharing_customers_sync_rfid_card_ordered.py" line="35" name="test_with_null_rfid" time="0.326" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[Retrieving all the customers with RFID card assigned but not RFID card ordered....
+Number of customers found = 0
+Number of customers successfully updated = 0
+Number of customers failed to be updated = 0
+Failed customer IDs = []
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.commands.test_carsharing_customers_sync_rfid_card_ordered.TestSyncRfidCardOrderedCommand" file="users/tests/commands/test_carsharing_customers_sync_rfid_card_ordered.py" line="65" name="test_with_unassigned_rfid" time="0.389" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[Retrieving all the customers with RFID card assigned but not RFID card ordered....
+Number of customers found = 0
+Number of customers successfully updated = 0
+Number of customers failed to be updated = 0
+Failed customer IDs = []
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.commands.test_carsharing_customers_sync_rfid_card_ordered.TestSyncRfidCardOrderedCommand" file="users/tests/commands/test_carsharing_customers_sync_rfid_card_ordered.py" line="19" name="test_with_valid_and_assigned_rfid" time="0.202" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[Retrieving all the customers with RFID card assigned but not RFID card ordered....
+Number of customers found = 1
+Number of customers successfully updated = 1
+Number of customers failed to be updated = 0
+Failed customer IDs = []
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

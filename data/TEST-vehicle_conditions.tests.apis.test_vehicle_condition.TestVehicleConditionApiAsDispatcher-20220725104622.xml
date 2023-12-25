@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" name="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiAsDispatcher-20220725104622" skipped="0" tests="2" time="1.794" timestamp="2022-07-25T10:57:07">
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiAsDispatcher" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="155" name="test_mark_already_resolved" time="0.934" timestamp="2022-07-25T10:57:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiAsDispatcher" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="146" name="test_mark_resolved" time="0.860" timestamp="2022-07-25T10:57:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

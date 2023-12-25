@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestEvaluation-20220725104622" skipped="0" tests="3" time="0.092" timestamp="2022-07-25T10:53:59">
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestEvaluation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1855" name="test_method_dispatch" time="0.031" timestamp="2022-07-25T10:53:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestEvaluation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1872" name="test_unsupported_operation" time="0.032" timestamp="2022-07-25T10:53:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestEvaluation" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1868" name="test_unsupported_type" time="0.029" timestamp="2022-07-25T10:53:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

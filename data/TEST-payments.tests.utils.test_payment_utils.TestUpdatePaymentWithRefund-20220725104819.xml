@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_payment_utils.py" name="payments.tests.utils.test_payment_utils.TestUpdatePaymentWithRefund-20220725104819" skipped="0" tests="5" time="0.009" timestamp="2022-07-25T11:07:19">
+	<testcase classname="payments.tests.utils.test_payment_utils.TestUpdatePaymentWithRefund" file="payments/tests/utils/test_payment_utils.py" line="197" name="test_basic_update" time="0.002" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestUpdatePaymentWithRefund" file="payments/tests/utils/test_payment_utils.py" line="247" name="test_partial_refund_of_a_payment_with_credits" time="0.002" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestUpdatePaymentWithRefund" file="payments/tests/utils/test_payment_utils.py" line="220" name="test_update_with_credits" time="0.002" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestUpdatePaymentWithRefund" file="payments/tests/utils/test_payment_utils.py" line="233" name="test_update_with_credits_prior_refund" time="0.002" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestUpdatePaymentWithRefund" file="payments/tests/utils/test_payment_utils.py" line="209" name="test_update_with_prior_refund" time="0.002" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

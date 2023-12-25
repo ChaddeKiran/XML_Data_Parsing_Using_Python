@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_usergroups.py" name="users.tests.apis.v2.test_usergroups.TestStaffServiceBasedV2UserGroupsFiltering-20220725104545" skipped="0" tests="8" time="4.150" timestamp="2022-07-25T11:02:57">
+	<testcase classname="users.tests.apis.v2.test_usergroups.TestStaffServiceBasedV2UserGroupsFiltering" file="users/tests/apis/v2/test_usergroups.py" line="73" name="test_pagination" time="1.252" timestamp="2022-07-25T11:02:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.users_models.UserGroup'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_usergroups.TestStaffServiceBasedV2UserGroupsFiltering" file="users/tests/apis/v2/test_usergroups.py" line="40" name="test_staff_cannot_access_orphaned_user_group" time="0.391" timestamp="2022-07-25T11:02:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_usergroups.TestStaffServiceBasedV2UserGroupsFiltering" file="users/tests/apis/v2/test_usergroups.py" line="33" name="test_staff_cannot_access_user_group_they_dont_have_access_to" time="0.375" timestamp="2022-07-25T11:02:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_usergroups.TestStaffServiceBasedV2UserGroupsFiltering" file="users/tests/apis/v2/test_usergroups.py" line="26" name="test_staff_details" time="0.399" timestamp="2022-07-25T11:02:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_usergroups.TestStaffServiceBasedV2UserGroupsFiltering" file="users/tests/apis/v2/test_usergroups.py" line="48" name="test_staff_list" time="0.387" timestamp="2022-07-25T11:02:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_usergroups.TestStaffServiceBasedV2UserGroupsFiltering" file="users/tests/apis/v2/test_usergroups.py" line="53" name="test_staff_search" time="0.359" timestamp="2022-07-25T11:02:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_usergroups.TestStaffServiceBasedV2UserGroupsFiltering" file="users/tests/apis/v2/test_usergroups.py" line="66" name="test_system_admin_details" time="0.521" timestamp="2022-07-25T11:02:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_usergroups.TestStaffServiceBasedV2UserGroupsFiltering" file="users/tests/apis/v2/test_usergroups.py" line="58" name="test_system_admin_list" time="0.466" timestamp="2022-07-25T11:02:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

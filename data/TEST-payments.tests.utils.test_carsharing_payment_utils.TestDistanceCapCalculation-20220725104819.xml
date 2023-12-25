@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestDistanceCapCalculation-20220725104819" skipped="0" tests="5" time="0.003" timestamp="2022-07-25T11:07:19">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceCapCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="162" name="test_four_hours" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceCapCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="172" name="test_just_over_one_day" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceCapCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="177" name="test_just_under_two_days" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceCapCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="167" name="test_one_day" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceCapCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="182" name="test_zero_time" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

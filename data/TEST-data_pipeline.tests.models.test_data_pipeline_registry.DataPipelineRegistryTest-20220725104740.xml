@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="data_pipeline/tests/models/test_data_pipeline_registry.py" name="data_pipeline.tests.models.test_data_pipeline_registry.DataPipelineRegistryTest-20220725104740" skipped="0" tests="4" time="0.004" timestamp="2022-07-25T11:06:38">
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline_registry.DataPipelineRegistryTest" file="data_pipeline/tests/models/test_data_pipeline_registry.py" line="46" name="test_normal_class_without_metaclass_can_be_defined_and_is_not_added_to_registry" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline_registry.DataPipelineRegistryTest" file="data_pipeline/tests/models/test_data_pipeline_registry.py" line="26" name="test_serializer_with_meta_args_is_added_to_registry" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline_registry.DataPipelineRegistryTest" file="data_pipeline/tests/models/test_data_pipeline_registry.py" line="39" name="test_serializer_with_meta_class_without_meta_args_without_model_name_raises_attribute_error_when_defined" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline_registry.DataPipelineRegistryTest" file="data_pipeline/tests/models/test_data_pipeline_registry.py" line="32" name="test_serializer_without_meta_args_with_metaclass_raises_attribute_error_when_defined" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/apis/v3/test_locations.py" name="locations.tests.apis.v3.test_locations.LocationTestingMixin-20220725104740" skipped="0" tests="1" time="0.066" timestamp="2022-07-25T11:02:30">
+	<testcase classname="locations.tests.apis.v3.test_locations.LocationTestingMixin" file="locations/tests/apis/v3/test_locations.py" line="88" name="test_url" time="0.066" timestamp="2022-07-25T11:02:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestDropoffOverwritingAsDriver-20220725104713" skipped="0" tests="6" time="4.449" timestamp="2022-07-25T11:03:53">
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsDriver" file="trips/tests/apis/test_trips.py" line="2228" name="test_arrived_at_overwriting_with_new_timestamp" time="0.800" timestamp="2022-07-25T11:03:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsDriver" file="trips/tests/apis/test_trips.py" line="2259" name="test_arrived_at_overwriting_with_none" time="0.551" timestamp="2022-07-25T11:03:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsDriver" file="trips/tests/apis/test_trips.py" line="2210" name="test_dropoff_overwriting_with_new_timestamp" time="0.998" timestamp="2022-07-25T11:03:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsDriver" file="trips/tests/apis/test_trips.py" line="2241" name="test_dropoff_overwriting_with_none" time="0.983" timestamp="2022-07-25T11:03:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsDriver" file="trips/tests/apis/test_trips.py" line="2218" name="test_pickedup_at_overwriting_with_new_timestamp" time="0.557" timestamp="2022-07-25T11:03:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsDriver" file="trips/tests/apis/test_trips.py" line="2249" name="test_pickedup_at_overwriting_with_none" time="0.561" timestamp="2022-07-25T11:03:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

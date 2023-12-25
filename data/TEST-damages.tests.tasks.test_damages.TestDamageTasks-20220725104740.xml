@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="damages/tests/tasks/test_damages.py" name="damages.tests.tasks.test_damages.TestDamageTasks-20220725104740" skipped="0" tests="6" time="1.629" timestamp="2022-07-25T10:53:57">
+	<testcase classname="damages.tests.tasks.test_damages.TestDamageTasks" file="damages/tests/tasks/test_damages.py" line="116" name="test_damage_location_change_name_to_data_pipeline" time="0.101" timestamp="2022-07-25T10:53:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="damages.tests.tasks.test_damages.TestDamageTasks" file="damages/tests/tasks/test_damages.py" line="17" name="test_damage_report_change_location_to_data_pipeline" time="0.350" timestamp="2022-07-25T10:53:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="damages.tests.tasks.test_damages.TestDamageTasks" file="damages/tests/tasks/test_damages.py" line="92" name="test_damage_report_change_reported_by_customer_to_data_pipeline" time="0.326" timestamp="2022-07-25T10:53:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="damages.tests.tasks.test_damages.TestDamageTasks" file="damages/tests/tasks/test_damages.py" line="42" name="test_damage_report_change_type_to_data_pipeline" time="0.327" timestamp="2022-07-25T10:53:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="damages.tests.tasks.test_damages.TestDamageTasks" file="damages/tests/tasks/test_damages.py" line="67" name="test_damage_report_change_vehicle_to_data_pipeline" time="0.424" timestamp="2022-07-25T10:53:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="damages.tests.tasks.test_damages.TestDamageTasks" file="damages/tests/tasks/test_damages.py" line="131" name="test_damage_type_change_name_to_data_pipeline" time="0.101" timestamp="2022-07-25T10:53:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

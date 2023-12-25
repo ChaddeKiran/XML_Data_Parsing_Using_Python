@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="manual_identity_verification/tests/api/test_identity_profile.py" name="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsCustomer-20220725104740" skipped="0" tests="6" time="2.115" timestamp="2022-07-25T11:02:51">
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsCustomer" file="manual_identity_verification/tests/api/test_identity_profile.py" line="102" name="test_delete" time="0.223" timestamp="2022-07-25T11:02:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsCustomer" file="manual_identity_verification/tests/api/test_identity_profile.py" line="32" name="test_patch" time="0.778" timestamp="2022-07-25T11:02:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsCustomer" file="manual_identity_verification/tests/api/test_identity_profile.py" line="88" name="test_patch_different_customer" time="0.419" timestamp="2022-07-25T11:02:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsCustomer" file="manual_identity_verification/tests/api/test_identity_profile.py" line="98" name="test_post" time="0.223" timestamp="2022-07-25T11:02:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsCustomer" file="manual_identity_verification/tests/api/test_identity_profile.py" line="94" name="test_put" time="0.225" timestamp="2022-07-25T11:02:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsCustomer" file="manual_identity_verification/tests/api/test_identity_profile.py" line="28" name="test_retrieve" time="0.248" timestamp="2022-07-25T11:02:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

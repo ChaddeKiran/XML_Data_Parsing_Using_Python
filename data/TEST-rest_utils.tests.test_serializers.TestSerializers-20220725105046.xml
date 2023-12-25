@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rest_utils/tests/test_serializers.py" name="rest_utils.tests.test_serializers.TestSerializers-20220725105046" skipped="0" tests="2" time="1.677" timestamp="2022-07-25T11:08:40">
+	<testcase classname="rest_utils.tests.test_serializers.TestSerializers" file="rest_utils/tests/test_serializers.py" line="18" name="test_business_admin_role" time="0.603" timestamp="2022-07-25T11:08:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_serializers.TestSerializers" file="rest_utils/tests/test_serializers.py" line="25" name="test_carsharing_business_admin" time="1.075" timestamp="2022-07-25T11:08:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

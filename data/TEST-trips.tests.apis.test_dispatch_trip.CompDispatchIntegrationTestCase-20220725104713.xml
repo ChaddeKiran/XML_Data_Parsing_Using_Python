@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_dispatch_trip.py" name="trips.tests.apis.test_dispatch_trip.CompDispatchIntegrationTestCase-20220725104713" skipped="0" tests="5" time="5.522" timestamp="2022-07-25T10:54:11">
+	<testcase classname="trips.tests.apis.test_dispatch_trip.CompDispatchIntegrationTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="844" name="test_comp_dispatch_auto_cancels_trip" time="1.034" timestamp="2022-07-25T10:54:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.CompDispatchIntegrationTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="710" name="test_comp_dispatch_results_assigned_to_correct_driver" time="1.488" timestamp="2022-07-25T10:54:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.CompDispatchIntegrationTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="758" name="test_comp_dispatch_task_ordering" time="0.899" timestamp="2022-07-25T10:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.CompDispatchIntegrationTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="795" name="test_comp_dispatch_task_ordering_no_tasks" time="0.606" timestamp="2022-07-25T10:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.CompDispatchIntegrationTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="801" name="test_comp_dispatch_updates_firebase" time="1.495" timestamp="2022-07-25T10:54:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

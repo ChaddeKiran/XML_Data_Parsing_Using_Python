@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestCustomersAPI-20220725104545" skipped="0" tests="16" time="12.155" timestamp="2022-07-25T10:53:24">
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="143" name="test_can_change_preferences" time="1.019" timestamp="2022-07-25T10:53:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="85" name="test_can_set_preference_for_no_radio" time="0.856" timestamp="2022-07-25T10:53:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="131" name="test_can_set_radio_preference_from_no_radio" time="0.849" timestamp="2022-07-25T10:53:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="120" name="test_can_unset_no_radio_preference" time="0.451" timestamp="2022-07-25T10:53:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="109" name="test_can_unset_radio_preference" time="0.788" timestamp="2022-07-25T10:53:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="184" name="test_create_customer" time="0.682" timestamp="2022-07-25T10:53:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="217" name="test_create_customer_email_on_block_identifier" time="0.533" timestamp="2022-07-25T10:53:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="199" name="test_create_customer_with_business_entities" time="1.004" timestamp="2022-07-25T10:53:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="78" name="test_get_customers_with_all_specified" time="0.401" timestamp="2022-07-25T10:53:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="71" name="test_get_own_details" time="0.420" timestamp="2022-07-25T10:53:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="177" name="test_not_allowed_to_change_during_trip" time="0.988" timestamp="2022-07-25T10:53:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="277" name="test_paytm_wallet_in_customer_api" time="0.421" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="266" name="test_pin_masked" time="0.530" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="96" name="test_setting_radio_station_invalidates_triptask_cache" time="1.650" timestamp="2022-07-25T10:53:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="169" name="test_temperature_range_obeyed" time="0.537" timestamp="2022-07-25T10:53:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPI" file="users/tests/apis/test_customers.py" line="233" name="test_update_membership_number" time="1.026" timestamp="2022-07-25T10:53:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

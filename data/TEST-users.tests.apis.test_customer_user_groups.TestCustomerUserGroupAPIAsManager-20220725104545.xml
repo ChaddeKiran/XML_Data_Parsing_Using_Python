@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customer_user_groups.py" name="users.tests.apis.test_customer_user_groups.TestCustomerUserGroupAPIAsManager-20220725104545" skipped="0" tests="1" time="1.063" timestamp="2022-07-25T10:52:26">
+	<testcase classname="users.tests.apis.test_customer_user_groups.TestCustomerUserGroupAPIAsManager" file="users/tests/apis/test_customer_user_groups.py" line="57" name="test_customer_user_group" time="1.063" timestamp="2022-07-25T10:52:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

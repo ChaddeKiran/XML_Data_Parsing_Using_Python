@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/apis/v3/test_locations.py" name="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher-20220725104740" skipped="0" tests="13" time="4.671" timestamp="2022-07-25T11:02:37">
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="201" name="test_create" time="0.357" timestamp="2022-07-25T11:02:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="224" name="test_delete" time="0.352" timestamp="2022-07-25T11:02:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="234" name="test_deprecated_fields" time="0.407" timestamp="2022-07-25T11:02:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="227" name="test_deprecated_queryparams" time="0.393" timestamp="2022-07-25T11:02:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="195" name="test_list" time="0.325" timestamp="2022-07-25T11:02:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="246" name="test_location_create_extra_precision" time="0.334" timestamp="2022-07-25T11:02:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="221" name="test_partial_update" time="0.344" timestamp="2022-07-25T11:02:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="257" name="test_populate_on_retrieve" time="0.379" timestamp="2022-07-25T11:02:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="198" name="test_retrieve" time="0.350" timestamp="2022-07-25T11:02:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="204" name="test_update" time="0.377" timestamp="2022-07-25T11:02:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="218" name="test_update_change_of_location" time="0.399" timestamp="2022-07-25T11:02:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="210" name="test_update_with_same_coordinates" time="0.363" timestamp="2022-07-25T11:02:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsDispatcher" file="locations/tests/apis/v3/test_locations.py" line="88" name="test_url" time="0.291" timestamp="2022-07-25T11:02:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

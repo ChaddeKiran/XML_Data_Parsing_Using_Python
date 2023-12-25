@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_drivers.py" name="users.tests.apis.test_drivers.DriverStateTestCase-20220725104545" skipped="0" tests="1" time="2.210" timestamp="2022-07-25T10:54:58">
+	<testcase classname="users.tests.apis.test_drivers.DriverStateTestCase" file="users/tests/apis/test_drivers.py" line="247" name="test_driver_state_changes" time="2.210" timestamp="2022-07-25T10:54:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

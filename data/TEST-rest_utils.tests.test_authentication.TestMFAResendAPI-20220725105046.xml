@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rest_utils/tests/test_authentication.py" name="rest_utils.tests.test_authentication.TestMFAResendAPI-20220725105046" skipped="0" tests="7" time="1.906" timestamp="2022-07-25T11:08:33">
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAResendAPI" file="rest_utils/tests/test_authentication.py" line="1196" name="test_attempt_to_override_mfa_verification_mode" time="0.242" timestamp="2022-07-25T11:08:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAResendAPI" file="rest_utils/tests/test_authentication.py" line="1161" name="test_happy_flow" time="0.292" timestamp="2022-07-25T11:08:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAResendAPI" file="rest_utils/tests/test_authentication.py" line="1108" name="test_incorrect_schema" time="0.253" timestamp="2022-07-25T11:08:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAResendAPI" file="rest_utils/tests/test_authentication.py" line="1150" name="test_non_existence_nonce" time="0.216" timestamp="2022-07-25T11:08:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAResendAPI" file="rest_utils/tests/test_authentication.py" line="1185" name="test_subject_while_resending_code_over_email" time="0.337" timestamp="2022-07-25T11:08:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAResendAPI" file="rest_utils/tests/test_authentication.py" line="1142" name="test_throttling" time="0.357" timestamp="2022-07-25T11:08:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAResendAPI" file="rest_utils/tests/test_authentication.py" line="1138" name="test_unallowed_get_method" time="0.210" timestamp="2022-07-25T11:08:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

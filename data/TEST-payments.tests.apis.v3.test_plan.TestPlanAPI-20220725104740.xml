@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_plan.py" name="payments.tests.apis.v3.test_plan.TestPlanAPI-20220725104740" skipped="0" tests="6" time="3.793" timestamp="2022-07-25T11:06:11">
+	<testcase classname="payments.tests.apis.v3.test_plan.TestPlanAPI" file="payments/tests/apis/v3/test_plan.py" line="65" name="test_create_plan" time="0.585" timestamp="2022-07-25T11:06:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_plan.TestPlanAPI" file="payments/tests/apis/v3/test_plan.py" line="78" name="test_create_plan_with_invalid_plan_id" time="0.653" timestamp="2022-07-25T11:06:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_plan.TestPlanAPI" file="payments/tests/apis/v3/test_plan.py" line="96" name="test_create_plan_with_no_braintree_plans_configured" time="0.622" timestamp="2022-07-25T11:06:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_plan.TestPlanAPI" file="payments/tests/apis/v3/test_plan.py" line="138" name="test_delete_plan" time="0.629" timestamp="2022-07-25T11:06:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_plan.TestPlanAPI" file="payments/tests/apis/v3/test_plan.py" line="54" name="test_list_plans" time="0.652" timestamp="2022-07-25T11:06:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'payments.models.membership_entity.Plan'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_plan.TestPlanAPI" file="payments/tests/apis/v3/test_plan.py" line="109" name="test_update_plan" time="0.652" timestamp="2022-07-25T11:06:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

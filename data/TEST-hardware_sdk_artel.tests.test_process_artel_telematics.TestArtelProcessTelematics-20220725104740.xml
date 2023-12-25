@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_artel/tests/test_process_artel_telematics.py" name="hardware_sdk_artel.tests.test_process_artel_telematics.TestArtelProcessTelematics-20220725104740" skipped="0" tests="2" time="0.150" timestamp="2022-07-25T10:57:51">
+	<testcase classname="hardware_sdk_artel.tests.test_process_artel_telematics.TestArtelProcessTelematics" file="hardware_sdk_artel/tests/test_process_artel_telematics.py" line="27" name="test_process_artel_telematics" time="0.127" timestamp="2022-07-25T10:57:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_artel.tests.test_process_artel_telematics.TestArtelProcessTelematics" file="hardware_sdk_artel/tests/test_process_artel_telematics.py" line="53" name="test_process_artel_telematics_not_active_hw_vendor" time="0.023" timestamp="2022-07-25T10:57:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

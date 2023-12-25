@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/migrations/test_serviceregistration_waive_migration.py" name="services.tests.migrations.test_serviceregistration_waive_migration.TestServiceRegistrationWaiveFee-20220725110435" skipped="1" tests="1" time="0.002" timestamp="2022-07-25T11:06:07">
+	<testcase classname="services.tests.migrations.test_serviceregistration_waive_migration.TestServiceRegistrationWaiveFee" file="services/tests/migrations/test_serviceregistration_waive_migration.py" line="101" name="test_tags_migrated" time="0.002" timestamp="2022-07-25T11:06:07">
+		<skipped message="Migration tests take a very long time." type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

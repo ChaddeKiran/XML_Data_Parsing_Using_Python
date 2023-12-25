@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_dispatch_trip.py" name="trips.tests.apis.test_dispatch_trip.TripAndTripTaskAPITestCase-20220725104713" skipped="0" tests="1" time="1.576" timestamp="2022-07-25T10:55:10">
+	<testcase classname="trips.tests.apis.test_dispatch_trip.TripAndTripTaskAPITestCase" file="trips/tests/apis/test_dispatch_trip.py" line="649" name="test_trip_locations" time="1.576" timestamp="2022-07-25T10:55:10">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.75959, -122.482601, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.763078, -122.48831, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

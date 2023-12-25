@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_apis.py" name="payments.tests.apis.v3.test_apis.TestV3PaymentSerializer-20220725104740" skipped="0" tests="3" time="0.782" timestamp="2022-07-25T11:05:37">
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentSerializer" file="payments/tests/apis/v3/test_apis.py" line="243" name="test_card_tag" time="0.391" timestamp="2022-07-25T11:05:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentSerializer" file="payments/tests/apis/v3/test_apis.py" line="232" name="test_empty_payment" time="0.038" timestamp="2022-07-25T11:05:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_apis.TestV3PaymentSerializer" file="payments/tests/apis/v3/test_apis.py" line="216" name="test_refund_fields" time="0.352" timestamp="2022-07-25T11:05:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/test_operatingregions.py" name="service_regions.tests.test_operatingregions.TestOperatingRegionAPI-20220725105046" skipped="0" tests="3" time="1.125" timestamp="2022-07-25T11:08:57">
+	<testcase classname="service_regions.tests.test_operatingregions.TestOperatingRegionAPI" file="service_regions/tests/test_operatingregions.py" line="61" name="test_create_locations_from_kml" time="0.607" timestamp="2022-07-25T11:08:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_operatingregions.TestOperatingRegionAPI" file="service_regions/tests/test_operatingregions.py" line="85" name="test_get_operatingregion_retrieve" time="0.261" timestamp="2022-07-25T11:08:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_operatingregions.TestOperatingRegionAPI" file="service_regions/tests/test_operatingregions.py" line="56" name="test_operatingregion_creation" time="0.257" timestamp="2022-07-25T11:08:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

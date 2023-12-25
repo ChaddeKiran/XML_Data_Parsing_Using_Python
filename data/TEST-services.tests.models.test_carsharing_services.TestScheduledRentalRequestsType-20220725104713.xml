@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_carsharing_services.py" name="services.tests.models.test_carsharing_services.TestScheduledRentalRequestsType-20220725104713" skipped="0" tests="1" time="0.195" timestamp="2022-07-25T10:50:57">
+	<testcase classname="services.tests.models.test_carsharing_services.TestScheduledRentalRequestsType" file="services/tests/models/test_carsharing_services.py" line="28" name="test_set_scheduled_rental_requests_type_to_stations" time="0.195" timestamp="2022-07-25T10:50:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

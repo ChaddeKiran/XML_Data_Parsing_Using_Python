@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestClaim-20220725110435" skipped="1" tests="7" time="7.330" timestamp="2022-07-25T11:05:06">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestClaim" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2593" name="test_scheduled_trip_request_assign_to_another_driver_fails" time="0.857" timestamp="2022-07-25T11:04:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestClaim" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2576" name="test_scheduled_trip_request_claim" time="0.922" timestamp="2022-07-25T11:05:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestClaim" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2629" name="test_scheduled_trip_request_claim_only_one_at_a_time" time="1.818" timestamp="2022-07-25T11:05:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestClaim" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2636" name="test_scheduled_trip_request_claim_too_late" time="1.207" timestamp="2022-07-25T11:05:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestClaim" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2600" name="test_scheduled_trip_request_claim_trip_from_another_driver" time="0.725" timestamp="2022-07-25T11:05:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestClaim" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2586" name="test_scheduled_trip_request_only_one_update_at_a_time" time="1.799" timestamp="2022-07-25T11:05:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestClaim" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2609" name="test_scheduled_trip_request_one_update_at_a_time" time="0.002" timestamp="2022-07-25T11:05:04">
+		<skipped message="This test relies on multiprocessing and does not behave consistently on CircleCI" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

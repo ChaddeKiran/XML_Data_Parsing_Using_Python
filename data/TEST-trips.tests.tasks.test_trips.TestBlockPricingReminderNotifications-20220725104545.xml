@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/tasks/test_trips.py" name="trips.tests.tasks.test_trips.TestBlockPricingReminderNotifications-20220725104545" skipped="0" tests="3" time="3.233" timestamp="2022-07-25T10:50:27">
+	<testcase classname="trips.tests.tasks.test_trips.TestBlockPricingReminderNotifications" file="trips/tests/tasks/test_trips.py" line="45" name="test_notification_is_not_sent_before_deadline" time="1.069" timestamp="2022-07-25T10:50:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.tasks.test_trips.TestBlockPricingReminderNotifications" file="trips/tests/tasks/test_trips.py" line="55" name="test_notification_is_not_sent_for_non_block_trips" time="1.016" timestamp="2022-07-25T10:50:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.tasks.test_trips.TestBlockPricingReminderNotifications" file="trips/tests/tasks/test_trips.py" line="33" name="test_notification_is_sent_once" time="1.148" timestamp="2022-07-25T10:50:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

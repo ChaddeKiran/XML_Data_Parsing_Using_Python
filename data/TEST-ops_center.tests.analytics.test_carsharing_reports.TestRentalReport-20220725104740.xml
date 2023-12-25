@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/analytics/test_carsharing_reports.py" name="ops_center.tests.analytics.test_carsharing_reports.TestRentalReport-20220725104740" skipped="0" tests="3" time="1.884" timestamp="2022-07-25T11:03:16">
+	<testcase classname="ops_center.tests.analytics.test_carsharing_reports.TestRentalReport" file="ops_center/tests/analytics/test_carsharing_reports.py" line="259" name="test_create_report_no_rentals" time="0.073" timestamp="2022-07-25T11:03:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_carsharing_reports.TestRentalReport" file="ops_center/tests/analytics/test_carsharing_reports.py" line="298" name="test_create_report_today" time="1.002" timestamp="2022-07-25T11:03:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_carsharing_reports.TestRentalReport" file="ops_center/tests/analytics/test_carsharing_reports.py" line="276" name="test_create_report_yesterday" time="0.810" timestamp="2022-07-25T11:03:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

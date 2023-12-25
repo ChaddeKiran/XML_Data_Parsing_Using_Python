@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/tests_special_dispatch_regions.py" name="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher-20220725105046" skipped="0" tests="22" time="14.411" timestamp="2022-07-25T11:10:26">
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_bad_post_request_for_dispatcher_manager" time="0.711" timestamp="2022-07-25T11:10:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="289" name="test_delete_special_dispatch_region" time="0.646" timestamp="2022-07-25T11:10:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="72" name="test_get_active_region_list" time="0.627" timestamp="2022-07-25T11:10:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="281" name="test_get_detail_special_dispatch_region" time="0.637" timestamp="2022-07-25T11:10:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="57" name="test_get_list_based_on_filters" time="0.646" timestamp="2022-07-25T11:10:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="65" name="test_get_list_based_on_incorrect_filters" time="0.631" timestamp="2022-07-25T11:10:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="51" name="test_get_list_special_dispatch_regions" time="0.635" timestamp="2022-07-25T11:10:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="79" name="test_getinactive_region_list" time="0.678" timestamp="2022-07-25T11:10:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_patch_req_with_incorrect_shape" time="0.622" timestamp="2022-07-25T11:10:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_patch_req_without_shape_for_manager_dispatcher" time="0.628" timestamp="2022-07-25T11:10:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_patch_request_with_incorrect_dispatch_rule_for_manager_dispatcher" time="0.688" timestamp="2022-07-25T11:10:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="493" name="test_patch_special_dispatch_region" time="0.749" timestamp="2022-07-25T11:10:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="485" name="test_post_special_dispatch_region" time="0.677" timestamp="2022-07-25T11:10:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="91" name="test_search_get_region_api" time="0.768" timestamp="2022-07-25T11:10:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_kml_api_without_file_for_dispatcher_manager" time="0.630" timestamp="2022-07-25T11:10:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_kml_api_without_service_for_dispatcher_manager" time="0.620" timestamp="2022-07-25T11:10:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="297" name="test_upload_kml_file" time="0.642" timestamp="2022-07-25T11:10:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_kml_file_with_dispatch_rule" time="0.641" timestamp="2022-07-25T11:10:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_kml_file_without_kml_description" time="0.638" timestamp="2022-07-25T11:10:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_kml_file_without_name" time="0.637" timestamp="2022-07-25T11:10:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_non_polygon_kml_file_for_dispatcher_manager" time="0.619" timestamp="2022-07-25T11:10:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDispatcher" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_non_required_details_kml_file_for_dispatcher_manager" time="0.641" timestamp="2022-07-25T11:10:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

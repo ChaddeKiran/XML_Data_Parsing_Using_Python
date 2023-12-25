@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_ocean.py" name="users.tests.third_party.test_ocean.TestOceanWebhookHandler-20220725104622" skipped="0" tests="1" time="0.323" timestamp="2022-07-25T10:48:39">
+	<testcase classname="users.tests.third_party.test_ocean.TestOceanWebhookHandler" file="users/tests/third_party/test_ocean.py" line="22" name="test_card_is_added_correctly_based_on_webhook_payload" time="0.323" timestamp="2022-07-25T10:48:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

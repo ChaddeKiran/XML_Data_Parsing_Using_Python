@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_vehicle_timeline.py" name="vehicle_blocks.tests.test_vehicle_timeline.TestVehicleTimeLineAPI-20220725104622" skipped="0" tests="1" time="0.290" timestamp="2022-07-25T10:56:51">
+	<testcase classname="vehicle_blocks.tests.test_vehicle_timeline.TestVehicleTimeLineAPI" file="vehicle_blocks/tests/test_vehicle_timeline.py" line="88" name="test_get_vehicle_timeline" time="0.290" timestamp="2022-07-25T10:56:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

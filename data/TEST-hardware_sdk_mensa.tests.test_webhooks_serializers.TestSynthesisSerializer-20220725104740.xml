@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" name="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer-20220725104740" skipped="0" tests="13" time="0.089" timestamp="2022-07-25T11:00:38">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="220" name="test_0_dtcs" time="0.007" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="210" name="test_2_ble_keys" time="0.006" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="225" name="test_2_dtcs" time="0.006" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="215" name="test_bad_value_for_ignition" time="0.006" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="168" name="test_good_data" time="0.006" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="230" name="test_id_present_but_null" time="0.006" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="177" name="test_no_tire_pressure" time="0.006" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="187" name="test_null_door" time="0.012" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="172" name="test_null_malfunction_indicator_light" time="0.007" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="195" name="test_null_range_ev_charge_percent" time="0.008" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="205" name="test_null_rental_keys" time="0.006" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="182" name="test_null_tire_pressure" time="0.006" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestSynthesisSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="200" name="test_out_of_range_ev_charge_percent" time="0.006" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

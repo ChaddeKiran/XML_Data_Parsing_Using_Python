@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/actions/test_actions.py" name="calendars.tests.actions.test_actions.TestActiveSSRAction-20220725104740" skipped="0" tests="3" time="0.163" timestamp="2022-07-25T10:53:08">
+	<testcase classname="calendars.tests.actions.test_actions.TestActiveSSRAction" file="calendars/tests/actions/test_actions.py" line="100" name="test_action_updates_scheduled_restriction" time="0.064" timestamp="2022-07-25T10:53:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.actions.test_actions.TestActiveSSRAction" file="calendars/tests/actions/test_actions.py" line="112" name="test_disabled_service_region" time="0.050" timestamp="2022-07-25T10:53:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.actions.test_actions.TestActiveSSRAction" file="calendars/tests/actions/test_actions.py" line="105" name="test_noop" time="0.050" timestamp="2022-07-25T10:53:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

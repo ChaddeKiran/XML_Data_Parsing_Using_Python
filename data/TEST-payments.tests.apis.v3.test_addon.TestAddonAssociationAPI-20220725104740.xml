@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_addon.py" name="payments.tests.apis.v3.test_addon.TestAddonAssociationAPI-20220725104740" skipped="0" tests="4" time="2.749" timestamp="2022-07-25T11:05:20">
+	<testcase classname="payments.tests.apis.v3.test_addon.TestAddonAssociationAPI" file="payments/tests/apis/v3/test_addon.py" line="360" name="test_get_addon_association" time="0.679" timestamp="2022-07-25T11:05:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'payments.models.addon_models.AddonAssociation'> AddonAssociationQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_addon.TestAddonAssociationAPI" file="payments/tests/apis/v3/test_addon.py" line="329" name="test_post_addon_association" time="0.638" timestamp="2022-07-25T11:05:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_addon.TestAddonAssociationAPI" file="payments/tests/apis/v3/test_addon.py" line="351" name="test_post_addon_association_with_deleted_addon" time="0.641" timestamp="2022-07-25T11:05:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_addon.TestAddonAssociationAPI" file="payments/tests/apis/v3/test_addon.py" line="341" name="test_post_addon_association_with_inaccessible_service" time="0.791" timestamp="2022-07-25T11:05:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

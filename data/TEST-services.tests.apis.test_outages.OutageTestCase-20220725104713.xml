@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_outages.py" name="services.tests.apis.test_outages.OutageTestCase-20220725104713" skipped="0" tests="6" time="3.469" timestamp="2022-07-25T10:47:46">
+	<testcase classname="services.tests.apis.test_outages.OutageTestCase" file="services/tests/apis/test_outages.py" line="91" name="test_delete_outage" time="0.521" timestamp="2022-07-25T10:47:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_outages.OutageTestCase" file="services/tests/apis/test_outages.py" line="104" name="test_delete_outage_of_other_user" time="0.600" timestamp="2022-07-25T10:47:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_outages.OutageTestCase" file="services/tests/apis/test_outages.py" line="77" name="test_disable_outage" time="0.504" timestamp="2022-07-25T10:47:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_outages.OutageTestCase" file="services/tests/apis/test_outages.py" line="27" name="test_get_outages_by_service" time="0.821" timestamp="2022-07-25T10:47:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_outages.OutageTestCase" file="services/tests/apis/test_outages.py" line="23" name="test_no_outage" time="0.496" timestamp="2022-07-25T10:47:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_outages.OutageTestCase" file="services/tests/apis/test_outages.py" line="52" name="test_outage" time="0.527" timestamp="2022-07-25T10:47:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

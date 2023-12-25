@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_service_periods.py" name="services.tests.apis.test_service_periods.TestServicePeriodContiguous-20220725104713" skipped="0" tests="3" time="0.073" timestamp="2022-07-25T10:47:50">
+	<testcase classname="services.tests.apis.test_service_periods.TestServicePeriodContiguous" file="services/tests/apis/test_service_periods.py" line="66" name="test_contiguos_across_week_boundry" time="0.029" timestamp="2022-07-25T10:47:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_service_periods.TestServicePeriodContiguous" file="services/tests/apis/test_service_periods.py" line="76" name="test_contiguos_fail_with_more_than_a_minute_break" time="0.023" timestamp="2022-07-25T10:47:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_service_periods.TestServicePeriodContiguous" file="services/tests/apis/test_service_periods.py" line="70" name="test_contiguos_multiple_across_week_boundry_and_between" time="0.021" timestamp="2022-07-25T10:47:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

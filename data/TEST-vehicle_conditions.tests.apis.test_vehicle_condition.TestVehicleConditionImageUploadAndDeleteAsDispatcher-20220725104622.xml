@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" name="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionImageUploadAndDeleteAsDispatcher-20220725104622" skipped="0" tests="3" time="1.382" timestamp="2022-07-25T10:57:16">
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionImageUploadAndDeleteAsDispatcher" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="492" name="test_delete_vehicle_condition_damage_image" time="0.766" timestamp="2022-07-25T10:57:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionImageUploadAndDeleteAsDispatcher" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="487" name="test_invalid_vehicle_condition_damage_image_type_upload" time="0.308" timestamp="2022-07-25T10:57:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionImageUploadAndDeleteAsDispatcher" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="483" name="test_normal_vehicle_condition_damage_image_upload" time="0.308" timestamp="2022-07-25T10:57:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

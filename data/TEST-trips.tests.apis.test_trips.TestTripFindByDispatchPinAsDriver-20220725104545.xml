@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestTripFindByDispatchPinAsDriver-20220725104545" skipped="0" tests="6" time="8.384" timestamp="2022-07-25T10:48:56">
+	<testcase classname="trips.tests.apis.test_trips.TestTripFindByDispatchPinAsDriver" file="trips/tests/apis/test_trips.py" line="2828" name="test_find_by_dispatch_pin_all_checks_pass" time="2.300" timestamp="2022-07-25T10:48:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripFindByDispatchPinAsDriver" file="trips/tests/apis/test_trips.py" line="2806" name="test_find_by_dispatch_pin_no_dispatch_pin_sent" time="0.829" timestamp="2022-07-25T10:48:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripFindByDispatchPinAsDriver" file="trips/tests/apis/test_trips.py" line="2820" name="test_find_by_dispatch_pin_no_trip_with_pin" time="0.939" timestamp="2022-07-25T10:48:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripFindByDispatchPinAsDriver" file="trips/tests/apis/test_trips.py" line="2847" name="test_find_by_dispatch_pin_trip_already_picked_up" time="1.160" timestamp="2022-07-25T10:48:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripFindByDispatchPinAsDriver" file="trips/tests/apis/test_trips.py" line="2812" name="test_find_by_dispatch_pin_trip_ended" time="1.958" timestamp="2022-07-25T10:48:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripFindByDispatchPinAsDriver" file="trips/tests/apis/test_trips.py" line="2859" name="test_find_by_dispatch_pin_trip_ev_vehicle_charge_too_low" time="1.199" timestamp="2022-07-25T10:48:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

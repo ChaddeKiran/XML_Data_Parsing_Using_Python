@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automations.py" name="vehicle_automation.tests.test_automations.TestRecommendation-20220725104622" skipped="0" tests="1" time="0.038" timestamp="2022-07-25T10:52:02">
+	<testcase classname="vehicle_automation.tests.test_automations.TestRecommendation" file="vehicle_automation/tests/test_automations.py" line="161" name="test_create_recommendation" time="0.038" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

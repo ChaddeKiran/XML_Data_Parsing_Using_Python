@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_service_periods.py" name="services.tests.models.test_service_periods.TestServicePeriod-20220725104713" skipped="0" tests="25" time="3.138" timestamp="2022-07-25T10:51:07">
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="75" name="test_adjust_end_time" time="0.047" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="88" name="test_adjust_spans_week" time="0.034" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="328" name="test_concurrency_blocks" time="0.059" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="362" name="test_concurrency_blocks_bigger" time="0.058" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="345" name="test_concurrency_blocks_with_list" time="0.039" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="70" name="test_contained_by" time="0.033" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="98" name="test_get_date_delta_same_week_end" time="0.030" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="94" name="test_get_date_delta_same_week_start" time="0.030" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="106" name="test_get_date_delta_span_week_end" time="0.032" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="102" name="test_get_date_delta_span_week_start" time="0.029" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="139" name="test_get_overlaps_conflict" time="2.172" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="306" name="test_get_overlaps_ok" time="0.091" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="42" name="test_in_between_days_span_week" time="0.038" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="34" name="test_in_same_day_period" time="0.040" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="38" name="test_out_same_day_period" time="0.040" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="50" name="test_out_same_end_day" time="0.039" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="58" name="test_out_start_day" time="0.039" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="46" name="test_same_end_day" time="0.039" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="62" name="test_same_end_day_span_week" time="0.038" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="54" name="test_same_start_day" time="0.037" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="66" name="test_same_start_day_span_week" time="0.038" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="321" name="test_service_period_contains_datetime" time="0.035" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="120" name="test_service_period_to_concrete_start_end" time="0.036" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="110" name="test_session_date" time="0.032" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriod" file="services/tests/models/test_service_periods.py" line="115" name="test_session_date_spans_week_same_day" time="0.032" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

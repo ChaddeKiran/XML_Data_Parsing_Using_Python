@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_scheduling.py" name="rentals.tests.tasks.test_scheduling.TestScheduledRentalsConfirmationAndOpsEmails-20220725105046" skipped="0" tests="2" time="0.120" timestamp="2022-07-25T11:06:47">
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalsConfirmationAndOpsEmails" file="rentals/tests/tasks/test_scheduling.py" line="1657" name="test_scheduled_rental_confirmation_email_data" time="0.076" timestamp="2022-07-25T11:06:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalsConfirmationAndOpsEmails" file="rentals/tests/tasks/test_scheduling.py" line="1652" name="test_send_scheduled_rental_ops_email" time="0.044" timestamp="2022-07-25T11:06:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

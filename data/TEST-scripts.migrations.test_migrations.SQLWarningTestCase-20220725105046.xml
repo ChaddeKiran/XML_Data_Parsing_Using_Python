@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="scripts/migrations/test_migrations.py" name="scripts.migrations.test_migrations.SQLWarningTestCase-20220725105046" skipped="0" tests="5" time="0.100" timestamp="2022-07-25T11:08:56">
+	<testcase classname="scripts.migrations.test_migrations.SQLWarningTestCase" file="scripts/migrations/test_migrations.py" line="24" name="test_add_column_non_null_positive" time="0.021" timestamp="2022-07-25T11:08:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="scripts.migrations.test_migrations.SQLWarningTestCase" file="scripts/migrations/test_migrations.py" line="16" name="test_create_table_negative" time="0.022" timestamp="2022-07-25T11:08:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="scripts.migrations.test_migrations.SQLWarningTestCase" file="scripts/migrations/test_migrations.py" line="34" name="test_drop_default_positive" time="0.020" timestamp="2022-07-25T11:08:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="scripts.migrations.test_migrations.SQLWarningTestCase" file="scripts/migrations/test_migrations.py" line="29" name="test_rename_column_positive" time="0.019" timestamp="2022-07-25T11:08:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="scripts.migrations.test_migrations.SQLWarningTestCase" file="scripts/migrations/test_migrations.py" line="10" name="test_rename_table_positive" time="0.019" timestamp="2022-07-25T11:08:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

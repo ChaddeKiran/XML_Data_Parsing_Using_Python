@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment-20220725104819" skipped="0" tests="14" time="13.551" timestamp="2022-07-25T10:51:44">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3169" name="test_business_rental_deferred_payment_calculate_fare_previously_scheduled_rental_late_return" time="1.768" timestamp="2022-07-25T10:51:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3049" name="test_calculate_fare_overages_no_overage_charges" time="0.910" timestamp="2022-07-25T10:51:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3044" name="test_calculate_fare_overages_not_previously_scheduled" time="0.038" timestamp="2022-07-25T10:51:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3059" name="test_calculate_fare_previously_scheduled_rental_late_return" time="0.917" timestamp="2022-07-25T10:51:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3222" name="test_calculate_fare_previously_scheduled_rental_late_return_1min_past_grace_period" time="0.946" timestamp="2022-07-25T10:51:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3131" name="test_calculate_fare_previously_scheduled_rental_late_return_when_payments_disabled" time="0.919" timestamp="2022-07-25T10:51:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3149" name="test_changing_overdue_rental_end_time_should_not_create_second_overage_payment" time="1.093" timestamp="2022-07-25T10:51:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3099" name="test_create_overage_payment_created_with_non_default_credit_card" time="1.475" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3033" name="test_create_overage_payment_missing_hold_payment" time="0.868" timestamp="2022-07-25T10:51:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3318" name="test_overage_not_overdue_with_drive_park_fare" time="0.593" timestamp="2022-07-25T10:51:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3411" name="test_overage_penalty_zero_normal_rental" time="0.927" timestamp="2022-07-25T10:51:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3371" name="test_overage_with_drive_only_fare" time="1.335" timestamp="2022-07-25T10:51:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3260" name="test_overage_with_drive_park_fare" time="0.658" timestamp="2022-07-25T10:51:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestScheduledRentalRequestsPaymentUtilsCreateOveragePayment" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3425" name="test_overage_with_multi_trip_promos" time="1.102" timestamp="2022-07-25T10:51:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_interface.py" name="hardware_sdk_geotab.tests.test_interface.TestVirtualKeyFunctions-20220725104740" skipped="0" tests="4" time="0.099" timestamp="2022-07-25T10:58:40">
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestVirtualKeyFunctions" file="hardware_sdk_geotab/tests/test_interface.py" line="730" name="test_clear_keys_clears_device_offline_storage_virtual_key" time="0.029" timestamp="2022-07-25T10:58:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestVirtualKeyFunctions" file="hardware_sdk_geotab/tests/test_interface.py" line="717" name="test_clear_keys_happy_path" time="0.023" timestamp="2022-07-25T10:58:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestVirtualKeyFunctions" file="hardware_sdk_geotab/tests/test_interface.py" line="747" name="test_clear_keys_with_unknown_exception" time="0.022" timestamp="2022-07-25T10:58:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestVirtualKeyFunctions" file="hardware_sdk_geotab/tests/test_interface.py" line="757" name="test_clear_keys_with_vk_having_start_time_year_beyond_3000" time="0.024" timestamp="2022-07-25T10:58:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

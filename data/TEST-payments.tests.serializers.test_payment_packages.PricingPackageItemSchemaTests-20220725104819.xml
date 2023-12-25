@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/serializers/test_payment_packages.py" name="payments.tests.serializers.test_payment_packages.PricingPackageItemSchemaTests-20220725104819" skipped="0" tests="5" time="0.027" timestamp="2022-07-25T10:49:33">
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackageItemSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="51" name="test_hours_are_stripped_off_from_serialized_output" time="0.020" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackageItemSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="27" name="test_single_pricing_package_item_serialization_has_localized_amount_display_text" time="0.002" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackageItemSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="20" name="test_single_pricing_package_item_serialization_has_localized_label_display_text" time="0.002" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackageItemSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="13" name="test_single_pricing_package_item_serialization_has_localized_short_display_text" time="0.002" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackageItemSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="34" name="test_single_pricing_package_item_serialization_has_localized_text_for_plural_hours" time="0.002" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

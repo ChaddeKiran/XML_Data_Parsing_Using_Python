@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" name="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionIncidentApiAsCustomer-20220725104622" skipped="0" tests="2" time="0.582" timestamp="2022-07-25T10:57:17">
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionIncidentApiAsCustomer" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="182" name="test_post_vehicle_condition" time="0.335" timestamp="2022-07-25T10:57:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionIncidentApiAsCustomer" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="211" name="test_unauthenticated" time="0.248" timestamp="2022-07-25T10:57:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

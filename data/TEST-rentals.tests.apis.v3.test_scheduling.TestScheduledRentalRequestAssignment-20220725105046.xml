@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestAssignment-20220725105046" skipped="0" tests="4" time="8.302" timestamp="2022-07-25T10:59:30">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestAssignment" file="rentals/tests/apis/v3/test_scheduling.py" line="2622" name="test_assigning_assigned_vehicle" time="1.192" timestamp="2022-07-25T10:59:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestAssignment" file="rentals/tests/apis/v3/test_scheduling.py" line="2551" name="test_vehicle_type_change_with_auto_vehicle_assignment" time="2.597" timestamp="2022-07-25T10:59:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestAssignment" file="rentals/tests/apis/v3/test_scheduling.py" line="2483" name="test_vehicle_type_change_with_manual_vehicle_assignment" time="3.321" timestamp="2022-07-25T10:59:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestAssignment" file="rentals/tests/apis/v3/test_scheduling.py" line="2461" name="test_vehicle_unassign" time="1.191" timestamp="2022-07-25T10:59:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

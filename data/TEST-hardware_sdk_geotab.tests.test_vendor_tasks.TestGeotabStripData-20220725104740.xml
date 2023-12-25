@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" name="hardware_sdk_geotab.tests.test_vendor_tasks.TestGeotabStripData-20220725104740" skipped="0" tests="4" time="2.254" timestamp="2022-07-25T10:58:55">
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestGeotabStripData" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="680" name="test_synthesis_strip_data_flag_off_with_active_rental" time="0.421" timestamp="2022-07-25T10:58:53">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.787, 124.877, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestGeotabStripData" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="721" name="test_synthesis_strip_data_flag_off_without_active_rental" time="0.435" timestamp="2022-07-25T10:58:53">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.787, 124.877, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestGeotabStripData" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="590" name="test_synthesis_strip_data_flag_on_with_active_rental" time="0.951" timestamp="2022-07-25T10:58:54">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.787, 134.877, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestGeotabStripData" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="638" name="test_synthesis_strip_data_flag_on_without_active_rental" time="0.447" timestamp="2022-07-25T10:58:55">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.787, 124.877, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

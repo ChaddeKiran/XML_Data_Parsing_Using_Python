@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_customers.py" name="users.tests.apis.v3.test_customers.TestCustomerContactAPI-20220725104545" skipped="0" tests="6" time="4.688" timestamp="2022-07-25T11:04:31">
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerContactAPI" file="users/tests/apis/v3/test_customers.py" line="224" name="test_api_request_with_customerio" time="1.166" timestamp="2022-07-25T11:04:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerContactAPI" file="users/tests/apis/v3/test_customers.py" line="233" name="test_api_request_without_customerio" time="0.882" timestamp="2022-07-25T11:04:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerContactAPI" file="users/tests/apis/v3/test_customers.py" line="216" name="test_api_with_large_texts" time="0.453" timestamp="2022-07-25T11:04:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerContactAPI" file="users/tests/apis/v3/test_customers.py" line="192" name="test_invalid_api_request" time="0.472" timestamp="2022-07-25T11:04:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerContactAPI" file="users/tests/apis/v3/test_customers.py" line="197" name="test_invalid_api_request_with_incorrect_service" time="0.762" timestamp="2022-07-25T11:04:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerContactAPI" file="users/tests/apis/v3/test_customers.py" line="242" name="test_reports_for_contacted_data" time="0.952" timestamp="2022-07-25T11:04:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

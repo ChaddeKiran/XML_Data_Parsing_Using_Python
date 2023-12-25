@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pipelines/tests/apis/v3/test_external_schema_api.py" name="pipelines.tests.apis.v3.test_external_schema_api.ExternalSchemaTests-20220725104819" skipped="0" tests="2" time="0.327" timestamp="2022-07-25T10:52:58">
+	<testcase classname="pipelines.tests.apis.v3.test_external_schema_api.ExternalSchemaTests" file="pipelines/tests/apis/v3/test_external_schema_api.py" line="38" name="test_schema_creation" time="0.162" timestamp="2022-07-25T10:52:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.apis.v3.test_external_schema_api.ExternalSchemaTests" file="pipelines/tests/apis/v3/test_external_schema_api.py" line="53" name="test_schema_ingestion" time="0.165" timestamp="2022-07-25T10:52:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

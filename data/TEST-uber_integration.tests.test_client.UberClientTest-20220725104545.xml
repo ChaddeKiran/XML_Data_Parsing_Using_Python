@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="uber_integration/tests/test_client.py" name="uber_integration.tests.test_client.UberClientTest-20220725104545" skipped="0" tests="2" time="0.088" timestamp="2022-07-25T10:51:37">
+	<testcase classname="uber_integration.tests.test_client.UberClientTest" file="uber_integration/tests/test_client.py" line="14" name="test_send_rental_event" time="0.047" timestamp="2022-07-25T10:51:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_client.UberClientTest" file="uber_integration/tests/test_client.py" line="24" name="test_upload_vehicle_document" time="0.042" timestamp="2022-07-25T10:51:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

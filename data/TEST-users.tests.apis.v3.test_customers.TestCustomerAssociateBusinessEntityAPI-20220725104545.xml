@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_customers.py" name="users.tests.apis.v3.test_customers.TestCustomerAssociateBusinessEntityAPI-20220725104545" skipped="0" tests="5" time="7.413" timestamp="2022-07-25T11:04:23">
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerAssociateBusinessEntityAPI" file="users/tests/apis/v3/test_customers.py" line="327" name="test_upload_existing_members_to_business_entity" time="1.580" timestamp="2022-07-25T11:04:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerAssociateBusinessEntityAPI" file="users/tests/apis/v3/test_customers.py" line="294" name="test_upload_members_to_business_entity" time="1.499" timestamp="2022-07-25T11:04:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerAssociateBusinessEntityAPI" file="users/tests/apis/v3/test_customers.py" line="362" name="test_upload_members_to_business_entity_with_incorrect_headers" time="1.305" timestamp="2022-07-25T11:04:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerAssociateBusinessEntityAPI" file="users/tests/apis/v3/test_customers.py" line="312" name="test_upload_members_with_incorrect_phone_number" time="1.379" timestamp="2022-07-25T11:04:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerAssociateBusinessEntityAPI" file="users/tests/apis/v3/test_customers.py" line="341" name="test_upload_non_existing_members_to_business_entity" time="1.649" timestamp="2022-07-25T11:04:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.customers.Customer'> CustomerQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+</testsuite>

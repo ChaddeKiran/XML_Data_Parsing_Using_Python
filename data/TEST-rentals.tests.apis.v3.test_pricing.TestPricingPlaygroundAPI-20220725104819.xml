@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_pricing.py" name="rentals.tests.apis.v3.test_pricing.TestPricingPlaygroundAPI-20220725104819" skipped="0" tests="6" time="4.497" timestamp="2022-07-25T11:05:27">
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestPricingPlaygroundAPI" file="rentals/tests/apis/v3/test_pricing.py" line="626" name="test_pricing_playground_membership_rule" time="0.594" timestamp="2022-07-25T11:05:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestPricingPlaygroundAPI" file="rentals/tests/apis/v3/test_pricing.py" line="582" name="test_pricing_playground_vehicle_type_filter" time="1.487" timestamp="2022-07-25T11:05:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestPricingPlaygroundAPI" file="rentals/tests/apis/v3/test_pricing.py" line="534" name="test_pricing_playground_vehicle_type_rule" time="0.833" timestamp="2022-07-25T11:05:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestPricingPlaygroundAPI" file="rentals/tests/apis/v3/test_pricing.py" line="780" name="test_pricing_playground_with_a_city_id" time="0.534" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestPricingPlaygroundAPI" file="rentals/tests/apis/v3/test_pricing.py" line="701" name="test_pricing_playground_with_base_pricing" time="0.591" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_pricing.TestPricingPlaygroundAPI" file="rentals/tests/apis/v3/test_pricing.py" line="526" name="test_pricing_playground_without_service" time="0.458" timestamp="2022-07-25T11:05:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

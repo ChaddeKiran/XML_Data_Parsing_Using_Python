@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_rentals.py" name="rentals.tests.apis.v3.test_rentals.TestScheduledRentalsAPIAsSupplierManager-20220725104819" skipped="0" tests="3" time="4.643" timestamp="2022-07-25T11:07:19">
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestScheduledRentalsAPIAsSupplierManager" file="rentals/tests/apis/v3/test_rentals.py" line="2234" name="test_list_contents_with_valet_permissions" time="1.170" timestamp="2022-07-25T11:07:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestScheduledRentalsAPIAsSupplierManager" file="rentals/tests/apis/v3/test_rentals.py" line="2228" name="test_list_with_valet_permissions" time="2.776" timestamp="2022-07-25T11:07:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestScheduledRentalsAPIAsSupplierManager" file="rentals/tests/apis/v3/test_rentals.py" line="2222" name="test_list_without_valet_permissions" time="0.698" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

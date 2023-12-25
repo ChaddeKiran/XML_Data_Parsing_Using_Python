@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" name="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks-20220725104622" skipped="0" tests="11" time="14.889" timestamp="2022-07-25T11:04:52">
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="56" name="test_find_unresponsive_vehicles_by_age" time="1.088" timestamp="2022-07-25T11:04:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="132" name="test_find_unresponsive_vehicles_does_not_reboot_updated_datetime_recent" time="0.906" timestamp="2022-07-25T11:04:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="102" name="test_find_unresponsive_vehicles_reboots_updated_datetime_old_and_last_reboot_old" time="1.053" timestamp="2022-07-25T11:04:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="118" name="test_find_unresponsive_vehicles_reboots_updated_datetime_old_and_last_reboot_recent" time="1.046" timestamp="2022-07-25T11:04:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="85" name="test_find_unresponsive_vehicles_reboots_updated_datetime_very_old" time="1.116" timestamp="2022-07-25T11:04:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="65" name="test_find_unresponsive_vehicles_with_no_updated_datetime" time="0.949" timestamp="2022-07-25T11:04:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="72" name="test_find_unresponsive_vehicles_with_valid_updated_datetime" time="1.001" timestamp="2022-07-25T11:04:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="168" name="test_ignore_vehicles_whose_rental_is_in_invisible_mode" time="0.985" timestamp="2022-07-25T11:04:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="156" name="test_ignore_vehicles_whose_rental_is_in_private_mode" time="0.975" timestamp="2022-07-25T11:04:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="143" name="test_update_gps" time="0.952" timestamp="2022-07-25T11:04:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.tasks.test_carsharing_vehicles_alerts.TestVehicleTasks" file="vehicles/tests/tasks/test_carsharing_vehicles_alerts.py" line="180" name="test_vehicles_unresponsive_multiple_past_rental_in_private" time="4.817" timestamp="2022-07-25T11:04:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

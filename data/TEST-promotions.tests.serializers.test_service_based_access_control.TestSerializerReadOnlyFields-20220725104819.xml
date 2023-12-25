@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/serializers/test_service_based_access_control.py" name="promotions.tests.serializers.test_service_based_access_control.TestSerializerReadOnlyFields-20220725104819" skipped="0" tests="6" time="0.127" timestamp="2022-07-25T10:59:08">
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestSerializerReadOnlyFields" file="promotions/tests/serializers/test_service_based_access_control.py" line="39" name="test_editable_field_exists_on_serialized_objects" time="0.020" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestSerializerReadOnlyFields" file="promotions/tests/serializers/test_service_based_access_control.py" line="44" name="test_editable_field_is_of_type_bool" time="0.019" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestSerializerReadOnlyFields" file="promotions/tests/serializers/test_service_based_access_control.py" line="49" name="test_services_field_exists_on_serialized_objects" time="0.018" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestSerializerReadOnlyFields" file="promotions/tests/serializers/test_service_based_access_control.py" line="59" name="test_services_field_has_correct_number_of_items" time="0.020" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestSerializerReadOnlyFields" file="promotions/tests/serializers/test_service_based_access_control.py" line="54" name="test_services_field_is_of_type_list" time="0.019" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_service_based_access_control.TestSerializerReadOnlyFields" file="promotions/tests/serializers/test_service_based_access_control.py" line="64" name="test_services_field_was_serialized_correctly" time="0.031" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

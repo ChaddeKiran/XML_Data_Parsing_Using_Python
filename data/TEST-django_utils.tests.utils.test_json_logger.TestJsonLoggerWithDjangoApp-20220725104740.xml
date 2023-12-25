@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_json_logger.py" name="django_utils.tests.utils.test_json_logger.TestJsonLoggerWithDjangoApp-20220725104740" skipped="0" tests="1" time="0.568" timestamp="2022-07-25T10:54:38">
+	<testcase classname="django_utils.tests.utils.test_json_logger.TestJsonLoggerWithDjangoApp" file="django_utils/tests/utils/test_json_logger.py" line="26" name="test_json_logger_with_json_serializable_dict" time="0.568" timestamp="2022-07-25T10:54:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[INFO:json-logger:{'key1': 'foo', 'key2': 123, 'key3': [1, 2], 'key4': ['foo', 'bar'], 'key5': {'inner_key1': 'foo', 'inner_key2': 123, 'inner_key3': [1, 2], 'inner_key4': ['foo', 'bar']}}
+]]>		</system-err>
+	</testcase>
+</testsuite>

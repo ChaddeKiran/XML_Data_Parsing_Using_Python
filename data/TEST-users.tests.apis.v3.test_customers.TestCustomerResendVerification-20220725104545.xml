@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_customers.py" name="users.tests.apis.v3.test_customers.TestCustomerResendVerification-20220725104545" skipped="0" tests="3" time="1.053" timestamp="2022-07-25T11:04:40">
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerResendVerification" file="users/tests/apis/v3/test_customers.py" line="54" name="test_mismatched_user_id" time="0.334" timestamp="2022-07-25T11:04:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerResendVerification" file="users/tests/apis/v3/test_customers.py" line="45" name="test_send_email_verification_code" time="0.341" timestamp="2022-07-25T11:04:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_customers.TestCustomerResendVerification" file="users/tests/apis/v3/test_customers.py" line="37" name="test_send_sms_verification_code" time="0.378" timestamp="2022-07-25T11:04:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

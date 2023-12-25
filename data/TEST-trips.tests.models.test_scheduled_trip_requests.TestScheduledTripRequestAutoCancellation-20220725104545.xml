@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/models/test_scheduled_trip_requests.py" name="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestAutoCancellation-20220725104545" skipped="0" tests="2" time="1.178" timestamp="2022-07-25T10:49:30">
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestAutoCancellation" file="trips/tests/models/test_scheduled_trip_requests.py" line="223" name="test_optimizing_trip_auto_cancel" time="0.650" timestamp="2022-07-25T10:49:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestAutoCancellation" file="trips/tests/models/test_scheduled_trip_requests.py" line="206" name="test_wave_trip_auto_cancel" time="0.529" timestamp="2022-07-25T10:49:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

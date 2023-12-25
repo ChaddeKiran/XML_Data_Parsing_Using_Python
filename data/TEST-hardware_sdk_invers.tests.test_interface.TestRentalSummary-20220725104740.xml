@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_invers/tests/test_interface.py" name="hardware_sdk_invers.tests.test_interface.TestRentalSummary-20220725104740" skipped="0" tests="1" time="0.049" timestamp="2022-07-25T10:59:10">
+	<testcase classname="hardware_sdk_invers.tests.test_interface.TestRentalSummary" file="hardware_sdk_invers/tests/test_interface.py" line="34" name="test_get_rental_summary" time="0.049" timestamp="2022-07-25T10:59:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

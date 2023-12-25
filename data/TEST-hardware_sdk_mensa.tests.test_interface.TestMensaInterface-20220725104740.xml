@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_interface.py" name="hardware_sdk_mensa.tests.test_interface.TestMensaInterface-20220725104740" skipped="0" tests="22" time="2.255" timestamp="2022-07-25T10:59:44">
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="110" name="test_all_vehicle_actions" time="0.056" timestamp="2022-07-25T10:59:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="144" name="test_cancel_reservation" time="0.033" timestamp="2022-07-25T10:59:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="149" name="test_clear_keys" time="0.031" timestamp="2022-07-25T10:59:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="176" name="test_connection_error_exception" time="0.023" timestamp="2022-07-25T10:59:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="164" name="test_decouple_rental" time="0.027" timestamp="2022-07-25T10:59:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="227" name="test_deregister_vehicle" time="0.046" timestamp="2022-07-25T10:59:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="159" name="test_get_params_action" time="0.031" timestamp="2022-07-25T10:59:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="201" name="test_initiate_end_rental" time="0.027" timestamp="2022-07-25T10:59:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="134" name="test_lock_vehicle" time="0.027" timestamp="2022-07-25T10:59:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="182" name="test_not_supported_vehicle_action" time="0.021" timestamp="2022-07-25T10:59:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="206" name="test_register_vehicle" time="0.241" timestamp="2022-07-25T10:59:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="222" name="test_register_vehicle_with_connection_exception" time="0.024" timestamp="2022-07-25T10:59:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="216" name="test_register_vehicle_with_connection_timeout_exception" time="0.023" timestamp="2022-07-25T10:59:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="169" name="test_request_timeout_exception" time="0.029" timestamp="2022-07-25T10:59:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="238" name="test_reserve_vehicle" time="0.604" timestamp="2022-07-25T10:59:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="277" name="test_reserve_vehicle_with_connection_error_exception" time="0.032" timestamp="2022-07-25T10:59:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="254" name="test_reserve_vehicle_with_no_mobile_device_id" time="0.839" timestamp="2022-07-25T10:59:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="267" name="test_reserve_vehicle_with_request_timeout_exception" time="0.027" timestamp="2022-07-25T10:59:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="154" name="test_set_params_action" time="0.029" timestamp="2022-07-25T10:59:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="139" name="test_unlock_vehicle" time="0.030" timestamp="2022-07-25T10:59:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="188" name="test_vehicle_action_with_response_code_400" time="0.033" timestamp="2022-07-25T10:59:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestMensaInterface" file="hardware_sdk_mensa/tests/test_interface.py" line="194" name="test_vehicle_action_with_response_code_500" time="0.023" timestamp="2022-07-25T10:59:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/utils/test_locations.py" name="locations.tests.utils.test_locations.TestCreateLocationsFromKML-20220725104740" skipped="0" tests="2" time="0.669" timestamp="2022-07-25T11:02:44">
+	<testcase classname="locations.tests.utils.test_locations.TestCreateLocationsFromKML" file="locations/tests/utils/test_locations.py" line="80" name="test_another_file" time="0.368" timestamp="2022-07-25T11:02:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.utils.test_locations.TestCreateLocationsFromKML" file="locations/tests/utils/test_locations.py" line="75" name="test_load_kml_file" time="0.301" timestamp="2022-07-25T11:02:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

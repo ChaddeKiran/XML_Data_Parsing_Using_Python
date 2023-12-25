@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestIdentityAPIAsAnonymous-20220725104545" skipped="0" tests="1" time="0.062" timestamp="2022-07-25T10:54:20">
+	<testcase classname="users.tests.apis.test_customers.TestIdentityAPIAsAnonymous" file="users/tests/apis/test_customers.py" line="976" name="test_identity" time="0.062" timestamp="2022-07-25T10:54:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

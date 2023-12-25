@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_offline_tags_storage_tasks.py" name="hardware_sdk_geotab.tests.test_offline_tags_storage_tasks.TestOfflineTagsOperations-20220725104740" skipped="0" tests="4" time="0.898" timestamp="2022-07-25T10:58:44">
+	<testcase classname="hardware_sdk_geotab.tests.test_offline_tags_storage_tasks.TestOfflineTagsOperations" file="hardware_sdk_geotab/tests/test_offline_tags_storage_tasks.py" line="75" name="test_assign_new_nfc_tag_with_existing_virtual_key" time="0.233" timestamp="2022-07-25T10:58:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_offline_tags_storage_tasks.TestOfflineTagsOperations" file="hardware_sdk_geotab/tests/test_offline_tags_storage_tasks.py" line="66" name="test_assign_new_nfc_tag_with_genesis_virtual_key" time="0.211" timestamp="2022-07-25T10:58:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_offline_tags_storage_tasks.TestOfflineTagsOperations" file="hardware_sdk_geotab/tests/test_offline_tags_storage_tasks.py" line="108" name="test_delete_tag" time="0.220" timestamp="2022-07-25T10:58:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_offline_tags_storage_tasks.TestOfflineTagsOperations" file="hardware_sdk_geotab/tests/test_offline_tags_storage_tasks.py" line="90" name="test_replace_existing_tag_with_new_tag" time="0.233" timestamp="2022-07-25T10:58:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

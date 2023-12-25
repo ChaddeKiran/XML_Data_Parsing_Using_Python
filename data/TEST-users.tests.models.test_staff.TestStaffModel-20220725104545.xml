@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_staff.py" name="users.tests.models.test_staff.TestStaffModel-20220725104545" skipped="0" tests="2" time="0.142" timestamp="2022-07-25T11:06:26">
+	<testcase classname="users.tests.models.test_staff.TestStaffModel" file="users/tests/models/test_staff.py" line="7" name="test_get_inactive_does_not_raise_exception" time="0.031" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_staff.TestStaffModel" file="users/tests/models/test_staff.py" line="10" name="test_get_inactive_returns_match" time="0.110" timestamp="2022-07-25T11:06:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

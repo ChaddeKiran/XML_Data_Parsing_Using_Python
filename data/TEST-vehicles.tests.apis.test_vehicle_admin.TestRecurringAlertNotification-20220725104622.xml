@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/test_vehicle_admin.py" name="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertNotification-20220725104622" skipped="0" tests="6" time="5.687" timestamp="2022-07-25T10:59:18">
+	<testcase classname="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertNotification" file="vehicles/tests/apis/test_vehicle_admin.py" line="115" name="test_default_user_is_staff" time="0.919" timestamp="2022-07-25T10:59:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertNotification" file="vehicles/tests/apis/test_vehicle_admin.py" line="118" name="test_default_user_is_superuser" time="0.888" timestamp="2022-07-25T10:59:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertNotification" file="vehicles/tests/apis/test_vehicle_admin.py" line="121" name="test_email_validation" time="0.995" timestamp="2022-07-25T10:59:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertNotification" file="vehicles/tests/apis/test_vehicle_admin.py" line="171" name="test_end_date_validation" time="0.931" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertNotification" file="vehicles/tests/apis/test_vehicle_admin.py" line="205" name="test_frequency_validation" time="1.046" timestamp="2022-07-25T10:59:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_vehicle_admin.TestRecurringAlertNotification" file="vehicles/tests/apis/test_vehicle_admin.py" line="112" name="test_is_admin_logged_in" time="0.908" timestamp="2022-07-25T10:59:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

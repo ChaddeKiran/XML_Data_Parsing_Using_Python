@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/utils/test_promotion_eligibility_processors.py" name="promotions.tests.utils.test_promotion_eligibility_processors.EligibilityProcessorI18NTest-20220725104819" skipped="0" tests="3" time="0.442" timestamp="2022-07-25T11:00:07">
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.EligibilityProcessorI18NTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="81" name="test_default_language_is_returned_if_no_user_is_supplied" time="0.151" timestamp="2022-07-25T11:00:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.EligibilityProcessorI18NTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="85" name="test_default_language_is_returned_if_preferred_language_is_missing" time="0.151" timestamp="2022-07-25T11:00:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.EligibilityProcessorI18NTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="96" name="test_preferred_language_is_returned_if_found_in_templates" time="0.140" timestamp="2022-07-25T11:00:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

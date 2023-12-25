@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_state_parsing.py" name="vehicle_lifecycle.tests.test_state_parsing.TestRecordParser-20220725104622" skipped="0" tests="3" time="0.089" timestamp="2022-07-25T10:58:49">
+	<testcase classname="vehicle_lifecycle.tests.test_state_parsing.TestRecordParser" file="vehicle_lifecycle/tests/test_state_parsing.py" line="121" name="test_parse_it_fleet_record" time="0.034" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_parsing.TestRecordParser" file="vehicle_lifecycle/tests/test_state_parsing.py" line="117" name="test_parse_mon_offre_record" time="0.027" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_parsing.TestRecordParser" file="vehicle_lifecycle/tests/test_state_parsing.py" line="113" name="test_parse_ods_record" time="0.028" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

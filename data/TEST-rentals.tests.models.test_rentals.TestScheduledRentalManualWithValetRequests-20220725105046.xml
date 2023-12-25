@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/models/test_rentals.py" name="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests-20220725105046" skipped="0" tests="11" time="8.699" timestamp="2022-07-25T11:05:09">
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1284" name="test_customer_rental_creation" time="1.305" timestamp="2022-07-25T11:05:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1236" name="test_customer_rental_creation_call" time="0.519" timestamp="2022-07-25T11:05:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1266" name="test_customer_rental_creation_call_after_scheduled_rental_cancelled" time="0.563" timestamp="2022-07-25T11:05:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1251" name="test_customer_rental_creation_call_with_service_block_failure" time="0.562" timestamp="2022-07-25T11:05:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1145" name="test_delivery_ticket_creation" time="0.949" timestamp="2022-07-25T11:05:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1348" name="test_handle_tickets_for_cancelled_scheduled_rental" time="1.721" timestamp="2022-07-25T11:05:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1189" name="test_hold_service_block_creation" time="0.323" timestamp="2022-07-25T11:05:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1223" name="test_hold_service_block_creation_with_zero_validity" time="0.387" timestamp="2022-07-25T11:05:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1203" name="test_hold_service_block_not_being_called_twice" time="0.678" timestamp="2022-07-25T11:05:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1334" name="test_retrieval_ticket_creation" time="1.107" timestamp="2022-07-25T11:05:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalManualWithValetRequests" file="rentals/tests/models/test_rentals.py" line="1172" name="test_scheduled_rental_cancellation_after_delivery_ticket_creation" time="0.585" timestamp="2022-07-25T11:05:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

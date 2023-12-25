@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/models/test_rentals.py" name="rentals.tests.models.test_rentals.TestRentals-20220725105046" skipped="0" tests="11" time="8.906" timestamp="2022-07-25T11:05:00">
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="137" name="test_distance_driven_in_meters" time="0.573" timestamp="2022-07-25T11:04:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="124" name="test_distance_driven_in_meters_error_cases" time="0.455" timestamp="2022-07-25T11:04:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="270" name="test_driving_time_rounds_to_nearest_minutes" time="0.809" timestamp="2022-07-25T11:04:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.booked_at received a naive datetime (2018-01-01 12:13:34) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2018-01-01 12:16:57) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.booked_at received a naive datetime (2018-01-01 12:13:14) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="193" name="test_is_late_cancellation" time="0.649" timestamp="2022-07-25T11:04:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="179" name="test_is_late_return" time="1.180" timestamp="2022-07-25T11:04:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="93" name="test_is_short_trip" time="0.512" timestamp="2022-07-25T11:04:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="100" name="test_mileage_driven" time="0.730" timestamp="2022-07-25T11:04:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="142" name="test_not_cancelled" time="1.312" timestamp="2022-07-25T11:04:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="236" name="test_overage_driving_time_in_seconds" time="1.393" timestamp="2022-07-25T11:04:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="222" name="test_rental_parked_time_property" time="0.510" timestamp="2022-07-25T11:04:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestRentals" file="rentals/tests/models/test_rentals.py" line="215" name="test_was_scheduled" time="0.781" timestamp="2022-07-25T11:05:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

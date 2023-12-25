@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerCreationV2AsADispatcher-20220725104545" skipped="0" tests="2" time="0.914" timestamp="2022-07-25T10:59:49">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerCreationV2AsADispatcher" file="users/tests/apis/v2/test_carsharing_customers.py" line="3972" name="test_create_customer_that_is_also_a_dispatcher" time="0.448" timestamp="2022-07-25T10:59:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerCreationV2AsADispatcher" file="users/tests/apis/v2/test_carsharing_customers.py" line="3989" name="test_create_customer_that_is_also_a_supplier_manager" time="0.466" timestamp="2022-07-25T10:59:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

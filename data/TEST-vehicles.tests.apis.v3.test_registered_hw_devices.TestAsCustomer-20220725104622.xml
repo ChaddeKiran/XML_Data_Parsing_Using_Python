@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" name="vehicles.tests.apis.v3.test_registered_hw_devices.TestAsCustomer-20220725104622" skipped="0" tests="3" time="0.532" timestamp="2022-07-25T11:02:50">
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestAsCustomer" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="79" name="test_feature_disabled" time="0.184" timestamp="2022-07-25T11:02:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestAsCustomer" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="73" name="test_feature_enabled" time="0.182" timestamp="2022-07-25T11:02:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestAsCustomer" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="68" name="test_not_logged_in" time="0.166" timestamp="2022-07-25T11:02:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

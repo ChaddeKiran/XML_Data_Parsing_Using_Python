@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/utils/test_user_utils.py" name="users.tests.utils.test_user_utils.TestUserEmail-20220725104622" skipped="0" tests="3" time="1.351" timestamp="2022-07-25T10:49:24">
+	<testcase classname="users.tests.utils.test_user_utils.TestUserEmail" file="users/tests/utils/test_user_utils.py" line="238" name="test_send_user_email_internal_customer_plus_address_considered" time="0.456" timestamp="2022-07-25T10:49:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_user_utils.TestUserEmail" file="users/tests/utils/test_user_utils.py" line="246" name="test_send_user_email_internal_staff_plus_address_considered" time="0.451" timestamp="2022-07-25T10:49:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_user_utils.TestUserEmail" file="users/tests/utils/test_user_utils.py" line="231" name="test_send_user_email_internal_staff_plus_address_ignored" time="0.445" timestamp="2022-07-25T10:49:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

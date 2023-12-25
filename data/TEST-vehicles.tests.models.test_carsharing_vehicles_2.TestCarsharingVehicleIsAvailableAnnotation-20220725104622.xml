@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/models/test_carsharing_vehicles_2.py" name="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehicleIsAvailableAnnotation-20220725104622" skipped="0" tests="4" time="0.793" timestamp="2022-07-25T11:03:34">
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehicleIsAvailableAnnotation" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="146" name="test_battery_and_unresponsive" time="0.351" timestamp="2022-07-25T11:03:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehicleIsAvailableAnnotation" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="125" name="test_both_available" time="0.033" timestamp="2022-07-25T11:03:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehicleIsAvailableAnnotation" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="160" name="test_has_active_rental" time="0.202" timestamp="2022-07-25T11:03:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehicleIsAvailableAnnotation" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="132" name="test_pool_filter" time="0.207" timestamp="2022-07-25T11:03:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

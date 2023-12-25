@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/apis/test_utils.py" name="django_utils.tests.apis.test_utils.TestGitInfoAPI-20220725104740" skipped="0" tests="2" time="0.827" timestamp="2022-07-25T10:54:28">
+	<testcase classname="django_utils.tests.apis.test_utils.TestGitInfoAPI" file="django_utils/tests/apis/test_utils.py" line="14" name="test_get_git_info_permissions" time="0.526" timestamp="2022-07-25T10:54:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.apis.test_utils.TestGitInfoAPI" file="django_utils/tests/apis/test_utils.py" line="11" name="test_git_info_url" time="0.300" timestamp="2022-07-25T10:54:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

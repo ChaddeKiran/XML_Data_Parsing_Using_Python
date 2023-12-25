@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestIdentityAPIAsSupplierManager-20220725104545" skipped="0" tests="3" time="1.755" timestamp="2022-07-25T10:54:25">
+	<testcase classname="users.tests.apis.test_customers.TestIdentityAPIAsSupplierManager" file="users/tests/apis/test_customers.py" line="1091" name="test_identity" time="0.238" timestamp="2022-07-25T10:54:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestIdentityAPIAsSupplierManager" file="users/tests/apis/test_customers.py" line="1099" name="test_identity_with_driver_and_valet_providers" time="0.745" timestamp="2022-07-25T10:54:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestIdentityAPIAsSupplierManager" file="users/tests/apis/test_customers.py" line="1112" name="test_identity_with_only_valet_provider" time="0.772" timestamp="2022-07-25T10:54:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

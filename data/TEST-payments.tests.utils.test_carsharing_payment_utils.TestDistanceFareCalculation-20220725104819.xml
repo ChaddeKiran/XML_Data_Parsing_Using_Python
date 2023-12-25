@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation-20220725104819" skipped="0" tests="10" time="0.007" timestamp="2022-07-25T11:07:19">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="201" name="test_fare_applies_cap_for_each_full_day" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="206" name="test_fare_applies_cap_for_less_than_one_day" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="210" name="test_fare_applies_cap_for_less_than_one_day_more_miles" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="222" name="test_fare_applies_cap_for_more_than_one_day_equal_miles_than_limit" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="214" name="test_fare_applies_cap_for_more_than_one_day_less_miles" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="218" name="test_fare_applies_cap_for_more_than_one_day_less_miles_than_limit" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="226" name="test_fare_applies_cap_for_more_than_one_day_miles_than_limit" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="197" name="test_with_distance_above_cap" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="189" name="test_with_distance_below_cap" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDistanceFareCalculation" file="payments/tests/utils/test_carsharing_payment_utils.py" line="193" name="test_with_distance_equal_to_cap" time="0.001" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

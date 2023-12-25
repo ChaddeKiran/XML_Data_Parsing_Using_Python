@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" name="hardware_sdk_otakeys.tests.test_vehicle_utils.TestVehicleUpdates-20220725104740" skipped="0" tests="7" time="3.952" timestamp="2022-07-25T11:01:50">
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestVehicleUpdates" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="40" name="test_create_parking_start" time="0.573" timestamp="2022-07-25T11:01:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestVehicleUpdates" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="53" name="test_engine_start_stop" time="0.541" timestamp="2022-07-25T11:01:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestVehicleUpdates" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="49" name="test_only_engine_start" time="0.535" timestamp="2022-07-25T11:01:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestVehicleUpdates" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="58" name="test_other_vehicle_operation" time="0.570" timestamp="2022-07-25T11:01:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestVehicleUpdates" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="44" name="test_update_parking_stop" time="0.551" timestamp="2022-07-25T11:01:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestVehicleUpdates" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="62" name="test_updated_at_timestamp" time="0.598" timestamp="2022-07-25T11:01:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_vehicle_utils.TestVehicleUpdates" file="hardware_sdk_otakeys/tests/test_vehicle_utils.py" line="72" name="test_vehicle_update_serializer" time="0.585" timestamp="2022-07-25T11:01:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

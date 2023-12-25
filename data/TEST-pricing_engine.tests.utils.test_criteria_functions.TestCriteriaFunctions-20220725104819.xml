@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pricing_engine/tests/utils/test_criteria_functions.py" name="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions-20220725104819" skipped="0" tests="13" time="15.588" timestamp="2022-07-25T10:53:44">
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="136" name="test_distance_greater_than" time="1.218" timestamp="2022-07-25T10:53:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="153" name="test_distance_less_than" time="1.034" timestamp="2022-07-25T10:53:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="58" name="test_end_within_region" time="1.153" timestamp="2022-07-25T10:53:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="204" name="test_has_business_entity" time="1.238" timestamp="2022-07-25T10:53:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="215" name="test_is_package_ride" time="1.098" timestamp="2022-07-25T10:53:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="237" name="test_membership" time="1.487" timestamp="2022-07-25T10:53:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="170" name="test_route_distance_greater_than" time="1.104" timestamp="2022-07-25T10:53:36">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.36, -121.94, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.79812, -122.522278, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.36, -121.94, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.36, -121.93, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="187" name="test_route_distance_less_than" time="1.033" timestamp="2022-07-25T10:53:38">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.36, -121.94, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.79812, -122.522278, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.36, -121.94, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.36, -121.93, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="72" name="test_start_or_end_within_region" time="1.532" timestamp="2022-07-25T10:53:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="224" name="test_start_time_inclusive" time="0.560" timestamp="2022-07-25T10:53:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="44" name="test_start_within_region" time="1.065" timestamp="2022-07-25T10:53:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="92" name="test_start_within_times" time="1.092" timestamp="2022-07-25T10:53:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="116" name="test_vehicle_type" time="1.975" timestamp="2022-07-25T10:53:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

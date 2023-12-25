@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_payment_utils.py" name="payments.tests.utils.test_payment_utils.TestGrantCreditRefund-20220725104819" skipped="0" tests="4" time="0.542" timestamp="2022-07-25T10:52:14">
+	<testcase classname="payments.tests.utils.test_payment_utils.TestGrantCreditRefund" file="payments/tests/utils/test_payment_utils.py" line="286" name="test_compute_coupons_to_refund" time="0.117" timestamp="2022-07-25T10:52:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestGrantCreditRefund" file="payments/tests/utils/test_payment_utils.py" line="306" name="test_compute_coupons_to_refund_with_multitrip" time="0.128" timestamp="2022-07-25T10:52:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestGrantCreditRefund" file="payments/tests/utils/test_payment_utils.py" line="398" name="test_compute_coupons_to_refund_with_multitrip_many_credits_redeemed" time="0.136" timestamp="2022-07-25T10:52:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestGrantCreditRefund" file="payments/tests/utils/test_payment_utils.py" line="339" name="test_compute_coupons_to_refund_with_new_user" time="0.161" timestamp="2022-07-25T10:52:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

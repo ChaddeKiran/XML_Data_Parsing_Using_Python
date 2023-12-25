@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestMembershipNumbers-20220725104545" skipped="0" tests="9" time="9.583" timestamp="2022-07-25T11:01:59">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestMembershipNumbers" file="users/tests/apis/v2/test_carsharing_customers.py" line="3181" name="test_collect_membership_number_aaa_validation_bad" time="0.532" timestamp="2022-07-25T11:01:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestMembershipNumbers" file="users/tests/apis/v2/test_carsharing_customers.py" line="3193" name="test_collect_membership_number_aaa_validation_good" time="2.911" timestamp="2022-07-25T11:01:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestMembershipNumbers" file="users/tests/apis/v2/test_carsharing_customers.py" line="3131" name="test_collect_membership_number_optional" time="1.258" timestamp="2022-07-25T11:01:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestMembershipNumbers" file="users/tests/apis/v2/test_carsharing_customers.py" line="3155" name="test_collect_membership_number_optional_provided" time="1.267" timestamp="2022-07-25T11:01:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestMembershipNumbers" file="users/tests/apis/v2/test_carsharing_customers.py" line="3169" name="test_collect_membership_number_required_error" time="0.507" timestamp="2022-07-25T11:01:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestMembershipNumbers" file="users/tests/apis/v2/test_carsharing_customers.py" line="3238" name="test_get_customer_includes_can_schedule_car" time="0.632" timestamp="2022-07-25T11:01:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestMembershipNumbers" file="users/tests/apis/v2/test_carsharing_customers.py" line="3228" name="test_get_customer_includes_membership_number" time="0.609" timestamp="2022-07-25T11:01:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestMembershipNumbers" file="users/tests/apis/v2/test_carsharing_customers.py" line="3143" name="test_optional_collect_with_validator" time="1.278" timestamp="2022-07-25T11:01:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestMembershipNumbers" file="users/tests/apis/v2/test_carsharing_customers.py" line="3210" name="test_reuse_membership_number_disallowed" time="0.589" timestamp="2022-07-25T11:01:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

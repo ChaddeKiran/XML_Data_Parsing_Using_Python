@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestCustomerFinalizeRegistration-20220725104545" skipped="0" tests="3" time="1.341" timestamp="2022-07-25T10:52:29">
+	<testcase classname="users.tests.apis.test_customers.TestCustomerFinalizeRegistration" file="users/tests/apis/test_customers.py" line="689" name="test_invalid_service_id" time="0.365" timestamp="2022-07-25T10:52:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerFinalizeRegistration" file="users/tests/apis/test_customers.py" line="693" name="test_no_service_id_given" time="0.529" timestamp="2022-07-25T10:52:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerFinalizeRegistration" file="users/tests/apis/test_customers.py" line="685" name="test_service_id_given" time="0.448" timestamp="2022-07-25T10:52:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

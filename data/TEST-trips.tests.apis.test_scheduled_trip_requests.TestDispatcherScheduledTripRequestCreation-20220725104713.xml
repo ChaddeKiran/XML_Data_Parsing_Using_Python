@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation-20220725104713" skipped="0" tests="15" time="16.099" timestamp="2022-07-25T10:56:54">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1787" name="test_create_p2p_scheduled_ride_without_promos" time="1.631" timestamp="2022-07-25T10:56:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1646" name="test_create_schedule_trip_with_inactive_business_admin" time="1.089" timestamp="2022-07-25T10:56:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1761" name="test_create_scheduled_ride_for_nonregistered_user" time="0.942" timestamp="2022-07-25T10:56:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1775" name="test_create_scheduled_ride_for_nonregistered_user_with_credit_payment" time="0.938" timestamp="2022-07-25T10:56:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1749" name="test_get_scheduled_trips_invalid_service_id" time="0.985" timestamp="2022-07-25T10:56:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1737" name="test_get_scheduled_trips_multi_service" time="1.099" timestamp="2022-07-25T10:56:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1673" name="test_scheduled_trip_create_and_convert_on_demand_with_business_entity" time="1.226" timestamp="2022-07-25T10:56:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1693" name="test_scheduled_trip_create_with_vehicle_type_on_demand_conversion" time="1.224" timestamp="2022-07-25T10:56:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1707" name="test_scheduled_trip_request_creation_unverified" time="0.815" timestamp="2022-07-25T10:56:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1687" name="test_scheduled_trip_request_creation_with_all_required_fields" time="0.824" timestamp="2022-07-25T10:56:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1715" name="test_scheduled_trip_request_creation_with_many_concurrent_rides" time="1.466" timestamp="2022-07-25T10:56:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1729" name="test_scheduled_trip_request_creation_with_scheduled_trip_requests_disabled" time="0.846" timestamp="2022-07-25T10:56:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1627" name="test_scheduled_trip_request_creation_without_phone_number" time="0.717" timestamp="2022-07-25T10:56:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1633" name="test_scheduled_trip_request_matching_customer" time="1.230" timestamp="2022-07-25T10:56:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDispatcherScheduledTripRequestCreation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1659" name="test_scheduled_trip_request_with_deferred_payment" time="1.066" timestamp="2022-07-25T10:56:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

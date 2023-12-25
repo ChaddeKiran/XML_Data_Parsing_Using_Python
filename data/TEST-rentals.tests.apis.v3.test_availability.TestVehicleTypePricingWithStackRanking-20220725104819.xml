@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_availability.py" name="rentals.tests.apis.v3.test_availability.TestVehicleTypePricingWithStackRanking-20220725104819" skipped="0" tests="3" time="4.149" timestamp="2022-07-25T11:04:33">
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypePricingWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1746" name="test_highest_ranked_exclusive_service_pricing_used_for_estimate" time="1.561" timestamp="2022-07-25T11:04:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypePricingWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1711" name="test_highest_ranked_service_pricing_used_for_estimate" time="1.136" timestamp="2022-07-25T11:04:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypePricingWithStackRanking" file="rentals/tests/apis/v3/test_availability.py" line="1799" name="test_second_highest_ranked_service_pricing_used_for_estimate" time="1.452" timestamp="2022-07-25T11:04:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

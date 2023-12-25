@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsEventUpdate-20220725104622" skipped="0" tests="3" time="0.022" timestamp="2022-07-25T10:54:04">
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsEventUpdate" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1839" name="test_is_route_message_to_telematics_topic" time="0.001" timestamp="2022-07-25T10:54:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsEventUpdate" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1832" name="test_kafka_message_for_power_lost_event_source" time="0.020" timestamp="2022-07-25T10:54:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsEventUpdate" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1844" name="test_kafka_message_for_telematics_update_source" time="0.002" timestamp="2022-07-25T10:54:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/test_customers_cards.py" name="payments.tests.apis.test_customers_cards.TestHasValidCcExpirationDates-20220725104740" skipped="0" tests="5" time="0.000" timestamp="2020-02-01T00:00:00">
+	<testcase classname="payments.tests.apis.test_customers_cards.TestHasValidCcExpirationDates" file="payments/tests/apis/test_customers_cards.py" line="1492" name="test_has_valid_cc_is_false_when_card_expired_earlier_this_year" time="0.000" timestamp="2020-02-01T00:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestHasValidCcExpirationDates" file="payments/tests/apis/test_customers_cards.py" line="1485" name="test_has_valid_cc_is_false_when_card_expired_the_previous_year" time="0.000" timestamp="2020-02-01T00:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestHasValidCcExpirationDates" file="payments/tests/apis/test_customers_cards.py" line="1506" name="test_has_valid_cc_is_true_when_card_expires_later_this_year" time="0.000" timestamp="2020-02-01T00:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestHasValidCcExpirationDates" file="payments/tests/apis/test_customers_cards.py" line="1513" name="test_has_valid_cc_is_true_when_card_expires_next_year_but_on_a_month_earlier_than_this_month" time="0.000" timestamp="2020-02-01T00:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestHasValidCcExpirationDates" file="payments/tests/apis/test_customers_cards.py" line="1499" name="test_has_valid_cc_is_true_when_card_expires_this_month" time="0.000" timestamp="2020-02-01T00:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

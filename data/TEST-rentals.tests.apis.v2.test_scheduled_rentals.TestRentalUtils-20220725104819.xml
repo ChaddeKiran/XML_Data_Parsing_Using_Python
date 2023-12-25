@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v2/test_scheduled_rentals.py" name="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalUtils-20220725104819" skipped="0" tests="7" time="4.615" timestamp="2022-07-25T11:03:29">
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalUtils" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="97" name="test_available_types_reserved" time="0.813" timestamp="2022-07-25T11:03:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalUtils" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="117" name="test_available_types_reserved_plus_one" time="0.975" timestamp="2022-07-25T11:03:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalUtils" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="84" name="test_available_types_simple" time="0.651" timestamp="2022-07-25T11:03:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalUtils" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="38" name="test_vehicle_available" time="0.360" timestamp="2022-07-25T11:03:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalUtils" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="46" name="test_vehicle_not_available" time="0.380" timestamp="2022-07-25T11:03:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalUtils" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="54" name="test_vehicle_reserved_overlapping" time="0.696" timestamp="2022-07-25T11:03:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalUtils" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="70" name="test_vehicle_reserved_overlapping_plus_one" time="0.740" timestamp="2022-07-25T11:03:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

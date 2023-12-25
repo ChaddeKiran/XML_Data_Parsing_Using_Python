@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_jumio.py" name="users.tests.third_party.test_jumio.TestJumioVerification-20220725104622" skipped="0" tests="25" time="10.509" timestamp="2022-07-25T10:48:38">
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="389" name="test_calculate_verification_car_permission_missing" time="0.032" timestamp="2022-07-25T10:48:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="315" name="test_calculate_verification_liveness_fail" time="0.053" timestamp="2022-07-25T10:48:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="338" name="test_calculate_verification_liveness_true_despite_failure" time="0.029" timestamp="2022-07-25T10:48:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="371" name="test_calculate_verification_only_car_permission" time="0.043" timestamp="2022-07-25T10:48:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="299" name="test_calculate_verification_pass" time="0.036" timestamp="2022-07-25T10:48:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="354" name="test_calculate_verification_with_car_permission" time="0.031" timestamp="2022-07-25T10:48:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="408" name="test_create_license_from_report" time="0.373" timestamp="2022-07-25T10:48:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="448" name="test_create_mailing_address" time="0.051" timestamp="2022-07-25T10:48:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="249" name="test_create_placeholder_license_to_hold_address_payload" time="0.861" timestamp="2022-07-25T10:48:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="564" name="test_driving_license_address_update_with_address_already_present" time="0.834" timestamp="2022-07-25T10:48:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="592" name="test_driving_license_address_update_with_is_verified_false" time="0.457" timestamp="2022-07-25T10:48:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="548" name="test_driving_license_address_update_with_skip_manual_license_correction_false" time="0.769" timestamp="2022-07-25T10:48:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="556" name="test_driving_license_address_update_with_skip_manual_license_correction_true" time="0.698" timestamp="2022-07-25T10:48:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="512" name="test_jumio_failure_request_auth_key" time="0.176" timestamp="2022-07-25T10:48:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="530" name="test_jumio_success_request_auth_key" time="0.209" timestamp="2022-07-25T10:48:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="521" name="test_jumio_success_request_with_no_auth_key" time="0.200" timestamp="2022-07-25T10:48:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="539" name="test_jumio_success_with_correct_auth_key" time="0.163" timestamp="2022-07-25T10:48:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="276" name="test_sample_fail" time="0.358" timestamp="2022-07-25T10:48:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="287" name="test_sample_fail_no_document" time="0.171" timestamp="2022-07-25T10:48:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="93" name="test_sample_pass" time="0.655" timestamp="2022-07-25T10:48:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="154" name="test_sample_pass_create_license" time="1.039" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="202" name="test_sample_pass_create_license_no_address" time="0.841" timestamp="2022-07-25T10:48:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="228" name="test_sample_pass_create_license_no_duplicates" time="0.798" timestamp="2022-07-25T10:48:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="107" name="test_sample_pass_create_license_with_correction" time="0.767" timestamp="2022-07-25T10:48:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioVerification" file="users/tests/third_party/test_jumio.py" line="130" name="test_sample_pass_license_year_before_1900" time="0.865" timestamp="2022-07-25T10:48:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

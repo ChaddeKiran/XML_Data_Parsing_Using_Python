@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" name="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleCombinations-20220725104622" skipped="0" tests="7" time="4.667" timestamp="2022-07-25T11:02:56">
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleCombinations" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="114" name="test_geotab_gks" time="0.643" timestamp="2022-07-25T11:02:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleCombinations" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="106" name="test_mensa" time="0.616" timestamp="2022-07-25T11:02:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleCombinations" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="98" name="test_ota_keys_legacy" time="0.624" timestamp="2022-07-25T11:02:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleCombinations" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="122" name="test_ota_keys_legacy_and_go9" time="0.775" timestamp="2022-07-25T11:02:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleCombinations" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="156" name="test_ota_keys_legacy_and_mensa_and_gks_where_gks_active" time="0.612" timestamp="2022-07-25T11:02:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleCombinations" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="143" name="test_ota_keys_legacy_and_mensa_and_go9_where_mensa_active" time="0.783" timestamp="2022-07-25T11:02:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleCombinations" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="132" name="test_ota_keys_legacy_and_mensa_where_ota_keys_active" time="0.614" timestamp="2022-07-25T11:02:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

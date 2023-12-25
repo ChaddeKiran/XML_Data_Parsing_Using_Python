@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" name="hardware_sdk_geotab.tests.test_vendor_tasks.TestEndRentalFlow-20220725104740" skipped="0" tests="2" time="4.591" timestamp="2022-07-25T10:58:51">
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestEndRentalFlow" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="814" name="test_nfc_long_tap_on_reserved_vehicle" time="2.064" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3333, -122.2222, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestEndRentalFlow" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="790" name="test_rfid_end_rental" time="2.527" timestamp="2022-07-25T10:58:51">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3333, -122.2222, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (33.3333, -122.2222, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

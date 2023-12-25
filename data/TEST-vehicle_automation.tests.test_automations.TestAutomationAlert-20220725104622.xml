@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automations.py" name="vehicle_automation.tests.test_automations.TestAutomationAlert-20220725104622" skipped="0" tests="3" time="1.649" timestamp="2022-07-25T10:52:00">
+	<testcase classname="vehicle_automation.tests.test_automations.TestAutomationAlert" file="vehicle_automation/tests/test_automations.py" line="116" name="test_create_automation_alert" time="0.441" timestamp="2022-07-25T10:51:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automations.TestAutomationAlert" file="vehicle_automation/tests/test_automations.py" line="137" name="test_is_vehicle_in_maintenance_group_should_return_false" time="0.587" timestamp="2022-07-25T10:51:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automations.TestAutomationAlert" file="vehicle_automation/tests/test_automations.py" line="127" name="test_is_vehicle_in_maintenance_group_should_return_true" time="0.622" timestamp="2022-07-25T10:52:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

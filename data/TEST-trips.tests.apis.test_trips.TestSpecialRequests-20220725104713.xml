@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestSpecialRequests-20220725104713" skipped="0" tests="5" time="3.810" timestamp="2022-07-25T11:04:07">
+	<testcase classname="trips.tests.apis.test_trips.TestSpecialRequests" file="trips/tests/apis/test_trips.py" line="1741" name="test_bike_request_fail" time="0.221" timestamp="2022-07-25T11:04:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestSpecialRequests" file="trips/tests/apis/test_trips.py" line="1734" name="test_lift_and_bike_request_success" time="1.422" timestamp="2022-07-25T11:04:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestSpecialRequests" file="trips/tests/apis/test_trips.py" line="1747" name="test_lift_request_fail" time="0.210" timestamp="2022-07-25T11:04:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestSpecialRequests" file="trips/tests/apis/test_trips.py" line="1762" name="test_metacharacters" time="0.596" timestamp="2022-07-25T11:04:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestSpecialRequests" file="trips/tests/apis/test_trips.py" line="1753" name="test_xss_on_request" time="1.361" timestamp="2022-07-25T11:04:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

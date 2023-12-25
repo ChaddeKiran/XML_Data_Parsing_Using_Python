@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/models/test_scheduled_trip_requests.py" name="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestsPaymentUtils-20220725104545" skipped="0" tests="5" time="0.488" timestamp="2022-07-25T10:49:39">
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestsPaymentUtils" file="trips/tests/models/test_scheduled_trip_requests.py" line="83" name="test_create_hold_payment" time="0.103" timestamp="2022-07-25T10:49:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestsPaymentUtils" file="trips/tests/models/test_scheduled_trip_requests.py" line="98" name="test_create_hold_payment_coupons_used" time="0.096" timestamp="2022-07-25T10:49:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestsPaymentUtils" file="trips/tests/models/test_scheduled_trip_requests.py" line="120" name="test_create_hold_payment_exemption" time="0.096" timestamp="2022-07-25T10:49:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestsPaymentUtils" file="trips/tests/models/test_scheduled_trip_requests.py" line="109" name="test_create_hold_payment_partial_credit_tax_correct" time="0.093" timestamp="2022-07-25T10:49:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestsPaymentUtils" file="trips/tests/models/test_scheduled_trip_requests.py" line="77" name="test_failed_with_inactive_credit_card" time="0.100" timestamp="2022-07-25T10:49:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

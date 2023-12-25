@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="afm_integration/tests/test_tasks.py" name="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMapping-20220725104740" skipped="0" tests="6" time="7.923" timestamp="2022-07-25T10:50:09">
+	<testcase classname="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMapping" file="afm_integration/tests/test_tasks.py" line="161" name="test_create_ticket_custom_mapping_for_aux_battery_alert" time="1.220" timestamp="2022-07-25T10:50:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMapping" file="afm_integration/tests/test_tasks.py" line="136" name="test_create_ticket_custom_mapping_for_ev_battery_alert" time="1.459" timestamp="2022-07-25T10:50:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMapping" file="afm_integration/tests/test_tasks.py" line="111" name="test_create_ticket_custom_mapping_for_fuel_alert" time="1.450" timestamp="2022-07-25T10:50:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMapping" file="afm_integration/tests/test_tasks.py" line="185" name="test_custom_mapping_not_used_afm_disabled" time="1.661" timestamp="2022-07-25T10:50:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMapping" file="afm_integration/tests/test_tasks.py" line="214" name="test_duplicate_ticket_manual_creation" time="0.672" timestamp="2022-07-25T10:50:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMapping" file="afm_integration/tests/test_tasks.py" line="229" name="test_prevent_duplicate_ticket_auto_creation" time="1.461" timestamp="2022-07-25T10:50:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

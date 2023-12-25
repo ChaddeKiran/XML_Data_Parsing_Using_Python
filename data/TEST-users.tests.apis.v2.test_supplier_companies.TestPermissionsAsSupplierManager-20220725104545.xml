@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_supplier_companies.py" name="users.tests.apis.v2.test_supplier_companies.TestPermissionsAsSupplierManager-20220725104545" skipped="0" tests="1" time="0.216" timestamp="2022-07-25T11:02:43">
+	<testcase classname="users.tests.apis.v2.test_supplier_companies.TestPermissionsAsSupplierManager" file="users/tests/apis/v2/test_supplier_companies.py" line="159" name="test_permission" time="0.216" timestamp="2022-07-25T11:02:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

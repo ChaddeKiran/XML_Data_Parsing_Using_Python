@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestTimeBlocks-20220725105046" skipped="0" tests="6" time="4.026" timestamp="2022-07-25T11:01:25">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestTimeBlocks" file="rentals/tests/apis/v3/test_scheduling.py" line="6112" name="test_time_blocks" time="0.490" timestamp="2022-07-25T11:01:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestTimeBlocks" file="rentals/tests/apis/v3/test_scheduling.py" line="6304" name="test_time_blocks_with_business_entity_services" time="1.672" timestamp="2022-07-25T11:01:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestTimeBlocks" file="rentals/tests/apis/v3/test_scheduling.py" line="6148" name="test_time_blocks_with_market_id" time="0.518" timestamp="2022-07-25T11:01:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestTimeBlocks" file="rentals/tests/apis/v3/test_scheduling.py" line="6227" name="test_time_blocks_with_membership" time="0.428" timestamp="2022-07-25T11:01:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestTimeBlocks" file="rentals/tests/apis/v3/test_scheduling.py" line="6188" name="test_time_blocks_with_station_id" time="0.491" timestamp="2022-07-25T11:01:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestTimeBlocks" file="rentals/tests/apis/v3/test_scheduling.py" line="6269" name="test_time_blocks_without_preferred_timezone" time="0.428" timestamp="2022-07-25T11:01:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

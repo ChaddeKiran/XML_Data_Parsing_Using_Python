@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="app_logging/tests/signals/test_customer_device_context_signals.py" name="app_logging.tests.signals.test_customer_device_context_signals.TestCustomerDeviceContextSignals-20220725104740" skipped="0" tests="2" time="0.607" timestamp="2022-07-25T10:50:37">
+	<testcase classname="app_logging.tests.signals.test_customer_device_context_signals.TestCustomerDeviceContextSignals" file="app_logging/tests/signals/test_customer_device_context_signals.py" line="13" name="test_create_send_customer_device_context_events_to_data_pipeline" time="0.381" timestamp="2022-07-25T10:50:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.signals.test_customer_device_context_signals.TestCustomerDeviceContextSignals" file="app_logging/tests/signals/test_customer_device_context_signals.py" line="21" name="test_update_send_customer_device_context_events_to_data_pipeline" time="0.226" timestamp="2022-07-25T10:50:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

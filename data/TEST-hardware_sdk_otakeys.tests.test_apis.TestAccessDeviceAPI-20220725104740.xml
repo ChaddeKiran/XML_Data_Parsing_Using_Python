@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_apis.py" name="hardware_sdk_otakeys.tests.test_apis.TestAccessDeviceAPI-20220725104740" skipped="0" tests="1" time="0.428" timestamp="2022-07-25T11:00:50">
+	<testcase classname="hardware_sdk_otakeys.tests.test_apis.TestAccessDeviceAPI" file="hardware_sdk_otakeys/tests/test_apis.py" line="23" name="test_authenticate_device_token" time="0.428" timestamp="2022-07-25T11:00:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

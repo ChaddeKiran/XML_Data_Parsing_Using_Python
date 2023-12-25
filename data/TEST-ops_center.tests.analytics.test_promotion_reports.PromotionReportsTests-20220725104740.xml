@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/analytics/test_promotion_reports.py" name="ops_center.tests.analytics.test_promotion_reports.PromotionReportsTests-20220725104740" skipped="0" tests="7" time="11.337" timestamp="2022-07-25T11:03:36">
+	<testcase classname="ops_center.tests.analytics.test_promotion_reports.PromotionReportsTests" file="ops_center/tests/analytics/test_promotion_reports.py" line="125" name="test_criteria_fulfilled_at_for_normal_promo_is_shown_as_not_applicable" time="2.181" timestamp="2022-07-25T11:03:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_promotion_reports.PromotionReportsTests" file="ops_center/tests/analytics/test_promotion_reports.py" line="103" name="test_criteria_fulfilled_at_used_by_and_used_on_are_empty_before_coupon_activation" time="1.133" timestamp="2022-07-25T11:03:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_promotion_reports.PromotionReportsTests" file="ops_center/tests/analytics/test_promotion_reports.py" line="110" name="test_criteria_fulfilled_at_used_by_and_used_on_are_set_after_coupon_is_activated" time="1.242" timestamp="2022-07-25T11:03:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_promotion_reports.PromotionReportsTests" file="ops_center/tests/analytics/test_promotion_reports.py" line="95" name="test_multi_trip_award_promotion_generates_report_with_one_row_per_coupon_after_activation" time="1.262" timestamp="2022-07-25T11:03:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_promotion_reports.PromotionReportsTests" file="ops_center/tests/analytics/test_promotion_reports.py" line="91" name="test_multi_trip_award_promotion_generates_report_with_one_row_per_coupon_before_activation" time="1.113" timestamp="2022-07-25T11:03:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_promotion_reports.PromotionReportsTests" file="ops_center/tests/analytics/test_promotion_reports.py" line="145" name="test_normal_promo_report_contains_used_by_and_used_on_after_activation" time="2.420" timestamp="2022-07-25T11:03:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.analytics.test_promotion_reports.PromotionReportsTests" file="ops_center/tests/analytics/test_promotion_reports.py" line="136" name="test_normal_promo_report_missing_used_by_and_used_on_before_activation" time="1.986" timestamp="2022-07-25T11:03:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

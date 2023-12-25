@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/apis/v3/test_locations.py" name="locations.tests.apis.v3.test_locations.TestLocationAPIAsCustomer-20220725104740" skipped="0" tests="6" time="1.601" timestamp="2022-07-25T11:02:32">
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsCustomer" file="locations/tests/apis/v3/test_locations.py" line="184" name="test_create" time="0.319" timestamp="2022-07-25T11:02:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsCustomer" file="locations/tests/apis/v3/test_locations.py" line="190" name="test_delete" time="0.263" timestamp="2022-07-25T11:02:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsCustomer" file="locations/tests/apis/v3/test_locations.py" line="178" name="test_list" time="0.269" timestamp="2022-07-25T11:02:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsCustomer" file="locations/tests/apis/v3/test_locations.py" line="181" name="test_retrieve" time="0.259" timestamp="2022-07-25T11:02:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsCustomer" file="locations/tests/apis/v3/test_locations.py" line="187" name="test_update" time="0.275" timestamp="2022-07-25T11:02:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsCustomer" file="locations/tests/apis/v3/test_locations.py" line="88" name="test_url" time="0.216" timestamp="2022-07-25T11:02:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

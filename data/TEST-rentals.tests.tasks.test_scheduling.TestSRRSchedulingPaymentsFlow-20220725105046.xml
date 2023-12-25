@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_scheduling.py" name="rentals.tests.tasks.test_scheduling.TestSRRSchedulingPaymentsFlow-20220725105046" skipped="0" tests="2" time="3.573" timestamp="2022-07-25T11:06:22">
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSRRSchedulingPaymentsFlow" file="rentals/tests/tasks/test_scheduling.py" line="1007" name="test_scheduling_cc_hold" time="0.860" timestamp="2022-07-25T11:06:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSRRSchedulingPaymentsFlow" file="rentals/tests/tasks/test_scheduling.py" line="969" name="test_scheduling_fully_credited_hold" time="2.712" timestamp="2022-07-25T11:06:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

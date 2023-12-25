@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_services.py" name="services.tests.apis.v3.test_services.TestServiceVisibilityForAnon-20220725104713" skipped="0" tests="2" time="1.387" timestamp="2022-07-25T10:50:41">
+	<testcase classname="services.tests.apis.v3.test_services.TestServiceVisibilityForAnon" file="services/tests/apis/v3/test_services.py" line="175" name="test_can_see_all_services_as_anonymous_user" time="0.720" timestamp="2022-07-25T10:50:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'services.models.services_models.Service'> ServiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestServiceVisibilityForAnon" file="services/tests/apis/v3/test_services.py" line="182" name="test_cannot_see_exclusive_services_as_anonymous_user" time="0.667" timestamp="2022-07-25T10:50:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

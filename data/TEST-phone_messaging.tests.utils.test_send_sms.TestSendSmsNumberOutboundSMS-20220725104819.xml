@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="phone_messaging/tests/utils/test_send_sms.py" name="phone_messaging.tests.utils.test_send_sms.TestSendSmsNumberOutboundSMS-20220725104819" skipped="0" tests="3" time="0.277" timestamp="2022-07-25T10:52:49">
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSendSmsNumberOutboundSMS" file="phone_messaging/tests/utils/test_send_sms.py" line="207" name="test_send_sms_number_common" time="0.105" timestamp="2022-07-25T10:52:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSendSmsNumberOutboundSMS" file="phone_messaging/tests/utils/test_send_sms.py" line="220" name="test_send_sms_number_fictitious" time="0.083" timestamp="2022-07-25T10:52:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSendSmsNumberOutboundSMS" file="phone_messaging/tests/utils/test_send_sms.py" line="198" name="test_send_sms_number_fictitious_with_area_code" time="0.089" timestamp="2022-07-25T10:52:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

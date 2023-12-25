@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="fleet_rentals/tests/apis/test_fleet_rentals.py" name="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals-20220725104740" skipped="0" tests="11" time="10.978" timestamp="2022-07-25T10:56:54">
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="98" name="test_add_vehicles" time="1.327" timestamp="2022-07-25T10:56:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="44" name="test_available_vehicles" time="0.786" timestamp="2022-07-25T10:56:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="217" name="test_deactivate_vehicles" time="1.114" timestamp="2022-07-25T10:56:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="208" name="test_end_time_before_current_time" time="0.368" timestamp="2022-07-25T10:56:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="257" name="test_filter_fleet_rental" time="1.620" timestamp="2022-07-25T10:56:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'fleet_rentals.models.fleet_rentals.FleetRental'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="298" name="test_fleet_rental_edit_after_complete" time="1.696" timestamp="2022-07-25T10:56:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="338" name="test_fleet_rental_with_maintenance_service" time="0.607" timestamp="2022-07-25T10:56:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="357" name="test_preferred_key_type" time="1.679" timestamp="2022-07-25T10:56:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="152" name="test_remove_vehicles" time="1.075" timestamp="2022-07-25T10:56:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="189" name="test_start_time_after_end_time" time="0.361" timestamp="2022-07-25T10:56:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="fleet_rentals.tests.apis.test_fleet_rentals.TestV3FleetRentals" file="fleet_rentals/tests/apis/test_fleet_rentals.py" line="199" name="test_start_time_before_current_time" time="0.344" timestamp="2022-07-25T10:56:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

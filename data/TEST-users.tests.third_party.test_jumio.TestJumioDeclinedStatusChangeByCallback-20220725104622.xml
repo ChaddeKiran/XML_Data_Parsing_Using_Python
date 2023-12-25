@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_jumio.py" name="users.tests.third_party.test_jumio.TestJumioDeclinedStatusChangeByCallback-20220725104622" skipped="0" tests="4" time="2.664" timestamp="2022-07-25T10:48:19">
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioDeclinedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="1060" name="test_declined_should_not_update_to_unsubmitted_if_missing_back" time="0.496" timestamp="2022-07-25T10:48:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioDeclinedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="1043" name="test_declined_should_not_update_to_unsubmitted_if_no_document" time="0.468" timestamp="2022-07-25T10:48:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioDeclinedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="1080" name="test_declined_should_not_update_to_unsubmitted_if_no_id" time="0.430" timestamp="2022-07-25T10:48:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioDeclinedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="1026" name="test_declined_should_update_to_accepted" time="1.270" timestamp="2022-07-25T10:48:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

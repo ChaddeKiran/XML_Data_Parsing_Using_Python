@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_scheduling.py" name="rentals.tests.tasks.test_scheduling.TestScheduledRentalConversionFailureEmailsEdgeCases-20220725105046" skipped="0" tests="6" time="11.366" timestamp="2022-07-25T11:06:33">
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalConversionFailureEmailsEdgeCases" file="rentals/tests/tasks/test_scheduling.py" line="1549" name="test_booking_error_email_sent_only_once" time="1.194" timestamp="2022-07-25T11:06:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalConversionFailureEmailsEdgeCases" file="rentals/tests/tasks/test_scheduling.py" line="1566" name="test_certain_failure_emails_are_sent_after_booking_error_email" time="5.065" timestamp="2022-07-25T11:06:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalConversionFailureEmailsEdgeCases" file="rentals/tests/tasks/test_scheduling.py" line="1632" name="test_email_sent_flag_is_not_unset_on_vehicle_being_unassigned" time="1.271" timestamp="2022-07-25T11:06:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalConversionFailureEmailsEdgeCases" file="rentals/tests/tasks/test_scheduling.py" line="1606" name="test_email_sent_flag_is_unset_on_vehicle_assignment" time="1.215" timestamp="2022-07-25T11:06:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalConversionFailureEmailsEdgeCases" file="rentals/tests/tasks/test_scheduling.py" line="1619" name="test_email_sent_flag_is_unset_on_vehicle_being_reassigned" time="1.395" timestamp="2022-07-25T11:06:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestScheduledRentalConversionFailureEmailsEdgeCases" file="rentals/tests/tasks/test_scheduling.py" line="1593" name="test_no_vehicle_assigned_email_sent_only_once" time="1.226" timestamp="2022-07-25T11:06:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/apis/test_calendars.py" name="calendars.tests.apis.test_calendars.CalendarsTestCase-20220725104740" skipped="0" tests="10" time="3.804" timestamp="2022-07-25T10:53:14">
+	<testcase classname="calendars.tests.apis.test_calendars.CalendarsTestCase" file="calendars/tests/apis/test_calendars.py" line="27" name="test_create_calendar_for_service" time="0.421" timestamp="2022-07-25T10:53:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_calendars.CalendarsTestCase" file="calendars/tests/apis/test_calendars.py" line="41" name="test_create_calendar_for_service_region" time="0.268" timestamp="2022-07-25T10:53:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_calendars.CalendarsTestCase" file="calendars/tests/apis/test_calendars.py" line="66" name="test_create_calendar_invalid_service" time="0.265" timestamp="2022-07-25T10:53:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_calendars.CalendarsTestCase" file="calendars/tests/apis/test_calendars.py" line="55" name="test_create_calendar_missing_both_service_and_service_region" time="0.883" timestamp="2022-07-25T10:53:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_calendars.CalendarsTestCase" file="calendars/tests/apis/test_calendars.py" line="113" name="test_create_multiple_calendars_with_same_service_not_allowed" time="0.436" timestamp="2022-07-25T10:53:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_calendars.CalendarsTestCase" file="calendars/tests/apis/test_calendars.py" line="22" name="test_customer_unable_to_view" time="0.287" timestamp="2022-07-25T10:53:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_calendars.CalendarsTestCase" file="calendars/tests/apis/test_calendars.py" line="95" name="test_filter_calendar_by_invalid_service_id_does_not_return_associated_service_object" time="0.269" timestamp="2022-07-25T10:53:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_calendars.CalendarsTestCase" file="calendars/tests/apis/test_calendars.py" line="86" name="test_filter_calendar_by_valid_service_id_returns_calendar_associated_with_service" time="0.432" timestamp="2022-07-25T10:53:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'calendars.models.Calendar'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_calendars.CalendarsTestCase" file="calendars/tests/apis/test_calendars.py" line="80" name="test_get_calendars" time="0.266" timestamp="2022-07-25T10:53:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_calendars.CalendarsTestCase" file="calendars/tests/apis/test_calendars.py" line="102" name="test_rename_calendar" time="0.276" timestamp="2022-07-25T10:53:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

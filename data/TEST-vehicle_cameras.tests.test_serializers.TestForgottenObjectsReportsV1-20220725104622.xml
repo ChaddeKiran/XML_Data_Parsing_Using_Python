@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_cameras/tests/test_serializers.py" name="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1-20220725104622" skipped="0" tests="10" time="1.466" timestamp="2022-07-25T10:57:01">
+	<testcase classname="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1" file="vehicle_cameras/tests/test_serializers.py" line="54" name="test_bad_camera_location" time="0.096" timestamp="2022-07-25T10:57:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1" file="vehicle_cameras/tests/test_serializers.py" line="101" name="test_confidence_score_out_of_bounds" time="0.095" timestamp="2022-07-25T10:57:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1" file="vehicle_cameras/tests/test_serializers.py" line="94" name="test_create_report_with_2_images" time="0.099" timestamp="2022-07-25T10:57:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1" file="vehicle_cameras/tests/test_serializers.py" line="86" name="test_create_report_with_no_images" time="0.096" timestamp="2022-07-25T10:57:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1" file="vehicle_cameras/tests/test_serializers.py" line="106" name="test_image_captured_at_in_the_future" time="0.093" timestamp="2022-07-25T10:57:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1" file="vehicle_cameras/tests/test_serializers.py" line="72" name="test_matching_request_id" time="0.605" timestamp="2022-07-25T10:57:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1" file="vehicle_cameras/tests/test_serializers.py" line="81" name="test_no_bucket" time="0.097" timestamp="2022-07-25T10:57:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1" file="vehicle_cameras/tests/test_serializers.py" line="66" name="test_no_matching_request_id" time="0.099" timestamp="2022-07-25T10:57:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1" file="vehicle_cameras/tests/test_serializers.py" line="59" name="test_no_matching_vin" time="0.088" timestamp="2022-07-25T10:57:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_cameras.tests.test_serializers.TestForgottenObjectsReportsV1" file="vehicle_cameras/tests/test_serializers.py" line="111" name="test_report_generated_at_in_the_future" time="0.099" timestamp="2022-07-25T10:57:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

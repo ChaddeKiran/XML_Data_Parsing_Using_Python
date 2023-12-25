@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_customer_history_2.py" name="users.tests.models.test_customer_history_2.TestCustomerHistoryManager-20220725104545" skipped="0" tests="1" time="1.477" timestamp="2022-07-25T11:06:24">
+	<testcase classname="users.tests.models.test_customer_history_2.TestCustomerHistoryManager" file="users/tests/models/test_customer_history_2.py" line="157" name="test_log_profile_update" time="1.477" timestamp="2022-07-25T11:06:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

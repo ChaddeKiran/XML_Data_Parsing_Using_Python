@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_braintree_api.py" name="payments.tests.payment_providers.test_braintree_api.TestBrainTree3DSecureFlow-20220725104819" skipped="0" tests="5" time="0.122" timestamp="2022-07-25T10:48:53">
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTree3DSecureFlow" file="payments/tests/payment_providers/test_braintree_api.py" line="210" name="test_add_3d_secure_card_to_customer_success_path" time="0.029" timestamp="2022-07-25T10:48:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTree3DSecureFlow" file="payments/tests/payment_providers/test_braintree_api.py" line="235" name="test_add_3ds_secure_card_to_customer_exception_handling" time="0.025" timestamp="2022-07-25T10:48:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTree3DSecureFlow" file="payments/tests/payment_providers/test_braintree_api.py" line="222" name="test_add_3ds_secure_card_to_customer_failure_path" time="0.026" timestamp="2022-07-25T10:48:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTree3DSecureFlow" file="payments/tests/payment_providers/test_braintree_api.py" line="198" name="test_charge_customer_falls_back_to_card_id_if_nonce_creation_fails" time="0.020" timestamp="2022-07-25T10:48:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_braintree_api.TestBrainTree3DSecureFlow" file="payments/tests/payment_providers/test_braintree_api.py" line="185" name="test_charge_customer_uses_nonce_by_default" time="0.021" timestamp="2022-07-25T10:48:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

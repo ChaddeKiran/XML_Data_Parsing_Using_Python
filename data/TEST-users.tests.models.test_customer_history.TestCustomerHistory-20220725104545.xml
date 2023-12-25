@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_customer_history.py" name="users.tests.models.test_customer_history.TestCustomerHistory-20220725104545" skipped="0" tests="4" time="0.590" timestamp="2022-07-25T11:06:13">
+	<testcase classname="users.tests.models.test_customer_history.TestCustomerHistory" file="users/tests/models/test_customer_history.py" line="55" name="test_customer_device_context_appended_to_user_activity_event" time="0.151" timestamp="2022-07-25T11:06:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_customer_history.TestCustomerHistory" file="users/tests/models/test_customer_history.py" line="26" name="test_customer_update_events" time="0.049" timestamp="2022-07-25T11:06:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_customer_history.TestCustomerHistory" file="users/tests/models/test_customer_history.py" line="35" name="test_rental_events" time="0.354" timestamp="2022-07-25T11:06:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_customer_history.TestCustomerHistory" file="users/tests/models/test_customer_history.py" line="44" name="test_serializer_display_text" time="0.036" timestamp="2022-07-25T11:06:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

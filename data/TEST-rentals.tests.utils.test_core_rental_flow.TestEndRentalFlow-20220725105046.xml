@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/utils/test_core_rental_flow.py" name="rentals.tests.utils.test_core_rental_flow.TestEndRentalFlow-20220725105046" skipped="0" tests="4" time="2.344" timestamp="2022-07-25T11:08:12">
+	<testcase classname="rentals.tests.utils.test_core_rental_flow.TestEndRentalFlow" file="rentals/tests/utils/test_core_rental_flow.py" line="228" name="test_dwob_doors_open_after_last_doors_close" time="0.470" timestamp="2022-07-25T11:08:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_core_rental_flow.TestEndRentalFlow" file="rentals/tests/utils/test_core_rental_flow.py" line="189" name="test_dwob_doors_open_before_last_doors_close" time="0.574" timestamp="2022-07-25T11:08:11">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (18.643723, 73.78668, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_core_rental_flow.TestEndRentalFlow" file="rentals/tests/utils/test_core_rental_flow.py" line="311" name="test_dwob_engine_running_after_last_doors_close" time="0.449" timestamp="2022-07-25T11:08:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_core_rental_flow.TestEndRentalFlow" file="rentals/tests/utils/test_core_rental_flow.py" line="273" name="test_dwob_engine_running_before_last_doors_close" time="0.850" timestamp="2022-07-25T11:08:12">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (18.643723, 73.78668, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (18.643723, 73.78668, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/utils/test_user_utils.py" name="users.tests.utils.test_user_utils.TestUserUtils-20220725110716" skipped="0" tests="5" time="3.330" timestamp="2022-07-25T11:08:02">
+	<testcase classname="users.tests.utils.test_user_utils.TestUserUtils" file="users/tests/utils/test_user_utils.py" line="49" name="test_right_to_access" time="0.015" timestamp="2022-07-25T11:07:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_user_utils.TestUserUtils" file="users/tests/utils/test_user_utils.py" line="108" name="test_right_to_access_ridesharing" time="1.022" timestamp="2022-07-25T11:08:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_user_utils.TestUserUtils" file="users/tests/utils/test_user_utils.py" line="67" name="test_right_to_be_forgotten" time="0.299" timestamp="2022-07-25T11:08:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_user_utils.TestUserUtils" file="users/tests/utils/test_user_utils.py" line="81" name="test_right_to_be_forgotten_when_have_srr" time="0.507" timestamp="2022-07-25T11:08:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_user_utils.TestUserUtils" file="users/tests/utils/test_user_utils.py" line="57" name="test_right_to_be_forgotten_when_in_active_rental" time="1.488" timestamp="2022-07-25T11:08:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

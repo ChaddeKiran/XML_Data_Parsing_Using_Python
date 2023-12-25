@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v2/test_configurations.py" name="services.tests.apis.v2.test_configurations.TestConfigurationEditingAsAdmin-20220725104713" skipped="0" tests="5" time="2.520" timestamp="2022-07-25T10:48:24">
+	<testcase classname="services.tests.apis.v2.test_configurations.TestConfigurationEditingAsAdmin" file="services/tests/apis/v2/test_configurations.py" line="29" name="test_can_retrieve_as_superuser" time="0.548" timestamp="2022-07-25T10:48:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_configurations.TestConfigurationEditingAsAdmin" file="services/tests/apis/v2/test_configurations.py" line="15" name="test_can_update_as_superuser" time="0.553" timestamp="2022-07-25T10:48:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_configurations.TestConfigurationEditingAsAdmin" file="services/tests/apis/v2/test_configurations.py" line="49" name="test_disable_stations_based_rentals" time="0.658" timestamp="2022-07-25T10:48:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_configurations.TestConfigurationEditingAsAdmin" file="services/tests/apis/v2/test_configurations.py" line="71" name="test_disabling_all_payment_mode_but_wallet" time="0.391" timestamp="2022-07-25T10:48:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_configurations.TestConfigurationEditingAsAdmin" file="services/tests/apis/v2/test_configurations.py" line="44" name="test_only_exists_in_dev_mode" time="0.369" timestamp="2022-07-25T10:48:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

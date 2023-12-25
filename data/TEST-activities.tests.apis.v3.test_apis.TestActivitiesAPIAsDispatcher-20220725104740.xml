@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="activities/tests/apis/v3/test_apis.py" name="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher-20220725104740" skipped="0" tests="19" time="118.940" timestamp="2022-07-25T10:49:45">
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="344" name="test_activities_station_address" time="5.762" timestamp="2022-07-25T10:47:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="207" name="test_business_customer_does_rental_in_his_business_service" time="6.768" timestamp="2022-07-25T10:47:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="275" name="test_business_customer_does_rental_in_other_business_service" time="7.057" timestamp="2022-07-25T10:48:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="424" name="test_cancelled_activities" time="5.184" timestamp="2022-07-25T10:48:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="203" name="test_customer_role_with_dispatcher_auth" time="5.606" timestamp="2022-07-25T10:48:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="412" name="test_fields_in_results" time="5.205" timestamp="2022-07-25T10:48:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="491" name="test_larger_pagination_as_customer" time="13.330" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="460" name="test_pagination_as_customer" time="5.510" timestamp="2022-07-25T10:48:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="311" name="test_past_activities" time="5.383" timestamp="2022-07-25T10:48:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="320" name="test_past_activities_containing_business_rental" time="6.898" timestamp="2022-07-25T10:48:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="539" name="test_query_params_validation" time="5.753" timestamp="2022-07-25T10:48:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="243" name="test_regular_customer_does_rental_in_business_service" time="6.706" timestamp="2022-07-25T10:49:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="198" name="test_staff_role_with_customer_auth" time="5.422" timestamp="2022-07-25T10:49:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="368" name="test_start_end_times_rounded_off" time="5.332" timestamp="2022-07-25T10:49:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="402" name="test_type_filter" time="5.933" timestamp="2022-07-25T10:49:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="383" name="test_upcoming_activities" time="5.406" timestamp="2022-07-25T10:49:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="433" name="test_vehicle_pics" time="5.650" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="167" name="test_with_customer_role" time="5.606" timestamp="2022-07-25T10:49:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="activities.tests.apis.v3.test_apis.TestActivitiesAPIAsDispatcher" file="activities/tests/apis/v3/test_apis.py" line="144" name="test_with_dispatcher_role" time="6.427" timestamp="2022-07-25T10:49:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

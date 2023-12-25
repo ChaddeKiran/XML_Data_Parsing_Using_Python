@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/commands/test_update_stripe_default_card.py" name="payments.tests.commands.test_update_stripe_default_card.TestUpdateStripeDefaultCard-20220725104819" skipped="0" tests="7" time="3.099" timestamp="2022-07-25T10:48:34">
+	<testcase classname="payments.tests.commands.test_update_stripe_default_card.TestUpdateStripeDefaultCard" file="payments/tests/commands/test_update_stripe_default_card.py" line="110" name="test_customer_no_in_use_creditcard" time="0.484" timestamp="2022-07-25T10:48:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_update_stripe_default_card.TestUpdateStripeDefaultCard" file="payments/tests/commands/test_update_stripe_default_card.py" line="128" name="test_customer_two_in_use_creditcard" time="0.505" timestamp="2022-07-25T10:48:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_update_stripe_default_card.TestUpdateStripeDefaultCard" file="payments/tests/commands/test_update_stripe_default_card.py" line="86" name="test_dryrun_success" time="0.438" timestamp="2022-07-25T10:48:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_update_stripe_default_card.TestUpdateStripeDefaultCard" file="payments/tests/commands/test_update_stripe_default_card.py" line="99" name="test_filter_customer_ids" time="0.486" timestamp="2022-07-25T10:48:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_update_stripe_default_card.TestUpdateStripeDefaultCard" file="payments/tests/commands/test_update_stripe_default_card.py" line="45" name="test_payment_provider_not_stripe" time="0.375" timestamp="2022-07-25T10:48:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_update_stripe_default_card.TestUpdateStripeDefaultCard" file="payments/tests/commands/test_update_stripe_default_card.py" line="53" name="test_stripe_customer_not_found" time="0.355" timestamp="2022-07-25T10:48:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_update_stripe_default_card.TestUpdateStripeDefaultCard" file="payments/tests/commands/test_update_stripe_default_card.py" line="67" name="test_success" time="0.456" timestamp="2022-07-25T10:48:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

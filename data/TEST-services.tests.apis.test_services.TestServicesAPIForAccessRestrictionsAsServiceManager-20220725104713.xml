@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_services.py" name="services.tests.apis.test_services.TestServicesAPIForAccessRestrictionsAsServiceManager-20220725104713" skipped="0" tests="4" time="2.064" timestamp="2022-07-25T10:48:21">
+	<testcase classname="services.tests.apis.test_services.TestServicesAPIForAccessRestrictionsAsServiceManager" file="services/tests/apis/test_services.py" line="414" name="test_destroy" time="0.368" timestamp="2022-07-25T10:48:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServicesAPIForAccessRestrictionsAsServiceManager" file="services/tests/apis/test_services.py" line="392" name="test_get" time="0.600" timestamp="2022-07-25T10:48:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServicesAPIForAccessRestrictionsAsServiceManager" file="services/tests/apis/test_services.py" line="400" name="test_patch" time="0.529" timestamp="2022-07-25T10:48:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServicesAPIForAccessRestrictionsAsServiceManager" file="services/tests/apis/test_services.py" line="407" name="test_put" time="0.567" timestamp="2022-07-25T10:48:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

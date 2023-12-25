@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" name="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncIngestion-20220725104622" skipped="0" tests="7" time="12.576" timestamp="2022-07-25T10:59:02">
+	<testcase classname="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncIngestion" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" line="50" name="test_add_IT_Fleet_records" time="9.847" timestamp="2022-07-25T10:59:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncIngestion" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" line="74" name="test_add_MON_OFFRE_records" time="0.461" timestamp="2022-07-25T10:59:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:00.452755) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:00.454080) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:00.455241) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:00.456340) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncIngestion" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" line="35" name="test_add_ODS_records" time="0.424" timestamp="2022-07-25T10:59:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:00.922682) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:00.924337) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:00.925539) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncIngestion" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" line="123" name="test_add_contract_records" time="0.432" timestamp="2022-07-25T10:59:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:01.357820) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:01.359597) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:01.360877) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:01.362056) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncIngestion" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" line="107" name="test_add_sets_datetime_to_now_for_Mon_Offre_and_ODS" time="0.511" timestamp="2022-07-25T10:59:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (1000-01-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncIngestion" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" line="94" name="test_add_with_bad_record_schema_does_not_add_record_to_db" time="0.481" timestamp="2022-07-25T10:59:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VendorVehicleData.record_date received a naive datetime (2022-07-25 10:59:02.305382) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_vehicle_state_sync_api.TestVehicleStateSyncIngestion" file="vehicle_lifecycle/tests/test_vehicle_state_sync_api.py" line="87" name="test_add_without_vendor_or_file_fails" time="0.421" timestamp="2022-07-25T10:59:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

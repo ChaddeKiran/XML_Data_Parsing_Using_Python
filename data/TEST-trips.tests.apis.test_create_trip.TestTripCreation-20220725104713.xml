@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_create_trip.py" name="trips.tests.apis.test_create_trip.TestTripCreation-20220725104713" skipped="0" tests="12" time="8.333" timestamp="2022-07-25T10:53:55">
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="294" name="test_create_package_trip_with_same_start_and_end_locations" time="1.265" timestamp="2022-07-25T10:53:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="310" name="test_create_trip_starts_in_pin_dispatch_region" time="0.393" timestamp="2022-07-25T10:53:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="214" name="test_create_trip_with_all_required_fields" time="0.962" timestamp="2022-07-25T10:53:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="234" name="test_create_trip_with_empty_address_fields" time="0.234" timestamp="2022-07-25T10:53:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="227" name="test_create_trip_with_invalid_service_specified" time="0.196" timestamp="2022-07-25T10:53:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="246" name="test_create_trip_with_missing_start_address_fields" time="0.231" timestamp="2022-07-25T10:53:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="219" name="test_create_trip_with_no_service_specified" time="0.983" timestamp="2022-07-25T10:53:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="320" name="test_create_trip_with_overridden_dedicated_flag" time="1.006" timestamp="2022-07-25T10:53:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="287" name="test_create_trip_with_same_start_and_end_locations" time="0.278" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="280" name="test_trip_creation_customer_blocked" time="0.233" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="272" name="test_trip_creation_no_phone_number" time="0.977" timestamp="2022-07-25T10:53:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreation" file="trips/tests/apis/test_create_trip.py" line="261" name="test_trip_creation_with_default_service_set_to_common_service" time="1.575" timestamp="2022-07-25T10:53:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

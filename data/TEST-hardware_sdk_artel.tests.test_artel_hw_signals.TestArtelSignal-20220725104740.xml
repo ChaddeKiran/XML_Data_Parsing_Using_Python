@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_artel/tests/test_artel_hw_signals.py" name="hardware_sdk_artel.tests.test_artel_hw_signals.TestArtelSignal-20220725104740" skipped="0" tests="1" time="0.187" timestamp="2022-07-25T10:57:50">
+	<testcase classname="hardware_sdk_artel.tests.test_artel_hw_signals.TestArtelSignal" file="hardware_sdk_artel/tests/test_artel_hw_signals.py" line="22" name="test_telematics_lat_lng_is_updated_when_vehicle_added_to_station" time="0.187" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

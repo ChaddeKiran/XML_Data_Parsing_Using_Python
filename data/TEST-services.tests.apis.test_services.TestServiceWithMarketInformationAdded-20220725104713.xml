@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_services.py" name="services.tests.apis.test_services.TestServiceWithMarketInformationAdded-20220725104713" skipped="0" tests="3" time="2.650" timestamp="2022-07-25T10:48:14">
+	<testcase classname="services.tests.apis.test_services.TestServiceWithMarketInformationAdded" file="services/tests/apis/test_services.py" line="181" name="test_auto_pick_rank_ordering" time="1.134" timestamp="2022-07-25T10:48:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceWithMarketInformationAdded" file="services/tests/apis/test_services.py" line="167" name="test_get_service_with_market_id" time="0.754" timestamp="2022-07-25T10:48:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServiceWithMarketInformationAdded" file="services/tests/apis/test_services.py" line="176" name="test_patch" time="0.762" timestamp="2022-07-25T10:48:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

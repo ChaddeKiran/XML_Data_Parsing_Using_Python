@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="situation_engine/tests/test_engine.py" name="situation_engine.tests.test_engine.TestSituationEngineBasicFunctions-20220725104713" skipped="0" tests="6" time="0.276" timestamp="2022-07-25T10:52:01">
+	<testcase classname="situation_engine.tests.test_engine.TestSituationEngineBasicFunctions" file="situation_engine/tests/test_engine.py" line="53" name="test_engine_basics" time="0.051" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.test_engine.TestSituationEngineBasicFunctions" file="situation_engine/tests/test_engine.py" line="107" name="test_rule_exclusivity" time="0.044" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.test_engine.TestSituationEngineBasicFunctions" file="situation_engine/tests/test_engine.py" line="89" name="test_rules_respect_ordering_within_priority" time="0.048" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.test_engine.TestSituationEngineBasicFunctions" file="situation_engine/tests/test_engine.py" line="73" name="test_rules_respect_priority" time="0.049" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.test_engine.TestSituationEngineBasicFunctions" file="situation_engine/tests/test_engine.py" line="123" name="test_value_in_rule" time="0.032" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.test_engine.TestSituationEngineBasicFunctions" file="situation_engine/tests/test_engine.py" line="134" name="test_value_one_of_rule" time="0.052" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

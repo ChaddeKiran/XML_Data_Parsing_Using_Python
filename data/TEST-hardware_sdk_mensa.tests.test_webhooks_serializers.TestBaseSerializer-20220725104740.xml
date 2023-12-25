@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" name="hardware_sdk_mensa.tests.test_webhooks_serializers.TestBaseSerializer-20220725104740" skipped="0" tests="3" time="0.003" timestamp="2022-07-25T11:00:35">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestBaseSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="42" name="test_bad_timestamp" time="0.001" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestBaseSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="37" name="test_bad_trasaction_id" time="0.001" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks_serializers.TestBaseSerializer" file="hardware_sdk_mensa/tests/test_webhooks_serializers.py" line="47" name="test_good_data" time="0.001" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

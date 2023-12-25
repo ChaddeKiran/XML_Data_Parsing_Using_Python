@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/models/test_carsharing_vehicles_2.py" name="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehiclesInServiceUpdateFirebase-20220725104622" skipped="0" tests="6" time="2.767" timestamp="2022-07-25T11:03:39">
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehiclesInServiceUpdateFirebase" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="237" name="test_add_vehicle_to_vg_in_service" time="0.497" timestamp="2022-07-25T11:03:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehiclesInServiceUpdateFirebase" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="240" name="test_add_vg_to_service" time="0.263" timestamp="2022-07-25T11:03:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehiclesInServiceUpdateFirebase" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="243" name="test_create_vehicle" time="0.307" timestamp="2022-07-25T11:03:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehiclesInServiceUpdateFirebase" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="246" name="test_delete_vehicle_in_vg_in_service" time="0.515" timestamp="2022-07-25T11:03:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehiclesInServiceUpdateFirebase" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="274" name="test_remove_vehicle_from_vg_in_service" time="0.501" timestamp="2022-07-25T11:03:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestCarsharingVehiclesInServiceUpdateFirebase" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="295" name="test_update_vehicle_in_vg_in_service" time="0.685" timestamp="2022-07-25T11:03:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

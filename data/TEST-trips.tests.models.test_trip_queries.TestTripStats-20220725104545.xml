@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/models/test_trip_queries.py" name="trips.tests.models.test_trip_queries.TestTripStats-20220725104545" skipped="0" tests="4" time="0.107" timestamp="2022-07-25T10:49:44">
+	<testcase classname="trips.tests.models.test_trip_queries.TestTripStats" file="trips/tests/models/test_trip_queries.py" line="83" name="test_drivers_arrived_trip" time="0.035" timestamp="2022-07-25T10:49:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_trip_queries.TestTripStats" file="trips/tests/models/test_trip_queries.py" line="79" name="test_drivers_en_route" time="0.032" timestamp="2022-07-25T10:49:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_trip_queries.TestTripStats" file="trips/tests/models/test_trip_queries.py" line="87" name="test_drivers_in_transit" time="0.020" timestamp="2022-07-25T10:49:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_trip_queries.TestTripStats" file="trips/tests/models/test_trip_queries.py" line="75" name="test_unassigned_trip" time="0.020" timestamp="2022-07-25T10:49:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

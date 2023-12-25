@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/test_customers_cards.py" name="payments.tests.apis.test_customers_cards.TestMultiCardSupport-20220725104740" skipped="0" tests="8" time="7.680" timestamp="2022-07-25T11:04:47">
+	<testcase classname="payments.tests.apis.test_customers_cards.TestMultiCardSupport" file="payments/tests/apis/test_customers_cards.py" line="661" name="test_add_card_in_use_false_no_preauth_validation" time="1.077" timestamp="2022-07-25T11:04:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestMultiCardSupport" file="payments/tests/apis/test_customers_cards.py" line="583" name="test_add_card_params_as_none" time="0.864" timestamp="2022-07-25T11:04:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestMultiCardSupport" file="payments/tests/apis/test_customers_cards.py" line="494" name="test_add_card_with_additional_params" time="0.849" timestamp="2022-07-25T11:04:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestMultiCardSupport" file="payments/tests/apis/test_customers_cards.py" line="623" name="test_add_card_without_additional_params" time="0.883" timestamp="2022-07-25T11:04:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestMultiCardSupport" file="payments/tests/apis/test_customers_cards.py" line="534" name="test_add_valid_business_card_with_skip_charging_business_cards_enabled" time="0.726" timestamp="2022-07-25T11:04:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestMultiCardSupport" file="payments/tests/apis/test_customers_cards.py" line="781" name="test_add_valid_card_with_cc_hold_set_to_zero" time="0.970" timestamp="2022-07-25T11:04:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestMultiCardSupport" file="payments/tests/apis/test_customers_cards.py" line="703" name="test_mark_card_in_use" time="0.897" timestamp="2022-07-25T11:04:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestMultiCardSupport" file="payments/tests/apis/test_customers_cards.py" line="737" name="test_mark_card_in_use_customer_history" time="1.415" timestamp="2022-07-25T11:04:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

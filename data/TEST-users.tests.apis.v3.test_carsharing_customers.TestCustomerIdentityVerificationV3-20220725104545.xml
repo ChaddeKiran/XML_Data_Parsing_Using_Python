@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_carsharing_customers.py" name="users.tests.apis.v3.test_carsharing_customers.TestCustomerIdentityVerificationV3-20220725104545" skipped="0" tests="1" time="0.405" timestamp="2022-07-25T11:03:12">
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestCustomerIdentityVerificationV3" file="users/tests/apis/v3/test_carsharing_customers.py" line="495" name="test_cannot_patch_identity_verification_approved_operator_override" time="0.405" timestamp="2022-07-25T11:03:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

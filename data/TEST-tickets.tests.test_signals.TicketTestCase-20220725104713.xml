@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="tickets/tests/test_signals.py" name="tickets.tests.test_signals.TicketTestCase-20220725104713" skipped="0" tests="2" time="0.199" timestamp="2022-07-25T10:53:24">
+	<testcase classname="tickets.tests.test_signals.TicketTestCase" file="tickets/tests/test_signals.py" line="26" name="test_supplier_ticket_assignment_email_post_save_handler_is_called" time="0.108" timestamp="2022-07-25T10:53:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_signals.TicketTestCase" file="tickets/tests/test_signals.py" line="40" name="test_supplier_ticket_assignment_email_post_save_handler_skips_task_invocation" time="0.090" timestamp="2022-07-25T10:53:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

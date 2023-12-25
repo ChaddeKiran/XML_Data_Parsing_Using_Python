@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/utils/test_system_stat_utils.py" name="services.tests.utils.test_system_stat_utils.GetSystemStatusTestCase-20220725104713" skipped="0" tests="3" time="1.242" timestamp="2022-07-25T10:51:52">
+	<testcase classname="services.tests.utils.test_system_stat_utils.GetSystemStatusTestCase" file="services/tests/utils/test_system_stat_utils.py" line="28" name="test_get_system_status_offline" time="0.511" timestamp="2022-07-25T10:51:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_system_stat_utils.GetSystemStatusTestCase" file="services/tests/utils/test_system_stat_utils.py" line="45" name="test_get_system_status_online" time="0.407" timestamp="2022-07-25T10:51:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_system_stat_utils.GetSystemStatusTestCase" file="services/tests/utils/test_system_stat_utils.py" line="62" name="test_get_system_status_with_outage" time="0.325" timestamp="2022-07-25T10:51:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

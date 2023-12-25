@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v2/test_settings_api.py" name="services.tests.apis.v2.test_settings_api.TestRidesharingPricing-20220725104713" skipped="0" tests="2" time="0.797" timestamp="2022-07-25T10:48:51">
+	<testcase classname="services.tests.apis.v2.test_settings_api.TestRidesharingPricing" file="services/tests/apis/v2/test_settings_api.py" line="421" name="test_get_pricing" time="0.365" timestamp="2022-07-25T10:48:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_settings_api.TestRidesharingPricing" file="services/tests/apis/v2/test_settings_api.py" line="432" name="test_update_additional_fees" time="0.432" timestamp="2022-07-25T10:48:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

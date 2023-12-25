@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" name="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis-20220725104740" skipped="0" tests="10" time="3.329" timestamp="2022-07-25T10:59:27">
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="329" name="test_corrupt_base64" time="0.100" timestamp="2022-07-25T10:59:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="370" name="test_doors_locked_synthesis" time="1.213" timestamp="2022-07-25T10:59:25">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="236" name="test_incoming_ble_synthesis" time="0.404" timestamp="2022-07-25T10:59:25">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="351" name="test_invalid_protobuf" time="0.079" timestamp="2022-07-25T10:59:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="254" name="test_minimal_version_incoming_ble_synthesis" time="0.855" timestamp="2022-07-25T10:59:26">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (77.21, 42.34, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (77.21, 42.34, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="323" name="test_missing_signature" time="0.075" timestamp="2022-07-25T10:59:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="344" name="test_signature_not_hex" time="0.071" timestamp="2022-07-25T10:59:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="336" name="test_signature_too_short" time="0.067" timestamp="2022-07-25T10:59:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="364" name="test_synthesis_mirrored_to_denso_backend" time="0.395" timestamp="2022-07-25T10:59:27">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_mensa_bluetooth.TestMensaBLESynthesis" file="hardware_sdk_mensa/tests/apis/test_mensa_bluetooth.py" line="318" name="test_unauthenticated" time="0.070" timestamp="2022-07-25T10:59:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

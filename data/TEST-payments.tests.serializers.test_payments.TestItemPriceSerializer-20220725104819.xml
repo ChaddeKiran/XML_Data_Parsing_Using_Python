@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/serializers/test_payments.py" name="payments.tests.serializers.test_payments.TestItemPriceSerializer-20220725104819" skipped="0" tests="1" time="0.067" timestamp="2022-07-25T10:49:33">
+	<testcase classname="payments.tests.serializers.test_payments.TestItemPriceSerializer" file="payments/tests/serializers/test_payments.py" line="6" name="test_quantization" time="0.067" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

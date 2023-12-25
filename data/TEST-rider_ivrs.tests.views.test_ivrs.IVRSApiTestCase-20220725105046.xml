@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rider_ivrs/tests/views/test_ivrs.py" name="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase-20220725105046" skipped="0" tests="20" time="6.729" timestamp="2022-07-25T11:08:48">
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="101" name="test_call" time="0.150" timestamp="2022-07-25T11:08:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="183" name="test_call_misconfigured_number" time="0.101" timestamp="2022-07-25T11:08:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="108" name="test_call_no_plus_inbound" time="0.107" timestamp="2022-07-25T11:08:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="117" name="test_create_trip" time="1.356" timestamp="2022-07-25T11:08:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="123" name="test_create_trip_customer_phone_not_found" time="1.257" timestamp="2022-07-25T11:08:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="160" name="test_create_trip_denied" time="0.141" timestamp="2022-07-25T11:08:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="171" name="test_create_trip_denied_customer_phone_not_found" time="0.130" timestamp="2022-07-25T11:08:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="228" name="test_create_trip_no_service" time="0.138" timestamp="2022-07-25T11:08:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="236" name="test_create_trip_no_service_but_exempt" time="0.248" timestamp="2022-07-25T11:08:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="131" name="test_create_trip_rider_verification" time="1.467" timestamp="2022-07-25T11:08:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="274" name="test_ivr_add_trip_no_matching_destination" time="0.177" timestamp="2022-07-25T11:08:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="297" name="test_ivr_add_trip_search" time="0.192" timestamp="2022-07-25T11:08:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="281" name="test_ivr_add_trip_search_end_first" time="0.168" timestamp="2022-07-25T11:08:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="313" name="test_ivr_add_trip_search_then_pound" time="0.241" timestamp="2022-07-25T11:08:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="288" name="test_ivr_add_trip_too_many_attempts" time="0.199" timestamp="2022-07-25T11:08:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="210" name="test_ivr_index_patch_thru" time="0.150" timestamp="2022-07-25T11:08:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="192" name="test_ivr_index_unbound_key" time="0.121" timestamp="2022-07-25T11:08:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="264" name="test_ivr_no_input" time="0.165" timestamp="2022-07-25T11:08:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="255" name="test_ivr_zero_bound_with_patchthrunumber" time="0.113" timestamp="2022-07-25T11:08:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.views.test_ivrs.IVRSApiTestCase" file="rider_ivrs/tests/views/test_ivrs.py" line="247" name="test_ivr_zero_unbound_with_no_patchthrunumber" time="0.106" timestamp="2022-07-25T11:08:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

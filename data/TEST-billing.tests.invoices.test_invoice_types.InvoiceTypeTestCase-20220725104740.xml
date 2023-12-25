@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="billing/tests/invoices/test_invoice_types.py" name="billing.tests.invoices.test_invoice_types.InvoiceTypeTestCase-20220725104740" skipped="0" tests="4" time="5.790" timestamp="2022-07-25T10:51:22">
+	<testcase classname="billing.tests.invoices.test_invoice_types.InvoiceTypeTestCase" file="billing/tests/invoices/test_invoice_types.py" line="71" name="test_invoice_type_id_edit" time="1.510" timestamp="2022-07-25T10:51:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_types.InvoiceTypeTestCase" file="billing/tests/invoices/test_invoice_types.py" line="29" name="test_invoice_type_id_in_response" time="1.502" timestamp="2022-07-25T10:51:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_types.InvoiceTypeTestCase" file="billing/tests/invoices/test_invoice_types.py" line="96" name="test_invoice_type_inactive" time="1.381" timestamp="2022-07-25T10:51:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_types.InvoiceTypeTestCase" file="billing/tests/invoices/test_invoice_types.py" line="9" name="test_is_active_invoice_type" time="1.397" timestamp="2022-07-25T10:51:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.InvoiceType'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" name="hardware_sdk_geotab.tests.test_vendor_tasks.TestVehicleDoesNotExist-20220725104740" skipped="0" tests="1" time="0.029" timestamp="2022-07-25T10:58:56">
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestVehicleDoesNotExist" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="508" name="test_non_existent_device_in_datafeed" time="0.029" timestamp="2022-07-25T10:58:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

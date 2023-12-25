@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/apis/test_promotions.py" name="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests-20220725104819" skipped="0" tests="30" time="44.830" timestamp="2022-07-25T10:54:53">
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="286" name="test_cannot_create_promotion_with_zero_required_trips" time="1.821" timestamp="2022-07-25T10:54:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="95" name="test_create_multi_trip_award_promotion_with_nowable_date_time" time="2.702" timestamp="2022-07-25T10:54:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="90" name="test_create_multi_trip_award_promotion_with_valid_attributes" time="1.601" timestamp="2022-07-25T10:54:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="294" name="test_create_promo_with_min_trips_required" time="1.585" timestamp="2022-07-25T10:54:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="100" name="test_create_with_invalid_max_spend" time="1.515" timestamp="2022-07-25T10:54:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="131" name="test_create_with_invalid_or_missing_users" time="1.335" timestamp="2022-07-25T10:54:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="121" name="test_create_with_invalid_start_date" time="1.562" timestamp="2022-07-25T10:54:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="108" name="test_create_without_required_fields" time="1.481" timestamp="2022-07-25T10:54:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="322" name="test_customer_added_to_mta_has_pseudo_credits_in_get_credit_balance" time="2.132" timestamp="2022-07-25T10:54:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="311" name="test_flat_credit_type_cannot_have_mta_specific_fields" time="1.750" timestamp="2022-07-25T10:54:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="268" name="test_newly_created_promotion_has_no_activation_expiry" time="1.674" timestamp="2022-07-25T10:54:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="281" name="test_newly_created_promotion_has_number_of_coupons_equal_to_number_of_validated_users" time="1.722" timestamp="2022-07-25T10:54:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="272" name="test_newly_created_promotion_has_usage_expiry_set_to_complete_by_plus_award_expiry_in_days" time="1.778" timestamp="2022-07-25T10:54:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="299" name="test_newly_reserved_coupons_are_initialized_to_correct_status" time="1.691" timestamp="2022-07-25T10:54:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="328" name="test_normal_and_mta_credits_appear_together_in_credit_balance" time="1.965" timestamp="2022-07-25T10:54:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="418" name="test_normal_and_pseudo_credits_have_promotion_name_in_response" time="1.366" timestamp="2022-07-25T10:54:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="170" name="test_patch_award_expiry" time="1.189" timestamp="2022-07-25T10:54:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="188" name="test_patch_promo_eligibility_complete_by_date" time="1.308" timestamp="2022-07-25T10:54:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="223" name="test_patch_promo_eligibility_nested_attributes" time="1.356" timestamp="2022-07-25T10:54:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="207" name="test_patch_promo_starts_at" time="1.254" timestamp="2022-07-25T10:54:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="253" name="test_promotion_eligibility_object_is_generated_with_correct_attributes" time="1.156" timestamp="2022-07-25T10:54:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="260" name="test_promotion_eligibility_object_is_generated_with_valid_optional_criteria_attributes" time="1.241" timestamp="2022-07-25T10:54:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="379" name="test_pseudo_credit_has_the_same_fields_as_real_credit" time="1.469" timestamp="2022-07-25T10:54:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="335" name="test_pseudo_credits_do_not_count_towards_usable_balance" time="1.196" timestamp="2022-07-25T10:54:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="397" name="test_pseudo_credits_have_products_in_response_if_set_on_promo" time="1.138" timestamp="2022-07-25T10:54:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="408" name="test_pseudo_credits_have_products_set_to_ALL_if_no_product_specified" time="1.125" timestamp="2022-07-25T10:54:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="347" name="test_real_credits_derived_from_pseudo_credits_have_description_containing_eligibility_details" time="1.184" timestamp="2022-07-25T10:54:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="155" name="test_should_be_able_to_patch_fields_which_are_editable" time="1.272" timestamp="2022-07-25T10:54:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="143" name="test_should_not_be_able_to_patch_user_list" time="1.114" timestamp="2022-07-25T10:54:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.MultiTripAwardsAPITests" file="promotions/tests/apis/test_promotions.py" line="243" name="test_users_supplied_with_promotion_have_coupons_reserved_for_them" time="1.149" timestamp="2022-07-25T10:54:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pricing_engine/tests/test_engine.py" name="pricing_engine.tests.test_engine.TestVehiclePricingWithBlocks-20220725104819" skipped="0" tests="1" time="0.756" timestamp="2022-07-25T10:53:28">
+	<testcase classname="pricing_engine.tests.test_engine.TestVehiclePricingWithBlocks" file="pricing_engine/tests/test_engine.py" line="408" name="test_uses_vehicle_type" time="0.756" timestamp="2022-07-25T10:53:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

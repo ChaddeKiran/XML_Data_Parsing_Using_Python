@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v2/test_services.py" name="services.tests.apis.v2.test_services.TestCarsharingServicesAPICustomer-20220725104713" skipped="0" tests="4" time="1.792" timestamp="2022-07-25T10:48:32">
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPICustomer" file="services/tests/apis/v2/test_services.py" line="31" name="test_v2_get" time="0.377" timestamp="2022-07-25T10:48:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPICustomer" file="services/tests/apis/v2/test_services.py" line="55" name="test_v2_get_exclusive_service" time="0.521" timestamp="2022-07-25T10:48:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPICustomer" file="services/tests/apis/v2/test_services.py" line="40" name="test_v2_get_with_multiple_usergroups" time="0.417" timestamp="2022-07-25T10:48:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPICustomer" file="services/tests/apis/v2/test_services.py" line="23" name="test_v2_list" time="0.477" timestamp="2022-07-25T10:48:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

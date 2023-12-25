@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestCustomersAPIDispatcher-20220725104545" skipped="0" tests="13" time="23.544" timestamp="2022-07-25T10:54:05">
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="462" name="test_add_to_user_group_triggers_member_update" time="1.359" timestamp="2022-07-25T10:53:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="476" name="test_add_to_user_group_with_future_dates_triggers_member_update" time="1.307" timestamp="2022-07-25T10:53:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="359" name="test_block_and_unblock_customer" time="2.540" timestamp="2022-07-25T10:53:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="523" name="test_create_customer_with_business_entities" time="1.733" timestamp="2022-07-25T10:53:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="508" name="test_duplicate_add_to_user_group_throws_error_message" time="1.327" timestamp="2022-07-25T10:53:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="420" name="test_filter_by_multiple_ids" time="2.424" timestamp="2022-07-25T10:53:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="576" name="test_filter_customer_by_business_entities" time="2.711" timestamp="2022-07-25T10:53:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="447" name="test_in_service_different_params" time="2.227" timestamp="2022-07-25T10:53:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="312" name="test_list" time="1.492" timestamp="2022-07-25T10:53:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="490" name="test_remove_user_from_user_group_triggers_member_update" time="1.278" timestamp="2022-07-25T10:53:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="342" name="test_reverify_customer" time="1.596" timestamp="2022-07-25T10:54:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="544" name="test_update_customer_with_business_entities" time="2.277" timestamp="2022-07-25T10:54:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomersAPIDispatcher" file="users/tests/apis/test_customers.py" line="330" name="test_verify_customer" time="1.272" timestamp="2022-07-25T10:54:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

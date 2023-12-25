@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/apis/v3/test_documentation.py" name="django_utils.tests.apis.v3.test_documentation.TestDRFAutoDocsRendering-20220725104740" skipped="0" tests="1" time="0.284" timestamp="2022-07-25T10:54:34">
+	<testcase classname="django_utils.tests.apis.v3.test_documentation.TestDRFAutoDocsRendering" file="django_utils/tests/apis/v3/test_documentation.py" line="13" name="test_drf_auto_docs_load_without_debug" time="0.284" timestamp="2022-07-25T10:54:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

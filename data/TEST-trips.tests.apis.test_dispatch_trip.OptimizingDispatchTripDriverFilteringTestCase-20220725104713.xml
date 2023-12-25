@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_dispatch_trip.py" name="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase-20220725104713" skipped="0" tests="13" time="13.778" timestamp="2022-07-25T10:55:00">
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="147" name="test_bike_rack_negative" time="0.809" timestamp="2022-07-25T10:54:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="141" name="test_bike_rack_positive" time="1.309" timestamp="2022-07-25T10:54:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="119" name="test_driver_available_negative" time="0.799" timestamp="2022-07-25T10:54:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="101" name="test_driver_available_positive" time="1.304" timestamp="2022-07-25T10:54:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="179" name="test_driver_not_in_dedicated_region" time="1.316" timestamp="2022-07-25T10:54:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="200" name="test_no_gps" time="0.763" timestamp="2022-07-25T10:54:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="190" name="test_old_gps" time="0.778" timestamp="2022-07-25T10:54:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="107" name="test_scheduled_trip_request_blocks_on_demand_ride" time="1.273" timestamp="2022-07-25T10:54:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="165" name="test_trip_and_driver_in_dedicated_region" time="1.329" timestamp="2022-07-25T10:54:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="172" name="test_trip_not_in_dedicated_region" time="0.761" timestamp="2022-07-25T10:54:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="153" name="test_vehicle_not_in_service" time="1.172" timestamp="2022-07-25T10:54:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="131" name="test_wheelchair_lift_negative" time="0.849" timestamp="2022-07-25T10:54:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.OptimizingDispatchTripDriverFilteringTestCase" file="trips/tests/apis/test_dispatch_trip.py" line="125" name="test_wheelchair_lift_positive" time="1.316" timestamp="2022-07-25T10:55:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestCustomerForgetAPI-20220725104545" skipped="0" tests="2" time="3.421" timestamp="2022-07-25T10:52:32">
+	<testcase classname="users.tests.apis.test_customers.TestCustomerForgetAPI" file="users/tests/apis/test_customers.py" line="1456" name="test_api_for_customer_PII_destroyed" time="2.418" timestamp="2022-07-25T10:52:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerForgetAPI" file="users/tests/apis/test_customers.py" line="1446" name="test_forget_is_disallowed_when_gdpr_and_ccpa_flags_are_both_disabled" time="1.003" timestamp="2022-07-25T10:52:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

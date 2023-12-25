@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/tasks/test_tasks.py" name="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForCarsharingPricing-20220725104740" skipped="0" tests="6" time="0.270" timestamp="2022-07-25T10:53:53">
+	<testcase classname="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForCarsharingPricing" file="calendars/tests/tasks/test_tasks.py" line="92" name="test_scheduler_adjacent_periods_in_effect" time="0.048" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForCarsharingPricing" file="calendars/tests/tasks/test_tasks.py" line="82" name="test_scheduler_both_periods_in_effect" time="0.043" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForCarsharingPricing" file="calendars/tests/tasks/test_tasks.py" line="45" name="test_scheduler_deleted_period_in_effect" time="0.052" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForCarsharingPricing" file="calendars/tests/tasks/test_tasks.py" line="37" name="test_scheduler_no_period_in_effect" time="0.045" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForCarsharingPricing" file="calendars/tests/tasks/test_tasks.py" line="64" name="test_scheduler_non_override_period_in_effect" time="0.042" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.tasks.test_tasks.TestCalendarSchedulingTaskForCarsharingPricing" file="calendars/tests/tasks/test_tasks.py" line="73" name="test_scheduler_override_period_in_effect" time="0.042" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

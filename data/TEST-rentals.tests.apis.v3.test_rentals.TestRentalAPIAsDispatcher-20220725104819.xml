@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_rentals.py" name="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher-20220725104819" skipped="0" tests="14" time="16.512" timestamp="2022-07-25T11:06:49">
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2474" name="test_booked_rental_force_reset" time="0.630" timestamp="2022-07-25T11:06:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2320" name="test_can_create" time="0.848" timestamp="2022-07-25T11:06:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2366" name="test_can_list_all_when_dispatcher_is_customer" time="1.630" timestamp="2022-07-25T11:06:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2341" name="test_can_see_all_customer_rentals" time="1.767" timestamp="2022-07-25T11:06:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2453" name="test_cancelled_rental_force_reset" time="1.139" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2427" name="test_cancelled_rental_update_datetime" time="1.238" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2406" name="test_dispatcher_can_cancel_rental_in_member_service" time="1.197" timestamp="2022-07-25T11:06:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2388" name="test_dispatcher_can_leave_comment" time="0.831" timestamp="2022-07-25T11:06:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2414" name="test_dispatcher_can_not_cancel_rental_in_another_service" time="0.964" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2394" name="test_dispatcher_customer_can_leave_comment" time="1.294" timestamp="2022-07-25T11:06:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2463" name="test_ended_rental_force_reset" time="1.089" timestamp="2022-07-25T11:06:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2441" name="test_ended_rental_update_datetime" time="1.351" timestamp="2022-07-25T11:06:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2354" name="test_limits_to_self_when_dispatcher_is_customer" time="1.206" timestamp="2022-07-25T11:06:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalAPIAsDispatcher" file="rentals/tests/apis/v3/test_rentals.py" line="2378" name="test_list_all_limited_by_service_when_dispatcher_is_not_superuser" time="1.328" timestamp="2022-07-25T11:06:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rest_utils/tests/test_authentication.py" name="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA-20220725105046" skipped="0" tests="13" time="4.453" timestamp="2022-07-25T11:08:31">
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="886" name="test_jwt_auth_case_insensitive_device_id_latest_trusted_device" time="0.335" timestamp="2022-07-25T11:08:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="873" name="test_jwt_auth_case_insensitive_email_latest_trusted_device" time="0.292" timestamp="2022-07-25T11:08:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="694" name="test_jwt_auth_positive_latest_trusted_device" time="0.348" timestamp="2022-07-25T11:08:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="752" name="test_jwt_auth_positive_prior_trusted_device" time="0.306" timestamp="2022-07-25T11:08:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="710" name="test_jwt_auth_soft_password_reset_in_progress" time="0.407" timestamp="2022-07-25T11:08:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="810" name="test_jwt_auth_two_customers_same_trusted_device_id_other_customer_trusted" time="0.450" timestamp="2022-07-25T11:08:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="737" name="test_jwt_auth_unknown_device" time="0.327" timestamp="2022-07-25T11:08:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="788" name="test_jwt_auth_user_exempted_prior_trusted_device" time="0.367" timestamp="2022-07-25T11:08:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="771" name="test_jwt_auth_user_exempted_unknown_device" time="0.384" timestamp="2022-07-25T11:08:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="832" name="test_jwt_auth_with_fcm_token_latest_trusted_device" time="0.308" timestamp="2022-07-25T11:08:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="635" name="test_jwt_auth_wrong_json_schema" time="0.363" timestamp="2022-07-25T11:08:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="852" name="test_jwt_auth_wrong_password" time="0.296" timestamp="2022-07-25T11:08:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestJWTAuthenticationSoftResetAndMFA" file="rest_utils/tests/test_authentication.py" line="862" name="test_jwt_failed_auth_does_not_set_fcm_token" time="0.270" timestamp="2022-07-25T11:08:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

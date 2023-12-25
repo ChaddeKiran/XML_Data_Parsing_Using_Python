@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/models/test_trips.py" name="trips.tests.models.test_trips.TestTripModel-20220725104545" skipped="0" tests="7" time="4.028" timestamp="2022-07-25T10:49:48">
+	<testcase classname="trips.tests.models.test_trips.TestTripModel" file="trips/tests/models/test_trips.py" line="554" name="test_firebase_task_called_when_created_and_active" time="0.579" timestamp="2022-07-25T10:49:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_trips.TestTripModel" file="trips/tests/models/test_trips.py" line="566" name="test_firebase_task_not_called_when_created_and_not_active" time="0.537" timestamp="2022-07-25T10:49:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_trips.TestTripModel" file="trips/tests/models/test_trips.py" line="576" name="test_firebase_task_not_called_when_not_created" time="0.524" timestamp="2022-07-25T10:49:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_trips.TestTripModel" file="trips/tests/models/test_trips.py" line="533" name="test_get_cancelled_with_no_show_in_progress" time="0.451" timestamp="2022-07-25T10:49:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_trips.TestTripModel" file="trips/tests/models/test_trips.py" line="537" name="test_get_cancelled_with_no_show_trip_cancelled" time="0.548" timestamp="2022-07-25T10:49:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Trip.cancelled_at received a naive datetime (2022-07-25 10:49:47.432634) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_trips.TestTripModel" file="trips/tests/models/test_trips.py" line="544" name="test_get_cancelled_with_no_show_trip_no_show" time="0.904" timestamp="2022-07-25T10:49:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Trip.no_show_at received a naive datetime (2022-07-25 10:49:48.043051) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_trips.TestTripModel" file="trips/tests/models/test_trips.py" line="526" name="test_walk_on" time="0.486" timestamp="2022-07-25T10:49:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

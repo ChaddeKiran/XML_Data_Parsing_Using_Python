@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_supplier_companies.py" name="users.tests.apis.v2.test_supplier_companies.SupplierCompanyAPITestCase-20220725104545" skipped="0" tests="5" time="2.828" timestamp="2022-07-25T11:02:42">
+	<testcase classname="users.tests.apis.v2.test_supplier_companies.SupplierCompanyAPITestCase" file="users/tests/apis/v2/test_supplier_companies.py" line="107" name="test_create" time="0.583" timestamp="2022-07-25T11:02:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_supplier_companies.SupplierCompanyAPITestCase" file="users/tests/apis/v2/test_supplier_companies.py" line="115" name="test_create_driver_provider" time="0.588" timestamp="2022-07-25T11:02:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_supplier_companies.SupplierCompanyAPITestCase" file="users/tests/apis/v2/test_supplier_companies.py" line="132" name="test_create_valet_provider" time="0.552" timestamp="2022-07-25T11:02:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_supplier_companies.SupplierCompanyAPITestCase" file="users/tests/apis/v2/test_supplier_companies.py" line="135" name="test_delete_valet_provider" time="0.596" timestamp="2022-07-25T11:02:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_supplier_companies.SupplierCompanyAPITestCase" file="users/tests/apis/v2/test_supplier_companies.py" line="99" name="test_list" time="0.510" timestamp="2022-07-25T11:02:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

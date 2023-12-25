@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_slots.py" name="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsDriver-20220725104740" skipped="0" tests="5" time="2.876" timestamp="2022-07-25T10:55:04">
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="619" name="test_can_claim_slot" time="0.571" timestamp="2022-07-25T10:55:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="626" name="test_can_not_claim_unreleased_slot" time="0.488" timestamp="2022-07-25T10:55:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="602" name="test_get_assignment" time="0.513" timestamp="2022-07-25T10:55:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="589" name="test_get_assignments" time="0.597" timestamp="2022-07-25T10:55:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'driver_scheduling.models.scheduling.DriverSlotAssignment'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="609" name="test_get_assignments_does_not_show_others" time="0.707" timestamp="2022-07-25T10:55:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_validations.py" name="stations.tests.test_validations.TestStationsShapes-20220725104713" skipped="0" tests="1" time="1.028" timestamp="2022-07-25T10:53:19">
+	<testcase classname="stations.tests.test_validations.TestStationsShapes" file="stations/tests/test_validations.py" line="92" name="test_can_end_rental_for_stations" time="1.028" timestamp="2022-07-25T10:53:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

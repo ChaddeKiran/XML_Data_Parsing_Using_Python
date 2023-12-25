@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/models/test_carsharing_vehicles_2.py" name="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate-20220725104622" skipped="0" tests="11" time="8.852" timestamp="2022-07-25T11:03:52">
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="707" name="test_automation_disabled_mapping_exists_vehicle_free" time="0.936" timestamp="2022-07-25T11:03:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4ef07e668>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="817" name="test_automation_disabled_mapping_exists_vehicle_reserved" time="0.798" timestamp="2022-07-25T11:03:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4ee35ef60>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="737" name="test_automation_disabled_mapping_false_vehicle_free" time="0.722" timestamp="2022-07-25T11:03:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4f26ca908>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="843" name="test_automation_disabled_mapping_false_vehicle_reserved" time="0.935" timestamp="2022-07-25T11:03:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4ecf70d30>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="625" name="test_automation_enabled_mapping_exists_vehicle_free" time="0.763" timestamp="2022-07-25T11:03:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e74fbe80>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="763" name="test_automation_enabled_mapping_exists_vehicle_reserved" time="1.773" timestamp="2022-07-25T11:03:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e749b048>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="681" name="test_automation_enabled_mapping_false_vehicle_free" time="0.698" timestamp="2022-07-25T11:03:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e727ecf8>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="655" name="test_automation_enabled_mapping_false_vehicle_reserved" time="0.718" timestamp="2022-07-25T11:03:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e717feb8>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="874" name="test_create_vehicle_alert_to_ticket_mapping_default" time="0.490" timestamp="2022-07-25T11:03:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e7116198>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="887" name="test_create_vehicle_alert_to_ticket_mapping_true" time="0.502" timestamp="2022-07-25T11:03:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e7091b00>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestVehicleReservationStatusAlertUpdate" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="901" name="test_update_vehicle_alert_to_ticket_mapping" time="0.516" timestamp="2022-07-25T11:03:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e709c240>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+</testsuite>

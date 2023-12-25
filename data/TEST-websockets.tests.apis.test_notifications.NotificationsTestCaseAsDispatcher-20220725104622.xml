@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="websockets/tests/apis/test_notifications.py" name="websockets.tests.apis.test_notifications.NotificationsTestCaseAsDispatcher-20220725104622" skipped="0" tests="7" time="7.631" timestamp="2022-07-25T11:06:15">
+	<testcase classname="websockets.tests.apis.test_notifications.NotificationsTestCaseAsDispatcher" file="websockets/tests/apis/test_notifications.py" line="50" name="test_basic_notification_creation" time="0.915" timestamp="2022-07-25T11:06:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_notifications.NotificationsTestCaseAsDispatcher" file="websockets/tests/apis/test_notifications.py" line="63" name="test_basic_notification_delete" time="0.914" timestamp="2022-07-25T11:06:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_notifications.NotificationsTestCaseAsDispatcher" file="websockets/tests/apis/test_notifications.py" line="55" name="test_basic_notification_update" time="0.913" timestamp="2022-07-25T11:06:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_notifications.NotificationsTestCaseAsDispatcher" file="websockets/tests/apis/test_notifications.py" line="77" name="test_notification_filtering" time="1.363" timestamp="2022-07-25T11:06:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_notifications.NotificationsTestCaseAsDispatcher" file="websockets/tests/apis/test_notifications.py" line="94" name="test_notification_filtering_with_delete_action" time="1.190" timestamp="2022-07-25T11:06:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_notifications.NotificationsTestCaseAsDispatcher" file="websockets/tests/apis/test_notifications.py" line="72" name="test_service_specific_notifications_for_service_without_permissions" time="1.033" timestamp="2022-07-25T11:06:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_notifications.NotificationsTestCaseAsDispatcher" file="websockets/tests/apis/test_notifications.py" line="114" name="test_that_logout_resets_filters" time="1.303" timestamp="2022-07-25T11:06:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

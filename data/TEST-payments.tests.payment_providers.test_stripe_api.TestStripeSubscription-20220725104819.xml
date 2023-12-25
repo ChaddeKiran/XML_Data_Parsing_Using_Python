@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_stripe_api.py" name="payments.tests.payment_providers.test_stripe_api.TestStripeSubscription-20220725104819" skipped="0" tests="5" time="1.343" timestamp="2022-07-25T10:49:30">
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeSubscription" file="payments/tests/payment_providers/test_stripe_api.py" line="789" name="test_cancel_subscription" time="0.243" timestamp="2022-07-25T10:49:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeSubscription" file="payments/tests/payment_providers/test_stripe_api.py" line="692" name="test_create_subscription_starts_immediately" time="0.264" timestamp="2022-07-25T10:49:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeSubscription" file="payments/tests/payment_providers/test_stripe_api.py" line="715" name="test_create_subscription_starts_immediately_with_billing_cycles" time="0.241" timestamp="2022-07-25T10:49:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeSubscription" file="payments/tests/payment_providers/test_stripe_api.py" line="763" name="test_update_subscription_billing_cycles" time="0.296" timestamp="2022-07-25T10:49:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeSubscription" file="payments/tests/payment_providers/test_stripe_api.py" line="738" name="test_update_subscription_credit_card" time="0.299" timestamp="2022-07-25T10:49:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" name="hardware_sdk_geotab.tests.test_vendor_tasks.TestTelematicsIntegration-20220725104740" skipped="0" tests="3" time="0.598" timestamp="2022-07-25T10:58:55">
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestTelematicsIntegration" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="171" name="test_basic" time="0.222" timestamp="2022-07-25T10:58:55">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.787, 134.877, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestTelematicsIntegration" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="211" name="test_update_geotab_vehicle_continuous_connect_status" time="0.188" timestamp="2022-07-25T10:58:55">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.787, 134.877, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_vendor_tasks.TestTelematicsIntegration" file="hardware_sdk_geotab/tests/test_vendor_tasks.py" line="241" name="test_update_geotab_vehicle_unset_continuous_connect_status" time="0.188" timestamp="2022-07-25T10:58:55">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.787, 134.877, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

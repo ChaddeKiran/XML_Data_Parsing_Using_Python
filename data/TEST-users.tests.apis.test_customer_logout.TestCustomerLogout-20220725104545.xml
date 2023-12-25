@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customer_logout.py" name="users.tests.apis.test_customer_logout.TestCustomerLogout-20220725104545" skipped="0" tests="1" time="0.626" timestamp="2022-07-25T10:52:05">
+	<testcase classname="users.tests.apis.test_customer_logout.TestCustomerLogout" file="users/tests/apis/test_customer_logout.py" line="17" name="test_customer_logout" time="0.626" timestamp="2022-07-25T10:52:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

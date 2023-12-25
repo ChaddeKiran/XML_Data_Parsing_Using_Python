@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/models/test_telematics.py" name="vehicles.tests.models.test_telematics.TestTelematics-20220725104622" skipped="0" tests="2" time="0.152" timestamp="2022-07-25T11:03:52">
+	<testcase classname="vehicles.tests.models.test_telematics.TestTelematics" file="vehicles/tests/models/test_telematics.py" line="84" name="test_data_pipeline_object_translation" time="0.083" timestamp="2022-07-25T11:03:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_telematics.TestTelematics" file="vehicles/tests/models/test_telematics.py" line="219" name="test_update_engine_running_state" time="0.069" timestamp="2022-07-25T11:03:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

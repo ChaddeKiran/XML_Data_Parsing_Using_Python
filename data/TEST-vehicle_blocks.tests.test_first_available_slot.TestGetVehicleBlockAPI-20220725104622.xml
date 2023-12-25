@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_first_available_slot.py" name="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPI-20220725104622" skipped="0" tests="6" time="3.037" timestamp="2022-07-25T10:56:29">
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPI" file="vehicle_blocks/tests/test_first_available_slot.py" line="97" name="test_first_available_block_with_existing_assigned_srr" time="0.445" timestamp="2022-07-25T10:56:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPI" file="vehicle_blocks/tests/test_first_available_slot.py" line="120" name="test_first_available_block_with_existing_bookings" time="0.459" timestamp="2022-07-25T10:56:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPI" file="vehicle_blocks/tests/test_first_available_slot.py" line="74" name="test_first_available_block_with_existing_vehicle_block" time="0.447" timestamp="2022-07-25T10:56:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPI" file="vehicle_blocks/tests/test_first_available_slot.py" line="52" name="test_first_available_block_with_unassigned_srr" time="0.435" timestamp="2022-07-25T10:56:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPI" file="vehicle_blocks/tests/test_first_available_slot.py" line="165" name="test_first_available_block_with_unassigned_srr_and_sufficient_capacity" time="0.451" timestamp="2022-07-25T10:56:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_first_available_slot.TestGetVehicleBlockAPI" file="vehicle_blocks/tests/test_first_available_slot.py" line="188" name="test_first_available_slock_api" time="0.799" timestamp="2022-07-25T10:56:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

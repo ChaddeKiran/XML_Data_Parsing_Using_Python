@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsForMultiLevelTrigger-20220725104622" skipped="0" tests="6" time="4.809" timestamp="2022-07-25T10:54:09">
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsForMultiLevelTrigger" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1512" name="test_create_trigger_with_multi_level_settings" time="0.807" timestamp="2022-07-25T10:54:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsForMultiLevelTrigger" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1586" name="test_does_not_create_higher_level_trigger_with_telematics_value_less_than_lower_level" time="0.836" timestamp="2022-07-25T10:54:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsForMultiLevelTrigger" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1571" name="test_does_not_create_trigger_when_exist_lower_level_alert" time="0.794" timestamp="2022-07-25T10:54:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsForMultiLevelTrigger" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1540" name="test_multi_level_alert_for_cancel_job_failure_ignored" time="0.928" timestamp="2022-07-25T10:54:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsForMultiLevelTrigger" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1599" name="test_new_alert_not_created_after_resolving_lower_level_alert" time="0.703" timestamp="2022-07-25T10:54:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_telematics_alerts_jobs_automation.TestTelematicsForMultiLevelTrigger" file="vehicle_automation/tests/utils/test_telematics_alerts_jobs_automation.py" line="1616" name="test_new_alert_not_created_for_an_interval_after_closing_alert" time="0.741" timestamp="2022-07-25T10:54:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

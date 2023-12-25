@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/models/test_rentals.py" name="rentals.tests.models.test_rentals.TestScheduledRentalRequests-20220725105046" skipped="0" tests="13" time="10.384" timestamp="2022-07-25T11:05:26">
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="350" name="test_assign_vehicle_fail_to_assign" time="0.098" timestamp="2022-07-25T11:05:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="364" name="test_assign_vehicle_logs_when_failing_to_find_vehicle" time="0.081" timestamp="2022-07-25T11:05:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="322" name="test_assign_vehicle_success" time="0.241" timestamp="2022-07-25T11:05:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="333" name="test_assign_vehicle_without_group_fail_at_station" time="0.817" timestamp="2022-07-25T11:05:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="540" name="test_create_scheduled_rental_triggers_emails" time="0.810" timestamp="2022-07-25T11:05:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="412" name="test_email_validation" time="0.152" timestamp="2022-07-25T11:05:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="458" name="test_is_no_show" time="6.359" timestamp="2022-07-25T11:05:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="399" name="test_manual_assign_with_automatic_setting" time="0.216" timestamp="2022-07-25T11:05:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="386" name="test_manual_assign_with_manual_setting" time="0.205" timestamp="2022-07-25T11:05:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="373" name="test_manual_assign_with_manual_valet_setting" time="0.233" timestamp="2022-07-25T11:05:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="499" name="test_price_estimate_lazy_load" time="0.395" timestamp="2022-07-25T11:05:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="519" name="test_price_estimate_pre_save" time="0.457" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.models.test_rentals.TestScheduledRentalRequests" file="rentals/tests/models/test_rentals.py" line="436" name="test_unassign_vehicle" time="0.321" timestamp="2022-07-25T11:05:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

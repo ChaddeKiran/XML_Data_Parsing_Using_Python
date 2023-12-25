@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="maps/tests/utils/test_travel_durations.py" name="maps.tests.utils.test_travel_durations.TestDirectionsPerTransportMode-20220725104740" skipped="0" tests="3" time="0.122" timestamp="2022-07-25T11:03:03">
+	<testcase classname="maps.tests.utils.test_travel_durations.TestDirectionsPerTransportMode" file="maps/tests/utils/test_travel_durations.py" line="158" name="test_biking" time="0.040" timestamp="2022-07-25T11:03:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="maps.tests.utils.test_travel_durations.TestDirectionsPerTransportMode" file="maps/tests/utils/test_travel_durations.py" line="154" name="test_driving" time="0.043" timestamp="2022-07-25T11:03:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="maps.tests.utils.test_travel_durations.TestDirectionsPerTransportMode" file="maps/tests/utils/test_travel_durations.py" line="150" name="test_walking" time="0.039" timestamp="2022-07-25T11:03:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

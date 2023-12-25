@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_slots.py" name="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsManager-20220725104740" skipped="0" tests="6" time="5.054" timestamp="2022-07-25T10:55:09">
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="500" name="test_assign_driver" time="0.896" timestamp="2022-07-25T10:55:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="512" name="test_assign_driver_without_permission_fails" time="0.825" timestamp="2022-07-25T10:55:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="518" name="test_delete_assignment" time="0.895" timestamp="2022-07-25T10:55:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="544" name="test_delete_assignment_not_cancelable" time="0.871" timestamp="2022-07-25T10:55:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="534" name="test_delete_assignment_without_permission_fails" time="0.744" timestamp="2022-07-25T10:55:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestAssignmentsAsManager" file="driver_scheduling/tests/apis/test_slots.py" line="485" name="test_get_assignments" time="0.822" timestamp="2022-07-25T10:55:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

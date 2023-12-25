@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/apis/test_periods.py" name="calendars.tests.apis.test_periods.PeriodsTestCase-20220725104740" skipped="0" tests="98" time="35.493" timestamp="2022-07-25T10:53:50">
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="282" name="test_add_conflicting_period_with_previously_deleted_period" time="0.327" timestamp="2022-07-25T10:53:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="215" name="test_add_conflicting_periods" time="0.288" timestamp="2022-07-25T10:53:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="303" name="test_add_invalid_period" time="0.273" timestamp="2022-07-25T10:53:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="250" name="test_add_period_ends_immediately_before_existing_period_starts" time="0.300" timestamp="2022-07-25T10:53:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="295" name="test_add_period_in_the_past" time="0.278" timestamp="2022-07-25T10:53:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="223" name="test_add_period_starts_immediately_after_existing_period_ends" time="0.299" timestamp="2022-07-25T10:53:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="381" name="test_add_period_with_conflicting_actions_correlating_calendars" time="0.442" timestamp="2022-07-25T10:53:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="404" name="test_add_period_with_conflicting_actions_same_calendars" time="0.303" timestamp="2022-07-25T10:53:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="351" name="test_add_period_with_empty_period_action" time="0.285" timestamp="2022-07-25T10:53:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="364" name="test_add_period_with_invalid_action_object_id" time="0.280" timestamp="2022-07-25T10:53:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="358" name="test_add_period_with_invalid_action_type" time="0.279" timestamp="2022-07-25T10:53:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="313" name="test_add_period_with_invalid_calendar_id" time="0.268" timestamp="2022-07-25T10:53:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="371" name="test_add_period_with_multiple_action_type" time="0.279" timestamp="2022-07-25T10:53:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="335" name="test_add_period_with_name_conflict" time="0.288" timestamp="2022-07-25T10:53:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="389" name="test_add_period_with_pricing_belonging_to_different_calendar" time="0.490" timestamp="2022-07-25T10:53:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="420" name="test_add_period_with_pricing_belonging_to_different_service" time="0.437" timestamp="2022-07-25T10:53:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="320" name="test_add_period_without_calendar_id" time="0.269" timestamp="2022-07-25T10:53:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="327" name="test_add_period_without_duration" time="0.267" timestamp="2022-07-25T10:53:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="344" name="test_add_period_without_period_action" time="0.287" timestamp="2022-07-25T10:53:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="587" name="test_attempt_to_delete_already_deleted_period_results_in_404" time="0.446" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="944" name="test_can_add_override_overlap_period_with_previously_deleted_period" time="0.361" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="964" name="test_can_add_override_period_coincident_with_non_override_period" time="0.363" timestamp="2022-07-25T10:53:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="662" name="test_can_patch_all_attributes_including_actions_of_inactive_period" time="0.549" timestamp="2022-07-25T10:53:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="641" name="test_can_patch_all_attributes_of_inactive_period" time="0.763" timestamp="2022-07-25T10:53:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="594" name="test_can_patch_end_date_of_active_period" time="0.443" timestamp="2022-07-25T10:53:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="700" name="test_can_patch_only_actions_of_inactive_period" time="0.543" timestamp="2022-07-25T10:53:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="919" name="test_cannot_add_more_than_one_overlap_period_within_thirty_days" time="0.340" timestamp="2022-07-25T10:53:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="935" name="test_cannot_add_recurring_override_period" time="0.289" timestamp="2022-07-25T10:53:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="729" name="test_cannot_patch_actions_of_active_period" time="0.384" timestamp="2022-07-25T10:53:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="615" name="test_cannot_patch_attributes_other_than_end_date_of_active_period" time="0.730" timestamp="2022-07-25T10:53:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1319" name="test_cannot_patch_both_end_datetime_and_count_rrule_attributes_at_the_same_time" time="0.332" timestamp="2022-07-25T10:53:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1719" name="test_config_is_saved_when_service_num_carsharing_periods_gte_num_periods_being_set_but_creation_fails" time="0.475" timestamp="2022-07-25T10:53:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1679" name="test_create_carsharingpricing_period_fails_on_service_reaching_max_allowed_pricing_modifications_limit" time="0.459" timestamp="2022-07-25T10:53:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="100" name="test_create_period_for_pricing" time="0.302" timestamp="2022-07-25T10:53:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="142" name="test_create_period_for_pricing_with_ssr_action_fails" time="0.454" timestamp="2022-07-25T10:53:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="114" name="test_create_period_for_ssr" time="0.329" timestamp="2022-07-25T10:53:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="205" name="test_create_period_with_bysetpos_without_by" time="0.269" timestamp="2022-07-25T10:53:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="184" name="test_create_period_with_byweekday" time="0.295" timestamp="2022-07-25T10:53:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="193" name="test_create_period_with_byweekday_and_bysetpos" time="0.300" timestamp="2022-07-25T10:53:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="156" name="test_create_period_with_invalid_end_time_should_return_bad_request" time="0.268" timestamp="2022-07-25T10:53:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="148" name="test_create_period_with_invalid_start_time_should_return_bad_request" time="0.270" timestamp="2022-07-25T10:53:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="93" name="test_customer_unable_to_view" time="0.291" timestamp="2022-07-25T10:53:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="518" name="test_default_view_does_not_include_expired_periods" time="0.427" timestamp="2022-07-25T10:53:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="538" name="test_delete_crud_operation_results_in_period_being_soft_deleted_in_db" time="0.432" timestamp="2022-07-25T10:53:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="583" name="test_delete_endpoint_raises_404_if_invalid_period_id_is_supplied" time="0.267" timestamp="2022-07-25T10:53:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="546" name="test_deleted_period_cannot_be_accessed_via_id" time="0.446" timestamp="2022-07-25T10:53:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="890" name="test_deleting_is_allowed_for_active_period" time="0.357" timestamp="2022-07-25T10:53:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="904" name="test_deleting_is_allowed_for_in_effect_periods" time="0.359" timestamp="2022-07-25T10:53:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1365" name="test_deleting_pricing_when_a_period_associated_with_it_is_going_to_be_active_is_not_allowed" time="0.375" timestamp="2022-07-25T10:53:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1400" name="test_deleting_pricing_with_no_periods_associated_is_unchanged_in_behavior" time="0.300" timestamp="2022-07-25T10:53:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1379" name="test_deleting_pricing_with_period_associated_is_allowed_after_period_ends" time="0.524" timestamp="2022-07-25T10:53:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1408" name="test_deleting_pricing_with_soft_deleted_periods" time="0.462" timestamp="2022-07-25T10:53:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="529" name="test_expired_periods_can_be_accessed_via_crud_endpoint" time="0.435" timestamp="2022-07-25T10:53:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="466" name="test_filter_periods_by_service_id_returns_periods_associated_to_service" time="0.386" timestamp="2022-07-25T10:53:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="477" name="test_filtering_periods_by_invalid_service_id_returns_empty_response" time="0.272" timestamp="2022-07-25T10:53:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="165" name="test_get_periods" time="0.272" timestamp="2022-07-25T10:53:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="172" name="test_get_single_period" time="0.275" timestamp="2022-07-25T10:53:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="551" name="test_list_endpoint_does_not_contain_deleted_periods" time="0.604" timestamp="2022-07-25T10:53:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="573" name="test_list_endpoint_with_delete_periods_with_service_id_filter" time="0.290" timestamp="2022-07-25T10:53:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="437" name="test_name_optional_for_period" time="0.289" timestamp="2022-07-25T10:53:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1469" name="test_patching_daily_recurring_period_with_weekdays_to_non_recurring" time="0.345" timestamp="2022-07-25T10:53:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="864" name="test_patching_duration_cannot_override_frequency" time="0.372" timestamp="2022-07-25T10:53:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="749" name="test_patching_end_date_does_not_allow_overlap_with_another_period" time="0.390" timestamp="2022-07-25T10:53:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1637" name="test_patching_non_recurring_period_from_daily_to_daily_with_identical_startdatetime_and_enddatetime" time="0.345" timestamp="2022-07-25T10:53:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1608" name="test_patching_non_recurring_period_from_daily_to_weekly_with_identical_startdatetime_and_enddatetime_fails" time="0.414" timestamp="2022-07-25T10:53:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1567" name="test_patching_non_recurring_period_from_daily_to_weekly_with_identical_startdatetime_and_enddatetime_succeeds" time="0.418" timestamp="2022-07-25T10:53:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1540" name="test_patching_non_recurring_period_to_recurring_one_with_identical_startdatetime_and_enddatetime_fails" time="0.408" timestamp="2022-07-25T10:53:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1502" name="test_patching_non_recurring_period_to_recurring_one_with_identical_startdatetime_and_enddatetime_succeeds" time="0.424" timestamp="2022-07-25T10:53:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1338" name="test_patching_non_rrule_attributes_does_not_update_rrule_string" time="0.343" timestamp="2022-07-25T10:53:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="838" name="test_patching_period_to_end_immediately_before_existing_period_starts" time="0.299" timestamp="2022-07-25T10:53:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="819" name="test_patching_period_to_starts_immediately_after_existing_period_ends" time="0.299" timestamp="2022-07-25T10:53:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1284" name="test_patching_rrule_attributes_updates_rrule_string" time="0.393" timestamp="2022-07-25T10:53:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1352" name="test_patching_rrule_string_responds_with_bad_request" time="0.333" timestamp="2022-07-25T10:53:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="784" name="test_patching_startdate_does_not_allow_overlap_with_another_period" time="0.386" timestamp="2022-07-25T10:53:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1435" name="test_patching_weekly_recurring_period_with_weekdays_to_non_recurring" time="0.358" timestamp="2022-07-25T10:53:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="456" name="test_period_action_pricing_service_and_period_calendar_service_must_be_the_same_service" time="0.425" timestamp="2022-07-25T10:53:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1074" name="test_period_creation_at_midnight_utc" time="0.377" timestamp="2022-07-25T10:53:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1105" name="test_period_creation_overlapping_with_utc_bug" time="0.427" timestamp="2022-07-25T10:53:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1013" name="test_period_creation_with_timezone" time="0.298" timestamp="2022-07-25T10:53:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1043" name="test_period_creation_with_timezone_in_madrid" time="0.303" timestamp="2022-07-25T10:53:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="514" name="test_period_search_by_invalid_name_returns_no_results" time="0.270" timestamp="2022-07-25T10:53:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="981" name="test_period_with_single_occurrence_should_have_end_equal_to_start_plus_duration" time="0.299" timestamp="2022-07-25T10:53:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="510" name="test_periods_can_be_searched_by_partial_name" time="0.270" timestamp="2022-07-25T10:53:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="997" name="test_periods_should_end_at_end_time_calculated_by_recurrence_rule_plus_duration" time="0.299" timestamp="2022-07-25T10:53:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="444" name="test_periods_which_overlap_but_are_from_different_calendars_are_allowed" time="0.485" timestamp="2022-07-25T10:53:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1200" name="test_recurrence_rule_displays_weekly_frequency" time="0.300" timestamp="2022-07-25T10:53:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1164" name="test_recurrence_rule_fields_are_present_in_create_period_response" time="0.297" timestamp="2022-07-25T10:53:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1170" name="test_recurrence_rule_fields_are_present_in_get_period_response" time="0.272" timestamp="2022-07-25T10:53:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1176" name="test_recurrence_rule_fields_are_present_in_patch_period_response" time="0.302" timestamp="2022-07-25T10:53:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1215" name="test_recurrence_rule_has_all_fields_on_patch_request" time="0.341" timestamp="2022-07-25T10:53:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1239" name="test_recurrence_rule_has_fields_set_to_none_if_not_in_PATCH_payload" time="0.348" timestamp="2022-07-25T10:53:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1230" name="test_recurrence_rule_has_fields_set_to_none_if_not_in_POST_payload" time="0.296" timestamp="2022-07-25T10:53:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1264" name="test_recurrence_rule_has_fields_set_to_none_if_not_in_rrule_for_GET_request" time="0.318" timestamp="2022-07-25T10:53:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1206" name="test_recurrence_rule_has_frequency_monthly_when_monthly_frequency_is_supplied" time="0.307" timestamp="2022-07-25T10:53:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1185" name="test_recurrence_rule_has_weekdays_as_strings_in_response" time="0.300" timestamp="2022-07-25T10:53:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="1194" name="test_recurrence_rule_has_weekdays_set_to_none_when_weekdays_are_missing" time="0.304" timestamp="2022-07-25T10:53:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="497" name="test_response_can_be_ordered_by_name" time="0.577" timestamp="2022-07-25T10:53:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.apis.test_periods.PeriodsTestCase" file="calendars/tests/apis/test_periods.py" line="482" name="test_response_is_ordered_by_start_datetime" time="0.584" timestamp="2022-07-25T10:53:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

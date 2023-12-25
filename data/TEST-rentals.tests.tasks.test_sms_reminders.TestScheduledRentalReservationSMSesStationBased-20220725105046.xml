@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_sms_reminders.py" name="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSesStationBased-20220725105046" skipped="0" tests="5" time="8.498" timestamp="2022-07-25T11:08:00">
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSesStationBased" file="rentals/tests/tasks/test_sms_reminders.py" line="284" name="test_36_hour_reminder_reservation_station_based" time="1.619" timestamp="2022-07-25T11:07:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSesStationBased" file="rentals/tests/tasks/test_sms_reminders.py" line="366" name="test_overdue_alert_station_based" time="1.597" timestamp="2022-07-25T11:07:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSesStationBased" file="rentals/tests/tasks/test_sms_reminders.py" line="350" name="test_retrieval_reminder_reservation_station_based" time="1.612" timestamp="2022-07-25T11:07:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSesStationBased" file="rentals/tests/tasks/test_sms_reminders.py" line="304" name="test_upcoming_reminder_for_station_based_reservation" time="1.665" timestamp="2022-07-25T11:07:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_sms_reminders.TestScheduledRentalReservationSMSesStationBased" file="rentals/tests/tasks/test_sms_reminders.py" line="320" name="test_upcoming_reminder_for_unassigned_station_based_reservation" time="2.004" timestamp="2022-07-25T11:08:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

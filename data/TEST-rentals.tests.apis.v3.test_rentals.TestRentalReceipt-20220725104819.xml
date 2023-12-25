@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_rentals.py" name="rentals.tests.apis.v3.test_rentals.TestRentalReceipt-20220725104819" skipped="0" tests="8" time="16.133" timestamp="2022-07-25T11:07:14">
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v3/test_rentals.py" line="3358" name="test_additional_fees_included_with_receipt_data" time="1.700" timestamp="2022-07-25T11:07:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v3/test_rentals.py" line="3406" name="test_additional_fees_no_taxes" time="1.700" timestamp="2022-07-25T11:07:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v3/test_rentals.py" line="3542" name="test_build_receipt_data_in_polish" time="2.103" timestamp="2022-07-25T11:07:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v3/test_rentals.py" line="3589" name="test_build_receipt_rental_in_invisible_mode" time="1.880" timestamp="2022-07-25T11:07:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v3/test_rentals.py" line="3568" name="test_build_receipt_rental_in_private_mode" time="1.802" timestamp="2022-07-25T11:07:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v3/test_rentals.py" line="3465" name="test_minimum_fare_receipt_data" time="2.482" timestamp="2022-07-25T11:07:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v3/test_rentals.py" line="3506" name="test_minimum_fare_with_receipt_data" time="2.304" timestamp="2022-07-25T11:07:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v3/test_rentals.py" line="3434" name="test_overage_receipt_data" time="2.163" timestamp="2022-07-25T11:07:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

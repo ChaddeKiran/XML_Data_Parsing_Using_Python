@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="calendars/tests/test_recurrence_schema.py" name="calendars.tests.test_recurrence_schema.RecurrenceRuleSchemaTests-20220725104740" skipped="0" tests="3" time="0.005" timestamp="2022-07-25T11:06:38">
+	<testcase classname="calendars.tests.test_recurrence_schema.RecurrenceRuleSchemaTests" file="calendars/tests/test_recurrence_schema.py" line="33" name="test_frequency_can_be_converted_to_string" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.test_recurrence_schema.RecurrenceRuleSchemaTests" file="calendars/tests/test_recurrence_schema.py" line="16" name="test_schema_can_extract_fields_correctly_from_string" time="0.003" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="calendars.tests.test_recurrence_schema.RecurrenceRuleSchemaTests" file="calendars/tests/test_recurrence_schema.py" line="39" name="test_weekday_can_be_converted_to_string" time="0.002" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

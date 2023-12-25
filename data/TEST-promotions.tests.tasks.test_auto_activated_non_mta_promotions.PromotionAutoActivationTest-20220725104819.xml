@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/tasks/test_auto_activated_non_mta_promotions.py" name="promotions.tests.tasks.test_auto_activated_non_mta_promotions.PromotionAutoActivationTest-20220725104819" skipped="0" tests="7" time="11.686" timestamp="2022-07-25T10:59:28">
+	<testcase classname="promotions.tests.tasks.test_auto_activated_non_mta_promotions.PromotionAutoActivationTest" file="promotions/tests/tasks/test_auto_activated_non_mta_promotions.py" line="69" name="test_calling_reserve_coupons_for_promotions_assigns_credits_for_given_promotion" time="1.281" timestamp="2022-07-25T10:59:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_auto_activated_non_mta_promotions.PromotionAutoActivationTest" file="promotions/tests/tasks/test_auto_activated_non_mta_promotions.py" line="47" name="test_coupon_activation_is_created_when_auto_activated_promo_is_activated" time="1.918" timestamp="2022-07-25T10:59:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_auto_activated_non_mta_promotions.PromotionAutoActivationTest" file="promotions/tests/tasks/test_auto_activated_non_mta_promotions.py" line="30" name="test_customer_is_allocated_credit_when_auto_activated_promo_is_activated" time="2.108" timestamp="2022-07-25T10:59:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_auto_activated_non_mta_promotions.PromotionAutoActivationTest" file="promotions/tests/tasks/test_auto_activated_non_mta_promotions.py" line="10" name="test_flat_auto_activated_promo_activation_results_in_fulfilled_coupon_status" time="1.944" timestamp="2022-07-25T10:59:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_auto_activated_non_mta_promotions.PromotionAutoActivationTest" file="promotions/tests/tasks/test_auto_activated_non_mta_promotions.py" line="61" name="test_multi_trip_award_promo_coupons_are_not_fulfilled_at_start_date" time="1.130" timestamp="2022-07-25T10:59:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_auto_activated_non_mta_promotions.PromotionAutoActivationTest" file="promotions/tests/tasks/test_auto_activated_non_mta_promotions.py" line="55" name="test_multi_trip_award_promo_does_not_grant_credits_at_start_date" time="1.860" timestamp="2022-07-25T10:59:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.tasks.test_auto_activated_non_mta_promotions.PromotionAutoActivationTest" file="promotions/tests/tasks/test_auto_activated_non_mta_promotions.py" line="83" name="test_reserve_coupons_is_idempotent" time="1.444" timestamp="2022-07-25T10:59:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushCCMVersion-20220725104740" skipped="0" tests="4" time="0.352" timestamp="2022-07-25T10:59:56">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushCCMVersion" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1485" name="test_push_ccm_version" time="0.042" timestamp="2022-07-25T10:59:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushCCMVersion" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1544" name="test_push_ccm_version_carsharing_hardware_not_mensa" time="0.235" timestamp="2022-07-25T10:59:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushCCMVersion" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1500" name="test_update_ccm_version_cache" time="0.039" timestamp="2022-07-25T10:59:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaPushCCMVersion" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1520" name="test_update_ccm_version_cache_if_missing_firmware_version" time="0.036" timestamp="2022-07-25T10:59:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

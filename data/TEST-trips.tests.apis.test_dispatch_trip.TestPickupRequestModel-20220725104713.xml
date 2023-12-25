@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_dispatch_trip.py" name="trips.tests.apis.test_dispatch_trip.TestPickupRequestModel-20220725104713" skipped="0" tests="5" time="0.406" timestamp="2022-07-25T10:55:08">
+	<testcase classname="trips.tests.apis.test_dispatch_trip.TestPickupRequestModel" file="trips/tests/apis/test_dispatch_trip.py" line="476" name="test_driver_and_active_unique" time="0.125" timestamp="2022-07-25T10:55:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.TestPickupRequestModel" file="trips/tests/apis/test_dispatch_trip.py" line="470" name="test_driver_and_active_unique_failure" time="0.120" timestamp="2022-07-25T10:55:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.TestPickupRequestModel" file="trips/tests/apis/test_dispatch_trip.py" line="487" name="test_driver_and_trip_unique" time="0.122" timestamp="2022-07-25T10:55:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.TestPickupRequestModel" file="trips/tests/apis/test_dispatch_trip.py" line="481" name="test_driver_and_trip_unique_failure" time="0.021" timestamp="2022-07-25T10:55:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_dispatch_trip.TestPickupRequestModel" file="trips/tests/apis/test_dispatch_trip.py" line="467" name="test_sets_active_nullable" time="0.017" timestamp="2022-07-25T10:55:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

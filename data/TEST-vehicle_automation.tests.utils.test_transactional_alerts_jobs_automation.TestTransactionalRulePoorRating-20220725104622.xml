@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating-20220725104622" skipped="0" tests="14" time="24.967" timestamp="2022-07-25T10:55:48">
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="156" name="test_alert_should_get_created_in_target_job_service_if_present_in_one_of_the_vehicle_services" time="1.798" timestamp="2022-07-25T10:55:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="420" name="test_cleaning_transactional_rule_rating_with_existing_alerts" time="1.620" timestamp="2022-07-25T10:55:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="646" name="test_cleaning_transactional_rule_rating_with_existing_cancelled_alerts" time="1.712" timestamp="2022-07-25T10:55:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="514" name="test_cleaning_transactional_rule_rating_with_multiple_existing_closed_alerts_and_multiple_rentals" time="2.503" timestamp="2022-07-25T10:55:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="563" name="test_cleaning_transactional_rule_rating_with_multiple_setting_item" time="2.071" timestamp="2022-07-25T10:55:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="695" name="test_cleaning_transactional_rule_rating_with_only_cancelled_alerts" time="1.544" timestamp="2022-07-25T10:55:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="475" name="test_cleaning_transactional_rule_rating_with_rental_before_last_alert_completed" time="1.423" timestamp="2022-07-25T10:55:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="253" name="test_cleaning_transactional_rule_rating_without_cleaning_image" time="1.438" timestamp="2022-07-25T10:55:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="207" name="test_cleaning_transactional_rule_rating_without_existing_alert" time="1.470" timestamp="2022-07-25T10:55:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="289" name="test_cleaning_transactional_rule_rating_without_existing_alert_customer_exempted" time="1.575" timestamp="2022-07-25T10:55:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="385" name="test_cleaning_transactional_rule_rating_without_existing_alert_rating_gt_rule" time="1.711" timestamp="2022-07-25T10:55:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="326" name="test_cleaning_transactional_rule_rating_without_existing_alert_vehicle_booked_customer_exempted_prev" time="2.089" timestamp="2022-07-25T10:55:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="126" name="test_inactive_vehicle_generates_no_alerts" time="2.171" timestamp="2022-07-25T10:55:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRulePoorRating" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="75" name="test_rating_without_existing_alert_with_target_job_service" time="1.842" timestamp="2022-07-25T10:55:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

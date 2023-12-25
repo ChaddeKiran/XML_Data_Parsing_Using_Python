@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestPINResendV2-20220725104545" skipped="0" tests="5" time="3.899" timestamp="2022-07-25T11:02:03">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestPINResendV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="2129" name="test_resend_pin" time="0.880" timestamp="2022-07-25T11:02:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestPINResendV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="2110" name="test_v2_customers_resend_pin_as_customer" time="0.734" timestamp="2022-07-25T11:02:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestPINResendV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="2094" name="test_v2_customers_resend_pin_as_dispatcher" time="0.763" timestamp="2022-07-25T11:02:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestPINResendV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="2139" name="test_v2_customers_resend_pin_no_pin_set_as_customer" time="0.788" timestamp="2022-07-25T11:02:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestPINResendV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="2159" name="test_v2_customers_resend_pin_no_pin_set_as_dispatcher" time="0.734" timestamp="2022-07-25T11:02:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

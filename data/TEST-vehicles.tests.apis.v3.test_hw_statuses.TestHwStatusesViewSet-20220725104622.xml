@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_hw_statuses.py" name="vehicles.tests.apis.v3.test_hw_statuses.TestHwStatusesViewSet-20220725104622" skipped="0" tests="7" time="2.150" timestamp="2022-07-25T11:02:49">
+	<testcase classname="vehicles.tests.apis.v3.test_hw_statuses.TestHwStatusesViewSet" file="vehicles/tests/apis/v3/test_hw_statuses.py" line="150" name="test_vehicle_hw_status_with_continental_registered" time="0.339" timestamp="2022-07-25T11:02:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_hw_statuses.TestHwStatusesViewSet" file="vehicles/tests/apis/v3/test_hw_statuses.py" line="111" name="test_vehicle_hw_status_with_geotab_gks_registered" time="0.333" timestamp="2022-07-25T11:02:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_hw_statuses.TestHwStatusesViewSet" file="vehicles/tests/apis/v3/test_hw_statuses.py" line="100" name="test_vehicle_hw_status_with_mensa_registered" time="0.291" timestamp="2022-07-25T11:02:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_hw_statuses.TestHwStatusesViewSet" file="vehicles/tests/apis/v3/test_hw_statuses.py" line="162" name="test_vehicle_hw_status_with_no_registered_hardware" time="0.311" timestamp="2022-07-25T11:02:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_hw_statuses.TestHwStatusesViewSet" file="vehicles/tests/apis/v3/test_hw_statuses.py" line="67" name="test_vehicle_hw_status_with_otakeys_mensa_gks_registered" time="0.287" timestamp="2022-07-25T11:02:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_hw_statuses.TestHwStatusesViewSet" file="vehicles/tests/apis/v3/test_hw_statuses.py" line="72" name="test_vehicle_hw_status_with_otakeys_mensa_go9_gps_registered" time="0.293" timestamp="2022-07-25T11:02:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_hw_statuses.TestHwStatusesViewSet" file="vehicles/tests/apis/v3/test_hw_statuses.py" line="89" name="test_vehicle_hw_status_with_otakeys_registered" time="0.295" timestamp="2022-07-25T11:02:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

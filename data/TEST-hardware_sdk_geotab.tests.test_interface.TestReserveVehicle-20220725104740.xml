@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_interface.py" name="hardware_sdk_geotab.tests.test_interface.TestReserveVehicle-20220725104740" skipped="0" tests="8" time="5.430" timestamp="2022-07-25T10:58:39">
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestReserveVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="294" name="test_create_virtual_key_with_checkin_override_privilege_for_ble" time="0.500" timestamp="2022-07-25T10:58:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestReserveVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="318" name="test_create_virtual_key_with_checkin_override_privilege_for_ble_no_rfid" time="2.004" timestamp="2022-07-25T10:58:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestReserveVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="127" name="test_reserve_vehicle" time="1.447" timestamp="2022-07-25T10:58:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestReserveVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="222" name="test_reserve_vehicle_for_spontaneous_rental" time="0.475" timestamp="2022-07-25T10:58:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestReserveVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="258" name="test_reserve_vehicle_for_spontaneous_rental_event_timestamp" time="0.434" timestamp="2022-07-25T10:58:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestReserveVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="208" name="test_reserve_vehicle_with_connection_exception" time="0.049" timestamp="2022-07-25T10:58:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestReserveVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="194" name="test_reserve_vehicle_with_http_exception" time="0.044" timestamp="2022-07-25T10:58:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestReserveVehicle" file="hardware_sdk_geotab/tests/test_interface.py" line="162" name="test_reserve_vehicle_without_device_wakeup" time="0.476" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

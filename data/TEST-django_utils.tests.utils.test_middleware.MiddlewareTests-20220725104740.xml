@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_middleware.py" name="django_utils.tests.utils.test_middleware.MiddlewareTests-20220725104740" skipped="0" tests="4" time="2.136" timestamp="2022-07-25T10:54:42">
+	<testcase classname="django_utils.tests.utils.test_middleware.MiddlewareTests" file="django_utils/tests/utils/test_middleware.py" line="53" name="test_request_configuration_no_service" time="0.522" timestamp="2022-07-25T10:54:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_middleware.MiddlewareTests" file="django_utils/tests/utils/test_middleware.py" line="71" name="test_request_service_default_tenant_configuration" time="0.537" timestamp="2022-07-25T10:54:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_middleware.MiddlewareTests" file="django_utils/tests/utils/test_middleware.py" line="65" name="test_request_with_rideshare_slug" time="0.539" timestamp="2022-07-25T10:54:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_middleware.MiddlewareTests" file="django_utils/tests/utils/test_middleware.py" line="59" name="test_request_with_service_slug" time="0.538" timestamp="2022-07-25T10:54:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

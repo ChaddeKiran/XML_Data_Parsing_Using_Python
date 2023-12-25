@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/signals/test_registration.py" name="users.tests.signals.test_registration.TestRegistrationComplete-20220725104622" skipped="0" tests="5" time="2.462" timestamp="2022-07-25T10:47:47">
+	<testcase classname="users.tests.signals.test_registration.TestRegistrationComplete" file="users/tests/signals/test_registration.py" line="274" name="test_registration_completed_not_set_with_no_in_use_credit_card" time="0.542" timestamp="2022-07-25T10:47:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_registration.TestRegistrationComplete" file="users/tests/signals/test_registration.py" line="295" name="test_registration_completed_not_set_without_driving_license" time="0.399" timestamp="2022-07-25T10:47:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_registration.TestRegistrationComplete" file="users/tests/signals/test_registration.py" line="248" name="test_registration_completed_set_when_customer_satisfies_requied_criteria" time="0.532" timestamp="2022-07-25T10:47:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_registration.TestRegistrationComplete" file="users/tests/signals/test_registration.py" line="316" name="test_registration_completed_status_does_not_change_once_it_is_set" time="0.507" timestamp="2022-07-25T10:47:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_registration.TestRegistrationComplete" file="users/tests/signals/test_registration.py" line="346" name="test_registration_completion_without_registration_criteria_in_place" time="0.482" timestamp="2022-07-25T10:47:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

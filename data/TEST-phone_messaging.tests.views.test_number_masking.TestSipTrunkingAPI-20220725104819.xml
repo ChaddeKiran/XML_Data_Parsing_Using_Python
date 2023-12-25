@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="phone_messaging/tests/views/test_number_masking.py" name="phone_messaging.tests.views.test_number_masking.TestSipTrunkingAPI-20220725104819" skipped="0" tests="3" time="1.261" timestamp="2022-07-25T10:52:57">
+	<testcase classname="phone_messaging.tests.views.test_number_masking.TestSipTrunkingAPI" file="phone_messaging/tests/views/test_number_masking.py" line="173" name="test_sip_callback_call_not_allowed_response" time="0.332" timestamp="2022-07-25T10:52:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.views.test_number_masking.TestSipTrunkingAPI" file="phone_messaging/tests/views/test_number_masking.py" line="186" name="test_sip_callback_with_past_trip_response" time="0.657" timestamp="2022-07-25T10:52:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.views.test_number_masking.TestSipTrunkingAPI" file="phone_messaging/tests/views/test_number_masking.py" line="178" name="test_sip_callback_with_valid_driver_customer_response" time="0.272" timestamp="2022-07-25T10:52:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

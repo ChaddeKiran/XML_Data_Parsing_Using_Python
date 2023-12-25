@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" name="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataLoadAPI-20220725104740" skipped="0" tests="5" time="9.508" timestamp="2022-07-25T10:54:59">
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataLoadAPI" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="30" name="test_get_city_list" time="1.798" timestamp="2022-07-25T10:54:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataLoadAPI" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="36" name="test_get_city_list_with_state_abbreviation" time="1.572" timestamp="2022-07-25T10:54:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataLoadAPI" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="25" name="test_get_state_list" time="0.322" timestamp="2022-07-25T10:54:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataLoadAPI" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="42" name="test_load_city" time="2.392" timestamp="2022-07-25T10:54:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataLoadAPI" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="49" name="test_load_city_again" time="3.423" timestamp="2022-07-25T10:54:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

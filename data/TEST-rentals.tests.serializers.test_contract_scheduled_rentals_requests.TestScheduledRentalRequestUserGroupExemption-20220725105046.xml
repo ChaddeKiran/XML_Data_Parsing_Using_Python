@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/serializers/test_contract_scheduled_rentals_requests.py" name="rentals.tests.serializers.test_contract_scheduled_rentals_requests.TestScheduledRentalRequestUserGroupExemption-20220725105046" skipped="0" tests="1" time="0.023" timestamp="2022-07-25T11:05:38">
+	<testcase classname="rentals.tests.serializers.test_contract_scheduled_rentals_requests.TestScheduledRentalRequestUserGroupExemption" file="rentals/tests/serializers/test_contract_scheduled_rentals_requests.py" line="7" name="test_contract_request_serializer" time="0.023" timestamp="2022-07-25T11:05:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

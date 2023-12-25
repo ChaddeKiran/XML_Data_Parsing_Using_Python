@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_availability.py" name="rentals.tests.apis.v3.test_availability.TestVehicleTypePricingAvailability-20220725104819" skipped="0" tests="3" time="1.756" timestamp="2022-07-25T11:04:26">
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypePricingAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1538" name="test_price_check_with_pricing_rule" time="0.604" timestamp="2022-07-25T11:04:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypePricingAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1526" name="test_price_per_service" time="0.575" timestamp="2022-07-25T11:04:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestVehicleTypePricingAvailability" file="rentals/tests/apis/v3/test_availability.py" line="1587" name="test_price_without_pricing_packages_check_with_pricing_rule" time="0.576" timestamp="2022-07-25T11:04:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

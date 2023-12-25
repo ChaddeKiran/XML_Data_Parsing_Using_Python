@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_driver_managers.py" name="users.tests.apis.test_driver_managers.DriverAPIsAsDriverManagerTestCase-20220725104545" skipped="0" tests="2" time="0.766" timestamp="2022-07-25T10:54:56">
+	<testcase classname="users.tests.apis.test_driver_managers.DriverAPIsAsDriverManagerTestCase" file="users/tests/apis/test_driver_managers.py" line="44" name="test_create_driver_good" time="0.464" timestamp="2022-07-25T10:54:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_driver_managers.DriverAPIsAsDriverManagerTestCase" file="users/tests/apis/test_driver_managers.py" line="38" name="test_create_driver_short_pass" time="0.301" timestamp="2022-07-25T10:54:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

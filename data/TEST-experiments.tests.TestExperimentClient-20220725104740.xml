@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="experiments/tests.py" name="experiments.tests.TestExperimentClient-20220725104740" skipped="0" tests="1" time="0.031" timestamp="2022-07-25T10:56:22">
+	<testcase classname="experiments.tests.TestExperimentClient" file="experiments/tests.py" line="24" name="test_get_variation" time="0.031" timestamp="2022-07-25T10:56:22">
+		<system-out>
+<![CDATA[<QuerySet [<Experiment: ota_backend_flow>]>
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

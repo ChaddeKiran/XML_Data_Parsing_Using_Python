@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/test_operatingregions.py" name="service_regions.tests.test_operatingregions.LocationTestCase-20220725105046" skipped="0" tests="1" time="0.257" timestamp="2022-07-25T11:08:56">
+	<testcase classname="service_regions.tests.test_operatingregions.LocationTestCase" file="service_regions/tests/test_operatingregions.py" line="28" name="test_is_point_within_operatingarea" time="0.257" timestamp="2022-07-25T11:08:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

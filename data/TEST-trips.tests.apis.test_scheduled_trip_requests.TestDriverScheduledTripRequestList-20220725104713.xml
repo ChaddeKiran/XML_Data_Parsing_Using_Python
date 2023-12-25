@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestList-20220725104713" skipped="0" tests="8" time="6.925" timestamp="2022-07-25T10:59:21">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestList" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2398" name="test_driver_cannot_cancel_an_unrelated_customer_trip_request" time="0.849" timestamp="2022-07-25T10:59:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestList" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2405" name="test_driver_customer_can_list_their_own_customer_scheduled_trips" time="0.939" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestList" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2418" name="test_driver_customer_can_list_their_own_driver_scheduled_trips" time="0.961" timestamp="2022-07-25T10:59:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestList" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2338" name="test_driver_customer_can_see_rides_to_claim_on_exclusive_service" time="0.813" timestamp="2022-07-25T10:59:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestList" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2348" name="test_scheduled_trip_request_list_all_unclaimed" time="0.688" timestamp="2022-07-25T10:59:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestList" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2353" name="test_scheduled_trip_request_list_one_claimed_by_other_driver" time="0.752" timestamp="2022-07-25T10:59:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestList" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2365" name="test_scheduled_trip_request_list_one_claimed_by_self" time="0.772" timestamp="2022-07-25T10:59:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestList" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2379" name="test_scheduled_trip_request_list_scheduled_trip_assigned_but_on_demand_assigned_to_another_driver" time="1.150" timestamp="2022-07-25T10:59:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

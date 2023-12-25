@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_interface.py" name="hardware_sdk_mensa.tests.test_interface.TestAddBleKeyMidRental-20220725104740" skipped="0" tests="5" time="0.408" timestamp="2022-07-25T10:59:35">
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestAddBleKeyMidRental" file="hardware_sdk_mensa/tests/test_interface.py" line="551" name="test_customer_has_no_mobile_device" time="0.028" timestamp="2022-07-25T10:59:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestAddBleKeyMidRental" file="hardware_sdk_mensa/tests/test_interface.py" line="559" name="test_happy_flow" time="0.067" timestamp="2022-07-25T10:59:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestAddBleKeyMidRental" file="hardware_sdk_mensa/tests/test_interface.py" line="529" name="test_in_non_mensa_rental" time="0.223" timestamp="2022-07-25T10:59:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestAddBleKeyMidRental" file="hardware_sdk_mensa/tests/test_interface.py" line="540" name="test_in_rental_but_already_has_ble_key" time="0.044" timestamp="2022-07-25T10:59:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestAddBleKeyMidRental" file="hardware_sdk_mensa/tests/test_interface.py" line="518" name="test_not_in_rental" time="0.046" timestamp="2022-07-25T10:59:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

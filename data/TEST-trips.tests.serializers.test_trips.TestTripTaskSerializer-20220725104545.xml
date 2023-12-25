@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/serializers/test_trips.py" name="trips.tests.serializers.test_trips.TestTripTaskSerializer-20220725104545" skipped="0" tests="2" time="2.843" timestamp="2022-07-25T10:50:23">
+	<testcase classname="trips.tests.serializers.test_trips.TestTripTaskSerializer" file="trips/tests/serializers/test_trips.py" line="312" name="test_serializer_with_no_inner_node_phone_number" time="1.443" timestamp="2022-07-25T10:50:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestTripTaskSerializer" file="trips/tests/serializers/test_trips.py" line="308" name="test_serializer_with_phone_number" time="1.401" timestamp="2022-07-25T10:50:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

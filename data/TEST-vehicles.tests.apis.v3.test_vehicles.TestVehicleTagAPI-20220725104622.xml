@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_vehicles.py" name="vehicles.tests.apis.v3.test_vehicles.TestVehicleTagAPI-20220725104622" skipped="0" tests="2" time="1.196" timestamp="2022-07-25T11:03:22">
+	<testcase classname="vehicles.tests.apis.v3.test_vehicles.TestVehicleTagAPI" file="vehicles/tests/apis/v3/test_vehicles.py" line="236" name="test_add_vehicle_tag" time="0.592" timestamp="2022-07-25T11:03:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_vehicles.TestVehicleTagAPI" file="vehicles/tests/apis/v3/test_vehicles.py" line="249" name="test_remove_vehicle_tag" time="0.604" timestamp="2022-07-25T11:03:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/models/test_scheduled_trip_requests.py" name="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestCancellation-20220725104545" skipped="0" tests="4" time="2.248" timestamp="2022-07-25T10:49:32">
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestCancellation" file="trips/tests/models/test_scheduled_trip_requests.py" line="307" name="test_auto_cancel_if_conversion_raises_exception" time="0.419" timestamp="2022-07-25T10:49:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestCancellation" file="trips/tests/models/test_scheduled_trip_requests.py" line="287" name="test_auto_cancel_on_demand_trip_converted_from_recurring_trip" time="0.700" timestamp="2022-07-25T10:49:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestCancellation" file="trips/tests/models/test_scheduled_trip_requests.py" line="262" name="test_auto_cancel_scheduled_trip_sends_message" time="0.566" timestamp="2022-07-25T10:49:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestCancellation" file="trips/tests/models/test_scheduled_trip_requests.py" line="240" name="test_trip_cancellation_sends_message" time="0.563" timestamp="2022-07-25T10:49:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

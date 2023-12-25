@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/test_serviceregions.py" name="service_regions.tests.test_serviceregions.TestServiceAreaMultiService-20220725105046" skipped="0" tests="2" time="2.695" timestamp="2022-07-25T11:09:21">
+	<testcase classname="service_regions.tests.test_serviceregions.TestServiceAreaMultiService" file="service_regions/tests/test_serviceregions.py" line="1132" name="test_create_trip_in_exempt_fails_overlapped_with_unrestricted" time="0.973" timestamp="2022-07-25T11:09:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestServiceAreaMultiService" file="service_regions/tests/test_serviceregions.py" line="1118" name="test_create_trip_overlapped_with_exempt" time="1.722" timestamp="2022-07-25T11:09:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

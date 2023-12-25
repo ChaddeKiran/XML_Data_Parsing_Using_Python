@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_neighborhoods.py" name="driver_scheduling.tests.apis.test_neighborhoods.TestNeighborhoodsAPI-20220725104740" skipped="0" tests="6" time="1.573" timestamp="2022-07-25T10:55:01">
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhoods.TestNeighborhoodsAPI" file="driver_scheduling/tests/apis/test_neighborhoods.py" line="10" name="test_get_list" time="0.269" timestamp="2022-07-25T10:55:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'locations.models.locations_models.Neighborhood'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhoods.TestNeighborhoodsAPI" file="driver_scheduling/tests/apis/test_neighborhoods.py" line="19" name="test_get_list_geojson" time="0.274" timestamp="2022-07-25T10:55:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhoods.TestNeighborhoodsAPI" file="driver_scheduling/tests/apis/test_neighborhoods.py" line="25" name="test_get_single" time="0.261" timestamp="2022-07-25T10:55:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhoods.TestNeighborhoodsAPI" file="driver_scheduling/tests/apis/test_neighborhoods.py" line="33" name="test_get_single_geojson" time="0.259" timestamp="2022-07-25T10:55:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhoods.TestNeighborhoodsAPI" file="driver_scheduling/tests/apis/test_neighborhoods.py" line="42" name="test_search_by_name" time="0.257" timestamp="2022-07-25T10:55:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhoods.TestNeighborhoodsAPI" file="driver_scheduling/tests/apis/test_neighborhoods.py" line="47" name="test_unauthenticated_requests_not_authorized" time="0.254" timestamp="2022-07-25T10:55:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

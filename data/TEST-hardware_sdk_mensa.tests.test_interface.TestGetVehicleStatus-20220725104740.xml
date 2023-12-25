@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_interface.py" name="hardware_sdk_mensa.tests.test_interface.TestGetVehicleStatus-20220725104740" skipped="0" tests="3" time="0.092" timestamp="2022-07-25T10:59:40">
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestGetVehicleStatus" file="hardware_sdk_mensa/tests/test_interface.py" line="478" name="test_get_vehicle_status" time="0.047" timestamp="2022-07-25T10:59:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestGetVehicleStatus" file="hardware_sdk_mensa/tests/test_interface.py" line="501" name="test_get_vehicle_status_with_connection_exception" time="0.022" timestamp="2022-07-25T10:59:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_interface.TestGetVehicleStatus" file="hardware_sdk_mensa/tests/test_interface.py" line="496" name="test_get_vehicle_status_with_connection_timeout_exception" time="0.023" timestamp="2022-07-25T10:59:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/signals/test_charge_registration_fee.py" name="users.tests.signals.test_charge_registration_fee.TestChargeRegistrationFee-20220725104622" skipped="0" tests="2" time="1.595" timestamp="2022-07-25T10:46:45">
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestChargeRegistrationFee" file="users/tests/signals/test_charge_registration_fee.py" line="32" name="test_registration_fee_flow" time="0.842" timestamp="2022-07-25T10:46:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestChargeRegistrationFee" file="users/tests/signals/test_charge_registration_fee.py" line="63" name="test_registration_fee_flow_common_customer" time="0.753" timestamp="2022-07-25T10:46:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

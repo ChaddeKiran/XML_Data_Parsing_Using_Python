@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/models/test_scheduled_trip_requests.py" name="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestActions-20220725104545" skipped="0" tests="2" time="2.605" timestamp="2022-07-25T10:49:29">
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestActions" file="trips/tests/models/test_scheduled_trip_requests.py" line="150" name="test_convert_to_ondemand_doesnt_drop_driver" time="0.974" timestamp="2022-07-25T10:49:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestScheduledTripRequestActions" file="trips/tests/models/test_scheduled_trip_requests.py" line="136" name="test_notify_driver_confirm_notifies_customer" time="1.631" timestamp="2022-07-25T10:49:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

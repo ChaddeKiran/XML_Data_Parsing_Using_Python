@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/tasks/test_payments.py" name="payments.tests.tasks.test_payments.TestDebitFailedCustomerIOEvent-20220725104819" skipped="0" tests="5" time="6.039" timestamp="2022-07-25T10:49:47">
+	<testcase classname="payments.tests.tasks.test_payments.TestDebitFailedCustomerIOEvent" file="payments/tests/tasks/test_payments.py" line="497" name="test_failed_invoice_charging_sends_debit_failed_event" time="0.446" timestamp="2022-07-25T10:49:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestDebitFailedCustomerIOEvent" file="payments/tests/tasks/test_payments.py" line="530" name="test_failed_rental_estimate_capture_for_scheduled_rental_request_sends_debit_failed_event" time="0.923" timestamp="2022-07-25T10:49:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestDebitFailedCustomerIOEvent" file="payments/tests/tasks/test_payments.py" line="475" name="test_failed_rental_payment_sends_debit_failed_event" time="1.014" timestamp="2022-07-25T10:49:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestDebitFailedCustomerIOEvent" file="payments/tests/tasks/test_payments.py" line="510" name="test_failed_scheduled_rental_request_cancellation_fee_payment_sends_debit_failed_event" time="3.064" timestamp="2022-07-25T10:49:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestDebitFailedCustomerIOEvent" file="payments/tests/tasks/test_payments.py" line="486" name="test_failed_trip_payment_sends_debit_failed_event" time="0.592" timestamp="2022-07-25T10:49:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

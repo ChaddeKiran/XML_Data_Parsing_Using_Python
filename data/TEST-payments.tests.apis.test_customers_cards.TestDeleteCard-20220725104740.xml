@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/test_customers_cards.py" name="payments.tests.apis.test_customers_cards.TestDeleteCard-20220725104740" skipped="0" tests="12" time="9.642" timestamp="2022-07-25T11:04:26">
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="971" name="test_delete_card" time="0.609" timestamp="2022-07-25T11:04:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="1015" name="test_delete_card_customer_history" time="0.904" timestamp="2022-07-25T11:04:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="1245" name="test_delete_card_customer_in_trip" time="0.969" timestamp="2022-07-25T11:04:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Trip.pickedup_at received a naive datetime (2022-07-25 11:04:19.232347) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="1108" name="test_delete_card_used_in_active_subscription" time="0.889" timestamp="2022-07-25T11:04:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Subscription.start_datetime received a naive datetime (2022-07-25 10:43:14.434564) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="1173" name="test_delete_card_used_in_active_subscription_with_allow_deleting_flag_disabled" time="0.681" timestamp="2022-07-25T11:04:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="1207" name="test_delete_card_used_in_canceled_subscription" time="0.707" timestamp="2022-07-25T11:04:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="1140" name="test_delete_card_used_while_subscription_cancellation_fails" time="0.693" timestamp="2022-07-25T11:04:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="1059" name="test_delete_card_when_customer_in_rental" time="1.259" timestamp="2022-07-25T11:04:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="1291" name="test_delete_inactive_card_while_in_rental" time="1.265" timestamp="2022-07-25T11:04:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="1304" name="test_delete_inactive_card_while_in_trip" time="0.800" timestamp="2022-07-25T11:04:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Trip.pickedup_at received a naive datetime (2022-07-25 11:04:25.595859) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="1224" name="test_destroy_pii_cancels_subscription" time="0.582" timestamp="2022-07-25T11:04:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestDeleteCard" file="payments/tests/apis/test_customers_cards.py" line="966" name="test_unallowed_methods" time="0.284" timestamp="2022-07-25T11:04:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

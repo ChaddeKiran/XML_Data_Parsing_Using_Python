@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="billing/tests/invoices/test_invoice_filters.py" name="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase-20220725104740" skipped="0" tests="12" time="32.892" timestamp="2022-07-25T10:51:15">
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="18" name="test_filter_invoice_type_id" time="3.466" timestamp="2022-07-25T10:50:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="76" name="test_invoice_filter_for_created_from_and_created_to" time="2.230" timestamp="2022-07-25T10:50:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="58" name="test_invoice_filter_for_to_and_from_total_charge" time="2.046" timestamp="2022-07-25T10:50:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="103" name="test_invoice_filter_for_violated_from_and_violated_to" time="2.084" timestamp="2022-07-25T10:50:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="298" name="test_list_invoices_filter_customer_id" time="3.206" timestamp="2022-07-25T10:50:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="231" name="test_list_invoices_filter_exempted" time="3.270" timestamp="2022-07-25T10:50:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="209" name="test_list_invoices_filter_paid" time="2.889" timestamp="2022-07-25T10:51:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="254" name="test_list_invoices_filter_payment_failed" time="2.770" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="272" name="test_list_invoices_filter_pending" time="2.273" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="130" name="test_list_invoices_filter_refunded" time="2.770" timestamp="2022-07-25T10:51:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="150" name="test_list_invoices_filter_refunded_and_paid" time="3.928" timestamp="2022-07-25T10:51:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="billing.tests.invoices.test_invoice_filters.InvoiceFilterTestCase" file="billing/tests/invoices/test_invoice_filters.py" line="313" name="test_list_invoices_filter_service_id" time="1.959" timestamp="2022-07-25T10:51:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'billing.models.models.Invoice'> InvoiceQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+</testsuite>

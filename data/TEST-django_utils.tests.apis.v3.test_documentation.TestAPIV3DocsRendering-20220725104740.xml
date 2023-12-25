@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/apis/v3/test_documentation.py" name="django_utils.tests.apis.v3.test_documentation.TestAPIV3DocsRendering-20220725104740" skipped="0" tests="1" time="5.473" timestamp="2022-07-25T10:54:33">
+	<testcase classname="django_utils.tests.apis.v3.test_documentation.TestAPIV3DocsRendering" file="django_utils/tests/apis/v3/test_documentation.py" line="7" name="test_v3_docs_loading" time="5.473" timestamp="2022-07-25T10:54:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'stations.apis.v3.carsharing_stations.V3SRStationVehicleTypesViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'users.apis.v3.suppliers.SupplierVehicleViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'services.apis.v3.support_phone_numbers.SupportPhoneNumbersViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'stations.views.StationViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'services.apis.v3.markets.V3MarketViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'users.apis.v3.notifications.NotificationViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'vehicles.apis.v3.vehicles_apis.V3VehicleTypeLeasingEntityViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'vehicles.apis.v3.event_reports.V3EventReportViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'service_regions.apis.V3ServiceRegionViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'manual_identity_verification.views.DocumentSpecificationViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'trips.apis.v3.trips.V3ScheduledTripRequestViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'vehicle_lifecycle.apis.LifeCycleViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'vehicle_lifecycle.apis.LifeCycleStageViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+/usr/local/lib/python3.6/dist-packages/django_filters/rest_framework/backends.py:128: UserWarning: <class 'vehicle_lifecycle.apis.LifeCycleStepViewSet'> is not compatible with schema generation
+  "{} is not compatible with schema generation".format(view.__class__)
+]]>		</system-err>
+	</testcase>
+</testsuite>

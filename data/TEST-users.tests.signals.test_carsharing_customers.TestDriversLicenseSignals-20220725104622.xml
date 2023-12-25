@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/signals/test_carsharing_customers.py" name="users.tests.signals.test_carsharing_customers.TestDriversLicenseSignals-20220725104622" skipped="0" tests="2" time="0.466" timestamp="2022-07-25T10:46:43">
+	<testcase classname="users.tests.signals.test_carsharing_customers.TestDriversLicenseSignals" file="users/tests/signals/test_carsharing_customers.py" line="126" name="test_first_drivers_license_entered_triggers_SIGN_UP_DRIVERS_LICENSE_ENTERED" time="0.202" timestamp="2022-07-25T10:46:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_carsharing_customers.TestDriversLicenseSignals" file="users/tests/signals/test_carsharing_customers.py" line="134" name="test_member_update_triggered_when_bg_check_pass" time="0.264" timestamp="2022-07-25T10:46:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:46:43.396685) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

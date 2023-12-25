@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/apis/test_locations.py" name="locations.tests.apis.test_locations.TestLocationAliasAPI-20220725104740" skipped="0" tests="18" time="13.271" timestamp="2022-07-25T11:02:27">
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="223" name="test_alias_location_search_disabled" time="0.621" timestamp="2022-07-25T11:02:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="363" name="test_alias_search_partial_cache_counts_as_cache_miss" time="0.578" timestamp="2022-07-25T11:02:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="291" name="test_cache_hit" time="0.577" timestamp="2022-07-25T11:02:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="329" name="test_cache_miss" time="0.566" timestamp="2022-07-25T11:02:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="205" name="test_db_alias" time="0.630" timestamp="2022-07-25T11:02:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="271" name="test_default_rideshare_service" time="1.448" timestamp="2022-07-25T11:02:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="281" name="test_default_rideshare_service_multiple_services" time="1.184" timestamp="2022-07-25T11:02:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="401" name="test_google_result_outside_service_region" time="0.589" timestamp="2022-07-25T11:02:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="433" name="test_google_result_outside_service_region_with_limit_to_region_as_false" time="0.642" timestamp="2022-07-25T11:02:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="250" name="test_lat_lng_geocode" time="0.624" timestamp="2022-07-25T11:02:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="471" name="test_limit_to_region_does_not_use_caching_with_specific_key_format" time="0.624" timestamp="2022-07-25T11:02:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="517" name="test_location_clear_cache" time="0.677" timestamp="2022-07-25T11:02:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="189" name="test_missing_query_params" time="0.593" timestamp="2022-07-25T11:02:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="261" name="test_no_default_service" time="1.196" timestamp="2022-07-25T11:02:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="181" name="test_no_query_params" time="0.698" timestamp="2022-07-25T11:02:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="237" name="test_service_filter" time="0.819" timestamp="2022-07-25T11:02:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="197" name="test_short_query" time="0.604" timestamp="2022-07-25T11:02:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationAliasAPI" file="locations/tests/apis/test_locations.py" line="176" name="test_unauthorized" time="0.601" timestamp="2022-07-25T11:02:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

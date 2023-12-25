@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" name="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalValetConcurrencyLimits-20220725105046" skipped="0" tests="9" time="0.000" timestamp="2017-01-01T09:01:00">
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalValetConcurrencyLimits" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="112" name="test_allow_three_per_hour" time="0.000" timestamp="2017-01-01T09:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalValetConcurrencyLimits" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="101" name="test_end_time_outside_service_periods" time="0.000" timestamp="2017-01-01T09:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalValetConcurrencyLimits" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="156" name="test_limit_four_over_two_hour_block_fails_with_retrieval_enabled" time="0.000" timestamp="2017-01-01T09:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalValetConcurrencyLimits" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="172" name="test_limit_four_over_two_hour_block_with_retrieval_enabled_passes_when_passed_an_instance" time="0.000" timestamp="2017-01-01T09:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalValetConcurrencyLimits" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="116" name="test_limit_one_fails" time="0.000" timestamp="2017-01-01T09:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalValetConcurrencyLimits" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="123" name="test_limit_one_fails_retrieval_enabled" time="0.000" timestamp="2017-01-01T09:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalValetConcurrencyLimits" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="137" name="test_limit_three_fails_over_three_hour_block" time="0.000" timestamp="2017-01-01T09:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalValetConcurrencyLimits" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="146" name="test_limit_three_over_two_hour_block_passes_with_retrieval_disabled" time="0.000" timestamp="2017-01-01T09:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.serializers.test_scheduled_rentals_requests.TestScheduledRentalValetConcurrencyLimits" file="rentals/tests/serializers/test_scheduled_rentals_requests.py" line="131" name="test_zero_limit_allows_all" time="0.000" timestamp="2017-01-01T09:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

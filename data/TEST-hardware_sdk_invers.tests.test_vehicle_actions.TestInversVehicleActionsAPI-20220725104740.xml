@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_invers/tests/test_vehicle_actions.py" name="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI-20220725104740" skipped="0" tests="18" time="7.523" timestamp="2022-07-25T10:59:19">
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="63" name="test_send_action_api_all_actions" time="1.287" timestamp="2022-07-25T10:59:13">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (19.212481, 72.840157, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="107" name="test_send_action_api_invalid_vehicle_action" time="0.440" timestamp="2022-07-25T10:59:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="111" name="test_send_action_api_not_supported_vehicle_action" time="0.429" timestamp="2022-07-25T10:59:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="100" name="test_send_action_api_request_connectionerror" time="0.426" timestamp="2022-07-25T10:59:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="93" name="test_send_action_api_request_timeout" time="0.418" timestamp="2022-07-25T10:59:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="75" name="test_send_action_api_response_400" time="0.611" timestamp="2022-07-25T10:59:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="84" name="test_send_action_api_response_500" time="0.434" timestamp="2022-07-25T10:59:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="123" name="test_update_door_status_api_404" time="0.315" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="126" name="test_update_door_status_api_engine_running" time="0.314" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="132" name="test_update_door_status_api_invalid_command" time="0.310" timestamp="2022-07-25T10:59:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="117" name="test_update_door_status_api_lock" time="0.314" timestamp="2022-07-25T10:59:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="135" name="test_update_door_status_api_not_in_rental" time="0.321" timestamp="2022-07-25T10:59:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="147" name="test_update_door_status_api_request_connectionerror" time="0.305" timestamp="2022-07-25T10:59:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="144" name="test_update_door_status_api_request_timeout" time="0.324" timestamp="2022-07-25T10:59:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="138" name="test_update_door_status_api_response_400" time="0.315" timestamp="2022-07-25T10:59:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="141" name="test_update_door_status_api_response_500" time="0.323" timestamp="2022-07-25T10:59:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="120" name="test_update_door_status_api_unlock" time="0.322" timestamp="2022-07-25T10:59:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_invers.tests.test_vehicle_actions.TestInversVehicleActionsAPI" file="hardware_sdk_invers/tests/test_vehicle_actions.py" line="129" name="test_update_door_status_api_vehicle_on" time="0.316" timestamp="2022-07-25T10:59:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

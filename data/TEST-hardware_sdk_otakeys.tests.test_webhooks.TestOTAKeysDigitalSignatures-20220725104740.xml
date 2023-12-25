@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_webhooks.py" name="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysDigitalSignatures-20220725104740" skipped="0" tests="2" time="0.052" timestamp="2022-07-25T11:01:50">
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysDigitalSignatures" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="596" name="test_create_auth_signature" time="0.024" timestamp="2022-07-25T11:01:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestOTAKeysDigitalSignatures" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="606" name="test_create_push_auth_signature" time="0.028" timestamp="2022-07-25T11:01:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

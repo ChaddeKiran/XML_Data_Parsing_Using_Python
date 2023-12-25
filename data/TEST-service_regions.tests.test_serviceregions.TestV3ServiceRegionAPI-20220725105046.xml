@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/test_serviceregions.py" name="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI-20220725105046" skipped="0" tests="23" time="11.431" timestamp="2022-07-25T11:09:57">
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="471" name="test_create_locations_from_bad_kml" time="0.417" timestamp="2022-07-25T11:09:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="445" name="test_create_locations_from_empty_polygon_kml" time="0.405" timestamp="2022-07-25T11:09:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="391" name="test_create_locations_from_kml" time="0.527" timestamp="2022-07-25T11:09:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="458" name="test_create_locations_from_no_polygon_coordinates_kml" time="0.422" timestamp="2022-07-25T11:09:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="107" name="test_detail_routes" time="0.603" timestamp="2022-07-25T11:09:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="382" name="test_exclude_ids" time="0.348" timestamp="2022-07-25T11:09:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="262" name="test_filter_by_hidden_flag" time="2.401" timestamp="2022-07-25T11:09:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="274" name="test_filter_by_inactive_flag" time="0.565" timestamp="2022-07-25T11:09:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="319" name="test_filter_customer" time="0.422" timestamp="2022-07-25T11:09:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="328" name="test_filter_exclusivity" time="0.392" timestamp="2022-07-25T11:09:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="253" name="test_filter_market_id" time="0.519" timestamp="2022-07-25T11:09:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="338" name="test_filter_rental_can_end_in_other_services" time="0.292" timestamp="2022-07-25T11:09:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="345" name="test_filter_rental_cannot_end_in_other_services" time="0.384" timestamp="2022-07-25T11:09:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="354" name="test_filter_rental_limited_customer_service_access" time="0.453" timestamp="2022-07-25T11:09:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="363" name="test_filter_restriction" time="0.314" timestamp="2022-07-25T11:09:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="244" name="test_filter_services_id" time="0.301" timestamp="2022-07-25T11:09:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="286" name="test_filter_shape_name" time="0.427" timestamp="2022-07-25T11:09:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="234" name="test_filter_single_service_id" time="0.283" timestamp="2022-07-25T11:09:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="191" name="test_list_cache" time="0.335" timestamp="2022-07-25T11:09:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="211" name="test_list_cache_pagination" time="0.339" timestamp="2022-07-25T11:09:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="372" name="test_ordering" time="0.301" timestamp="2022-07-25T11:09:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="484" name="test_pre_process_feedback_kml_for_service" time="0.432" timestamp="2022-07-25T11:09:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_serviceregions.TestV3ServiceRegionAPI" file="service_regions/tests/test_serviceregions.py" line="417" name="test_update_locations_from_kml" time="0.549" timestamp="2022-07-25T11:09:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

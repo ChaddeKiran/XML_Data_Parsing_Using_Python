@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_etas.py" name="trips.tests.apis.test_etas.TestWaveETAEstimates-20220725104713" skipped="0" tests="3" time="4.203" timestamp="2022-07-25T10:55:16">
+	<testcase classname="trips.tests.apis.test_etas.TestWaveETAEstimates" file="trips/tests/apis/test_etas.py" line="35" name="test_driver_eta_calculation" time="1.369" timestamp="2022-07-25T10:55:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_etas.TestWaveETAEstimates" file="trips/tests/apis/test_etas.py" line="53" name="test_driver_eta_calculation_close_driver_in_trip" time="1.589" timestamp="2022-07-25T10:55:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_etas.TestWaveETAEstimates" file="trips/tests/apis/test_etas.py" line="32" name="test_drivers_available" time="1.246" timestamp="2022-07-25T10:55:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

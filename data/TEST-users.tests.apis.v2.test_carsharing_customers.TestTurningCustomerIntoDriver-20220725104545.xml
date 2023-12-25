@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestTurningCustomerIntoDriver-20220725104545" skipped="0" tests="9" time="12.019" timestamp="2022-07-25T11:02:35">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestTurningCustomerIntoDriver" file="users/tests/apis/v2/test_carsharing_customers.py" line="1683" name="test_creating_driver_with_same_user_as_customer" time="1.285" timestamp="2022-07-25T11:02:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestTurningCustomerIntoDriver" file="users/tests/apis/v2/test_carsharing_customers.py" line="1713" name="test_turn_customer_into_driver" time="1.622" timestamp="2022-07-25T11:02:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestTurningCustomerIntoDriver" file="users/tests/apis/v2/test_carsharing_customers.py" line="1728" name="test_turn_customer_into_driver_single_service" time="1.426" timestamp="2022-07-25T11:02:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestTurningCustomerIntoDriver" file="users/tests/apis/v2/test_carsharing_customers.py" line="1651" name="test_turning_customer_into_driver_already_driver" time="1.284" timestamp="2022-07-25T11:02:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestTurningCustomerIntoDriver" file="users/tests/apis/v2/test_carsharing_customers.py" line="1642" name="test_turning_customer_into_driver_checkr_not_mandatory" time="1.318" timestamp="2022-07-25T11:02:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestTurningCustomerIntoDriver" file="users/tests/apis/v2/test_carsharing_customers.py" line="1662" name="test_turning_customer_into_driver_with_checkr_failed" time="1.294" timestamp="2022-07-25T11:02:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestTurningCustomerIntoDriver" file="users/tests/apis/v2/test_carsharing_customers.py" line="1672" name="test_turning_customer_into_driver_with_checkr_passed" time="1.284" timestamp="2022-07-25T11:02:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestTurningCustomerIntoDriver" file="users/tests/apis/v2/test_carsharing_customers.py" line="1632" name="test_turning_customer_into_driver_without_checkr_complete" time="1.186" timestamp="2022-07-25T11:02:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestTurningCustomerIntoDriver" file="users/tests/apis/v2/test_carsharing_customers.py" line="1703" name="test_turning_customer_into_driver_without_license" time="1.321" timestamp="2022-07-25T11:02:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

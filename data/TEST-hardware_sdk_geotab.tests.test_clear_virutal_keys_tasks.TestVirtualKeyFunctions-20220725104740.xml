@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_clear_virutal_keys_tasks.py" name="hardware_sdk_geotab.tests.test_clear_virutal_keys_tasks.TestVirtualKeyFunctions-20220725104740" skipped="0" tests="3" time="0.413" timestamp="2022-07-25T10:58:20">
+	<testcase classname="hardware_sdk_geotab.tests.test_clear_virutal_keys_tasks.TestVirtualKeyFunctions" file="hardware_sdk_geotab/tests/test_clear_virutal_keys_tasks.py" line="71" name="test_clear_virtual_keys" time="0.119" timestamp="2022-07-25T10:58:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_clear_virutal_keys_tasks.TestVirtualKeyFunctions" file="hardware_sdk_geotab/tests/test_clear_virutal_keys_tasks.py" line="83" name="test_clear_virtual_keys_with_enable_periodic_clearing_virtual_keys_flag_enabled" time="0.140" timestamp="2022-07-25T10:58:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_clear_virutal_keys_tasks.TestVirtualKeyFunctions" file="hardware_sdk_geotab/tests/test_clear_virutal_keys_tasks.py" line="97" name="test_clear_virtual_keys_with_vk_having_start_time_year_beyond_3000_flag_enabled" time="0.154" timestamp="2022-07-25T10:58:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

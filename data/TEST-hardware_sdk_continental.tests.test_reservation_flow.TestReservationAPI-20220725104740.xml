@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_continental/tests/test_reservation_flow.py" name="hardware_sdk_continental.tests.test_reservation_flow.TestReservationAPI-20220725104740" skipped="0" tests="1" time="0.044" timestamp="2022-07-25T10:57:53">
+	<testcase classname="hardware_sdk_continental.tests.test_reservation_flow.TestReservationAPI" file="hardware_sdk_continental/tests/test_reservation_flow.py" line="45" name="test_create_reservation" time="0.044" timestamp="2022-07-25T10:57:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_jumio.py" name="users.tests.third_party.test_jumio.TestJumioAcceptedStatusChangeByCallback-20220725104622" skipped="0" tests="5" time="2.826" timestamp="2022-07-25T10:48:15">
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioAcceptedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="926" name="test_accepted_should_not_update_to_declined_when_license_reuploading_disabled" time="0.692" timestamp="2022-07-25T10:48:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioAcceptedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="978" name="test_accepted_should_not_update_to_unsubmitted_if_missing_back" time="0.543" timestamp="2022-07-25T10:48:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioAcceptedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="961" name="test_accepted_should_not_update_to_unsubmitted_if_no_document" time="0.472" timestamp="2022-07-25T10:48:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioAcceptedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="995" name="test_accepted_should_not_update_to_unsubmitted_if_no_id" time="0.402" timestamp="2022-07-25T10:48:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioAcceptedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="944" name="test_status_should_change_if_license_reuploading_enabled" time="0.718" timestamp="2022-07-25T10:48:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

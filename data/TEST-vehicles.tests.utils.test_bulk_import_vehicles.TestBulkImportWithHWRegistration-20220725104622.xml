@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/utils/test_bulk_import_vehicles.py" name="vehicles.tests.utils.test_bulk_import_vehicles.TestBulkImportWithHWRegistration-20220725104622" skipped="0" tests="4" time="0.782" timestamp="2022-07-25T11:04:53">
+	<testcase classname="vehicles.tests.utils.test_bulk_import_vehicles.TestBulkImportWithHWRegistration" file="vehicles/tests/utils/test_bulk_import_vehicles.py" line="87" name="test_csv_import_for_success_and_failed_for_missing_vin_status" time="0.275" timestamp="2022-07-25T11:04:52">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.779919, -122.395416, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_bulk_import_vehicles.TestBulkImportWithHWRegistration" file="vehicles/tests/utils/test_bulk_import_vehicles.py" line="112" name="test_csv_import_for_success_and_failed_for_vin_not_in_vendor_backend" time="0.229" timestamp="2022-07-25T11:04:53">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.779919, -122.395416, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_bulk_import_vehicles.TestBulkImportWithHWRegistration" file="vehicles/tests/utils/test_bulk_import_vehicles.py" line="68" name="test_successful_csv_import_and_no_hw_registration" time="0.061" timestamp="2022-07-25T11:04:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_bulk_import_vehicles.TestBulkImportWithHWRegistration" file="vehicles/tests/utils/test_bulk_import_vehicles.py" line="49" name="test_successful_csv_import_with_hw_registered" time="0.217" timestamp="2022-07-25T11:04:53">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.779919, -122.395416, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_carsharing_vehicle_fuel_cards.py" name="vehicles.tests.apis.v3.test_carsharing_vehicle_fuel_cards.TestCarsharingVehicleFuelCardsAPIV3-20220725104622" skipped="0" tests="4" time="2.837" timestamp="2022-07-25T11:01:06">
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicle_fuel_cards.TestCarsharingVehicleFuelCardsAPIV3" file="vehicles/tests/apis/v3/test_carsharing_vehicle_fuel_cards.py" line="28" name="test_add_fuel_card_to_vehicle" time="0.774" timestamp="2022-07-25T11:01:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicle_fuel_cards.TestCarsharingVehicleFuelCardsAPIV3" file="vehicles/tests/apis/v3/test_carsharing_vehicle_fuel_cards.py" line="41" name="test_add_update_delete_vehicle_fuel_cards" time="0.833" timestamp="2022-07-25T11:01:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicle_fuel_cards.TestCarsharingVehicleFuelCardsAPIV3" file="vehicles/tests/apis/v3/test_carsharing_vehicle_fuel_cards.py" line="22" name="test_list_fuel_card_vendors" time="0.468" timestamp="2022-07-25T11:01:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicle_fuel_cards.TestCarsharingVehicleFuelCardsAPIV3" file="vehicles/tests/apis/v3/test_carsharing_vehicle_fuel_cards.py" line="83" name="test_remove_fuel_cards_from_vehicle" time="0.762" timestamp="2022-07-25T11:01:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

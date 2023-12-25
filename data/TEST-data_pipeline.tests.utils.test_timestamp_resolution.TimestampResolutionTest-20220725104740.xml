@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="data_pipeline/tests/utils/test_timestamp_resolution.py" name="data_pipeline.tests.utils.test_timestamp_resolution.TimestampResolutionTest-20220725104740" skipped="0" tests="4" time="2.739" timestamp="2022-07-25T10:54:15">
+	<testcase classname="data_pipeline.tests.utils.test_timestamp_resolution.TimestampResolutionTest" file="data_pipeline/tests/utils/test_timestamp_resolution.py" line="26" name="test_latest_timestamp_is_returned_given_several_model_objects_with_different_timestamps" time="0.703" timestamp="2022-07-25T10:54:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.utils.test_timestamp_resolution.TimestampResolutionTest" file="data_pipeline/tests/utils/test_timestamp_resolution.py" line="30" name="test_latest_timestamp_is_returned_given_some_objects_which_do_not_have_a_timestamp" time="0.675" timestamp="2022-07-25T10:54:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.utils.test_timestamp_resolution.TimestampResolutionTest" file="data_pipeline/tests/utils/test_timestamp_resolution.py" line="35" name="test_none_is_returned_when_no_timestamps_are_found_on_objects_passed_in" time="0.681" timestamp="2022-07-25T10:54:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.utils.test_timestamp_resolution.TimestampResolutionTest" file="data_pipeline/tests/utils/test_timestamp_resolution.py" line="38" name="test_objects_with_the_attribute_present_but_not_of_the_right_type_are_skipped" time="0.680" timestamp="2022-07-25T10:54:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v2/test_services.py" name="services.tests.apis.v2.test_services.TestCarsharingServicesAPIAsDispatcherInOtherService-20220725104713" skipped="0" tests="4" time="1.961" timestamp="2022-07-25T10:48:27">
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIAsDispatcherInOtherService" file="services/tests/apis/v2/test_services.py" line="214" name="test_v2_destroy" time="0.359" timestamp="2022-07-25T10:48:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIAsDispatcherInOtherService" file="services/tests/apis/v2/test_services.py" line="198" name="test_v2_get" time="0.883" timestamp="2022-07-25T10:48:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIAsDispatcherInOtherService" file="services/tests/apis/v2/test_services.py" line="206" name="test_v2_patch" time="0.354" timestamp="2022-07-25T10:48:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIAsDispatcherInOtherService" file="services/tests/apis/v2/test_services.py" line="210" name="test_v2_put" time="0.365" timestamp="2022-07-25T10:48:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

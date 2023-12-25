@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2MailingAddress-20220725104545" skipped="0" tests="8" time="5.934" timestamp="2022-07-25T10:58:51">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2MailingAddress" file="users/tests/apis/v2/test_carsharing_customers.py" line="2798" name="test_create_license" time="0.929" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2MailingAddress" file="users/tests/apis/v2/test_carsharing_customers.py" line="2818" name="test_create_mailing_address" time="0.864" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2MailingAddress" file="users/tests/apis/v2/test_carsharing_customers.py" line="2870" name="test_delete_driver_license_address" time="0.739" timestamp="2022-07-25T10:58:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2MailingAddress" file="users/tests/apis/v2/test_carsharing_customers.py" line="2791" name="test_geocode_fails" time="0.713" timestamp="2022-07-25T10:58:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2MailingAddress" file="users/tests/apis/v2/test_carsharing_customers.py" line="2855" name="test_missing_display_name" time="0.672" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2MailingAddress" file="users/tests/apis/v2/test_carsharing_customers.py" line="2862" name="test_not_valid_locale" time="0.668" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2MailingAddress" file="users/tests/apis/v2/test_carsharing_customers.py" line="2807" name="test_unallowed_methods" time="0.672" timestamp="2022-07-25T10:58:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2MailingAddress" file="users/tests/apis/v2/test_carsharing_customers.py" line="2813" name="test_unauthenticated_request" time="0.676" timestamp="2022-07-25T10:58:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/test_customers_cards.py" name="payments.tests.apis.test_customers_cards.TestTRMSAddCard-20220725104740" skipped="0" tests="7" time="3.633" timestamp="2022-07-25T11:04:51">
+	<testcase classname="payments.tests.apis.test_customers_cards.TestTRMSAddCard" file="payments/tests/apis/test_customers_cards.py" line="67" name="test_blocked_directive" time="0.537" timestamp="2022-07-25T11:04:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestTRMSAddCard" file="payments/tests/apis/test_customers_cards.py" line="102" name="test_blocked_directive_shared_limit" time="0.539" timestamp="2022-07-25T11:04:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestTRMSAddCard" file="payments/tests/apis/test_customers_cards.py" line="170" name="test_exempt_customer" time="0.502" timestamp="2022-07-25T11:04:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestTRMSAddCard" file="payments/tests/apis/test_customers_cards.py" line="56" name="test_success_directive" time="0.483" timestamp="2022-07-25T11:04:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestTRMSAddCard" file="payments/tests/apis/test_customers_cards.py" line="185" name="test_transaction_risk_directive_shared_limit_block_exempt_customer_not_blocked" time="0.493" timestamp="2022-07-25T11:04:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestTRMSAddCard" file="payments/tests/apis/test_customers_cards.py" line="146" name="test_trms_disabled" time="0.631" timestamp="2022-07-25T11:04:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestTRMSAddCard" file="payments/tests/apis/test_customers_cards.py" line="158" name="test_trms_exception" time="0.447" timestamp="2022-07-25T11:04:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

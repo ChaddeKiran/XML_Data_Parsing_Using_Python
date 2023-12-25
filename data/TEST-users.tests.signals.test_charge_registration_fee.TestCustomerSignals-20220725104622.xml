@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/signals/test_charge_registration_fee.py" name="users.tests.signals.test_charge_registration_fee.TestCustomerSignals-20220725104622" skipped="0" tests="3" time="2.224" timestamp="2022-07-25T10:46:47">
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestCustomerSignals" file="users/tests/signals/test_charge_registration_fee.py" line="109" name="test_no_verification" time="0.579" timestamp="2022-07-25T10:46:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestCustomerSignals" file="users/tests/signals/test_charge_registration_fee.py" line="121" name="test_not_verified" time="0.682" timestamp="2022-07-25T10:46:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestCustomerSignals" file="users/tests/signals/test_charge_registration_fee.py" line="113" name="test_verified" time="0.963" timestamp="2022-07-25T10:46:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

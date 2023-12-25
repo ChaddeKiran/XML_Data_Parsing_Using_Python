@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerIdentityVerification-20220725104545" skipped="0" tests="3" time="2.397" timestamp="2022-07-25T10:59:51">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerIdentityVerification" file="users/tests/apis/v2/test_carsharing_customers.py" line="3903" name="test_cannot_filter_by_manual_identity_verification" time="1.239" timestamp="2022-07-25T10:59:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerIdentityVerification" file="users/tests/apis/v2/test_carsharing_customers.py" line="3928" name="test_cannot_patch_identity_verification_approved_operator_override" time="0.511" timestamp="2022-07-25T10:59:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerIdentityVerification" file="users/tests/apis/v2/test_carsharing_customers.py" line="3893" name="test_return_identity_verification_for_related_customer" time="0.647" timestamp="2022-07-25T10:59:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

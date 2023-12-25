@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripOptimizingRedispatchUnreadyTrips-20220725104713" skipped="0" tests="2" time="3.415" timestamp="2022-07-25T11:00:50">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripOptimizingRedispatchUnreadyTrips" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3097" name="test_do_not_redispatch_normal_scheduled_trip" time="1.040" timestamp="2022-07-25T11:00:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripOptimizingRedispatchUnreadyTrips" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3100" name="test_redispatch_backlogged_driver_trip" time="2.375" timestamp="2022-07-25T11:00:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

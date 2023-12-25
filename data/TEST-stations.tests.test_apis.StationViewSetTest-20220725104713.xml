@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_apis.py" name="stations.tests.test_apis.StationViewSetTest-20220725104713" skipped="0" tests="33" time="32.708" timestamp="2022-07-25T10:52:35">
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="614" name="test_caching_location_aliases" time="0.765" timestamp="2022-07-25T10:52:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="671" name="test_carsharing_services" time="1.636" timestamp="2022-07-25T10:52:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="242" name="test_create" time="1.370" timestamp="2022-07-25T10:52:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="351" name="test_create_with_duplicate_codename" time="0.894" timestamp="2022-07-25T10:52:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="383" name="test_create_with_duplicate_location" time="0.905" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="293" name="test_create_with_invalid_data_in_location" time="0.469" timestamp="2022-07-25T10:52:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="226" name="test_create_with_minimum_data" time="0.593" timestamp="2022-07-25T10:52:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="279" name="test_create_with_missing_required_fields" time="0.420" timestamp="2022-07-25T10:52:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="311" name="test_create_with_new_location" time="1.488" timestamp="2022-07-25T10:52:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="637" name="test_filter_by_market_id" time="0.715" timestamp="2022-07-25T10:52:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'stations.models.Station'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="655" name="test_has_active_rental" time="0.943" timestamp="2022-07-25T10:52:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="76" name="test_list" time="0.408" timestamp="2022-07-25T10:52:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="173" name="test_list_fields_query_param" time="0.530" timestamp="2022-07-25T10:52:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="82" name="test_list_with_customer_id" time="0.642" timestamp="2022-07-25T10:52:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="101" name="test_list_with_invalid_customer_id" time="0.473" timestamp="2022-07-25T10:52:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="150" name="test_list_with_rental_mode_business" time="3.893" timestamp="2022-07-25T10:52:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="127" name="test_list_with_rental_mode_personal" time="1.067" timestamp="2022-07-25T10:52:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="106" name="test_list_without_rental_mode" time="1.090" timestamp="2022-07-25T10:52:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="427" name="test_patch" time="1.998" timestamp="2022-07-25T10:52:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="464" name="test_patch_inventory" time="0.519" timestamp="2022-07-25T10:52:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="552" name="test_patch_is_enabled" time="1.859" timestamp="2022-07-25T10:52:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="484" name="test_patch_location" time="0.677" timestamp="2022-07-25T10:52:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="526" name="test_patch_location_aliases" time="0.964" timestamp="2022-07-25T10:52:27">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.79209, -122.403676, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="506" name="test_patch_with_duplicate_location" time="0.508" timestamp="2022-07-25T10:52:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="832" name="test_patch_without_tags_should_not_override_tags" time="0.811" timestamp="2022-07-25T10:52:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="414" name="test_put_request_forbidden" time="0.373" timestamp="2022-07-25T10:52:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="194" name="test_retrieve" time="0.459" timestamp="2022-07-25T10:52:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="788" name="test_retrieve_with_facility_uuid_set" time="0.611" timestamp="2022-07-25T10:52:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="855" name="test_station_list_exclude_given_tag" time="0.650" timestamp="2022-07-25T10:52:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="880" name="test_station_list_include_given_tag" time="0.652" timestamp="2022-07-25T10:52:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="744" name="test_station_tags" time="0.993" timestamp="2022-07-25T10:52:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="905" name="test_station_vehicle_type_leasing_entity_action" time="0.600" timestamp="2022-07-25T10:52:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleTypeLeasingEntity'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTest" file="stations/tests/test_apis.py" line="702" name="test_vehicles" time="2.731" timestamp="2022-07-25T10:52:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

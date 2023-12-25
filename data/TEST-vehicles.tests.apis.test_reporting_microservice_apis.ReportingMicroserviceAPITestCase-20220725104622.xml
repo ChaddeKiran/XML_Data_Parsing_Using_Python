@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/test_reporting_microservice_apis.py" name="vehicles.tests.apis.test_reporting_microservice_apis.ReportingMicroserviceAPITestCase-20220725104622" skipped="0" tests="2" time="0.944" timestamp="2022-07-25T10:59:12">
+	<testcase classname="vehicles.tests.apis.test_reporting_microservice_apis.ReportingMicroserviceAPITestCase" file="vehicles/tests/apis/test_reporting_microservice_apis.py" line="9" name="test_vehicle_location_history" time="0.552" timestamp="2022-07-25T10:59:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.test_reporting_microservice_apis.ReportingMicroserviceAPITestCase" file="vehicles/tests/apis/test_reporting_microservice_apis.py" line="100" name="test_vehicle_location_history_for_radius" time="0.393" timestamp="2022-07-25T10:59:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

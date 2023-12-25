@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/apis/test_kiosks.py" name="locations.tests.apis.test_kiosks.TestKioskAPIAsDispatcher-20220725104740" skipped="0" tests="3" time="0.997" timestamp="2022-07-25T11:02:11">
+	<testcase classname="locations.tests.apis.test_kiosks.TestKioskAPIAsDispatcher" file="locations/tests/apis/test_kiosks.py" line="16" name="test_create_kiosk" time="0.346" timestamp="2022-07-25T11:02:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_kiosks.TestKioskAPIAsDispatcher" file="locations/tests/apis/test_kiosks.py" line="55" name="test_delete_kiosk" time="0.309" timestamp="2022-07-25T11:02:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_kiosks.TestKioskAPIAsDispatcher" file="locations/tests/apis/test_kiosks.py" line="31" name="test_patch_kiosk" time="0.342" timestamp="2022-07-25T11:02:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

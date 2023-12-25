@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware/tests/hal/test_hardware_apis.py" name="hardware.tests.hal.test_hardware_apis.TestHardwareAPI-20220725104740" skipped="0" tests="1" time="1.213" timestamp="2022-07-25T10:57:24">
+	<testcase classname="hardware.tests.hal.test_hardware_apis.TestHardwareAPI" file="hardware/tests/hal/test_hardware_apis.py" line="34" name="test_handling_duplicate_mobile_device_per_customer" time="1.213" timestamp="2022-07-25T10:57:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

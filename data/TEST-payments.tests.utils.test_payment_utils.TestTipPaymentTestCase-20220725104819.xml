@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_payment_utils.py" name="payments.tests.utils.test_payment_utils.TestTipPaymentTestCase-20220725104819" skipped="0" tests="2" time="1.682" timestamp="2022-07-25T10:52:19">
+	<testcase classname="payments.tests.utils.test_payment_utils.TestTipPaymentTestCase" file="payments/tests/utils/test_payment_utils.py" line="768" name="test_handle_tip_payment_failure" time="1.147" timestamp="2022-07-25T10:52:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_payment_utils.TestTipPaymentTestCase" file="payments/tests/utils/test_payment_utils.py" line="758" name="test_handle_tip_payment_success" time="0.535" timestamp="2022-07-25T10:52:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="maps/tests/utils/test_travel_durations.py" name="maps.tests.utils.test_travel_durations.TestGetTravelDurations-20220725104740" skipped="0" tests="3" time="2.167" timestamp="2022-07-25T11:03:05">
+	<testcase classname="maps.tests.utils.test_travel_durations.TestGetTravelDurations" file="maps/tests/utils/test_travel_durations.py" line="26" name="test_get_durations" time="0.055" timestamp="2022-07-25T11:03:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="maps.tests.utils.test_travel_durations.TestGetTravelDurations" file="maps/tests/utils/test_travel_durations.py" line="57" name="test_get_durations_one_call_fails" time="0.055" timestamp="2022-07-25T11:03:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="maps.tests.utils.test_travel_durations.TestGetTravelDurations" file="maps/tests/utils/test_travel_durations.py" line="92" name="test_get_durations_slow_gmaps" time="2.056" timestamp="2022-07-25T11:03:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

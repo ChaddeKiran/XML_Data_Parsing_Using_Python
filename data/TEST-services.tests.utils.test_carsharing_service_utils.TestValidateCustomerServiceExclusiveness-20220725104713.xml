@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/utils/test_carsharing_service_utils.py" name="services.tests.utils.test_carsharing_service_utils.TestValidateCustomerServiceExclusiveness-20220725104713" skipped="0" tests="2" time="0.241" timestamp="2022-07-25T10:51:39">
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateCustomerServiceExclusiveness" file="services/tests/utils/test_carsharing_service_utils.py" line="606" name="test_validate_customer_and_service_exclusiveness" time="0.055" timestamp="2022-07-25T10:51:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateCustomerServiceExclusiveness" file="services/tests/utils/test_carsharing_service_utils.py" line="611" name="test_validate_customer_and_service_exclusiveness_no_access" time="0.187" timestamp="2022-07-25T10:51:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

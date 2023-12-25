@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pipelines/tests/utils/test_schema_translation_utils.py" name="pipelines.tests.utils.test_schema_translation_utils.SchemaTranslationTests-20220725104819" skipped="0" tests="3" time="0.065" timestamp="2022-07-25T10:53:02">
+	<testcase classname="pipelines.tests.utils.test_schema_translation_utils.SchemaTranslationTests" file="pipelines/tests/utils/test_schema_translation_utils.py" line="34" name="test_find_required_fields_for_schema_type" time="0.022" timestamp="2022-07-25T10:53:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_schema_translation_utils.SchemaTranslationTests" file="pipelines/tests/utils/test_schema_translation_utils.py" line="49" name="test_summon_to_vendor_field_mappings" time="0.021" timestamp="2022-07-25T10:53:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_schema_translation_utils.SchemaTranslationTests" file="pipelines/tests/utils/test_schema_translation_utils.py" line="69" name="test_vendor_to_summon_payload_translation" time="0.022" timestamp="2022-07-25T10:53:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_drivers.py" name="users.tests.apis.test_drivers.TestAvailableDrivers-20220725104545" skipped="0" tests="10" time="11.230" timestamp="2022-07-25T10:55:10">
+	<testcase classname="users.tests.apis.test_drivers.TestAvailableDrivers" file="users/tests/apis/test_drivers.py" line="764" name="test_driver_summary" time="1.558" timestamp="2022-07-25T10:55:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestAvailableDrivers" file="users/tests/apis/test_drivers.py" line="674" name="test_list_available" time="1.148" timestamp="2022-07-25T10:55:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestAvailableDrivers" file="users/tests/apis/test_drivers.py" line="717" name="test_list_available_with_list_of_states" time="1.296" timestamp="2022-07-25T10:55:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestAvailableDrivers" file="users/tests/apis/test_drivers.py" line="711" name="test_list_available_with_not_matching_state_filter" time="0.947" timestamp="2022-07-25T10:55:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestAvailableDrivers" file="users/tests/apis/test_drivers.py" line="751" name="test_list_available_with_service_filter" time="1.081" timestamp="2022-07-25T10:55:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestAvailableDrivers" file="users/tests/apis/test_drivers.py" line="733" name="test_list_available_with_service_filter_multi_service" time="1.505" timestamp="2022-07-25T10:55:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestAvailableDrivers" file="users/tests/apis/test_drivers.py" line="705" name="test_list_available_with_state_filter" time="0.938" timestamp="2022-07-25T10:55:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestAvailableDrivers" file="users/tests/apis/test_drivers.py" line="698" name="test_list_available_with_vehicle_type" time="0.966" timestamp="2022-07-25T10:55:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestAvailableDrivers" file="users/tests/apis/test_drivers.py" line="669" name="test_list_pagination" time="0.904" timestamp="2022-07-25T10:55:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestAvailableDrivers" file="users/tests/apis/test_drivers.py" line="725" name="test_updating_driver_with_multipart" time="0.887" timestamp="2022-07-25T10:55:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

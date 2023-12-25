@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/signals/test_services.py" name="services.tests.signals.test_services.ServiceRegionSignalsTestCase-20220725104713" skipped="0" tests="1" time="0.710" timestamp="2022-07-25T10:51:12">
+	<testcase classname="services.tests.signals.test_services.ServiceRegionSignalsTestCase" file="services/tests/signals/test_services.py" line="40" name="test_tenant_configuration_ssr_flag_disable_update_hidden_service_regions" time="0.710" timestamp="2022-07-25T10:51:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

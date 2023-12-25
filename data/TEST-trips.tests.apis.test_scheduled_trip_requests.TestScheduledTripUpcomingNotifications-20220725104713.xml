@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripUpcomingNotifications-20220725104713" skipped="0" tests="5" time="3.257" timestamp="2022-07-25T11:01:26">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripUpcomingNotifications" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3189" name="test_notification_not_sends_text_to_ev_driver" time="0.762" timestamp="2022-07-25T11:01:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripUpcomingNotifications" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3160" name="test_notification_sends_text_to_driver" time="0.602" timestamp="2022-07-25T11:01:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripUpcomingNotifications" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3170" name="test_notification_sends_text_to_ev_driver" time="0.817" timestamp="2022-07-25T11:01:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripUpcomingNotifications" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3141" name="test_notify" time="0.539" timestamp="2022-07-25T11:01:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripUpcomingNotifications" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3151" name="test_notify_with_shorter_window" time="0.536" timestamp="2022-07-25T11:01:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

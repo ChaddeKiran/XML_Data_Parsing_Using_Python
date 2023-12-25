@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestPaymentDisplay-20220725104819" skipped="0" tests="3" time="0.373" timestamp="2022-07-25T10:51:17">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestPaymentDisplay" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4472" name="test_payment_display_block_fare" time="0.299" timestamp="2022-07-25T10:51:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestPaymentDisplay" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4457" name="test_payment_display_no_rental" time="0.022" timestamp="2022-07-25T10:51:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestPaymentDisplay" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4461" name="test_payment_display_ondemand" time="0.052" timestamp="2022-07-25T10:51:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

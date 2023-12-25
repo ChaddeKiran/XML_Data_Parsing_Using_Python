@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_carsharing_vehicles.py" name="hardware_sdk_geotab.tests.test_carsharing_vehicles.TestGeotabCarsharingVehicleSignals-20220725104740" skipped="2" tests="2" time="0.008" timestamp="2022-07-25T10:58:19">
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_vehicles.TestGeotabCarsharingVehicleSignals" file="hardware_sdk_geotab/tests/test_carsharing_vehicles.py" line="47" name="test_making_active_creates_offline_storage_virtual_key" time="0.005" timestamp="2022-07-25T10:58:19">
+		<skipped message="Reverting functionality due to CAR-16482 (HW-3835)" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_carsharing_vehicles.TestGeotabCarsharingVehicleSignals" file="hardware_sdk_geotab/tests/test_carsharing_vehicles.py" line="27" name="test_making_inactive_deletes_offline_storage_virtual_key" time="0.003" timestamp="2022-07-25T10:58:19">
+		<skipped message="Reverting functionality due to CAR-16482 (HW-3835)" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

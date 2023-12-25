@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_service_periods.py" name="services.tests.models.test_service_periods.TestServicePeriodActiveTimePeriod-20220725104713" skipped="0" tests="2" time="0.082" timestamp="2022-07-25T10:51:08">
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriodActiveTimePeriod" file="services/tests/models/test_service_periods.py" line="389" name="test_get_active_time_period_when_multiple_results_found" time="0.039" timestamp="2022-07-25T10:51:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_service_periods.TestServicePeriodActiveTimePeriod" file="services/tests/models/test_service_periods.py" line="397" name="test_get_active_time_period_when_no_results" time="0.042" timestamp="2022-07-25T10:51:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

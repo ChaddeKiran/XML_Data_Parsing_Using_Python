@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/serializers/test_payment_packages.py" name="payments.tests.serializers.test_payment_packages.PricingPackagesListSchemaTests-20220725104819" skipped="0" tests="7" time="0.153" timestamp="2022-07-25T10:49:33">
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackagesListSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="123" name="test_serialization_for_no_pricing_packages" time="0.001" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackagesListSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="72" name="test_serialization_of_packages_has_correct_form" time="0.017" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackagesListSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="77" name="test_serialization_of_packages_is_localized" time="0.003" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackagesListSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="84" name="test_serialization_of_packages_is_updated_with_currency_symbol" time="0.109" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackagesListSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="98" name="test_serialized_output_contains_days_quantized_correctly" time="0.018" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackagesListSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="115" name="test_serialized_response_does_not_contain_hours" time="0.003" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.serializers.test_payment_packages.PricingPackagesListSchemaTests" file="payments/tests/serializers/test_payment_packages.py" line="108" name="test_serialized_response_is_sorted_by_hours" time="0.003" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

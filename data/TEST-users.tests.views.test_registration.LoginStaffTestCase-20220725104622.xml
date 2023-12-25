@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/views/test_registration.py" name="users.tests.views.test_registration.LoginStaffTestCase-20220725104622" skipped="0" tests="10" time="6.588" timestamp="2022-07-25T10:49:35">
+	<testcase classname="users.tests.views.test_registration.LoginStaffTestCase" file="users/tests/views/test_registration.py" line="163" name="test_embed" time="0.440" timestamp="2022-07-25T10:49:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.views.test_registration.LoginStaffTestCase" file="users/tests/views/test_registration.py" line="28" name="test_initial" time="0.522" timestamp="2022-07-25T10:49:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.views.test_registration.LoginStaffTestCase" file="users/tests/views/test_registration.py" line="34" name="test_login" time="0.414" timestamp="2022-07-25T10:49:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.views.test_registration.LoginStaffTestCase" file="users/tests/views/test_registration.py" line="101" name="test_login_business_admin_redirects_to_business_portal" time="0.629" timestamp="2022-07-25T10:49:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.views.test_registration.LoginStaffTestCase" file="users/tests/views/test_registration.py" line="80" name="test_login_with_staff_business_admin_mfa_enabled" time="0.671" timestamp="2022-07-25T10:49:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.views.test_registration.LoginStaffTestCase" file="users/tests/views/test_registration.py" line="76" name="test_login_with_staff_mfa_enabled" time="0.676" timestamp="2022-07-25T10:49:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.views.test_registration.LoginStaffTestCase" file="users/tests/views/test_registration.py" line="133" name="test_next_redirection_on_mfa_verify_is_relative" time="1.690" timestamp="2022-07-25T10:49:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.views.test_registration.LoginStaffTestCase" file="users/tests/views/test_registration.py" line="113" name="test_next_redirection_on_staff_login_is_relative" time="0.629" timestamp="2022-07-25T10:49:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.views.test_registration.LoginStaffTestCase" file="users/tests/views/test_registration.py" line="167" name="test_sso_enabled" time="0.475" timestamp="2022-07-25T10:49:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.views.test_registration.LoginStaffTestCase" file="users/tests/views/test_registration.py" line="109" name="test_wrong_password" time="0.442" timestamp="2022-07-25T10:49:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

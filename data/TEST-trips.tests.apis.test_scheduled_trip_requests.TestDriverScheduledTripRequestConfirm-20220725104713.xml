@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestConfirm-20220725104713" skipped="0" tests="9" time="10.256" timestamp="2022-07-25T10:59:08">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestConfirm" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2845" name="test_conversion_of_scheduled_trip_with_driver_in_live_trip" time="1.843" timestamp="2022-07-25T10:59:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestConfirm" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2709" name="test_get_pending_confirmation" time="1.183" timestamp="2022-07-25T10:59:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestConfirm" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2762" name="test_scheduled_trip_request_confirm" time="0.973" timestamp="2022-07-25T10:59:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestConfirm" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2751" name="test_scheduled_trip_request_confirm_after_service_disables" time="0.653" timestamp="2022-07-25T10:59:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestConfirm" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2816" name="test_scheduled_trip_request_confirm_already_converted_and_cancelled" time="1.364" timestamp="2022-07-25T10:59:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestConfirm" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2797" name="test_scheduled_trip_request_confirm_already_converted_and_finished" time="1.477" timestamp="2022-07-25T10:59:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestConfirm" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2775" name="test_scheduled_trip_request_confirm_only_one_at_a_time" time="1.662" timestamp="2022-07-25T10:59:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestConfirm" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2786" name="test_scheduled_trip_request_confirm_too_late" time="0.546" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverScheduledTripRequestConfirm" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2834" name="test_scheduled_trip_request_confirm_too_soon" time="0.552" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

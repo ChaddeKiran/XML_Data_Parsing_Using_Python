@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_apis.py" name="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase-20220725104622" skipped="0" tests="17" time="18.899" timestamp="2022-07-25T10:57:40">
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="438" name="test_create_next_stage_from_template_success" time="0.895" timestamp="2022-07-25T10:57:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="753" name="test_filter_life_cycle_by_stage" time="0.885" timestamp="2022-07-25T10:57:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="514" name="test_filter_stages_by_time_tracker" time="3.419" timestamp="2022-07-25T10:57:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.actual_start_at received a naive datetime (2022-07-25 10:57:23.914025) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField LifeCycleStep.actual_start_at received a naive datetime (2022-07-26 10:57:23.914025) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="485" name="test_get_life_cycle_by_vehicle_reservation_status" time="1.086" timestamp="2022-07-25T10:57:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="135" name="test_get_life_cycle_step" time="0.572" timestamp="2022-07-25T10:57:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="215" name="test_get_life_cycle_step_delay_duration_by_end_at" time="3.417" timestamp="2022-07-25T10:57:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="156" name="test_get_life_cycle_step_delay_duration_by_start_at" time="1.363" timestamp="2022-07-25T10:57:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="401" name="test_get_life_cycle_with_stages_and_steps_and_multiple_next_stages" time="0.675" timestamp="2022-07-25T10:57:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="367" name="test_get_life_cycle_with_stages_and_steps_and_next_stages" time="0.810" timestamp="2022-07-25T10:57:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="127" name="test_get_life_cycle_with_template" time="0.571" timestamp="2022-07-25T10:57:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="304" name="test_get_life_cycle_with_vehicle_stages_and_steps" time="0.682" timestamp="2022-07-25T10:57:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="322" name="test_get_life_cycle_with_vehicle_stages_and_steps_by_vin_number" time="0.704" timestamp="2022-07-25T10:57:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="300" name="test_get_life_cycle_with_vehicle_stages_and_steps_without_service" time="0.530" timestamp="2022-07-25T10:57:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="122" name="test_get_life_cycle_without_template_and_service" time="0.548" timestamp="2022-07-25T10:57:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="454" name="test_life_cycle_with_vehicle_rental" time="1.333" timestamp="2022-07-25T10:57:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="470" name="test_life_cycle_with_vehicle_type_name" time="0.696" timestamp="2022-07-25T10:57:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="348" name="test_update_life_cycle_step_to_completed" time="0.710" timestamp="2022-07-25T10:57:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

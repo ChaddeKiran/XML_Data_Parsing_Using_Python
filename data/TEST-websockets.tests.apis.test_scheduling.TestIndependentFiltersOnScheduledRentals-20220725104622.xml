@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="websockets/tests/apis/test_scheduling.py" name="websockets.tests.apis.test_scheduling.TestIndependentFiltersOnScheduledRentals-20220725104622" skipped="0" tests="4" time="6.532" timestamp="2022-07-25T11:06:25">
+	<testcase classname="websockets.tests.apis.test_scheduling.TestIndependentFiltersOnScheduledRentals" file="websockets/tests/apis/test_scheduling.py" line="566" name="test_filters_on_different_clients_applied_independently" time="2.544" timestamp="2022-07-25T11:06:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestIndependentFiltersOnScheduledRentals" file="websockets/tests/apis/test_scheduling.py" line="662" name="test_new_filter_removes_old" time="0.839" timestamp="2022-07-25T11:06:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestIndependentFiltersOnScheduledRentals" file="websockets/tests/apis/test_scheduling.py" line="514" name="test_rental_ending_causes_websocket_update" time="1.970" timestamp="2022-07-25T11:06:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.apis.test_scheduling.TestIndependentFiltersOnScheduledRentals" file="websockets/tests/apis/test_scheduling.py" line="633" name="test_websocket_user_data_is_accurate" time="1.179" timestamp="2022-07-25T11:06:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

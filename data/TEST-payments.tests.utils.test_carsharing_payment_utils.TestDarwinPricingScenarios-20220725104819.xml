@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios-20220725104819" skipped="0" tests="20" time="14.209" timestamp="2022-07-25T10:50:58">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1894" name="test_change_short_trip_driving_rate_during_rental_with_pricing_snapshot_flag_off" time="0.677" timestamp="2022-07-25T10:50:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1918" name="test_change_short_trip_driving_rate_during_rental_with_pricing_snapshot_flag_on" time="0.580" timestamp="2022-07-25T10:50:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1816" name="test_change_short_trip_fare_cap_and_during_rental_with_pricing_snapshot_flag_on" time="0.580" timestamp="2022-07-25T10:50:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1793" name="test_change_short_trip_fare_cap_during_rental_with_pricing_snapshot_flag_off" time="0.523" timestamp="2022-07-25T10:50:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1401" name="test_create_or_update_payment_with_invalid_card" time="1.142" timestamp="2022-07-25T10:50:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1729" name="test_long_trip_with_24_hour_and_1_hour_and_additional_mileage" time="0.700" timestamp="2022-07-25T10:50:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2017-04-25 14:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1690" name="test_long_trip_with_24_hour_and_1_hour_packages" time="0.723" timestamp="2022-07-25T10:50:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2017-04-26 15:15:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.start_datetime received a naive datetime (2017-04-26 15:10:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.end_datetime received a naive datetime (2017-04-26 15:15:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.end_datetime received a naive datetime (2017-04-26 15:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.start_datetime received a naive datetime (2017-04-26 15:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1655" name="test_long_trip_with_pricing_packages" time="0.796" timestamp="2022-07-25T10:50:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2017-04-24 14:15:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.end_datetime received a naive datetime (2017-04-24 14:00:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.start_datetime received a naive datetime (2017-04-24 14:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1762" name="test_membership_discount_rounding" time="0.727" timestamp="2022-07-25T10:50:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1432" name="test_short_trip_miles_below_short_trip_fare_cap" time="1.137" timestamp="2022-07-25T10:50:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1622" name="test_short_trip_with_driving_and_parking_above_cap" time="0.533" timestamp="2022-07-25T10:50:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2017-04-24 12:41:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.start_datetime received a naive datetime (2017-04-24 12:40:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.end_datetime received a naive datetime (2017-04-24 12:41:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1593" name="test_short_trip_with_driving_and_parking_below_cap" time="0.507" timestamp="2022-07-25T10:50:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2017-04-24 12:25:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.start_datetime received a naive datetime (2017-04-24 12:15:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.end_datetime received a naive datetime (2017-04-24 12:25:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1471" name="test_short_trip_with_miles_driven_above_short_trip_fare_cap" time="0.517" timestamp="2022-07-25T10:50:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1495" name="test_short_trip_with_miles_driven_at_short_trip_fare_cap" time="1.073" timestamp="2022-07-25T10:50:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1564" name="test_short_trip_with_parking_time_above_cap" time="0.511" timestamp="2022-07-25T10:50:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2017-04-24 12:51:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.end_datetime received a naive datetime (2017-04-24 12:51:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1535" name="test_short_trip_with_parking_time_below_cap" time="0.532" timestamp="2022-07-25T10:50:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2017-04-24 12:30:00) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField ParkedTime.end_datetime received a naive datetime (2017-04-24 12:30:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1969" name="test_turn_pricing_snapshot_flag_off_and_change_short_trip_driving_rate_mid_rental" time="1.117" timestamp="2022-07-25T10:50:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1867" name="test_turn_pricing_snapshot_flag_off_and_change_short_trip_fare_cap_mid_rental" time="0.640" timestamp="2022-07-25T10:50:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1944" name="test_turn_pricing_snapshot_flag_on_and_change_short_trip_driving_rate_mid_rental" time="0.586" timestamp="2022-07-25T10:50:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestDarwinPricingScenarios" file="payments/tests/utils/test_carsharing_payment_utils.py" line="1842" name="test_turn_pricing_snapshot_flag_on_and_change_short_trip_fare_cap_mid_rental" time="0.606" timestamp="2022-07-25T10:50:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="situation_engine/tests/utils/test_utils.py" name="situation_engine.tests.utils.test_utils.TestFunctionRegistration-20220725104713" skipped="0" tests="2" time="0.045" timestamp="2022-07-25T10:52:02">
+	<testcase classname="situation_engine.tests.utils.test_utils.TestFunctionRegistration" file="situation_engine/tests/utils/test_utils.py" line="15" name="test_registration" time="0.023" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="situation_engine.tests.utils.test_utils.TestFunctionRegistration" file="situation_engine/tests/utils/test_utils.py" line="28" name="test_validation" time="0.022" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

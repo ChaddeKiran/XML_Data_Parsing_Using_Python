@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_lifecycle_step_jobs.py" name="vehicle_lifecycle.tests.test_lifecycle_step_jobs.TestVehicleLifeCycleSignals-20220725110857" skipped="1" tests="1" time="0.002" timestamp="2022-07-25T11:08:57">
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_step_jobs.TestVehicleLifeCycleSignals" file="vehicle_lifecycle/tests/test_lifecycle_step_jobs.py" line="23" name="test_auto_create_job" time="0.002" timestamp="2022-07-25T11:08:57">
+		<skipped message="This test case is not required as auto job is created if job template attached to stage" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

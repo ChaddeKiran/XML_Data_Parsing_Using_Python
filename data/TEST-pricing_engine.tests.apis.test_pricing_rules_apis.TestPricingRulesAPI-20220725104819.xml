@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" name="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI-20220725104819" skipped="0" tests="13" time="11.232" timestamp="2022-07-25T10:53:13">
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="40" name="test_create_pricing_rule" time="0.742" timestamp="2022-07-25T10:53:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="149" name="test_create_pricing_rule_with_invalid_function_name" time="0.520" timestamp="2022-07-25T10:53:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="100" name="test_delete_rule" time="0.775" timestamp="2022-07-25T10:53:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="78" name="test_filter_by_action" time="1.193" timestamp="2022-07-25T10:53:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="70" name="test_filter_by_rule_type" time="1.208" timestamp="2022-07-25T10:53:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="52" name="test_filter_by_service_ids" time="0.911" timestamp="2022-07-25T10:53:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="45" name="test_get_pricing_rule" time="0.807" timestamp="2022-07-25T10:53:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="115" name="test_order_rules_by_name" time="1.274" timestamp="2022-07-25T10:53:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="106" name="test_search_rule_by_name" time="1.251" timestamp="2022-07-25T10:53:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="86" name="test_update_rule" time="0.743" timestamp="2022-07-25T10:53:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="37" name="test_url" time="0.467" timestamp="2022-07-25T10:53:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="124" name="test_validate_unique_names" time="0.569" timestamp="2022-07-25T10:53:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.apis.test_pricing_rules_apis.TestPricingRulesAPI" file="pricing_engine/tests/apis/test_pricing_rules_apis.py" line="141" name="test_validate_unique_names_different_services" time="0.771" timestamp="2022-07-25T10:53:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

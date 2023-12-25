@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" name="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers-20220725104545" skipped="0" tests="10" time="10.884" timestamp="2022-07-25T11:06:12">
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="80" name="test_can_reserve_car_status_field_updates" time="1.062" timestamp="2022-07-25T11:06:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="121" name="test_can_schedule_ignores_in_progress_rentals" time="1.360" timestamp="2022-07-25T11:06:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="104" name="test_configuration_disable_background_checks" time="1.042" timestamp="2022-07-25T11:06:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="65" name="test_configuration_disabled_enforce_background_checks" time="1.042" timestamp="2022-07-25T11:06:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="55" name="test_configuration_enable_background_checks" time="0.657" timestamp="2022-07-25T11:06:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="206" name="test_with_disabled_active_rental_check" time="1.253" timestamp="2022-07-25T11:06:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="186" name="test_with_disabled_allowed_driving_age_check" time="1.201" timestamp="2022-07-25T11:06:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="169" name="test_with_disabled_credit_card_check" time="0.735" timestamp="2022-07-25T11:06:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="225" name="test_with_disabled_identity_verified_check" time="1.554" timestamp="2022-07-25T11:06:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="148" name="test_with_disabled_license_related_checks" time="0.978" timestamp="2022-07-25T11:06:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

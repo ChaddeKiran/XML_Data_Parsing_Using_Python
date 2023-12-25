@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_supplier_companies.py" name="users.tests.apis.v2.test_supplier_companies.TestServiceTypeAPIV2-20220725104545" skipped="0" tests="2" time="0.980" timestamp="2022-07-25T11:02:44">
+	<testcase classname="users.tests.apis.v2.test_supplier_companies.TestServiceTypeAPIV2" file="users/tests/apis/v2/test_supplier_companies.py" line="20" name="test_get" time="0.507" timestamp="2022-07-25T11:02:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_supplier_companies.TestServiceTypeAPIV2" file="users/tests/apis/v2/test_supplier_companies.py" line="24" name="test_post" time="0.473" timestamp="2022-07-25T11:02:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

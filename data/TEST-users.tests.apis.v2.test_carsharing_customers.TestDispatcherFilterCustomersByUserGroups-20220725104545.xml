@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomersByUserGroups-20220725104545" skipped="0" tests="4" time="22.024" timestamp="2022-07-25T11:01:21">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomersByUserGroups" file="users/tests/apis/v2/test_carsharing_customers.py" line="1955" name="test_customers_user_groups_filter_all" time="5.321" timestamp="2022-07-25T11:01:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomersByUserGroups" file="users/tests/apis/v2/test_carsharing_customers.py" line="1967" name="test_customers_user_groups_filter_one" time="4.738" timestamp="2022-07-25T11:01:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomersByUserGroups" file="users/tests/apis/v2/test_carsharing_customers.py" line="1961" name="test_customers_user_groups_filter_two" time="6.863" timestamp="2022-07-25T11:01:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherFilterCustomersByUserGroups" file="users/tests/apis/v2/test_carsharing_customers.py" line="1950" name="test_customers_user_groups_filter_without" time="5.101" timestamp="2022-07-25T11:01:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

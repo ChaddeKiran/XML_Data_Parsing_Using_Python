@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestDispatchTripList-20220725110435" skipped="1" tests="3" time="2.127" timestamp="2022-07-25T11:04:38">
+	<testcase classname="trips.tests.apis.test_trips.TestDispatchTripList" file="trips/tests/apis/test_trips.py" line="280" name="test_list_with_no_service_specified_multiple_services_redirects_to_first_service" time="1.356" timestamp="2022-07-25T11:04:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDispatchTripList" file="trips/tests/apis/test_trips.py" line="294" name="test_list_with_no_service_specified_one_service_shows_that_service" time="0.762" timestamp="2022-07-25T11:04:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDispatchTripList" file="trips/tests/apis/test_trips.py" line="265" name="test_list_has_only_trips_from_that_service" time="0.009" timestamp="2022-07-25T11:04:36">
+		<skipped message="Broken, Check details in CAR-14302" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_slots.py" name="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsSupplierManager-20220725104740" skipped="0" tests="5" time="2.350" timestamp="2022-07-25T10:55:51">
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsSupplierManager" file="driver_scheduling/tests/apis/test_slots.py" line="393" name="test_slot_create_not_allowed" time="0.469" timestamp="2022-07-25T10:55:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsSupplierManager" file="driver_scheduling/tests/apis/test_slots.py" line="388" name="test_slot_delete_not_allowed" time="0.458" timestamp="2022-07-25T10:55:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsSupplierManager" file="driver_scheduling/tests/apis/test_slots.py" line="382" name="test_slot_list" time="0.492" timestamp="2022-07-25T10:55:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsSupplierManager" file="driver_scheduling/tests/apis/test_slots.py" line="397" name="test_slot_patch_not_allowed" time="0.466" timestamp="2022-07-25T10:55:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsSupplierManager" file="driver_scheduling/tests/apis/test_slots.py" line="404" name="test_slot_release_with_service" time="0.464" timestamp="2022-07-25T10:55:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

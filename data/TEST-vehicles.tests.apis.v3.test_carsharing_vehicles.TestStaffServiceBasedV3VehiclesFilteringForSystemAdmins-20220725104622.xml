@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" name="vehicles.tests.apis.v3.test_carsharing_vehicles.TestStaffServiceBasedV3VehiclesFilteringForSystemAdmins-20220725104622" skipped="0" tests="1" time="3.287" timestamp="2022-07-25T11:01:12">
+	<testcase classname="vehicles.tests.apis.v3.test_carsharing_vehicles.TestStaffServiceBasedV3VehiclesFilteringForSystemAdmins" file="vehicles/tests/apis/v3/test_carsharing_vehicles.py" line="1027" name="test_system_admins_can_access_all_vehicles" time="3.287" timestamp="2022-07-25T11:01:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

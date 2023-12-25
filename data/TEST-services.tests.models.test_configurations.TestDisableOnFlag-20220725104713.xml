@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_configurations.py" name="services.tests.models.test_configurations.TestDisableOnFlag-20220725104713" skipped="0" tests="2" time="0.241" timestamp="2022-07-25T10:51:02">
+	<testcase classname="services.tests.models.test_configurations.TestDisableOnFlag" file="services/tests/models/test_configurations.py" line="27" name="test_disable_on_flag_false" time="0.119" timestamp="2022-07-25T10:51:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_configurations.TestDisableOnFlag" file="services/tests/models/test_configurations.py" line="34" name="test_disable_on_flag_true" time="0.121" timestamp="2022-07-25T10:51:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

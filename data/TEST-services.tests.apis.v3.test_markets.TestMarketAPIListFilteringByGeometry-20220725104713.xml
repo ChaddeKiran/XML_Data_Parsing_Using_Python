@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_markets.py" name="services.tests.apis.v3.test_markets.TestMarketAPIListFilteringByGeometry-20220725104713" skipped="0" tests="2" time="0.244" timestamp="2022-07-25T10:50:21">
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIListFilteringByGeometry" file="services/tests/apis/v3/test_markets.py" line="244" name="test_filtering_by_location_outside_all_markets_returns_no_markets" time="0.094" timestamp="2022-07-25T10:50:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIListFilteringByGeometry" file="services/tests/apis/v3/test_markets.py" line="229" name="test_filtering_by_location_within_a_market_returns_correct_market" time="0.150" timestamp="2022-07-25T10:50:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

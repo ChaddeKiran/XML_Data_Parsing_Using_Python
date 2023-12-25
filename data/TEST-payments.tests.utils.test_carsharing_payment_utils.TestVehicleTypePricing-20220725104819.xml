@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestVehicleTypePricing-20220725104819" skipped="0" tests="8" time="1.345" timestamp="2022-07-25T10:51:54">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestVehicleTypePricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3720" name="test_editing_rental_new_vehicle_type" time="0.324" timestamp="2022-07-25T10:51:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestVehicleTypePricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3702" name="test_editing_rental_no_change" time="0.268" timestamp="2022-07-25T10:51:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestVehicleTypePricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3763" name="test_editing_scheduled_rental_change_vehicle_type" time="0.327" timestamp="2022-07-25T10:51:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestVehicleTypePricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3747" name="test_editing_scheduled_rental_no_change" time="0.137" timestamp="2022-07-25T10:51:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestVehicleTypePricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3677" name="test_estimate_extend_scheduled_rental_fare_vehicle_type_pricing" time="0.086" timestamp="2022-07-25T10:51:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestVehicleTypePricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3671" name="test_estimate_scheduled_rental_fare_vehicle_type_pricing" time="0.086" timestamp="2022-07-25T10:51:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestVehicleTypePricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3697" name="test_find_block_discount_pricing" time="0.066" timestamp="2022-07-25T10:51:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestVehicleTypePricing" file="payments/tests/utils/test_carsharing_payment_utils.py" line="3688" name="test_short_trip_vehicle_type_pricing" time="0.052" timestamp="2022-07-25T10:51:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestTransferTrips-20220725104545" skipped="0" tests="6" time="31.152" timestamp="2022-07-25T10:48:33">
+	<testcase classname="trips.tests.apis.test_trips.TestTransferTrips" file="trips/tests/apis/test_trips.py" line="1926" name="test_create_trip_crossing_regions" time="5.647" timestamp="2022-07-25T10:48:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTransferTrips" file="trips/tests/apis/test_trips.py" line="1911" name="test_dispatch_can_act_on_kiosk_transfer" time="5.030" timestamp="2022-07-25T10:48:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTransferTrips" file="trips/tests/apis/test_trips.py" line="1904" name="test_kiosk_can_create_transfer" time="3.385" timestamp="2022-07-25T10:48:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTransferTrips" file="trips/tests/apis/test_trips.py" line="1899" name="test_scheduled_trip_transfer_for_no_show_time" time="4.221" timestamp="2022-07-25T10:48:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTransferTrips" file="trips/tests/apis/test_trips.py" line="1890" name="test_scheduled_trip_with_transfer" time="3.036" timestamp="2022-07-25T10:48:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTransferTrips" file="trips/tests/apis/test_trips.py" line="1988" name="test_walkon_transfer_trip" time="9.835" timestamp="2022-07-25T10:48:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

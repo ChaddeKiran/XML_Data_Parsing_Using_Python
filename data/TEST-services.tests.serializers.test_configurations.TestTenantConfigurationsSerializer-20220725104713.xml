@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/serializers/test_configurations.py" name="services.tests.serializers.test_configurations.TestTenantConfigurationsSerializer-20220725104713" skipped="0" tests="2" time="0.311" timestamp="2022-07-25T10:51:10">
+	<testcase classname="services.tests.serializers.test_configurations.TestTenantConfigurationsSerializer" file="services/tests/serializers/test_configurations.py" line="48" name="test_validate_configs" time="0.293" timestamp="2022-07-25T10:51:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.serializers.test_configurations.TestTenantConfigurationsSerializer" file="services/tests/serializers/test_configurations.py" line="44" name="test_validatiion" time="0.018" timestamp="2022-07-25T10:51:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_state_parsing.py" name="vehicle_lifecycle.tests.test_state_parsing.TestStateBuild-20220725104622" skipped="0" tests="3" time="0.103" timestamp="2022-07-25T10:58:49">
+	<testcase classname="vehicle_lifecycle.tests.test_state_parsing.TestStateBuild" file="vehicle_lifecycle/tests/test_state_parsing.py" line="138" name="test_build_state_with_all_vendor_records" time="0.036" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_parsing.TestStateBuild" file="vehicle_lifecycle/tests/test_state_parsing.py" line="159" name="test_vendor_order_is_irrelevant" time="0.037" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_state_parsing.TestStateBuild" file="vehicle_lifecycle/tests/test_state_parsing.py" line="171" name="test_when_missing_entry_in_registry" time="0.030" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

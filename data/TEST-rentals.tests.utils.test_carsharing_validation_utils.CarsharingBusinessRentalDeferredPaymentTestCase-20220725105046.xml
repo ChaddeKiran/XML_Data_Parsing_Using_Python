@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/utils/test_carsharing_validation_utils.py" name="rentals.tests.utils.test_carsharing_validation_utils.CarsharingBusinessRentalDeferredPaymentTestCase-20220725105046" skipped="0" tests="2" time="1.566" timestamp="2022-07-25T11:08:02">
+	<testcase classname="rentals.tests.utils.test_carsharing_validation_utils.CarsharingBusinessRentalDeferredPaymentTestCase" file="rentals/tests/utils/test_carsharing_validation_utils.py" line="243" name="test_validate_reservation_for_business_rental_deferred_payment" time="0.694" timestamp="2022-07-25T11:08:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_carsharing_validation_utils.CarsharingBusinessRentalDeferredPaymentTestCase" file="rentals/tests/utils/test_carsharing_validation_utils.py" line="259" name="test_validate_reservation_for_business_rental_pay_per_rental" time="0.872" timestamp="2022-07-25T11:08:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

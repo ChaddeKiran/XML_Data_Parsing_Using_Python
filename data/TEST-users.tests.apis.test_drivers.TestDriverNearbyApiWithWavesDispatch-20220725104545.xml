@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_drivers.py" name="users.tests.apis.test_drivers.TestDriverNearbyApiWithWavesDispatch-20220725104545" skipped="0" tests="2" time="4.145" timestamp="2022-07-25T10:55:23">
+	<testcase classname="users.tests.apis.test_drivers.TestDriverNearbyApiWithWavesDispatch" file="users/tests/apis/test_drivers.py" line="145" name="test_drivers_nearby_api_far" time="2.072" timestamp="2022-07-25T10:55:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverNearbyApiWithWavesDispatch" file="users/tests/apis/test_drivers.py" line="137" name="test_drivers_nearby_api_near" time="2.073" timestamp="2022-07-25T10:55:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

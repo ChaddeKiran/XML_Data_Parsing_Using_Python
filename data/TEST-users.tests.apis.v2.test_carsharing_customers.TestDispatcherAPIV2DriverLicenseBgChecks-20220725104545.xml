@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestDispatcherAPIV2DriverLicenseBgChecks-20220725104545" skipped="0" tests="2" time="3.312" timestamp="2022-07-25T11:00:26">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherAPIV2DriverLicenseBgChecks" file="users/tests/apis/v2/test_carsharing_customers.py" line="3583" name="test_customer_registered_when_bg_checks_disabled" time="1.705" timestamp="2022-07-25T11:00:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestDispatcherAPIV2DriverLicenseBgChecks" file="users/tests/apis/v2/test_carsharing_customers.py" line="3570" name="test_customer_registered_when_bg_checks_enabled" time="1.606" timestamp="2022-07-25T11:00:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

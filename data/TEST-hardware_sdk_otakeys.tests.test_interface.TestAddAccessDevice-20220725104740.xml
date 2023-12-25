@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_interface.py" name="hardware_sdk_otakeys.tests.test_interface.TestAddAccessDevice-20220725104740" skipped="0" tests="3" time="0.103" timestamp="2022-07-25T11:00:51">
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestAddAccessDevice" file="hardware_sdk_otakeys/tests/test_interface.py" line="82" name="test_add_access_device" time="0.032" timestamp="2022-07-25T11:00:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestAddAccessDevice" file="hardware_sdk_otakeys/tests/test_interface.py" line="97" name="test_add_access_device_with_application_error" time="0.038" timestamp="2022-07-25T11:00:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_interface.TestAddAccessDevice" file="hardware_sdk_otakeys/tests/test_interface.py" line="112" name="test_add_access_device_with_server_error" time="0.033" timestamp="2022-07-25T11:00:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

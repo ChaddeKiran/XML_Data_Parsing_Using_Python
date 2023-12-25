@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_supplier_managers.py" name="users.tests.apis.v2.test_supplier_managers.TestEditSupplierManagersAsServiceManager-20220725104545" skipped="0" tests="6" time="5.689" timestamp="2022-07-25T11:02:52">
+	<testcase classname="users.tests.apis.v2.test_supplier_managers.TestEditSupplierManagersAsServiceManager" file="users/tests/apis/v2/test_supplier_managers.py" line="21" name="test_create" time="0.969" timestamp="2022-07-25T11:02:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_supplier_managers.TestEditSupplierManagersAsServiceManager" file="users/tests/apis/v2/test_supplier_managers.py" line="45" name="test_create_when_user_is_customer" time="0.969" timestamp="2022-07-25T11:02:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_supplier_managers.TestEditSupplierManagersAsServiceManager" file="users/tests/apis/v2/test_supplier_managers.py" line="61" name="test_create_when_user_is_rider" time="1.023" timestamp="2022-07-25T11:02:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_supplier_managers.TestEditSupplierManagersAsServiceManager" file="users/tests/apis/v2/test_supplier_managers.py" line="30" name="test_create_when_user_is_staff" time="0.939" timestamp="2022-07-25T11:02:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_supplier_managers.TestEditSupplierManagersAsServiceManager" file="users/tests/apis/v2/test_supplier_managers.py" line="77" name="test_edit_name" time="0.884" timestamp="2022-07-25T11:02:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_supplier_managers.TestEditSupplierManagersAsServiceManager" file="users/tests/apis/v2/test_supplier_managers.py" line="87" name="test_edit_phone_number" time="0.905" timestamp="2022-07-25T11:02:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_cache_utils.py" name="django_utils.tests.utils.test_cache_utils.TestCacheLock-20220725104740" skipped="0" tests="4" time="2.131" timestamp="2022-07-25T11:06:40">
+	<testcase classname="django_utils.tests.utils.test_cache_utils.TestCacheLock" file="django_utils/tests/utils/test_cache_utils.py" line="78" name="test_cache_lock_decorator_incorrectly_executes_critical_code" time="1.049" timestamp="2022-07-25T11:06:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_cache_utils.TestCacheLock" file="django_utils/tests/utils/test_cache_utils.py" line="109" name="test_cache_lock_initiated_correctly_will_not_execute_critical_code" time="1.048" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_cache_utils.TestCacheLock" file="django_utils/tests/utils/test_cache_utils.py" line="51" name="test_function_timing_out_throws_exception" time="0.032" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_cache_utils.TestCacheLock" file="django_utils/tests/utils/test_cache_utils.py" line="58" name="test_function_wrapped_try_finally_block" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

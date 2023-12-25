@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/utils/test_locations.py" name="locations.tests.utils.test_locations.AutocompleteTestCase-20220725104740" skipped="0" tests="1" time="0.022" timestamp="2022-07-25T11:02:43">
+	<testcase classname="locations.tests.utils.test_locations.AutocompleteTestCase" file="locations/tests/utils/test_locations.py" line="58" name="test_apt" time="0.022" timestamp="2022-07-25T11:02:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

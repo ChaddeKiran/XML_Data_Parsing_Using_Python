@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" name="users.tests.models.test_carsharing_customers_can_reserve_car.TestBusinessCustomers-20220725104545" skipped="0" tests="6" time="12.413" timestamp="2022-07-25T11:06:00">
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestBusinessCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="459" name="test_can_schedule_ignores_in_progress_rentals" time="2.293" timestamp="2022-07-25T11:05:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestBusinessCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="386" name="test_with_disabled_active_rental_check" time="2.345" timestamp="2022-07-25T11:05:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestBusinessCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="349" name="test_with_disabled_allowed_driving_age_check" time="2.064" timestamp="2022-07-25T11:05:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestBusinessCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="320" name="test_with_disabled_credit_card_check" time="1.757" timestamp="2022-07-25T11:05:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestBusinessCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="422" name="test_with_disabled_identity_verified_check" time="2.072" timestamp="2022-07-25T11:05:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_carsharing_customers_can_reserve_car.TestBusinessCustomers" file="users/tests/models/test_carsharing_customers_can_reserve_car.py" line="279" name="test_with_disabled_license_related_checks" time="1.882" timestamp="2022-07-25T11:06:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

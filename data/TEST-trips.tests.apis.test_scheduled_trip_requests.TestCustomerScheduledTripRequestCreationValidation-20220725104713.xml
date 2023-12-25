@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation-20220725104713" skipped="0" tests="10" time="10.455" timestamp="2022-07-25T10:56:35">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1173" name="test_conflicting_rider_has_packaged_ride_and_creating_packaged_ride" time="0.783" timestamp="2022-07-25T10:56:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1156" name="test_conflicting_rider_has_packaged_ride_and_creating_recurring_ride" time="0.735" timestamp="2022-07-25T10:56:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1141" name="test_conflicting_rider_has_packaged_ride_and_creating_scheduled_ride" time="0.715" timestamp="2022-07-25T10:56:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1119" name="test_conflicting_rider_has_recurring_ride_and_creating_packaged_ride" time="0.787" timestamp="2022-07-25T10:56:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1097" name="test_conflicting_rider_has_recurring_ride_and_creating_recurring_ride" time="0.863" timestamp="2022-07-25T10:56:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1077" name="test_conflicting_rider_has_recurring_ride_and_creating_scheduled_ride" time="0.806" timestamp="2022-07-25T10:56:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1061" name="test_conflicting_rider_has_scheduled_ride_and_creating_packaged_ride" time="0.752" timestamp="2022-07-25T10:56:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1045" name="test_conflicting_rider_has_scheduled_ride_and_creating_recurring_ride" time="0.743" timestamp="2022-07-25T10:56:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1031" name="test_conflicting_rider_has_scheduled_ride_and_creating_scheduled_ride" time="1.785" timestamp="2022-07-25T10:56:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestCustomerScheduledTripRequestCreationValidation" file="trips/tests/apis/test_scheduled_trip_requests.py" line="1198" name="test_edit_scheduled_ride" time="2.486" timestamp="2022-07-25T10:56:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/migrations/test_vehicletype_migration.py" name="vehicles.tests.migrations.test_vehicletype_migration.VehicleTypeMigrationTestCase-20220725110857" skipped="1" tests="1" time="0.002" timestamp="2022-07-25T11:10:11">
+	<testcase classname="vehicles.tests.migrations.test_vehicletype_migration.VehicleTypeMigrationTestCase" file="vehicles/tests/migrations/test_vehicletype_migration.py" line="64" name="test_vehicle_type_migrated" time="0.002" timestamp="2022-07-25T11:10:11">
+		<skipped message="Migration tests take a very long time." type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_mon_offre_report.py" name="vehicle_lifecycle.tests.test_mon_offre_report.TestMonOffreReport-20220725104622" skipped="0" tests="7" time="4.221" timestamp="2022-07-25T10:58:33">
+	<testcase classname="vehicle_lifecycle.tests.test_mon_offre_report.TestMonOffreReport" file="vehicle_lifecycle/tests/test_mon_offre_report.py" line="145" name="test_access_methods" time="0.454" timestamp="2022-07-25T10:58:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_mon_offre_report.TestMonOffreReport" file="vehicle_lifecycle/tests/test_mon_offre_report.py" line="131" name="test_multiple_vehicles_for_manufacturer" time="0.795" timestamp="2022-07-25T10:58:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-25 10:58:30.578081) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_start_date received a naive datetime (2022-07-25 10:58:30.578081) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_end_date received a naive datetime (2022-07-25 10:58:30.578081) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.purchase_date received a naive datetime (2022-07-25 10:58:30.578081) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-25 10:58:30.707506) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_start_date received a naive datetime (2022-07-25 10:58:30.707506) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_end_date received a naive datetime (2022-07-25 10:58:30.707506) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.purchase_date received a naive datetime (2022-07-25 10:58:30.707506) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_mon_offre_report.TestMonOffreReport" file="vehicle_lifecycle/tests/test_mon_offre_report.py" line="101" name="test_report_access" time="0.640" timestamp="2022-07-25T10:58:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-25 10:58:31.365331) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_start_date received a naive datetime (2022-07-25 10:58:31.365331) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_end_date received a naive datetime (2022-07-25 10:58:31.365331) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.purchase_date received a naive datetime (2022-07-25 10:58:31.365331) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_mon_offre_report.TestMonOffreReport" file="vehicle_lifecycle/tests/test_mon_offre_report.py" line="114" name="test_report_multiple_manufacturers" time="0.755" timestamp="2022-07-25T10:58:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-25 10:58:32.005337) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_start_date received a naive datetime (2022-07-25 10:58:32.005337) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_end_date received a naive datetime (2022-07-25 10:58:32.005337) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.purchase_date received a naive datetime (2022-07-25 10:58:32.005337) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.registration_date received a naive datetime (2022-07-25 10:58:32.127332) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_start_date received a naive datetime (2022-07-25 10:58:32.127332) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.lease_end_date received a naive datetime (2022-07-25 10:58:32.127332) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.purchase_date received a naive datetime (2022-07-25 10:58:32.127332) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_mon_offre_report.TestMonOffreReport" file="vehicle_lifecycle/tests/test_mon_offre_report.py" line="96" name="test_report_with_no_step_configured" time="0.553" timestamp="2022-07-25T10:58:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_mon_offre_report.TestMonOffreReport" file="vehicle_lifecycle/tests/test_mon_offre_report.py" line="149" name="test_throttle" time="0.494" timestamp="2022-07-25T10:58:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_mon_offre_report.TestMonOffreReport" file="vehicle_lifecycle/tests/test_mon_offre_report.py" line="154" name="test_vehicle_not_in_stage_is_skipped" time="0.531" timestamp="2022-07-25T10:58:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

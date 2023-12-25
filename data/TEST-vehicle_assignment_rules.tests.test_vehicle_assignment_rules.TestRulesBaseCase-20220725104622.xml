@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" name="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase-20220725104622" skipped="0" tests="14" time="9.686" timestamp="2022-07-25T10:49:45">
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="122" name="test_basic_setup" time="0.571" timestamp="2022-07-25T10:49:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="134" name="test_priority_NONE_rule_is_OFF" time="0.483" timestamp="2022-07-25T10:49:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="140" name="test_priority_positive_int_rule_is_ON" time="0.566" timestamp="2022-07-25T10:49:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="437" name="test_request_rule_age_of_request" time="1.080" timestamp="2022-07-25T10:49:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="403" name="test_request_rule_duration" time="0.700" timestamp="2022-07-25T10:49:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="474" name="test_request_rule_parameter_setting" time="0.883" timestamp="2022-07-25T10:49:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="221" name="test_vehicle_rule_alerts_different_levels" time="0.590" timestamp="2022-07-25T10:49:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="196" name="test_vehicle_rule_alerts_same_level_overall_cout" time="0.602" timestamp="2022-07-25T10:49:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="154" name="test_vehicle_rule_battery_voltage" time="0.689" timestamp="2022-07-25T10:49:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="252" name="test_vehicle_rule_charged_alert" time="0.627" timestamp="2022-07-25T10:49:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="175" name="test_vehicle_rule_fuel_level" time="0.640" timestamp="2022-07-25T10:49:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="283" name="test_vehicle_rule_last_used" time="0.865" timestamp="2022-07-25T10:49:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="352" name="test_vehicle_rule_parameter_setting_in_different_groups" time="0.717" timestamp="2022-07-25T10:49:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_assignment_rules.tests.test_vehicle_assignment_rules.TestRulesBaseCase" file="vehicle_assignment_rules/tests/test_vehicle_assignment_rules.py" line="303" name="test_vehicle_rule_parameter_setting_within_the_same_group" time="0.670" timestamp="2022-07-25T10:49:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

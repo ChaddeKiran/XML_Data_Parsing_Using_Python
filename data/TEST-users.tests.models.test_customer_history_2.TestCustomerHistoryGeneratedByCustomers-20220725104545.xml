@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_customer_history_2.py" name="users.tests.models.test_customer_history_2.TestCustomerHistoryGeneratedByCustomers-20220725104545" skipped="0" tests="4" time="8.225" timestamp="2022-07-25T11:06:23">
+	<testcase classname="users.tests.models.test_customer_history_2.TestCustomerHistoryGeneratedByCustomers" file="users/tests/models/test_customer_history_2.py" line="128" name="test_customer_approved_acknowledge_event" time="2.058" timestamp="2022-07-25T11:06:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_customer_history_2.TestCustomerHistoryGeneratedByCustomers" file="users/tests/models/test_customer_history_2.py" line="93" name="test_new_scheduled_rental_cancelled" time="2.514" timestamp="2022-07-25T11:06:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_customer_history_2.TestCustomerHistoryGeneratedByCustomers" file="users/tests/models/test_customer_history_2.py" line="72" name="test_new_scheduled_rental_created" time="2.100" timestamp="2022-07-25T11:06:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_customer_history_2.TestCustomerHistoryGeneratedByCustomers" file="users/tests/models/test_customer_history_2.py" line="112" name="test_reservation_acknowledge_event" time="1.553" timestamp="2022-07-25T11:06:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

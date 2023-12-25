@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="firebase/tests/test_utils.py" name="firebase.tests.test_utils.FirebaseUtilsTasksTestCase-20220725104740" skipped="0" tests="1" time="0.024" timestamp="2022-07-25T10:56:33">
+	<testcase classname="firebase.tests.test_utils.FirebaseUtilsTasksTestCase" file="firebase/tests/test_utils.py" line="13" name="test_put_system_status" time="0.024" timestamp="2022-07-25T10:56:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

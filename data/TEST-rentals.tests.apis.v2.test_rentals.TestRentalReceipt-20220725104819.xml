@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v2/test_rentals.py" name="rentals.tests.apis.v2.test_rentals.TestRentalReceipt-20220725104819" skipped="0" tests="16" time="34.299" timestamp="2022-07-25T11:03:00">
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1355" name="test_additional_fees_included_with_receipt_data" time="2.038" timestamp="2022-07-25T11:02:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1395" name="test_additional_fees_no_taxes" time="2.010" timestamp="2022-07-25T11:02:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1555" name="test_build_receipt_data_existing_payment" time="2.477" timestamp="2022-07-25T11:02:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1581" name="test_build_receipt_data_in_polish" time="2.451" timestamp="2022-07-25T11:02:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1700" name="test_business_rental_receipt_sent_to_business_email" time="2.028" timestamp="2022-07-25T11:02:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1384" name="test_email_data_with_fare_adjusted" time="2.013" timestamp="2022-07-25T11:02:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1658" name="test_fare_calculation_matches_with_receipt_data" time="2.165" timestamp="2022-07-25T11:02:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1415" name="test_minimum_fare_receipt_data" time="2.688" timestamp="2022-07-25T11:02:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1449" name="test_minimum_fare_with_receipt_data" time="2.505" timestamp="2022-07-25T11:02:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1491" name="test_multi_trip_flat_used_receipt" time="2.049" timestamp="2022-07-25T11:02:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1529" name="test_multi_trip_percent_used_receipt" time="3.321" timestamp="2022-07-25T11:02:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1479" name="test_no_multi_trip_flat_used_receipt" time="1.975" timestamp="2022-07-25T11:02:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1517" name="test_no_multi_trip_percent_used_receipt" time="2.030" timestamp="2022-07-25T11:02:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1603" name="test_refund_receipt" time="1.249" timestamp="2022-07-25T11:02:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1630" name="test_refund_receipt_for_business_rental" time="1.855" timestamp="2022-07-25T11:02:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_rentals.TestRentalReceipt" file="rentals/tests/apis/v2/test_rentals.py" line="1718" name="test_rental_payment_when_payments_disabled" time="1.444" timestamp="2022-07-25T11:03:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

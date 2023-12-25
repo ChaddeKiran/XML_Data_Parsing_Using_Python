@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="app_logging/tests/utils/test_customer_device_context_utils.py" name="app_logging.tests.utils.test_customer_device_context_utils.TestGenerateMFACode-20220725104740" skipped="0" tests="2" time="0.148" timestamp="2022-07-25T10:50:38">
+	<testcase classname="app_logging.tests.utils.test_customer_device_context_utils.TestGenerateMFACode" file="app_logging/tests/utils/test_customer_device_context_utils.py" line="23" name="test_default" time="0.039" timestamp="2022-07-25T10:50:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="app_logging.tests.utils.test_customer_device_context_utils.TestGenerateMFACode" file="app_logging/tests/utils/test_customer_device_context_utils.py" line="27" name="test_single_char_random_generation" time="0.109" timestamp="2022-07-25T10:50:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

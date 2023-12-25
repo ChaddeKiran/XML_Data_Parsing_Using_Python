@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="afm_integration/tests/test_webhook_api.py" name="afm_integration.tests.test_webhook_api.TestAfmApiViewSet-20220725104740" skipped="0" tests="26" time="14.072" timestamp="2022-07-25T10:50:29">
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="116" name="test_handle_ticket_update_when_job_changed_to_assigned" time="0.707" timestamp="2022-07-25T10:50:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="297" name="test_handle_ticket_update_when_job_changed_to_cancelled_and_ticket_status_from_mapping_is_cancelled" time="0.707" timestamp="2022-07-25T10:50:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="259" name="test_handle_ticket_update_when_job_changed_to_cancelled_and_ticket_status_from_mapping_is_not_cancelled" time="0.702" timestamp="2022-07-25T10:50:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="334" name="test_handle_ticket_update_when_job_changed_to_cancelled_for_manually_created_ticket" time="0.925" timestamp="2022-07-25T10:50:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="220" name="test_handle_ticket_update_when_job_changed_to_completed_and_ticket_status_from_mapping_is_closed" time="0.754" timestamp="2022-07-25T10:50:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="181" name="test_handle_ticket_update_when_job_changed_to_completed_and_ticket_status_from_mapping_is_not_closed" time="0.797" timestamp="2022-07-25T10:50:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="148" name="test_handle_ticket_update_when_job_changed_to_in_progress" time="0.741" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="54" name="test_parse_authorization_header" time="0.002" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="79" name="test_parse_authorization_header_should_raise_exception_when_encoded_incorrectly" time="0.001" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="71" name="test_parse_authorization_header_should_raise_exception_when_invalid_credentials_format" time="0.001" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="63" name="test_parse_authorization_header_should_raise_exception_when_invalid_header_format" time="0.001" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="28" name="test_serialize_request_data_should_raise_exception_when_empty_values" time="0.002" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="42" name="test_serialize_request_data_should_raise_exception_when_missing_data" time="0.002" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="87" name="test_update_without_validation" time="0.676" timestamp="2022-07-25T10:50:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="382" name="test_webhook_listener" time="1.307" timestamp="2022-07-25T10:50:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="540" name="test_webhook_listener_should_return_400_when_job_id_does_not_match" time="0.719" timestamp="2022-07-25T10:50:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="619" name="test_webhook_listener_should_return_bad_request_when_invalid_credentials_passed" time="0.619" timestamp="2022-07-25T10:50:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="572" name="test_webhook_listener_should_return_bad_request_when_invalid_json_passed" time="0.687" timestamp="2022-07-25T10:50:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="484" name="test_webhook_listener_should_return_bad_request_when_missing_or_empty_values_passed" time="0.639" timestamp="2022-07-25T10:50:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="515" name="test_webhook_listener_should_return_bad_request_when_ticket_does_not_exist" time="0.135" timestamp="2022-07-25T10:50:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="643" name="test_webhook_listener_should_return_method_not_allowed_for_authorized_request_when_not_post_method" time="0.649" timestamp="2022-07-25T10:50:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="668" name="test_webhook_listener_should_return_not_found_for_unauthorized_request_when_not_post_method" time="0.633" timestamp="2022-07-25T10:50:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="423" name="test_webhook_listener_should_return_not_found_when_afm_integration_is_disabled" time="0.553" timestamp="2022-07-25T10:50:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="462" name="test_webhook_listener_should_return_not_found_when_invalid_authorization_data_passed" time="0.655" timestamp="2022-07-25T10:50:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="596" name="test_webhook_listener_should_return_not_found_when_invalid_json_and_no_credentials_passed" time="0.583" timestamp="2022-07-25T10:50:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_webhook_api.TestAfmApiViewSet" file="afm_integration/tests/test_webhook_api.py" line="444" name="test_webhook_listener_should_return_not_found_when_no_authorization_data_passed" time="0.874" timestamp="2022-07-25T10:50:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

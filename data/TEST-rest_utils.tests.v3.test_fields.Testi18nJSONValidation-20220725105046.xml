@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rest_utils/tests/v3/test_fields.py" name="rest_utils.tests.v3.test_fields.Testi18nJSONValidation-20220725105046" skipped="0" tests="1" time="0.001" timestamp="2022-07-25T11:10:26">
+	<testcase classname="rest_utils.tests.v3.test_fields.Testi18nJSONValidation" file="rest_utils/tests/v3/test_fields.py" line="9" name="test_i18n_json_validator" time="0.001" timestamp="2022-07-25T11:10:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

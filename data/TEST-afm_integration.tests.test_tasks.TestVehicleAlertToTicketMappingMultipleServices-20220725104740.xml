@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="afm_integration/tests/test_tasks.py" name="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMappingMultipleServices-20220725104740" skipped="0" tests="3" time="5.673" timestamp="2022-07-25T10:50:15">
+	<testcase classname="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMappingMultipleServices" file="afm_integration/tests/test_tasks.py" line="297" name="test_create_ticket_custom_mapping_for_fuel_alert" time="1.927" timestamp="2022-07-25T10:50:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMappingMultipleServices" file="afm_integration/tests/test_tasks.py" line="373" name="test_create_ticket_vehicle_multiple_service_and_alter_ticket_mapping_exists_for_multiple_service" time="1.881" timestamp="2022-07-25T10:50:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_tasks.TestVehicleAlertToTicketMappingMultipleServices" file="afm_integration/tests/test_tasks.py" line="333" name="test_create_ticket_vehicle_multiple_service_and_alter_ticket_mapping_exists_for_one_service" time="1.865" timestamp="2022-07-25T10:50:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

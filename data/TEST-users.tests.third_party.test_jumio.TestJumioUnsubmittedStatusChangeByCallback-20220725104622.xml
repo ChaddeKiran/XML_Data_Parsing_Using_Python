@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_jumio.py" name="users.tests.third_party.test_jumio.TestJumioUnsubmittedStatusChangeByCallback-20220725104622" skipped="0" tests="5" time="1.323" timestamp="2022-07-25T10:48:27">
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioUnsubmittedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="764" name="test_unsubmitted_should_not_update_if_missing_back" time="0.186" timestamp="2022-07-25T10:48:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioUnsubmittedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="747" name="test_unsubmitted_should_not_update_if_no_document" time="0.169" timestamp="2022-07-25T10:48:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioUnsubmittedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="781" name="test_unsubmitted_should_not_update_if_no_id" time="0.210" timestamp="2022-07-25T10:48:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioUnsubmittedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="713" name="test_unsubmitted_to_accepted" time="0.446" timestamp="2022-07-25T10:48:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_jumio.TestJumioUnsubmittedStatusChangeByCallback" file="users/tests/third_party/test_jumio.py" line="730" name="test_unsubmitted_to_declined" time="0.313" timestamp="2022-07-25T10:48:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

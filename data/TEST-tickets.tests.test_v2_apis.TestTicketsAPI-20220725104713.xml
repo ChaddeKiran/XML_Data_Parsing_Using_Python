@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="tickets/tests/test_v2_apis.py" name="tickets.tests.test_v2_apis.TestTicketsAPI-20220725104713" skipped="0" tests="9" time="3.415" timestamp="2022-07-25T10:53:44">
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketsAPI" file="tickets/tests/test_v2_apis.py" line="46" name="test_filter_by_city" time="0.386" timestamp="2022-07-25T10:53:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketsAPI" file="tickets/tests/test_v2_apis.py" line="119" name="test_filter_by_closed_at_with_from_and_to_limits" time="0.349" timestamp="2022-07-25T10:53:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketsAPI" file="tickets/tests/test_v2_apis.py" line="140" name="test_filter_by_closed_at_with_from_limit" time="0.353" timestamp="2022-07-25T10:53:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketsAPI" file="tickets/tests/test_v2_apis.py" line="159" name="test_filter_by_opened_at_and_closed_at_with_from_and_to_limits" time="0.409" timestamp="2022-07-25T10:53:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketsAPI" file="tickets/tests/test_v2_apis.py" line="92" name="test_filter_by_opened_at_with_from_and_to_limits" time="0.413" timestamp="2022-07-25T10:53:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketsAPI" file="tickets/tests/test_v2_apis.py" line="106" name="test_filter_by_opened_at_with_from_limit" time="0.355" timestamp="2022-07-25T10:53:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketsAPI" file="tickets/tests/test_v2_apis.py" line="57" name="test_filter_by_services_name" time="0.430" timestamp="2022-07-25T10:53:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketsAPI" file="tickets/tests/test_v2_apis.py" line="34" name="test_list_limits_to_page_size" time="0.343" timestamp="2022-07-25T10:53:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="tickets.tests.test_v2_apis.TestTicketsAPI" file="tickets/tests/test_v2_apis.py" line="40" name="test_list_page_size_max" time="0.378" timestamp="2022-07-25T10:53:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

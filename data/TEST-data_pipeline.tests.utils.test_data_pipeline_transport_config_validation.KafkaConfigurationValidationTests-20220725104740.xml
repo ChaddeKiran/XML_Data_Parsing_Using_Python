@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="data_pipeline/tests/utils/test_data_pipeline_transport_config_validation.py" name="data_pipeline.tests.utils.test_data_pipeline_transport_config_validation.KafkaConfigurationValidationTests-20220725104740" skipped="0" tests="4" time="0.081" timestamp="2022-07-25T10:54:12">
+	<testcase classname="data_pipeline.tests.utils.test_data_pipeline_transport_config_validation.KafkaConfigurationValidationTests" file="data_pipeline/tests/utils/test_data_pipeline_transport_config_validation.py" line="30" name="test_validation_with_kafka_enabled_and_no_bootstrap_url" time="0.020" timestamp="2022-07-25T10:54:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.utils.test_data_pipeline_transport_config_validation.KafkaConfigurationValidationTests" file="data_pipeline/tests/utils/test_data_pipeline_transport_config_validation.py" line="36" name="test_validation_with_kafka_enabled_and_no_data_topic" time="0.021" timestamp="2022-07-25T10:54:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.utils.test_data_pipeline_transport_config_validation.KafkaConfigurationValidationTests" file="data_pipeline/tests/utils/test_data_pipeline_transport_config_validation.py" line="42" name="test_validation_with_multiple_errors_captures_all_errors_in_exception" time="0.020" timestamp="2022-07-25T10:54:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.utils.test_data_pipeline_transport_config_validation.KafkaConfigurationValidationTests" file="data_pipeline/tests/utils/test_data_pipeline_transport_config_validation.py" line="25" name="test_validation_without_kafka_enabled" time="0.020" timestamp="2022-07-25T10:54:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

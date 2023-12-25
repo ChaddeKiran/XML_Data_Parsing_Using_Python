@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v2/test_pricing.py" name="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing-20220725104819" skipped="0" tests="38" time="24.549" timestamp="2022-07-25T11:00:40">
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="731" name="test_carsharing_pricing_additional_fees_can_be_explicitly_patched_to_empty" time="0.670" timestamp="2022-07-25T11:00:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="744" name="test_carsharing_pricing_additional_taxes_can_be_explicitly_patched_to_empty" time="0.636" timestamp="2022-07-25T11:00:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="871" name="test_config_is_saved_when_service_has_reached_max_carsharingpricing_limit_but_creation_fails" time="0.746" timestamp="2022-07-25T11:00:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="311" name="test_create_carsharingpricing" time="0.562" timestamp="2022-07-25T11:00:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="338" name="test_create_carsharingpricing_non_default" time="0.512" timestamp="2022-07-25T11:00:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="302" name="test_create_carsharingpricing_requires_service_id" time="0.521" timestamp="2022-07-25T11:00:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="327" name="test_create_carsharingpricing_with_is_default_true" time="1.349" timestamp="2022-07-25T11:00:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="854" name="test_create_shall_pass_when_service_has_reached_max_carsharingpricing_limit" time="0.675" timestamp="2022-07-25T11:00:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="479" name="test_delete_carsharingpricing" time="0.552" timestamp="2022-07-25T11:00:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="519" name="test_get_pricing_filter_by_service_id" time="0.672" timestamp="2022-07-25T11:00:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'payments.models.carsharing_payments.CarsharingPricing'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="527" name="test_get_pricing_no_org_membership_discount_field" time="0.583" timestamp="2022-07-25T11:00:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="549" name="test_get_pricing_org_membership_discount_percentage" time="0.583" timestamp="2022-07-25T11:00:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="513" name="test_get_pricing_soft_deletes_detail_404" time="0.523" timestamp="2022-07-25T11:00:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="506" name="test_get_pricing_soft_deletes_not_returned" time="0.520" timestamp="2022-07-25T11:00:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="442" name="test_patch_carsharingpricing_is_default" time="0.651" timestamp="2022-07-25T11:00:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="688" name="test_patching_carsharing_pricing_does_not_erase_additional_fees" time="0.601" timestamp="2022-07-25T11:00:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="710" name="test_patching_carsharing_pricing_does_not_erase_additional_taxes" time="0.614" timestamp="2022-07-25T11:00:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="757" name="test_patching_other_fields_does_not_affect_additional_fees_and_taxes" time="0.620" timestamp="2022-07-25T11:00:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="394" name="test_put_carsharingpricing" time="0.578" timestamp="2022-07-25T11:00:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="425" name="test_put_carsharingpricing_backwards_compatible" time="0.593" timestamp="2022-07-25T11:00:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="404" name="test_put_carsharingpricing_validates_srr_cancellation_fee_cutoff" time="0.699" timestamp="2022-07-25T11:00:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="349" name="test_putting_pricing_packages_with_invalid_hour_interval_multiples_fails" time="0.579" timestamp="2022-07-25T11:00:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="373" name="test_putting_pricing_packages_with_zero_hours_fails" time="0.590" timestamp="2022-07-25T11:00:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="470" name="test_searching_by_name" time="0.551" timestamp="2022-07-25T11:00:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="574" name="test_set_org_membership_discount_when_disabled" time="0.696" timestamp="2022-07-25T11:00:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="537" name="test_set_pricing_no_org_membership_discount_field" time="0.703" timestamp="2022-07-25T11:00:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="561" name="test_set_pricing_org_membership_discount_percentage" time="0.652" timestamp="2022-07-25T11:00:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="494" name="test_unable_delete_active_carsharingpricing" time="0.595" timestamp="2022-07-25T11:00:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="488" name="test_unable_delete_is_default_carsharingpricing" time="0.539" timestamp="2022-07-25T11:00:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="463" name="test_unique_constraint_service_id_and_name" time="0.562" timestamp="2022-07-25T11:00:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="591" name="test_update_additional_fees" time="0.710" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="662" name="test_update_additional_fees_taxes_invalid" time="0.602" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="456" name="test_update_carsharingpricing_prohibits_setting_all_default_false" time="0.547" timestamp="2022-07-25T11:00:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="626" name="test_update_negative_additional_fees" time="0.664" timestamp="2022-07-25T11:00:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="786" name="test_updates_to_carsharingpricing_are_passed_to_pipeline" time="0.772" timestamp="2022-07-25T11:00:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="795" name="test_updates_to_carsharingpricing_contain_service_details" time="0.779" timestamp="2022-07-25T11:00:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="791" name="test_updates_to_carsharingpricing_contain_user_details" time="0.768" timestamp="2022-07-25T11:00:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_pricing.TestCarsharingPricing" file="rentals/tests/apis/v2/test_pricing.py" line="799" name="test_updates_to_carsharingpricing_contain_vehicle_type_details" time="0.778" timestamp="2022-07-25T11:00:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

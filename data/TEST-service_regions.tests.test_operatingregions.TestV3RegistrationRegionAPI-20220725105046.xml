@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/test_operatingregions.py" name="service_regions.tests.test_operatingregions.TestV3RegistrationRegionAPI-20220725105046" skipped="0" tests="6" time="2.019" timestamp="2022-07-25T11:09:00">
+	<testcase classname="service_regions.tests.test_operatingregions.TestV3RegistrationRegionAPI" file="service_regions/tests/test_operatingregions.py" line="160" name="test_create_locations_from_empty_polygon_kml" time="0.251" timestamp="2022-07-25T11:08:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_operatingregions.TestV3RegistrationRegionAPI" file="service_regions/tests/test_operatingregions.py" line="137" name="test_create_locations_from_kml" time="0.539" timestamp="2022-07-25T11:08:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_operatingregions.TestV3RegistrationRegionAPI" file="service_regions/tests/test_operatingregions.py" line="171" name="test_get_registration_region_retrieve" time="0.280" timestamp="2022-07-25T11:08:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_operatingregions.TestV3RegistrationRegionAPI" file="service_regions/tests/test_operatingregions.py" line="132" name="test_registration_region_creation" time="0.264" timestamp="2022-07-25T11:08:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_operatingregions.TestV3RegistrationRegionAPI" file="service_regions/tests/test_operatingregions.py" line="198" name="test_registration_region_name_filter" time="0.368" timestamp="2022-07-25T11:08:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.test_operatingregions.TestV3RegistrationRegionAPI" file="service_regions/tests/test_operatingregions.py" line="180" name="test_registration_region_ordering" time="0.317" timestamp="2022-07-25T11:09:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_drivers.py" name="users.tests.apis.test_drivers.TestDriverListFilteringAsDispatcher-20220725104545" skipped="0" tests="9" time="7.834" timestamp="2022-07-25T10:55:18">
+	<testcase classname="users.tests.apis.test_drivers.TestDriverListFilteringAsDispatcher" file="users/tests/apis/test_drivers.py" line="225" name="test_drivers_api_service_filter" time="1.617" timestamp="2022-07-25T10:55:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverListFilteringAsDispatcher" file="users/tests/apis/test_drivers.py" line="217" name="test_drivers_api_with_multiple_filters" time="0.753" timestamp="2022-07-25T10:55:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverListFilteringAsDispatcher" file="users/tests/apis/test_drivers.py" line="203" name="test_drivers_api_with_multiple_states" time="0.836" timestamp="2022-07-25T10:55:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverListFilteringAsDispatcher" file="users/tests/apis/test_drivers.py" line="182" name="test_drivers_api_with_rfid_assigned_false" time="0.694" timestamp="2022-07-25T10:55:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverListFilteringAsDispatcher" file="users/tests/apis/test_drivers.py" line="175" name="test_drivers_api_with_rfid_assigned_true" time="0.750" timestamp="2022-07-25T10:55:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverListFilteringAsDispatcher" file="users/tests/apis/test_drivers.py" line="196" name="test_drivers_api_with_state_available" time="0.767" timestamp="2022-07-25T10:55:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverListFilteringAsDispatcher" file="users/tests/apis/test_drivers.py" line="189" name="test_drivers_api_with_state_offline" time="0.832" timestamp="2022-07-25T10:55:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverListFilteringAsDispatcher" file="users/tests/apis/test_drivers.py" line="210" name="test_drivers_api_with_username_search" time="0.800" timestamp="2022-07-25T10:55:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverListFilteringAsDispatcher" file="users/tests/apis/test_drivers.py" line="171" name="test_drivers_api_without_filters" time="0.786" timestamp="2022-07-25T10:55:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

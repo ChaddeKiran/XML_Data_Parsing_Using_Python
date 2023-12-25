@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_celery_serialization.py" name="django_utils.tests.utils.test_celery_serialization.TestSerializerRoundtrips-20220725104740" skipped="0" tests="8" time="0.012" timestamp="2022-07-25T11:06:40">
+	<testcase classname="django_utils.tests.utils.test_celery_serialization.TestSerializerRoundtrips" file="django_utils/tests/utils/test_celery_serialization.py" line="52" name="test_basic_json" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_celery_serialization.TestSerializerRoundtrips" file="django_utils/tests/utils/test_celery_serialization.py" line="88" name="test_dataclass" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_celery_serialization.TestSerializerRoundtrips" file="django_utils/tests/utils/test_celery_serialization.py" line="68" name="test_datetime" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_celery_serialization.TestSerializerRoundtrips" file="django_utils/tests/utils/test_celery_serialization.py" line="100" name="test_datetime_in_dataclass" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_celery_serialization.TestSerializerRoundtrips" file="django_utils/tests/utils/test_celery_serialization.py" line="75" name="test_datetime_notz" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_celery_serialization.TestSerializerRoundtrips" file="django_utils/tests/utils/test_celery_serialization.py" line="81" name="test_datetime_pt" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_celery_serialization.TestSerializerRoundtrips" file="django_utils/tests/utils/test_celery_serialization.py" line="106" name="test_model" time="0.003" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_celery_serialization.TestSerializerRoundtrips" file="django_utils/tests/utils/test_celery_serialization.py" line="94" name="test_nested_dataclasses" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

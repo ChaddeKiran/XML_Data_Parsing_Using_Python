@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_rentals.py" name="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase-20220725104740" skipped="0" tests="12" time="8.744" timestamp="2022-07-25T11:01:06">
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="616" name="test_cancel_reservation_with_booked_at" time="0.655" timestamp="2022-07-25T11:00:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="635" name="test_cancel_reservation_with_door_lock" time="0.681" timestamp="2022-07-25T11:00:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="660" name="test_cancel_reservation_without_door_lock_action" time="0.652" timestamp="2022-07-25T11:00:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="786" name="test_end_rental_do_not_send_lock_doors_via_sms" time="0.597" timestamp="2022-07-25T11:01:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="682" name="test_end_rental_engine_running_doors_unlocked" time="0.924" timestamp="2022-07-25T11:01:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="714" name="test_end_rental_set_revoke_virtual_cache_key" time="0.888" timestamp="2022-07-25T11:01:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="559" name="test_end_rental_with_doors_closed_called_from_apps" time="0.449" timestamp="2022-07-25T11:01:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="520" name="test_end_rental_with_engine_running_from_apps" time="0.437" timestamp="2022-07-25T11:01:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="480" name="test_otakeys_create_key_refresh_data_failed" time="1.319" timestamp="2022-07-25T11:01:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="759" name="test_revoke_key_sms_ok_status_set_cache_key" time="1.136" timestamp="2022-07-25T11:01:05">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="599" name="test_rfid_outside" time="0.087" timestamp="2022-07-25T11:01:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_rentals.OTAKeysTestCase" file="hardware_sdk_otakeys/tests/test_rentals.py" line="499" name="test_stale_synthesis_ignored" time="0.919" timestamp="2022-07-25T11:01:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/models/test_slots.py" name="driver_scheduling.tests.models.test_slots.SlotTestBase-20220725104740" skipped="0" tests="1" time="0.027" timestamp="2022-07-25T10:56:07">
+	<testcase classname="driver_scheduling.tests.models.test_slots.SlotTestBase" file="driver_scheduling/tests/models/test_slots.py" line="20" name="test_quantize_time" time="0.027" timestamp="2022-07-25T10:56:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

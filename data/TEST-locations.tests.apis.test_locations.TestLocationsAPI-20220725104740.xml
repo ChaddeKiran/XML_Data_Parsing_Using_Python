@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/apis/test_locations.py" name="locations.tests.apis.test_locations.TestLocationsAPI-20220725104740" skipped="0" tests="7" time="2.913" timestamp="2022-07-25T11:02:30">
+	<testcase classname="locations.tests.apis.test_locations.TestLocationsAPI" file="locations/tests/apis/test_locations.py" line="49" name="test_create_location_creates_alias" time="0.370" timestamp="2022-07-25T11:02:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationsAPI" file="locations/tests/apis/test_locations.py" line="93" name="test_create_location_in_service_explicit_post" time="0.443" timestamp="2022-07-25T11:02:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationsAPI" file="locations/tests/apis/test_locations.py" line="136" name="test_display_address_dupes" time="0.258" timestamp="2022-07-25T11:02:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationsAPI" file="locations/tests/apis/test_locations.py" line="148" name="test_location_creation_populates_address" time="0.334" timestamp="2022-07-25T11:02:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationsAPI" file="locations/tests/apis/test_locations.py" line="43" name="test_location_creation_with_all_required_fields" time="0.335" timestamp="2022-07-25T11:02:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationsAPI" file="locations/tests/apis/test_locations.py" line="109" name="test_locations_filtered_by_service" time="0.698" timestamp="2022-07-25T11:02:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.test_locations.TestLocationsAPI" file="locations/tests/apis/test_locations.py" line="58" name="test_update_location_name_updates_aliases" time="0.475" timestamp="2022-07-25T11:02:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

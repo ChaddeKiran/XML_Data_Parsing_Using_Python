@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" name="pipelines.tests.utils.test_kafka_consumer_callbacks.JobUpdateTests-20220725104819" skipped="0" tests="4" time="1.936" timestamp="2022-07-25T10:53:00">
+	<testcase classname="pipelines.tests.utils.test_kafka_consumer_callbacks.JobUpdateTests" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" line="388" name="test_job_cancellation_unlinks_alert" time="0.317" timestamp="2022-07-25T10:52:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_kafka_consumer_callbacks.JobUpdateTests" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" line="405" name="test_job_cancellation_unlinks_alert_with_deleted_setting" time="0.279" timestamp="2022-07-25T10:52:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_kafka_consumer_callbacks.JobUpdateTests" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" line="423" name="test_job_completion_closes_scheduled_alert" time="1.002" timestamp="2022-07-25T10:53:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_kafka_consumer_callbacks.JobUpdateTests" file="pipelines/tests/utils/test_kafka_consumer_callbacks.py" line="441" name="test_job_completion_closes_scheduled_alert_with_deleted_setting" time="0.337" timestamp="2022-07-25T10:53:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

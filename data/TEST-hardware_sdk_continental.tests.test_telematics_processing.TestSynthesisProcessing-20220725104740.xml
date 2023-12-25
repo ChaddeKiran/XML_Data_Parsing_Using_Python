@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_continental/tests/test_telematics_processing.py" name="hardware_sdk_continental.tests.test_telematics_processing.TestSynthesisProcessing-20220725104740" skipped="0" tests="3" time="1.302" timestamp="2022-07-25T10:57:55">
+	<testcase classname="hardware_sdk_continental.tests.test_telematics_processing.TestSynthesisProcessing" file="hardware_sdk_continental/tests/test_telematics_processing.py" line="109" name="test_get_vehicle_status" time="0.544" timestamp="2022-07-25T10:57:54">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (18.482977, 73.884003, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_telematics_processing.TestSynthesisProcessing" file="hardware_sdk_continental/tests/test_telematics_processing.py" line="201" name="test_get_vehicle_status_no_data" time="0.248" timestamp="2022-07-25T10:57:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_continental.tests.test_telematics_processing.TestSynthesisProcessing" file="hardware_sdk_continental/tests/test_telematics_processing.py" line="51" name="test_gps_updated" time="0.510" timestamp="2022-07-25T10:57:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

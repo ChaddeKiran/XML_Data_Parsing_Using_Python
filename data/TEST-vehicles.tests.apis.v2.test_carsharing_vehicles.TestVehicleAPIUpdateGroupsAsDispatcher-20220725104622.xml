@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" name="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleAPIUpdateGroupsAsDispatcher-20220725104622" skipped="0" tests="3" time="2.989" timestamp="2022-07-25T10:59:58">
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleAPIUpdateGroupsAsDispatcher" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="841" name="test_add_and_remove_vehiclegroup_in_vehicle_adds_vehicleupdate" time="0.752" timestamp="2022-07-25T10:59:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VehicleUpdate.updated_datetime received a naive datetime (2022-07-25 10:59:55.710943) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VehicleUpdate.updated_datetime received a naive datetime (2022-07-25 10:59:55.879551) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleAPIUpdateGroupsAsDispatcher" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="815" name="test_delete_vehiclegroup_keep_vehicle_group_id_in_vehicleupdates" time="0.757" timestamp="2022-07-25T10:59:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VehicleUpdate.updated_datetime received a naive datetime (2022-07-25 10:59:56.698644) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleAPIUpdateGroupsAsDispatcher" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="770" name="test_patch_carsharingvehicles_group_adds_vehicleupdate" time="1.480" timestamp="2022-07-25T10:59:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_carsharing_services.py" name="services.tests.apis.v3.test_carsharing_services.MultipurposeCriteriaAPIV3TestBase-20220725104713" skipped="0" tests="5" time="1.784" timestamp="2022-07-25T10:49:05">
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.MultipurposeCriteriaAPIV3TestBase" file="services/tests/apis/v3/test_carsharing_services.py" line="1167" name="test_create_multipurpose_criteria" time="0.372" timestamp="2022-07-25T10:49:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.MultipurposeCriteriaAPIV3TestBase" file="services/tests/apis/v3/test_carsharing_services.py" line="1188" name="test_delete_multipurpose_criteria" time="0.369" timestamp="2022-07-25T10:49:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.MultipurposeCriteriaAPIV3TestBase" file="services/tests/apis/v3/test_carsharing_services.py" line="1196" name="test_list" time="0.375" timestamp="2022-07-25T10:49:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'services.models.multipurposecriteria.MultipurposeCriteria'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.MultipurposeCriteriaAPIV3TestBase" file="services/tests/apis/v3/test_carsharing_services.py" line="1179" name="test_update_multipurpose_criteria" time="0.336" timestamp="2022-07-25T10:49:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_carsharing_services.MultipurposeCriteriaAPIV3TestBase" file="services/tests/apis/v3/test_carsharing_services.py" line="1164" name="test_url" time="0.331" timestamp="2022-07-25T10:49:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

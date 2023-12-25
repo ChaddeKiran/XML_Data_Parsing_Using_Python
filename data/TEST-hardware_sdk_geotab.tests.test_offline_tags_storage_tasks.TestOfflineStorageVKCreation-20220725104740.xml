@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_offline_tags_storage_tasks.py" name="hardware_sdk_geotab.tests.test_offline_tags_storage_tasks.TestOfflineStorageVKCreation-20220725104740" skipped="0" tests="2" time="0.279" timestamp="2022-07-25T10:58:42">
+	<testcase classname="hardware_sdk_geotab.tests.test_offline_tags_storage_tasks.TestOfflineStorageVKCreation" file="hardware_sdk_geotab/tests/test_offline_tags_storage_tasks.py" line="139" name="test_existing_vk_skips_creating_offline_storage_vk" time="0.041" timestamp="2022-07-25T10:58:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_offline_tags_storage_tasks.TestOfflineStorageVKCreation" file="hardware_sdk_geotab/tests/test_offline_tags_storage_tasks.py" line="130" name="test_no_current_vk_creates_offline_storage_vk" time="0.238" timestamp="2022-07-25T10:58:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

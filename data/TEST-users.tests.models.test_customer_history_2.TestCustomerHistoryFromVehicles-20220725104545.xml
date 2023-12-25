@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_customer_history_2.py" name="users.tests.models.test_customer_history_2.TestCustomerHistoryFromVehicles-20220725104545" skipped="0" tests="2" time="0.782" timestamp="2022-07-25T11:06:14">
+	<testcase classname="users.tests.models.test_customer_history_2.TestCustomerHistoryFromVehicles" file="users/tests/models/test_customer_history_2.py" line="26" name="test_log_rental_failure_with_unicode_vehicle_data" time="0.386" timestamp="2022-07-25T11:06:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_customer_history_2.TestCustomerHistoryFromVehicles" file="users/tests/models/test_customer_history_2.py" line="33" name="test_log_rental_failure_with_unicode_vehicle_type" time="0.396" timestamp="2022-07-25T11:06:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

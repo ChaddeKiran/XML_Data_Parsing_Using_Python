@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="uber_integration/tests/test_sync_vehicles_command.py" name="uber_integration.tests.test_sync_vehicles_command.SyncVehiclesTest-20220725104545" skipped="0" tests="1" time="0.303" timestamp="2022-07-25T10:51:53">
+	<testcase classname="uber_integration.tests.test_sync_vehicles_command.SyncVehiclesTest" file="uber_integration/tests/test_sync_vehicles_command.py" line="9" name="test_basic" time="0.303" timestamp="2022-07-25T10:51:53">
+		<system-out>
+<![CDATA[Synced vehicle FZ1766 with Uber. (uber vehicle id: 83eYAiWY-BTuN0CLP-h7PTLtDWxtJUFFN9pHI9JOaahXqar38SYNE4hMzBop7wBwLa0R8sgiR4JWP6B_96Thk-Bbpa8uVnZcolifMAxovCb8lEX1wxGNSj3Pmr3koGIZWw==)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

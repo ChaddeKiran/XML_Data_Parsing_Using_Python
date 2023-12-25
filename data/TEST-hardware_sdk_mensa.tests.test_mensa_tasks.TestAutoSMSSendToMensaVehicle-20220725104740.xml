@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" name="hardware_sdk_mensa.tests.test_mensa_tasks.TestAutoSMSSendToMensaVehicle-20220725104740" skipped="0" tests="5" time="0.751" timestamp="2022-07-25T10:59:48">
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_tasks.TestAutoSMSSendToMensaVehicle" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" line="77" name="test_auto_send_action_to_mensa_vehicles_get_version_action" time="0.140" timestamp="2022-07-25T10:59:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_tasks.TestAutoSMSSendToMensaVehicle" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" line="97" name="test_auto_send_action_to_mensa_vehicles_get_version_action_setting_2" time="0.129" timestamp="2022-07-25T10:59:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_tasks.TestAutoSMSSendToMensaVehicle" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" line="88" name="test_auto_send_action_to_mensa_vehicles_not_called_when_cell_time_less" time="0.124" timestamp="2022-07-25T10:59:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField MensaVehicle.last_received_cell_data_at received a naive datetime (2022-07-25 10:58:47.989968) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_tasks.TestAutoSMSSendToMensaVehicle" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" line="48" name="test_auto_send_action_to_mensa_vehicles_reboot_action" time="0.167" timestamp="2022-07-25T10:59:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_tasks.TestAutoSMSSendToMensaVehicle" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" line="108" name="test_auto_send_action_to_mensa_vehicles_reboot_action_setting_2" time="0.191" timestamp="2022-07-25T10:59:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

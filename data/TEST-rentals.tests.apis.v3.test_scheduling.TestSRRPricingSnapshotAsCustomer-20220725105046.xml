@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestSRRPricingSnapshotAsCustomer-20220725105046" skipped="0" tests="5" time="8.006" timestamp="2022-07-25T10:58:49">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRRPricingSnapshotAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3563" name="test_create_srr_with_pricing_snapshot_flag_on" time="1.393" timestamp="2022-07-25T10:58:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRRPricingSnapshotAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3595" name="test_create_srr_with_pricing_snapshot_maintains_pricing_after_price_change" time="1.489" timestamp="2022-07-25T10:58:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRRPricingSnapshotAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3626" name="test_create_srr_without_pricing_snapshot_doesnt_maintains_pricing_after_price_change" time="1.654" timestamp="2022-07-25T10:58:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2017-11-01 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRRPricingSnapshotAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3659" name="test_pricing_snapshot_for_cancellation_fees" time="1.538" timestamp="2022-07-25T10:58:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestSRRPricingSnapshotAsCustomer" file="rentals/tests/apis/v3/test_scheduling.py" line="3687" name="test_pricing_snapshot_for_overdue_charges" time="1.932" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

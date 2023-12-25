@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/utils/test_task_ordering.py" name="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase-20220725104545" skipped="0" tests="17" time="26.336" timestamp="2022-07-25T10:51:19">
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="291" name="test_autodispatch_devolves_to_fifo_at_no_delay" time="1.388" timestamp="2022-07-25T10:50:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="96" name="test_basic" time="1.164" timestamp="2022-07-25T10:50:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="249" name="test_basic_batching" time="1.341" timestamp="2022-07-25T10:50:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="326" name="test_capacity_calculated_properly_for_frozen_queue" time="1.319" timestamp="2022-07-25T10:50:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="129" name="test_dedicated_ride" time="1.523" timestamp="2022-07-25T10:51:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="156" name="test_dedicated_ride_from_trip_request" time="1.473" timestamp="2022-07-25T10:51:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="180" name="test_future_scheduled_ride_last" time="1.256" timestamp="2022-07-25T10:51:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="304" name="test_high_delay_count_defaults_to_optimized_trip" time="1.373" timestamp="2022-07-25T10:51:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="277" name="test_kidnapping_problem_solved" time="1.374" timestamp="2022-07-25T10:51:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="264" name="test_no_first_task_changing" time="1.106" timestamp="2022-07-25T10:51:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="199" name="test_order_tasks_that_are_backwards" time="0.922" timestamp="2022-07-25T10:51:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="101" name="test_over_capacity" time="1.676" timestamp="2022-07-25T10:51:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="107" name="test_rider_in_vehicle" time="2.942" timestamp="2022-07-25T10:51:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="117" name="test_rider_in_vehicle_overlap" time="2.083" timestamp="2022-07-25T10:51:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="316" name="test_task_location_batching_fixes_eta" time="1.706" timestamp="2022-07-25T10:51:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="209" name="test_wheelchairs_basic" time="2.278" timestamp="2022-07-25T10:51:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.OptimizingTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="219" name="test_wheelchairs_overlap" time="1.410" timestamp="2022-07-25T10:51:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/utils/test_task_ordering.py" name="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase-20220725104545" skipped="0" tests="10" time="16.914" timestamp="2022-07-25T10:51:37">
+	<testcase classname="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="96" name="test_basic" time="1.394" timestamp="2022-07-25T10:51:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="129" name="test_dedicated_ride" time="1.842" timestamp="2022-07-25T10:51:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="156" name="test_dedicated_ride_from_trip_request" time="1.644" timestamp="2022-07-25T10:51:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="180" name="test_future_scheduled_ride_last" time="1.439" timestamp="2022-07-25T10:51:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="199" name="test_order_tasks_that_are_backwards" time="1.118" timestamp="2022-07-25T10:51:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="101" name="test_over_capacity" time="1.624" timestamp="2022-07-25T10:51:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="107" name="test_rider_in_vehicle" time="1.982" timestamp="2022-07-25T10:51:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="117" name="test_rider_in_vehicle_overlap" time="1.926" timestamp="2022-07-25T10:51:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="209" name="test_wheelchairs_basic" time="2.346" timestamp="2022-07-25T10:51:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.utils.test_task_ordering.WavesTaskOrderingTestCase" file="trips/tests/utils/test_task_ordering.py" line="219" name="test_wheelchairs_overlap" time="1.600" timestamp="2022-07-25T10:51:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

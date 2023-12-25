@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_slots.py" name="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsDriver-20220725104740" skipped="0" tests="8" time="4.431" timestamp="2022-07-25T10:55:28">
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="421" name="test_slot_create_not_allowed" time="0.498" timestamp="2022-07-25T10:55:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="411" name="test_slot_delete" time="0.501" timestamp="2022-07-25T10:55:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="415" name="test_slot_get" time="0.503" timestamp="2022-07-25T10:55:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="461" name="test_slot_list_does_not_show_other_names" time="0.730" timestamp="2022-07-25T10:55:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'driver_scheduling.models.scheduling.Slot'> SlotQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="449" name="test_slot_list_shows_assigned" time="0.629" timestamp="2022-07-25T10:55:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'driver_scheduling.models.scheduling.Slot'> SlotQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="436" name="test_slot_list_shows_released" time="0.596" timestamp="2022-07-25T10:55:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'driver_scheduling.models.scheduling.Slot'> SlotQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="425" name="test_slot_patch_not_allowed" time="0.483" timestamp="2022-07-25T10:55:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_slots.TestSlotsAPIAsDriver" file="driver_scheduling/tests/apis/test_slots.py" line="432" name="test_slot_release_not_allowed" time="0.491" timestamp="2022-07-25T10:55:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

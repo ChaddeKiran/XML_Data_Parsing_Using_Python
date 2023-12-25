@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/models/test_carsharing_vehicles_2.py" name="vehicles.tests.models.test_carsharing_vehicles_2.TestFlippingServicesOfTicketSignal-20220725104622" skipped="0" tests="5" time="4.234" timestamp="2022-07-25T11:03:43">
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestFlippingServicesOfTicketSignal" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="575" name="test_normal_mapping_with_vehicle_group_changes" time="0.812" timestamp="2022-07-25T11:03:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestFlippingServicesOfTicketSignal" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="513" name="test_vehicle_group_change_from_reserved_to_free" time="1.011" timestamp="2022-07-25T11:03:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestFlippingServicesOfTicketSignal" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="418" name="test_vehicle_group_change_when_alert_to_ticket_rule_bypass_ticket_creation_is_true" time="0.770" timestamp="2022-07-25T11:03:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestFlippingServicesOfTicketSignal" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="461" name="test_vehicle_group_change_when_alert_to_ticket_rule_bypass_ticket_true_and_automate_vehicle_is_available_false" time="0.674" timestamp="2022-07-25T11:03:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.models.test_carsharing_vehicles_2.TestFlippingServicesOfTicketSignal" file="vehicles/tests/models/test_carsharing_vehicles_2.py" line="327" name="test_vehicle_group_change_when_alert_to_ticket_rule_is_satisfied" time="0.965" timestamp="2022-07-25T11:03:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Ticket.completed_by_supplier_at received a naive datetime (2022-07-25 11:03:43.522673) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_vehicle_blocks.py" name="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIAsWorker-20220725104622" skipped="0" tests="5" time="2.445" timestamp="2022-07-25T10:56:39">
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="361" name="test_create_vehicle_block" time="0.535" timestamp="2022-07-25T10:56:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="387" name="test_create_vehicle_block_with_conflicting_times" time="0.593" timestamp="2022-07-25T10:56:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="369" name="test_create_vehicle_block_with_invalid_vin" time="0.439" timestamp="2022-07-25T10:56:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="381" name="test_create_vehicle_block_with_past_end_date" time="0.436" timestamp="2022-07-25T10:56:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_vehicle_blocks.TestCreateVehicleBlockAPIAsWorker" file="vehicle_blocks/tests/test_vehicle_blocks.py" line="375" name="test_create_vehicle_block_with_past_start_date" time="0.442" timestamp="2022-07-25T10:56:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

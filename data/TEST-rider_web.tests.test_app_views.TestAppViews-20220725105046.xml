@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rider_web/tests/test_app_views.py" name="rider_web.tests.test_app_views.TestAppViews-20220725105046" skipped="0" tests="3" time="1.573" timestamp="2022-07-25T11:08:53">
+	<testcase classname="rider_web.tests.test_app_views.TestAppViews" file="rider_web/tests/test_app_views.py" line="31" name="test_with_carsharing_only" time="0.499" timestamp="2022-07-25T11:08:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_web.tests.test_app_views.TestAppViews" file="rider_web/tests/test_app_views.py" line="49" name="test_with_ridesharing_and_carsharing" time="0.658" timestamp="2022-07-25T11:08:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_web.tests.test_app_views.TestAppViews" file="rider_web/tests/test_app_views.py" line="19" name="test_with_ridesharing_only" time="0.417" timestamp="2022-07-25T11:08:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

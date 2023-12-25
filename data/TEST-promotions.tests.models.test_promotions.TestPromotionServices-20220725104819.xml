@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/models/test_promotions.py" name="promotions.tests.models.test_promotions.TestPromotionServices-20220725104819" skipped="0" tests="1" time="0.048" timestamp="2022-07-25T10:58:51">
+	<testcase classname="promotions.tests.models.test_promotions.TestPromotionServices" file="promotions/tests/models/test_promotions.py" line="108" name="test_services_many_to_many_field" time="0.048" timestamp="2022-07-25T10:58:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

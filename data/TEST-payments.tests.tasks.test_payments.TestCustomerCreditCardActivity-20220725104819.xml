@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/tasks/test_payments.py" name="payments.tests.tasks.test_payments.TestCustomerCreditCardActivity-20220725104819" skipped="0" tests="3" time="0.480" timestamp="2022-07-25T10:49:41">
+	<testcase classname="payments.tests.tasks.test_payments.TestCustomerCreditCardActivity" file="payments/tests/tasks/test_payments.py" line="399" name="test_creating_credit_card_with_in_use_true_calls_update_payment_provider_default_card_task" time="0.040" timestamp="2022-07-25T10:49:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestCustomerCreditCardActivity" file="payments/tests/tasks/test_payments.py" line="431" name="test_marking_credit_card_in_use_value_false_does_not_call_update_payment_provider_default_card_task" time="0.043" timestamp="2022-07-25T10:49:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_payments.TestCustomerCreditCardActivity" file="payments/tests/tasks/test_payments.py" line="415" name="test_marking_existing_credit_card_in_use_true_calls_update_payment_provider_default_card_task" time="0.398" timestamp="2022-07-25T10:49:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

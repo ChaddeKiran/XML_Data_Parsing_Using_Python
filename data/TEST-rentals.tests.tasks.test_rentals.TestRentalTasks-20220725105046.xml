@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_rentals.py" name="rentals.tests.tasks.test_rentals.TestRentalTasks-20220725105046" skipped="0" tests="10" time="5.317" timestamp="2022-07-25T11:06:09">
+	<testcase classname="rentals.tests.tasks.test_rentals.TestRentalTasks" file="rentals/tests/tasks/test_rentals.py" line="93" name="test_check_revoke_virtual_key_status_flag_disabled" time="0.469" timestamp="2022-07-25T11:06:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestRentalTasks" file="rentals/tests/tasks/test_rentals.py" line="77" name="test_check_revoke_virtual_key_status_flag_enabled" time="0.611" timestamp="2022-07-25T11:06:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestRentalTasks" file="rentals/tests/tasks/test_rentals.py" line="135" name="test_pending_sms_booking_finished_and_delay_is_up" time="0.409" timestamp="2022-07-25T11:06:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestRentalTasks" file="rentals/tests/tasks/test_rentals.py" line="124" name="test_pending_sms_booking_started_and_delay_is_up" time="0.456" timestamp="2022-07-25T11:06:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestRentalTasks" file="rentals/tests/tasks/test_rentals.py" line="115" name="test_pending_sms_reservation_started_and_delay_is_up" time="0.406" timestamp="2022-07-25T11:06:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestRentalTasks" file="rentals/tests/tasks/test_rentals.py" line="107" name="test_pending_sms_reservation_started_before_delay_is_up" time="0.404" timestamp="2022-07-25T11:06:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestRentalTasks" file="rentals/tests/tasks/test_rentals.py" line="64" name="test_rental_create_event_to_data_pipeline_flag_off" time="0.464" timestamp="2022-07-25T11:06:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestRentalTasks" file="rentals/tests/tasks/test_rentals.py" line="51" name="test_rental_create_event_to_data_pipeline_flag_on" time="0.617" timestamp="2022-07-25T11:06:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7f4a0bb84da0>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestRentalTasks" file="rentals/tests/tasks/test_rentals.py" line="70" name="test_rental_update_event_to_data_pipeline_flag_off" time="0.693" timestamp="2022-07-25T11:06:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_rentals.TestRentalTasks" file="rentals/tests/tasks/test_rentals.py" line="57" name="test_rental_update_event_to_data_pipeline_flag_on" time="0.788" timestamp="2022-07-25T11:06:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7f4a0baa8eb8>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+</testsuite>

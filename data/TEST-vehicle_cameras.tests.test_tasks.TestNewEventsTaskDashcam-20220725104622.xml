@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_cameras/tests/test_tasks.py" name="vehicle_cameras.tests.test_tasks.TestNewEventsTaskDashcam-20220725104622" skipped="0" tests="1" time="0.122" timestamp="2022-07-25T10:57:02">
+	<testcase classname="vehicle_cameras.tests.test_tasks.TestNewEventsTaskDashcam" file="vehicle_cameras/tests/test_tasks.py" line="52" name="test_good_dashcam_report" time="0.122" timestamp="2022-07-25T10:57:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/apis/v3/test_locations.py" name="locations.tests.apis.v3.test_locations.TestLocationAPIAsAnonymous-20220725104740" skipped="0" tests="7" time="0.580" timestamp="2022-07-25T11:02:31">
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsAnonymous" file="locations/tests/apis/v3/test_locations.py" line="164" name="test_create" time="0.109" timestamp="2022-07-25T11:02:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsAnonymous" file="locations/tests/apis/v3/test_locations.py" line="173" name="test_delete" time="0.077" timestamp="2022-07-25T11:02:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsAnonymous" file="locations/tests/apis/v3/test_locations.py" line="158" name="test_list" time="0.091" timestamp="2022-07-25T11:02:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'locations.models.locations_models.Location'> BaseQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsAnonymous" file="locations/tests/apis/v3/test_locations.py" line="170" name="test_partial_update" time="0.075" timestamp="2022-07-25T11:02:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsAnonymous" file="locations/tests/apis/v3/test_locations.py" line="161" name="test_retrieve" time="0.100" timestamp="2022-07-25T11:02:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsAnonymous" file="locations/tests/apis/v3/test_locations.py" line="167" name="test_update" time="0.075" timestamp="2022-07-25T11:02:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.apis.v3.test_locations.TestLocationAPIAsAnonymous" file="locations/tests/apis/v3/test_locations.py" line="88" name="test_url" time="0.054" timestamp="2022-07-25T11:02:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

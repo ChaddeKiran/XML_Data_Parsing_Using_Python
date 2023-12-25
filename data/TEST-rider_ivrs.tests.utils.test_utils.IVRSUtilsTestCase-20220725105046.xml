@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rider_ivrs/tests/utils/test_utils.py" name="rider_ivrs.tests.utils.test_utils.IVRSUtilsTestCase-20220725105046" skipped="0" tests="2" time="0.053" timestamp="2022-07-25T11:08:41">
+	<testcase classname="rider_ivrs.tests.utils.test_utils.IVRSUtilsTestCase" file="rider_ivrs/tests/utils/test_utils.py" line="9" name="test_get_example_locations" time="0.019" timestamp="2022-07-25T11:08:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rider_ivrs.tests.utils.test_utils.IVRSUtilsTestCase" file="rider_ivrs/tests/utils/test_utils.py" line="15" name="test_search_counter_manipulation" time="0.034" timestamp="2022-07-25T11:08:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

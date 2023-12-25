@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="data_pipeline/tests/models/test_data_pipeline.py" name="data_pipeline.tests.models.test_data_pipeline.TestBusinessRentalReasonToDataPipeline-20220725104740" skipped="0" tests="2" time="0.365" timestamp="2022-07-25T10:53:58">
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestBusinessRentalReasonToDataPipeline" file="data_pipeline/tests/models/test_data_pipeline.py" line="826" name="test_data_pipeline_sends_business_rental_reason" time="0.150" timestamp="2022-07-25T10:53:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestBusinessRentalReasonToDataPipeline" file="data_pipeline/tests/models/test_data_pipeline.py" line="833" name="test_data_pipeline_sends_scheduled_business_rental_reason" time="0.216" timestamp="2022-07-25T10:53:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

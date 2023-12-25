@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" name="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration-20220725104622" skipped="0" tests="22" time="10.440" timestamp="2022-07-25T11:03:07">
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="276" name="test_activate_geotab" time="0.446" timestamp="2022-07-25T11:02:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="283" name="test_activate_geotab_gps" time="0.402" timestamp="2022-07-25T11:02:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="269" name="test_activate_mensa" time="0.414" timestamp="2022-07-25T11:02:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="254" name="test_activate_ota_keys" time="0.428" timestamp="2022-07-25T11:02:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="261" name="test_activate_ota_keys_when_vehicle_in_rental" time="0.754" timestamp="2022-07-25T11:02:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="184" name="test_bad_input" time="0.412" timestamp="2022-07-25T11:02:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="352" name="test_deregister_gks_when_vehicle_in_rental" time="0.792" timestamp="2022-07-25T11:03:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="330" name="test_deregistering_active_device_and_activate_alternate_hw" time="0.547" timestamp="2022-07-25T11:03:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="341" name="test_deregistering_lone_active_gks_device" time="0.496" timestamp="2022-07-25T11:03:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="243" name="test_deregistration_geotab" time="0.446" timestamp="2022-07-25T11:03:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="373" name="test_deregistration_geotab_go9_gps" time="0.473" timestamp="2022-07-25T11:03:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="225" name="test_deregistration_mensa" time="0.440" timestamp="2022-07-25T11:03:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="204" name="test_deregistration_ota_keys" time="0.455" timestamp="2022-07-25T11:03:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="297" name="test_ota_keys_registration_fail" time="0.418" timestamp="2022-07-25T11:03:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="236" name="test_registration_geotab" time="0.469" timestamp="2022-07-25T11:03:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="362" name="test_registration_geotab_go9_gps" time="0.445" timestamp="2022-07-25T11:03:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="213" name="test_registration_mensa" time="0.542" timestamp="2022-07-25T11:03:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="194" name="test_registration_ota_keys" time="0.487" timestamp="2022-07-25T11:03:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="308" name="test_reregistering_ota_keys" time="0.394" timestamp="2022-07-25T11:03:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="318" name="test_reregistering_ota_keys_but_geotab_gks_should_be_active" time="0.398" timestamp="2022-07-25T11:03:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="288" name="test_set_active_device_to_false" time="0.407" timestamp="2022-07-25T11:03:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v3.test_registered_hw_devices.TestVehicleRegistration" file="vehicles/tests/apis/v3/test_registered_hw_devices.py" line="189" name="test_too_many_operations" time="0.374" timestamp="2022-07-25T11:03:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

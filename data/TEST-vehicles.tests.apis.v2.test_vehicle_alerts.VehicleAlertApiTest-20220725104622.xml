@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v2/test_vehicle_alerts.py" name="vehicles.tests.apis.v2.test_vehicle_alerts.VehicleAlertApiTest-20220725104622" skipped="0" tests="6" time="13.379" timestamp="2022-07-25T11:01:03">
+	<testcase classname="vehicles.tests.apis.v2.test_vehicle_alerts.VehicleAlertApiTest" file="vehicles/tests/apis/v2/test_vehicle_alerts.py" line="213" name="test_filter_by_high_voltage_charging_complete" time="2.773" timestamp="2022-07-25T11:00:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.alerts.VehicleAlert'> VehicleAlertQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_vehicle_alerts.VehicleAlertApiTest" file="vehicles/tests/apis/v2/test_vehicle_alerts.py" line="44" name="test_response_contain_open_tickets" time="1.795" timestamp="2022-07-25T11:00:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_vehicle_alerts.VehicleAlertApiTest" file="vehicles/tests/apis/v2/test_vehicle_alerts.py" line="180" name="test_sort_asc_desc_by_aux_battery_percentage" time="2.699" timestamp="2022-07-25T11:00:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_vehicle_alerts.VehicleAlertApiTest" file="vehicles/tests/apis/v2/test_vehicle_alerts.py" line="144" name="test_sort_asc_desc_by_ev_battery_percentage" time="2.360" timestamp="2022-07-25T11:00:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_vehicle_alerts.VehicleAlertApiTest" file="vehicles/tests/apis/v2/test_vehicle_alerts.py" line="117" name="test_sort_asc_desc_by_liquid_fuel_percentage" time="1.738" timestamp="2022-07-25T11:01:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_vehicle_alerts.VehicleAlertApiTest" file="vehicles/tests/apis/v2/test_vehicle_alerts.py" line="87" name="test_sort_only_castable_group" time="2.013" timestamp="2022-07-25T11:01:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

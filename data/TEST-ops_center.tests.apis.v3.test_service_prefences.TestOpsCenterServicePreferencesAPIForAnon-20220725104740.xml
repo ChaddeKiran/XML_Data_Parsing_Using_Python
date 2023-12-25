@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/apis/v3/test_service_prefences.py" name="ops_center.tests.apis.v3.test_service_prefences.TestOpsCenterServicePreferencesAPIForAnon-20220725104740" skipped="0" tests="1" time="0.058" timestamp="2022-07-25T11:03:49">
+	<testcase classname="ops_center.tests.apis.v3.test_service_prefences.TestOpsCenterServicePreferencesAPIForAnon" file="ops_center/tests/apis/v3/test_service_prefences.py" line="87" name="test_patch_service_preference_without_permission" time="0.058" timestamp="2022-07-25T11:03:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v2/test_services.py" name="services.tests.apis.v2.test_services.TestCarsharingServicesAPIDispatcher-20220725104713" skipped="0" tests="9" time="4.021" timestamp="2022-07-25T10:48:37">
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIDispatcher" file="services/tests/apis/v2/test_services.py" line="151" name="test_filter_by_is_active_flag" time="0.604" timestamp="2022-07-25T10:48:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIDispatcher" file="services/tests/apis/v2/test_services.py" line="122" name="test_patch_is_active_flag_to_false_allowed_when_no_active_rentals" time="0.382" timestamp="2022-07-25T10:48:34">
+		<system-out>
+<![CDATA[{'approved_user_group': None, 'auto_classify_users_into_groups': False, 'auto_pick_rank': 999, 'center_lat': 36.36, 'center_lng': -123.123, 'created_at': '2022-07-25T10:48:32.985735Z', 'currency_code': 'USD', 'currency_prefix': '$', 'currency_suffix': '', 'default_user_group': None, 'default_user_group_id': None, 'description': None, 'email_domain_verification_enabled': False, 'font_url': None, 'id': 200, 'is_active': False, 'is_business': False, 'is_exclusive': False, 'is_manual_verification_required': False, 'is_registration_fee_taxable': False, 'logo': None, 'market_id': None, 'merchant_account_id': '', 'name': 'CSService 203', 'payments_enabled': True, 'phone_number': '1234567890', 'pricing': {'id': 22, 'name': 'Standard', 'driving_rate': 0.49, 'parking_rate': 0.3, 'mileage_cap': 200, 'additional_mileage_rate': 0.45, 'trust_and_safety_fee': 1.0, 'rental_tax': 5.9, 'additional_fees': [], 'additional_taxes': [], 'pricing_packages': {'3': 50.0, '12': 80.0, '24': 110.0, '48': 200.0, '72': 250.0, '96': 300.0, '120': 350.0}, 'scheduled_rental_cancellation_fee': 20.0, 'scheduled_rental_cancellation_fee_cutoff': 3600, 'scheduled_rental_late_return_fee': 20.0, 'scheduled_rental_late_return_fee_cutoff': 900, 'per_day_mileage_cap_enabled': False, 'short_mileage_rate': 0.0, 'short_trip_cutoff_minutes': 0, 'short_trip_driving_rate': 0.0, 'short_trip_parking_rate': 0.0, 'short_trip_fare_cap': 0.0, 'short_trip_mileage_rounding': 0, 'minimum_fare': 0.0, 'is_default': True, 'service_id': 200, 'charge_zip_code_based_sales_tax': True}, 'primary_color': '22AAFF', 'product': 'Carsharing', 'registration_fee': 4262.0, 'registration_fee_text': 'registration fee is 4262', 'rider_verification_enabled': True, 'rider_verification_mode': 'email', 'scheduled_rental_requests_enabled': False, 'secondary_color': None, 'service_details': {'title': 'CSService 203', 'description': None, 'cards': [{'title': 'Welcome to CSService 203', 'description': 'Reserve a car in your apartment. Just do not forget to bring it back when you are done.', 'image_url': 'http://localhost:38080/static/common/images/agency_logo.png', 'detail_points': []}]}, 'service_location': 'test_location', 'service_radius': 10000, 'show_full_address': False, 'support_email': 'test_support_email@meil.com', 'time_zone': 'America/Los_Angeles', 'updated_at': '2022-07-25T10:48:34.126324Z', 'user_group_names': [], 'user_groups': [], 'vehicle_group_names': [], 'vehicle_groups': [], 'verification_email_domains': 'summon.com', 'fleetops_service_id': None, 'a_to_b_rentals_enabled': False, '_scheduled_rental_requests_enabled': False, 'active_pricing': 22, 'alert_settings': 22, 'alias_location_search_enabled': True, 'battery_percent_threshold': 20, 'booking_end_confirmation_screen': False, 'can_end_rentals_in_other_services': True, 'cancellation_vehicle_block_time': 30, 'card_description': None, 'carsharing_pre_auth_amount_in_dollar': 15.0, 'carsharing_pre_auth_enabled': True, 'carsharing_registration_text': 'dummy registration text', 'charge_zip_code_based_sales_tax': True, 'count_settle_in_time_as_drive_time': False, 'count_walk_out_time_as_drive_time': False, 'customer_transaction_fee': 0.0, 'default_locale': None, 'default_reservation_validity': 10000, 'default_service_block_company': 22, 'default_service_block_completion_duration': 864000, 'disable_background_checks': False, 'engine_stop_behavior': 'DISABLED', 'fuel_percent_threshold': 20, 'has_station_based_rentals_enabled': False, 'invoices_enabled': True, 'is_cancellation_fee_taxable': True, 'jumio_enabled': True, 'jumio_face_match_success_percent': 80, 'jumio_use_car_permission': False, 'jumio_use_similarity': True, 'jumio_use_validity': False, 'lock_button_display_distance': 300, 'market': None, 'new_user_promotion_credit_amount': None, 'new_user_promotion_credit_days_valid': 7, 'otakeys_use_mock': False, 'preferred_pricing_type': 'TIME_BASED_PRICING', 'promotions_enabled': False, 'reservation_type': 'ONLINE_CLASSIC', 'reverse_geocode_target_distance': 10, 'scheduled_rental_requests_booking_increment': 86400, 'scheduled_rental_requests_buffer_time_between_rentals': 3600, 'scheduled_rental_requests_conversion_to_live_lead_time': 900, 'scheduled_rental_requests_delivery_reminder_lead_time': 7200, 'scheduled_rental_requests_enable_retrieval_location': False, 'scheduled_rental_requests_hold_lead_time': 86400, 'scheduled_rental_requests_late_return_alert_email_addresses': ['t@ridecell.com'], 'scheduled_rental_requests_maximum_concurrent_valet_events': 0, 'scheduled_rental_requests_maximum_duration': 1209600, 'scheduled_rental_requests_maximum_lead_time': 2592000, 'scheduled_rental_requests_minimum_duration': 86400, 'scheduled_rental_requests_minimum_lead_time': 86400, 'scheduled_rental_requests_retrieval_reminder_lead_time': 7200, 'scheduled_rental_requests_retry_hold_lead_time': 43200, 'scheduled_rental_requests_supply_constraint_block': 3600, 'scheduled_rental_requests_time_selection_block': 900, 'scheduled_rental_requests_type': 'VALET', 'scheduled_rental_requests_valet_events_affect_valid_times': False, 'scheduled_rental_requests_vehicle_assignment_method': 'AUTOMATIC', 'service_block_aux_battery_level_enabled': False, 'service_block_fuel_level_enabled': False, 'service_block_ev_battery_level_enabled': False, 'statement_descriptor': 'Ridecell', 'units': None, 'uuid': '24fc1ad2-3f39-4653-9edf-1e9897a20575', 'dealer_service_network_automations_enabled': False, 'dealer_service_network_search_radius': 30, 'dealer_service_network_scheduling_jobs_minimum_lead_time': 86400, 'dealer_service_network_scheduling_jobs_maximum_lead_time': 2592000, 'created_at_display': 'Mon, Jul 25 22 03:48 AM PDT', 'updated_at_display': 'Mon, Jul 25 22 03:48 AM PDT'}
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIDispatcher" file="services/tests/apis/v2/test_services.py" line="129" name="test_patch_is_active_flag_to_false_disallowed_when_there_are_active_rentals" time="0.675" timestamp="2022-07-25T10:48:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIDispatcher" file="services/tests/apis/v2/test_services.py" line="138" name="test_patch_is_active_flag_to_true_allowed_always" time="0.644" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIDispatcher" file="services/tests/apis/v2/test_services.py" line="146" name="test_v2_destroy" time="0.290" timestamp="2022-07-25T10:48:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIDispatcher" file="services/tests/apis/v2/test_services.py" line="90" name="test_v2_get" time="0.308" timestamp="2022-07-25T10:48:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIDispatcher" file="services/tests/apis/v2/test_services.py" line="107" name="test_v2_patch" time="0.366" timestamp="2022-07-25T10:48:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIDispatcher" file="services/tests/apis/v2/test_services.py" line="99" name="test_v2_post" time="0.373" timestamp="2022-07-25T10:48:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v2.test_services.TestCarsharingServicesAPIDispatcher" file="services/tests/apis/v2/test_services.py" line="115" name="test_v2_put" time="0.377" timestamp="2022-07-25T10:48:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

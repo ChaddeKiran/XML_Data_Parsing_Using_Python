@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_apis.py" name="stations.tests.test_apis.TagTypesViewSet-20220725104713" skipped="0" tests="1" time="0.323" timestamp="2022-07-25T10:53:08">
+	<testcase classname="stations.tests.test_apis.TagTypesViewSet" file="stations/tests/test_apis.py" line="2058" name="test_list" time="0.323" timestamp="2022-07-25T10:53:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_interface.py" name="hardware_sdk_geotab.tests.test_interface.TestUnlockMobilize-20220725104740" skipped="0" tests="3" time="0.071" timestamp="2022-07-25T10:58:39">
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestUnlockMobilize" file="hardware_sdk_geotab/tests/test_interface.py" line="501" name="test_unlock_vehicle_and_allow_engine_start" time="0.024" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestUnlockMobilize" file="hardware_sdk_geotab/tests/test_interface.py" line="510" name="test_unlock_vehicle_and_allow_engine_start_with_unauthorized_response" time="0.025" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_interface.TestUnlockMobilize" file="hardware_sdk_geotab/tests/test_interface.py" line="520" name="test_unlock_vehicle_and_allow_engine_start_with_unknown_exception" time="0.023" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

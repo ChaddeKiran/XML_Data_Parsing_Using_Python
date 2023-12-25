@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/models/test_markets.py" name="services.tests.models.test_markets.TestMarketGeometryFilter-20220725104713" skipped="0" tests="2" time="0.101" timestamp="2022-07-25T10:51:03">
+	<testcase classname="services.tests.models.test_markets.TestMarketGeometryFilter" file="services/tests/models/test_markets.py" line="48" name="test_returns_correct_market_when_location_is_inside_that_market" time="0.057" timestamp="2022-07-25T10:51:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.models.test_markets.TestMarketGeometryFilter" file="services/tests/models/test_markets.py" line="61" name="test_returns_empty_queryset_when_location_is_outside_all_markets" time="0.043" timestamp="2022-07-25T10:51:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

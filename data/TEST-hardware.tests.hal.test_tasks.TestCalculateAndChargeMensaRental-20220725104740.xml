@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware/tests/hal/test_tasks.py" name="hardware.tests.hal.test_tasks.TestCalculateAndChargeMensaRental-20220725104740" skipped="0" tests="8" time="8.078" timestamp="2022-07-25T10:57:48">
+	<testcase classname="hardware.tests.hal.test_tasks.TestCalculateAndChargeMensaRental" file="hardware/tests/hal/test_tasks.py" line="93" name="test_calculate_and_charge_rental_when_charge_is_not_overdue" time="1.246" timestamp="2022-07-25T10:57:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_tasks.TestCalculateAndChargeMensaRental" file="hardware/tests/hal/test_tasks.py" line="147" name="test_calculate_and_charge_rental_when_charge_not_overdue_rental_summmary_null" time="0.714" timestamp="2022-07-25T10:57:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_tasks.TestCalculateAndChargeMensaRental" file="hardware/tests/hal/test_tasks.py" line="108" name="test_calculate_and_charge_rental_when_charge_overdue" time="1.253" timestamp="2022-07-25T10:57:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_tasks.TestCalculateAndChargeMensaRental" file="hardware/tests/hal/test_tasks.py" line="130" name="test_calculate_and_charge_rental_when_charge_overdue_rental_summmary_null" time="0.723" timestamp="2022-07-25T10:57:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_tasks.TestCalculateAndChargeMensaRental" file="hardware/tests/hal/test_tasks.py" line="47" name="test_calculate_and_charge_rental_with_null_lat_lng" time="0.933" timestamp="2022-07-25T10:57:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_tasks.TestCalculateAndChargeMensaRental" file="hardware/tests/hal/test_tasks.py" line="63" name="test_calculate_and_charge_rental_zero_mileage_readings" time="1.178" timestamp="2022-07-25T10:57:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_tasks.TestCalculateAndChargeMensaRental" file="hardware/tests/hal/test_tasks.py" line="170" name="test_mileages_on_rental_end" time="0.984" timestamp="2022-07-25T10:57:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_tasks.TestCalculateAndChargeMensaRental" file="hardware/tests/hal/test_tasks.py" line="77" name="test_periodic_task_to_charge_rental_not_charged" time="1.046" timestamp="2022-07-25T10:57:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

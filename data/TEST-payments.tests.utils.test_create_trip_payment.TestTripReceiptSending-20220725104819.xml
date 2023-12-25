@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_create_trip_payment.py" name="payments.tests.utils.test_create_trip_payment.TestTripReceiptSending-20220725104819" skipped="0" tests="9" time="10.764" timestamp="2022-07-25T10:52:06">
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripReceiptSending" file="payments/tests/utils/test_create_trip_payment.py" line="181" name="test_customer_resend_receipt" time="0.959" timestamp="2022-07-25T10:51:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripReceiptSending" file="payments/tests/utils/test_create_trip_payment.py" line="198" name="test_customer_resend_receipt_with_cash" time="1.040" timestamp="2022-07-25T10:51:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripReceiptSending" file="payments/tests/utils/test_create_trip_payment.py" line="224" name="test_customer_resend_receipt_without_charge_id" time="0.908" timestamp="2022-07-25T10:51:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripReceiptSending" file="payments/tests/utils/test_create_trip_payment.py" line="142" name="test_receipt_data_has_rules_details" time="1.567" timestamp="2022-07-25T10:51:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripReceiptSending" file="payments/tests/utils/test_create_trip_payment.py" line="100" name="test_receipt_data_has_tax_and_fee_details" time="1.597" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripReceiptSending" file="payments/tests/utils/test_create_trip_payment.py" line="242" name="test_resend_receipt_wrong_customer" time="1.177" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripReceiptSending" file="payments/tests/utils/test_create_trip_payment.py" line="36" name="test_sending_trip_receipt" time="0.941" timestamp="2022-07-25T10:52:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripReceiptSending" file="payments/tests/utils/test_create_trip_payment.py" line="53" name="test_sending_trip_receipt_cash_payment" time="1.287" timestamp="2022-07-25T10:52:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripReceiptSending" file="payments/tests/utils/test_create_trip_payment.py" line="76" name="test_sending_trip_receipt_cash_payment_for_unregistered_user" time="1.289" timestamp="2022-07-25T10:52:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

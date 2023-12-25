@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" name="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI-20220725104622" skipped="0" tests="13" time="8.410" timestamp="2022-07-25T11:00:21">
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="310" name="test_battery_voltage_displayed_upto_one_decimal" time="0.601" timestamp="2022-07-25T11:00:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="345" name="test_create_vehicle" time="0.626" timestamp="2022-07-25T11:00:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="325" name="test_filter_fleet_id" time="0.690" timestamp="2022-07-25T11:00:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.carsharing_vehicles.CarsharingVehicle'> VehicleQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="259" name="test_filtering" time="1.531" timestamp="2022-07-25T11:00:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="409" name="test_is_sync_with_csbe_task_locked" time="0.353" timestamp="2022-07-25T11:00:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="470" name="test_patch_update_vehicle_only_editable_attributes" time="0.936" timestamp="2022-07-25T11:00:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="418" name="test_patch_update_vehicle_with_active_rental" time="0.857" timestamp="2022-07-25T11:00:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="443" name="test_patch_update_vehicle_without_active_rental" time="0.559" timestamp="2022-07-25T11:00:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="379" name="test_patch_vehicle_with_marker_type" time="0.730" timestamp="2022-07-25T11:00:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="299" name="test_retrieve_carsharing_vehicle" time="0.409" timestamp="2022-07-25T11:00:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="287" name="test_retrieve_with_address" time="0.400" timestamp="2022-07-25T11:00:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="316" name="test_retrieve_with_address_new_vehicle" time="0.391" timestamp="2022-07-25T11:00:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehiclesAPI" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="402" name="test_sync_with_csbe" time="0.328" timestamp="2022-07-25T11:00:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

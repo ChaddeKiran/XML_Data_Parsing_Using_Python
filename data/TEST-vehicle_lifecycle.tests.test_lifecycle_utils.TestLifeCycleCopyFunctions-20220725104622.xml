@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" name="vehicle_lifecycle.tests.test_lifecycle_utils.TestLifeCycleCopyFunctions-20220725104622" skipped="0" tests="3" time="0.121" timestamp="2022-07-25T10:58:25">
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_utils.TestLifeCycleCopyFunctions" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" line="72" name="test_copy_lifecycle_template" time="0.034" timestamp="2022-07-25T10:58:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_utils.TestLifeCycleCopyFunctions" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" line="77" name="test_copy_stage_template" time="0.033" timestamp="2022-07-25T10:58:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_utils.TestLifeCycleCopyFunctions" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" line="87" name="test_copy_step_template" time="0.055" timestamp="2022-07-25T10:58:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

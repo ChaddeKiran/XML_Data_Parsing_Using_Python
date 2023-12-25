@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/tasks/test_scheduling.py" name="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion-20220725105046" skipped="0" tests="21" time="13.398" timestamp="2022-07-25T11:07:22">
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="576" name="test_cancel_request" time="0.324" timestamp="2022-07-25T11:07:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="882" name="test_carsharing_rental_check_automatic" time="0.414" timestamp="2022-07-25T11:07:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="869" name="test_carsharing_rental_check_manual" time="0.385" timestamp="2022-07-25T11:07:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="507" name="test_convert_to_live_rental" time="0.673" timestamp="2022-07-25T11:07:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="762" name="test_convert_to_live_rental_capture_charge_failed" time="0.660" timestamp="2022-07-25T11:07:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="595" name="test_convert_to_live_rental_no_vehicle_fail" time="0.408" timestamp="2022-07-25T11:07:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="788" name="test_convert_to_live_rental_retry_does_not_charge_again" time="0.834" timestamp="2022-07-25T11:07:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="634" name="test_convert_to_live_rental_vehicle_has_active_alert_fail" time="0.428" timestamp="2022-07-25T11:07:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="656" name="test_convert_to_live_rental_vehicle_has_active_charging_alert" time="2.472" timestamp="2022-07-25T11:07:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="687" name="test_convert_to_live_rental_vehicle_has_high_voltage_charging_complete_alert" time="0.737" timestamp="2022-07-25T11:07:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="613" name="test_convert_to_live_rental_vehicle_is_busy_fail" time="0.836" timestamp="2022-07-25T11:07:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="720" name="test_convert_to_live_rental_vehicle_is_unresponsive_fail" time="0.449" timestamp="2022-07-25T11:07:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="416" name="test_fail_to_convert_to_live_rental" time="0.548" timestamp="2022-07-25T11:07:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="461" name="test_fail_to_convert_to_live_rental_customer_delivery_overdue" time="0.690" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="484" name="test_fail_to_convert_to_live_rental_customer_has_other_active_rental" time="0.535" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="448" name="test_fail_to_convert_to_live_rental_for_cancelled_rental" time="0.043" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="859" name="test_no_requests_found" time="0.099" timestamp="2022-07-25T11:07:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="910" name="test_payment_desc_update" time="0.697" timestamp="2022-07-25T11:07:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="900" name="test_service_id_matches" time="0.393" timestamp="2022-07-25T11:07:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="541" name="test_station_info_is_propagated_to_converted_live_rental" time="0.659" timestamp="2022-07-25T11:07:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.tasks.test_scheduling.TestSchedulingTasksConversion" file="rentals/tests/tasks/test_scheduling.py" line="742" name="test_user_not_flooded_with_email_and_sms_when_convert_to_live_rental_fails" time="1.112" timestamp="2022-07-25T11:07:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

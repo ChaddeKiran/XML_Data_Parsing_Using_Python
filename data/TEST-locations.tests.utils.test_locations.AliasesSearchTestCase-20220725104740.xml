@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/utils/test_locations.py" name="locations.tests.utils.test_locations.AliasesSearchTestCase-20220725104740" skipped="0" tests="1" time="0.279" timestamp="2022-07-25T11:02:42">
+	<testcase classname="locations.tests.utils.test_locations.AliasesSearchTestCase" file="locations/tests/utils/test_locations.py" line="26" name="test_city" time="0.279" timestamp="2022-07-25T11:02:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

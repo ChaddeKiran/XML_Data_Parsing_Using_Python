@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="afm_integration/tests/test_afm_rule_engine_integration.py" name="afm_integration.tests.test_afm_rule_engine_integration.AFMRuleEngineClientActionsTests-20220725104740" skipped="0" tests="1" time="0.702" timestamp="2022-07-25T10:49:46">
+	<testcase classname="afm_integration.tests.test_afm_rule_engine_integration.AFMRuleEngineClientActionsTests" file="afm_integration/tests/test_afm_rule_engine_integration.py" line="35" name="test_create_ticket_from_ticket" time="0.702" timestamp="2022-07-25T10:49:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

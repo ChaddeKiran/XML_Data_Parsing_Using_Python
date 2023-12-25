@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="afm_integration/tests/test_apis.py" name="afm_integration.tests.test_apis.TestMonOffreApis-20220725104740" skipped="0" tests="3" time="3.337" timestamp="2022-07-25T10:49:53">
+	<testcase classname="afm_integration.tests.test_apis.TestMonOffreApis" file="afm_integration/tests/test_apis.py" line="36" name="test_onboard_mon_offre_vehicle_vehicle_already_exists_in_system" time="1.178" timestamp="2022-07-25T10:49:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_apis.TestMonOffreApis" file="afm_integration/tests/test_apis.py" line="52" name="test_onboard_mon_offre_vehicle_vehicle_not_in_system" time="1.089" timestamp="2022-07-25T10:49:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="afm_integration.tests.test_apis.TestMonOffreApis" file="afm_integration/tests/test_apis.py" line="63" name="test_update_mon_offre_vehicle_id" time="1.070" timestamp="2022-07-25T10:49:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

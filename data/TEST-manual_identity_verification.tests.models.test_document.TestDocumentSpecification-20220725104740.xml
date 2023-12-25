@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="manual_identity_verification/tests/models/test_document.py" name="manual_identity_verification.tests.models.test_document.TestDocumentSpecification-20220725104740" skipped="0" tests="3" time="0.517" timestamp="2022-07-25T11:03:01">
+	<testcase classname="manual_identity_verification.tests.models.test_document.TestDocumentSpecification" file="manual_identity_verification/tests/models/test_document.py" line="30" name="test_cannot_create_with_same_ordering_number" time="0.006" timestamp="2022-07-25T11:03:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.models.test_document.TestDocumentSpecification" file="manual_identity_verification/tests/models/test_document.py" line="52" name="test_download_documents" time="0.234" timestamp="2022-07-25T11:03:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.models.test_document.TestDocumentSpecification" file="manual_identity_verification/tests/models/test_document.py" line="34" name="test_task_should_upload_file_and_remove_profile" time="0.277" timestamp="2022-07-25T11:03:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

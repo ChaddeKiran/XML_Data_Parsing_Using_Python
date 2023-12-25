@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_checkr.py" name="users.tests.third_party.test_checkr.TestMvrOverCustomer-20220725104622" skipped="0" tests="8" time="4.105" timestamp="2022-07-25T10:48:07">
+	<testcase classname="users.tests.third_party.test_checkr.TestMvrOverCustomer" file="users/tests/third_party/test_checkr.py" line="69" name="test_driver_license" time="0.507" timestamp="2022-07-25T10:48:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_checkr.TestMvrOverCustomer" file="users/tests/third_party/test_checkr.py" line="115" name="test_driver_license_error_create_report" time="0.494" timestamp="2022-07-25T10:48:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_checkr.TestMvrOverCustomer" file="users/tests/third_party/test_checkr.py" line="186" name="test_driver_license_error_has_valid_cc_and_credit_card_to_use_check_is_false" time="0.457" timestamp="2022-07-25T10:48:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_checkr.TestMvrOverCustomer" file="users/tests/third_party/test_checkr.py" line="167" name="test_driver_license_error_has_valid_cc_and_credit_card_to_use_check_is_true" time="0.668" timestamp="2022-07-25T10:48:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_checkr.TestMvrOverCustomer" file="users/tests/third_party/test_checkr.py" line="149" name="test_driver_license_error_no_valid_cc_and_credit_card_to_use_check_is_false" time="0.563" timestamp="2022-07-25T10:48:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_checkr.TestMvrOverCustomer" file="users/tests/third_party/test_checkr.py" line="131" name="test_driver_license_error_no_valid_cc_and_credit_card_to_use_check_is_true" time="0.319" timestamp="2022-07-25T10:48:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_checkr.TestMvrOverCustomer" file="users/tests/third_party/test_checkr.py" line="82" name="test_driver_license_field_changed" time="0.543" timestamp="2022-07-25T10:48:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_checkr.TestMvrOverCustomer" file="users/tests/third_party/test_checkr.py" line="99" name="test_driver_license_missing_candidate" time="0.553" timestamp="2022-07-25T10:48:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

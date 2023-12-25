@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestDispatcherActionsOnKioskTrips-20220725104545" skipped="0" tests="1" time="2.065" timestamp="2022-07-25T10:47:02">
+	<testcase classname="trips.tests.apis.test_trips.TestDispatcherActionsOnKioskTrips" file="trips/tests/apis/test_trips.py" line="766" name="test_dispatcher_can_patch_kiosk_trip" time="2.065" timestamp="2022-07-25T10:47:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

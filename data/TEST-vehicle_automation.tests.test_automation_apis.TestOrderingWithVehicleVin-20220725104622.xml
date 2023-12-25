@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automation_apis.py" name="vehicle_automation.tests.test_automation_apis.TestOrderingWithVehicleVin-20220725104622" skipped="0" tests="2" time="5.276" timestamp="2022-07-25T10:51:58">
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestOrderingWithVehicleVin" file="vehicle_automation/tests/test_automation_apis.py" line="3057" name="test_ordering_by_vin_number" time="2.135" timestamp="2022-07-25T10:51:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automation_apis.TestOrderingWithVehicleVin" file="vehicle_automation/tests/test_automation_apis.py" line="3062" name="test_ordering_by_vin_number_reverse" time="3.141" timestamp="2022-07-25T10:51:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

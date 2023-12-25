@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/commands/test_delete_carsharing_creditcards.py" name="users.tests.commands.test_delete_carsharing_creditcards.TestDeleteCarsharingCreditCardsCommand-20220725104545" skipped="0" tests="1" time="2.089" timestamp="2022-07-25T11:05:29">
+	<testcase classname="users.tests.commands.test_delete_carsharing_creditcards.TestDeleteCarsharingCreditCardsCommand" file="users/tests/commands/test_delete_carsharing_creditcards.py" line="16" name="test_delete_credit_cards" time="2.089" timestamp="2022-07-25T11:05:29">
+		<system-out>
+<![CDATA[Removing credit cards from carsharing customers
+Deleting 3 credit cards
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

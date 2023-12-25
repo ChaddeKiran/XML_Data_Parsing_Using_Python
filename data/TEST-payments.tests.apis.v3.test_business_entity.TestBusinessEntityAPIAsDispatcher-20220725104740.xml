@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_business_entity.py" name="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIAsDispatcher-20220725104740" skipped="0" tests="3" time="3.770" timestamp="2022-07-25T11:05:57">
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIAsDispatcher" file="payments/tests/apis/v3/test_business_entity.py" line="609" name="test_filter_by_service_id" time="1.764" timestamp="2022-07-25T11:05:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIAsDispatcher" file="payments/tests/apis/v3/test_business_entity.py" line="597" name="test_get_business_entities_list" time="1.033" timestamp="2022-07-25T11:05:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_business_entity.TestBusinessEntityAPIAsDispatcher" file="payments/tests/apis/v3/test_business_entity.py" line="603" name="test_update_business_entity_with_preferred_vehicle_group" time="0.973" timestamp="2022-07-25T11:05:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

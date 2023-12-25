@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="websockets/tests/utils/test_websocket_utils.py" name="websockets.tests.utils.test_websocket_utils.TestWebsocketUserData-20220725104622" skipped="0" tests="7" time="0.164" timestamp="2022-07-25T11:06:43">
+	<testcase classname="websockets.tests.utils.test_websocket_utils.TestWebsocketUserData" file="websockets/tests/utils/test_websocket_utils.py" line="176" name="testClean" time="0.020" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.utils.test_websocket_utils.TestWebsocketUserData" file="websockets/tests/utils/test_websocket_utils.py" line="148" name="testGetGroupNames" time="0.017" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.utils.test_websocket_utils.TestWebsocketUserData" file="websockets/tests/utils/test_websocket_utils.py" line="161" name="testGetGroupNamesForStream" time="0.017" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.utils.test_websocket_utils.TestWebsocketUserData" file="websockets/tests/utils/test_websocket_utils.py" line="92" name="testMultipleSubscribes" time="0.045" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.utils.test_websocket_utils.TestWebsocketUserData" file="websockets/tests/utils/test_websocket_utils.py" line="74" name="testReSubscribe" time="0.023" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.utils.test_websocket_utils.TestWebsocketUserData" file="websockets/tests/utils/test_websocket_utils.py" line="48" name="testSubscribe" time="0.026" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.utils.test_websocket_utils.TestWebsocketUserData" file="websockets/tests/utils/test_websocket_utils.py" line="62" name="testUnSubscribe" time="0.018" timestamp="2022-07-25T11:06:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

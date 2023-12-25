@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_dispatch_drivers.py" name="users.tests.apis.test_dispatch_drivers.TestDispatchDriverAdmin-20220725104545" skipped="0" tests="4" time="5.265" timestamp="2022-07-25T10:54:32">
+	<testcase classname="users.tests.apis.test_dispatch_drivers.TestDispatchDriverAdmin" file="users/tests/apis/test_dispatch_drivers.py" line="44" name="test_assign_no_vehicle_to_driver" time="1.459" timestamp="2022-07-25T10:54:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_dispatch_drivers.TestDispatchDriverAdmin" file="users/tests/apis/test_dispatch_drivers.py" line="34" name="test_assign_vehicle_to_driver" time="1.224" timestamp="2022-07-25T10:54:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_dispatch_drivers.TestDispatchDriverAdmin" file="users/tests/apis/test_dispatch_drivers.py" line="77" name="test_cannot_assign_vehicle_to_multiple_drivers" time="1.256" timestamp="2022-07-25T10:54:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_dispatch_drivers.TestDispatchDriverAdmin" file="users/tests/apis/test_dispatch_drivers.py" line="59" name="test_take_driver_offline" time="1.326" timestamp="2022-07-25T10:54:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

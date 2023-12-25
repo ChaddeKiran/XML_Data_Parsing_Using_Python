@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/serializers/test_pseudo_credits.py" name="promotions.tests.serializers.test_pseudo_credits.PseudoCreditsTest-20220725104819" skipped="0" tests="7" time="1.539" timestamp="2022-07-25T10:59:05">
+	<testcase classname="promotions.tests.serializers.test_pseudo_credits.PseudoCreditsTest" file="promotions/tests/serializers/test_pseudo_credits.py" line="143" name="test_customer_part_of_N_multi_trip_award_promos_has_N_pseudo_credits" time="0.287" timestamp="2022-07-25T10:59:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_pseudo_credits.PseudoCreditsTest" file="promotions/tests/serializers/test_pseudo_credits.py" line="119" name="test_customer_with_fulfilled_reservation_has_no_pseudo_credits" time="0.264" timestamp="2022-07-25T10:59:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_pseudo_credits.PseudoCreditsTest" file="promotions/tests/serializers/test_pseudo_credits.py" line="114" name="test_customer_with_no_reserved_coupons_has_no_pseudo_credits" time="0.167" timestamp="2022-07-25T10:59:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_pseudo_credits.PseudoCreditsTest" file="promotions/tests/serializers/test_pseudo_credits.py" line="125" name="test_flat_promo_with_reserved_coupon_has_no_pseudo_credits" time="0.248" timestamp="2022-07-25T10:59:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_pseudo_credits.PseudoCreditsTest" file="promotions/tests/serializers/test_pseudo_credits.py" line="151" name="test_invalid_promo_type_raises_validation_error" time="0.194" timestamp="2022-07-25T10:59:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_pseudo_credits.PseudoCreditsTest" file="promotions/tests/serializers/test_pseudo_credits.py" line="103" name="test_pseudo_credit_contains_customer_status_and_eligibility" time="0.182" timestamp="2022-07-25T10:59:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.serializers.test_pseudo_credits.PseudoCreditsTest" file="promotions/tests/serializers/test_pseudo_credits.py" line="72" name="test_pseudo_credit_generation_given_customer_with_reserved_coupon" time="0.197" timestamp="2022-07-25T10:59:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

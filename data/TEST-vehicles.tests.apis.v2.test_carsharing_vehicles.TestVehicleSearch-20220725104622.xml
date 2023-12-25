@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" name="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch-20220725104622" skipped="0" tests="13" time="10.035" timestamp="2022-07-25T11:00:12">
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="930" name="test_filter_available_vehicles" time="0.703" timestamp="2022-07-25T11:00:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="905" name="test_filter_by_distance" time="0.567" timestamp="2022-07-25T11:00:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="897" name="test_filter_by_make" time="0.542" timestamp="2022-07-25T11:00:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="914" name="test_filter_by_service_id" time="4.396" timestamp="2022-07-25T11:00:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="973" name="test_filter_by_vehicle_type_name" time="0.456" timestamp="2022-07-25T11:00:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="960" name="test_invalid_lat_lng" time="0.311" timestamp="2022-07-25T11:00:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="968" name="test_invalid_search_distance" time="0.408" timestamp="2022-07-25T11:00:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="941" name="test_response_object_matching_api_doc" time="0.417" timestamp="2022-07-25T11:00:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="951" name="test_results_sorted" time="0.366" timestamp="2022-07-25T11:00:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="883" name="test_search_pagination_works" time="0.502" timestamp="2022-07-25T11:00:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="888" name="test_search_pagination_works_with_no_page_size" time="0.486" timestamp="2022-07-25T11:00:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="893" name="test_search_without_lat" time="0.432" timestamp="2022-07-25T11:00:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.TestVehicleSearch" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="878" name="test_v3_pagination" time="0.447" timestamp="2022-07-25T11:00:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

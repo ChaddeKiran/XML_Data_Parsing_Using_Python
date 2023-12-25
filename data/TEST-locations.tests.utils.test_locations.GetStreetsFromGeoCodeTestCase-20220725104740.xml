@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="locations/tests/utils/test_locations.py" name="locations.tests.utils.test_locations.GetStreetsFromGeoCodeTestCase-20220725104740" skipped="0" tests="3" time="0.064" timestamp="2022-07-25T11:02:43">
+	<testcase classname="locations.tests.utils.test_locations.GetStreetsFromGeoCodeTestCase" file="locations/tests/utils/test_locations.py" line="185" name="test_bad_intersection_1" time="0.021" timestamp="2022-07-25T11:02:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.utils.test_locations.GetStreetsFromGeoCodeTestCase" file="locations/tests/utils/test_locations.py" line="189" name="test_bad_intersection_2" time="0.021" timestamp="2022-07-25T11:02:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="locations.tests.utils.test_locations.GetStreetsFromGeoCodeTestCase" file="locations/tests/utils/test_locations.py" line="181" name="test_real_intersection" time="0.023" timestamp="2022-07-25T11:02:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

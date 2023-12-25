@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerSearchV2-20220725104545" skipped="0" tests="7" time="5.908" timestamp="2022-07-25T11:00:15">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSearchV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="857" name="test_find_nothing" time="0.721" timestamp="2022-07-25T11:00:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSearchV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="868" name="test_search_by_email" time="0.731" timestamp="2022-07-25T11:00:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSearchV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="861" name="test_search_by_full_name" time="0.676" timestamp="2022-07-25T11:00:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSearchV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="871" name="test_search_by_id" time="1.006" timestamp="2022-07-25T11:00:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSearchV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="864" name="test_search_by_phone" time="0.788" timestamp="2022-07-25T11:00:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSearchV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="3063" name="test_search_pagination_works" time="1.108" timestamp="2022-07-25T11:00:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerSearchV2" file="users/tests/apis/v2/test_carsharing_customers.py" line="3068" name="test_search_pagination_works_with_no_page_size" time="0.878" timestamp="2022-07-25T11:00:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

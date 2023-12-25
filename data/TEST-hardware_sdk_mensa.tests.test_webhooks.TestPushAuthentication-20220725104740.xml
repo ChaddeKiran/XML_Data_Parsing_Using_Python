@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestPushAuthentication-20220725104740" skipped="0" tests="4" time="0.198" timestamp="2022-07-25T11:00:35">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestPushAuthentication" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1714" name="test_alt_key" time="0.058" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestPushAuthentication" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1698" name="test_normal" time="0.053" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestPushAuthentication" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1706" name="test_wrong_secret_key" time="0.041" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestPushAuthentication" file="hardware_sdk_mensa/tests/test_webhooks.py" line="1723" name="test_wrong_secret_key_with_alt" time="0.045" timestamp="2022-07-25T11:00:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/commands/test_reconcile_default_stripe_card.py" name="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard-20220725104819" skipped="0" tests="13" time="11.456" timestamp="2022-07-25T10:48:30">
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="203" name="test_customer_no_in_use_creditcard" time="0.513" timestamp="2022-07-25T10:48:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="225" name="test_customer_two_in_use_creditcard" time="0.570" timestamp="2022-07-25T10:48:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="133" name="test_dryrun_success" time="3.569" timestamp="2022-07-25T10:48:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="248" name="test_filter_customer_ids" time="0.486" timestamp="2022-07-25T10:48:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="182" name="test_last4_not_matching" time="0.337" timestamp="2022-07-25T10:48:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="66" name="test_payment_provider_not_stripe" time="0.383" timestamp="2022-07-25T10:48:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="89" name="test_reverse_stripe_direct_account_id_not_required" time="0.331" timestamp="2022-07-25T10:48:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="161" name="test_reverse_success" time="0.347" timestamp="2022-07-25T10:48:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="82" name="test_reverse_with_stripe_direct_account" time="0.347" timestamp="2022-07-25T10:48:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="74" name="test_reverse_with_use_stripe_direct_account" time="0.457" timestamp="2022-07-25T10:48:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="94" name="test_stripe_customer_not_found" time="0.390" timestamp="2022-07-25T10:48:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="60" name="test_stripe_direct_account_id_required" time="0.356" timestamp="2022-07-25T10:48:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.commands.test_reconcile_default_stripe_card.TestReconcileDefaultStripeCard" file="payments/tests/commands/test_reconcile_default_stripe_card.py" line="108" name="test_success" time="3.369" timestamp="2022-07-25T10:48:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

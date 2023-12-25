@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="uber_integration/tests/test_document_upload_api.py" name="uber_integration.tests.test_document_upload_api.UberVehicleDocumentUploadApiTest-20220725104545" skipped="0" tests="3" time="1.260" timestamp="2022-07-25T10:51:38">
+	<testcase classname="uber_integration.tests.test_document_upload_api.UberVehicleDocumentUploadApiTest" file="uber_integration/tests/test_document_upload_api.py" line="28" name="test_document_upload_as_dispatcher" time="0.486" timestamp="2022-07-25T10:51:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_document_upload_api.UberVehicleDocumentUploadApiTest" file="uber_integration/tests/test_document_upload_api.py" line="36" name="test_document_upload_with_non_dispatcher_role" time="0.412" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_document_upload_api.UberVehicleDocumentUploadApiTest" file="uber_integration/tests/test_document_upload_api.py" line="41" name="test_invalid_document_upload" time="0.362" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

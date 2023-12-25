@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_apis.py" name="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCaseUpdateByExternalApplication-20220725104622" skipped="0" tests="1" time="1.111" timestamp="2022-07-25T10:57:49">
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCaseUpdateByExternalApplication" file="vehicle_lifecycle/tests/test_apis.py" line="977" name="test_update_transition_step_by_job_id" time="1.111" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

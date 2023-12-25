@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_markets.py" name="services.tests.apis.v3.test_markets.TestMarketAPIListFilteringByServiceId-20220725104713" skipped="0" tests="2" time="0.923" timestamp="2022-07-25T10:50:23">
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIListFilteringByServiceId" file="services/tests/apis/v3/test_markets.py" line="284" name="test_filtering_by_a_service_not_associated_to_any_markets_returns_no_markets" time="0.298" timestamp="2022-07-25T10:50:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIListFilteringByServiceId" file="services/tests/apis/v3/test_markets.py" line="268" name="test_filtering_by_service_attached_to_a_market_returns_correct_market" time="0.626" timestamp="2022-07-25T10:50:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_subscription.py" name="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsDispatcher-20220725104740" skipped="0" tests="1" time="0.700" timestamp="2022-07-25T11:06:38">
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestStripeSubscriptionAPIAsDispatcher" file="payments/tests/apis/v3/test_subscription.py" line="1171" name="test_cancel_subscription" time="0.700" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

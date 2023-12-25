@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" name="vehicle_lifecycle.tests.test_lifecycle_utils.TestLifeCycleUtils-20220725104622" skipped="0" tests="3" time="0.770" timestamp="2022-07-25T10:58:26">
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_utils.TestLifeCycleUtils" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" line="109" name="test_create_stage_from_template" time="0.278" timestamp="2022-07-25T10:58:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_utils.TestLifeCycleUtils" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" line="130" name="test_identify_refurbishment_type_heavy_refurbishment" time="0.242" timestamp="2022-07-25T10:58:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_lifecycle_utils.TestLifeCycleUtils" file="vehicle_lifecycle/tests/test_lifecycle_utils.py" line="157" name="test_identify_refurbishment_type_light_refurbishment" time="0.250" timestamp="2022-07-25T10:58:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

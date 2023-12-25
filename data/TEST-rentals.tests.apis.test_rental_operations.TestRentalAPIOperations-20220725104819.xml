@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/test_rental_operations.py" name="rentals.tests.apis.test_rental_operations.TestRentalAPIOperations-20220725104819" skipped="0" tests="7" time="4.976" timestamp="2022-07-25T11:00:14">
+	<testcase classname="rentals.tests.apis.test_rental_operations.TestRentalAPIOperations" file="rentals/tests/apis/test_rental_operations.py" line="39" name="test_success" time="0.862" timestamp="2022-07-25T11:00:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.test_rental_operations.TestRentalAPIOperations" file="rentals/tests/apis/test_rental_operations.py" line="93" name="test_success_with_pricing_snapshot_and_pricing_from_set_pricing_rule" time="0.893" timestamp="2022-07-25T11:00:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.test_rental_operations.TestRentalAPIOperations" file="rentals/tests/apis/test_rental_operations.py" line="57" name="test_success_with_pricing_snapshot_enabled" time="0.767" timestamp="2022-07-25T11:00:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.test_rental_operations.TestRentalAPIOperations" file="rentals/tests/apis/test_rental_operations.py" line="72" name="test_success_with_pricing_snapshot_enabled_and_request_sends_pricing_id" time="1.011" timestamp="2022-07-25T11:00:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.test_rental_operations.TestRentalAPIOperations" file="rentals/tests/apis/test_rental_operations.py" line="172" name="test_validation_error_pricing_snapshot_required_and_request_missing_pricing_id" time="0.393" timestamp="2022-07-25T11:00:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.test_rental_operations.TestRentalAPIOperations" file="rentals/tests/apis/test_rental_operations.py" line="149" name="test_validation_error_with_pricing_snapshot_enabled_and_request_sends_expired_pricing_id" time="0.537" timestamp="2022-07-25T11:00:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.test_rental_operations.TestRentalAPIOperations" file="rentals/tests/apis/test_rental_operations.py" line="130" name="test_validation_error_with_pricing_snapshot_enabled_and_request_sends_invalid_pricing_id" time="0.513" timestamp="2022-07-25T11:00:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

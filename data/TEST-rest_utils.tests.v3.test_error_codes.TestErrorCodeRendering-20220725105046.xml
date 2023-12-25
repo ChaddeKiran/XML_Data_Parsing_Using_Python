@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rest_utils/tests/v3/test_error_codes.py" name="rest_utils.tests.v3.test_error_codes.TestErrorCodeRendering-20220725105046" skipped="0" tests="5" time="0.004" timestamp="2022-07-25T11:10:26">
+	<testcase classname="rest_utils.tests.v3.test_error_codes.TestErrorCodeRendering" file="rest_utils/tests/v3/test_error_codes.py" line="24" name="test_error_formatting_complete" time="0.001" timestamp="2022-07-25T11:10:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.v3.test_error_codes.TestErrorCodeRendering" file="rest_utils/tests/v3/test_error_codes.py" line="29" name="test_error_formatting_does_not_change_error_code_dict" time="0.001" timestamp="2022-07-25T11:10:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.v3.test_error_codes.TestErrorCodeRendering" file="rest_utils/tests/v3/test_error_codes.py" line="19" name="test_error_formatting_incomplete" time="0.001" timestamp="2022-07-25T11:10:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.v3.test_error_codes.TestErrorCodeRendering" file="rest_utils/tests/v3/test_error_codes.py" line="36" name="test_error_formatting_with_extra_kwargs" time="0.001" timestamp="2022-07-25T11:10:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.v3.test_error_codes.TestErrorCodeRendering" file="rest_utils/tests/v3/test_error_codes.py" line="15" name="test_error_unformatted" time="0.000" timestamp="2022-07-25T11:10:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

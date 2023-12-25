@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" name="hardware_sdk_mensa.tests.test_mensa_tasks.TestMensaActionStatusMissing-20220725104740" skipped="0" tests="3" time="0.213" timestamp="2022-07-25T10:59:49">
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_tasks.TestMensaActionStatusMissing" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" line="152" name="test_mark_mensa_action_status_missing" time="0.044" timestamp="2022-07-25T10:59:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_tasks.TestMensaActionStatusMissing" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" line="165" name="test_mark_mensa_action_status_missing_with_telematics" time="0.063" timestamp="2022-07-25T10:59:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_mensa_tasks.TestMensaActionStatusMissing" file="hardware_sdk_mensa/tests/test_mensa_tasks.py" line="185" name="test_mark_mensa_action_status_missing_with_telematics_rssi_199_and_0" time="0.105" timestamp="2022-07-25T10:59:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

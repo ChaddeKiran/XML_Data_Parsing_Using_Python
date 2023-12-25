@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/signals/test_charge_registration_fee.py" name="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow-20220725104622" skipped="0" tests="11" time="36.136" timestamp="2022-07-25T10:47:28">
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="246" name="test_happy_flow_first" time="2.621" timestamp="2022-07-25T10:46:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="272" name="test_happy_flow_first_with_no_default_service" time="3.016" timestamp="2022-07-25T10:46:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="482" name="test_happy_flow_miv_customer_disable_background_checks" time="3.906" timestamp="2022-07-25T10:47:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="417" name="test_happy_flow_miv_customer_enable_background_checks" time="3.067" timestamp="2022-07-25T10:47:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:47:04.769133) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="512" name="test_happy_flow_miv_operator_disable_background_checks" time="3.110" timestamp="2022-07-25T10:47:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="384" name="test_happy_flow_miv_operator_enable_background_checks" time="3.518" timestamp="2022-07-25T10:47:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField DriversLicense.report_completed_at received a naive datetime (2022-07-25 10:47:11.288337) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="302" name="test_happy_flow_operator_override" time="3.614" timestamp="2022-07-25T10:47:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="331" name="test_happy_flow_operator_override_lat_lng_on_registration" time="3.293" timestamp="2022-07-25T10:47:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="354" name="test_happy_flow_second" time="2.919" timestamp="2022-07-25T10:47:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="580" name="test_payment_occured" time="3.742" timestamp="2022-07-25T10:47:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.signals.test_charge_registration_fee.TestRegistrationFeeFlow" file="users/tests/signals/test_charge_registration_fee.py" line="542" name="test_verify_prevent_charging_twice" time="3.328" timestamp="2022-07-25T10:47:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

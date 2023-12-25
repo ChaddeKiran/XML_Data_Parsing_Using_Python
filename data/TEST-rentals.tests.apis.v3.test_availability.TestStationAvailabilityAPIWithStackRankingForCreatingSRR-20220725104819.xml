@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_availability.py" name="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR-20220725104819" skipped="0" tests="12" time="6.177" timestamp="2022-07-25T11:03:52">
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="470" name="test_get_all_end_dates" time="0.436" timestamp="2022-07-25T11:03:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="479" name="test_get_all_end_dates_with_membsership" time="0.485" timestamp="2022-07-25T11:03:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="506" name="test_get_all_end_times_with_different_booking_increments_1" time="0.541" timestamp="2022-07-25T11:03:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2020-07-04 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="531" name="test_get_all_end_times_with_different_booking_increments_2" time="0.473" timestamp="2022-07-25T11:03:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2020-07-03 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="553" name="test_get_all_end_times_with_different_booking_increments_with_timezone_involved" time="0.515" timestamp="2022-07-25T11:03:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2020-07-03 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="361" name="test_get_all_start_dates_non_overlapping_services" time="0.383" timestamp="2022-07-25T11:03:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="403" name="test_get_all_start_dates_overlapping_services" time="1.287" timestamp="2022-07-25T11:03:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="447" name="test_get_all_start_dates_when_late_in_the_day" time="0.507" timestamp="2022-07-25T11:03:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="434" name="test_get_all_start_dates_when_late_in_the_day_with_time_zone_involved" time="0.499" timestamp="2022-07-25T11:03:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="376" name="test_get_all_start_dates_with_membership" time="0.456" timestamp="2022-07-25T11:03:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="459" name="test_get_all_start_times" time="0.337" timestamp="2022-07-25T11:03:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestStationAvailabilityAPIWithStackRankingForCreatingSRR" file="rentals/tests/apis/v3/test_availability.py" line="347" name="test_url" time="0.257" timestamp="2022-07-25T11:03:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

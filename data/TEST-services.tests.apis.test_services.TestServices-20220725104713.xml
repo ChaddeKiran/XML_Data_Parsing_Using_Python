@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_services.py" name="services.tests.apis.test_services.TestServices-20220725104713" skipped="0" tests="2" time="0.748" timestamp="2022-07-25T10:48:16">
+	<testcase classname="services.tests.apis.test_services.TestServices" file="services/tests/apis/test_services.py" line="324" name="test_filtering_with_is_business_field" time="0.389" timestamp="2022-07-25T10:48:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestServices" file="services/tests/apis/test_services.py" line="310" name="test_is_business_field_in_the_response" time="0.359" timestamp="2022-07-25T10:48:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

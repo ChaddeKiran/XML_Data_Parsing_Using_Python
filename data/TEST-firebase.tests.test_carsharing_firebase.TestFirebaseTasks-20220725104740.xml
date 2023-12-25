@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="firebase/tests/test_carsharing_firebase.py" name="firebase.tests.test_carsharing_firebase.TestFirebaseTasks-20220725104740" skipped="0" tests="15" time="7.496" timestamp="2022-07-25T10:56:32">
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="238" name="test_carsharing_customer_data_put_in_firebase_contains_business_entity_for_hybrid_customer" time="1.217" timestamp="2022-07-25T10:56:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="262" name="test_carsharing_customer_data_put_in_firebase_does_not_contains_business_entity_for_personal_customer" time="0.215" timestamp="2022-07-25T10:56:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="200" name="test_carsharing_customer_data_put_in_firebase_doesnt_contain_pricing_packages" time="1.054" timestamp="2022-07-25T10:56:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="58" name="test_multipurpose_pin_is_not_sent_in_vehicle_node" time="0.093" timestamp="2022-07-25T10:56:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="309" name="test_put_business_rental_in_firebase" time="0.987" timestamp="2022-07-25T10:56:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="193" name="test_put_carsharing_customer_in_firebase" time="0.136" timestamp="2022-07-25T10:56:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="277" name="test_put_rental_in_firebase" time="0.622" timestamp="2022-07-25T10:56:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="162" name="test_put_scheduled_rental_in_firebase" time="0.663" timestamp="2022-07-25T10:56:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="40" name="test_put_vehicle_in_firebase" time="0.131" timestamp="2022-07-25T10:56:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="88" name="test_put_vehicle_in_firebase_has_fuel_and_ev_battery_data" time="0.111" timestamp="2022-07-25T10:56:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="99" name="test_put_vehicle_in_firebase_has_marker_type" time="0.526" timestamp="2022-07-25T10:56:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="80" name="test_put_vehicle_in_firebase_vehicle_data" time="0.025" timestamp="2022-07-25T10:56:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="333" name="test_rental_data_put_in_firebase_doesnt_contain_certain_fields" time="1.235" timestamp="2022-07-25T10:56:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="140" name="test_update_vehicles_in_firebase_for_service" time="0.099" timestamp="2022-07-25T10:56:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="firebase.tests.test_carsharing_firebase.TestFirebaseTasks" file="firebase/tests/test_carsharing_firebase.py" line="119" name="test_vehicle_data_put_in_firebase_doesnt_contain_pricing_packages" time="0.382" timestamp="2022-07-25T10:56:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

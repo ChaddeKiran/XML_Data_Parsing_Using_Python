@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" name="vehicle_blocks.tests.test_can_create_vehicle_block.TestCanCreateVehicleBlockAPI-20220725104622" skipped="0" tests="7" time="5.477" timestamp="2022-07-25T10:56:17">
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="89" name="test_can_create_vehicle_block_api_with_assigned_rental" time="1.426" timestamp="2022-07-25T10:56:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="71" name="test_can_create_vehicle_block_api_with_unassigned_rental" time="0.774" timestamp="2022-07-25T10:56:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="159" name="test_can_create_vehicle_block_api_with_unassigned_rental_and_enough_capacity" time="1.003" timestamp="2022-07-25T10:56:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="113" name="test_can_create_vehicle_block_api_with_vehicle_block" time="0.520" timestamp="2022-07-25T10:56:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="130" name="test_can_create_vehicle_block_api_with_vehicle_block_covering_block" time="0.630" timestamp="2022-07-25T10:56:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="147" name="test_can_create_vehicle_block_api_without_any_booking" time="0.608" timestamp="2022-07-25T10:56:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_blocks.tests.test_can_create_vehicle_block.TestCanCreateVehicleBlockAPI" file="vehicle_blocks/tests/test_can_create_vehicle_block.py" line="60" name="test_can_create_vehicle_block_start_date_after_end_date" time="0.515" timestamp="2022-07-25T10:56:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

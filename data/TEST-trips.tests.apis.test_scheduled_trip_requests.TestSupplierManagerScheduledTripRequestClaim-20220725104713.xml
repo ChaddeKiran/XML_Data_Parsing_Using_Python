@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestSupplierManagerScheduledTripRequestClaim-20220725104713" skipped="0" tests="2" time="1.564" timestamp="2022-07-25T11:01:31">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestSupplierManagerScheduledTripRequestClaim" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2692" name="test_scheduled_trip_request_claim_other_driver" time="0.714" timestamp="2022-07-25T11:01:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestSupplierManagerScheduledTripRequestClaim" file="trips/tests/apis/test_scheduled_trip_requests.py" line="2680" name="test_scheduled_trip_request_claim_own_driver" time="0.851" timestamp="2022-07-25T11:01:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

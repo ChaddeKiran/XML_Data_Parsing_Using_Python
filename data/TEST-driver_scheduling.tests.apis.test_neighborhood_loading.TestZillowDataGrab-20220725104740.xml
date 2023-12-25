@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" name="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataGrab-20220725104740" skipped="0" tests="6" time="4.748" timestamp="2022-07-25T10:54:50">
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataGrab" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="93" name="test_convert_city_neighborhoods" time="2.071" timestamp="2022-07-25T10:54:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataGrab" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="88" name="test_get_cities_from_invalid_state" time="0.020" timestamp="2022-07-25T10:54:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataGrab" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="80" name="test_get_cities_from_state" time="1.283" timestamp="2022-07-25T10:54:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataGrab" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="62" name="test_get_state_options" time="0.086" timestamp="2022-07-25T10:54:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataGrab" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="67" name="test_load_neighborhoods_from_url" time="1.268" timestamp="2022-07-25T10:54:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_neighborhood_loading.TestZillowDataGrab" file="driver_scheduling/tests/apis/test_neighborhood_loading.py" line="73" name="test_load_state_neighborhoods_invalid_state" time="0.020" timestamp="2022-07-25T10:54:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

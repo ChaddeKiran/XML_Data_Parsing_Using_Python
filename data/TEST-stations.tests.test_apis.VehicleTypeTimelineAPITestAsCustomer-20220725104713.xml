@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_apis.py" name="stations.tests.test_apis.VehicleTypeTimelineAPITestAsCustomer-20220725104713" skipped="0" tests="4" time="6.068" timestamp="2022-07-25T10:53:15">
+	<testcase classname="stations.tests.test_apis.VehicleTypeTimelineAPITestAsCustomer" file="stations/tests/test_apis.py" line="2002" name="test_vehicle_type_timeline_api_with_one_vehicle_and_continuous_buffer_time" time="1.462" timestamp="2022-07-25T10:53:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.VehicleTypeTimelineAPITestAsCustomer" file="stations/tests/test_apis.py" line="1903" name="test_vehicle_type_timeline_api_with_single_vehicle_in_station" time="1.082" timestamp="2022-07-25T10:53:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.VehicleTypeTimelineAPITestAsCustomer" file="stations/tests/test_apis.py" line="1934" name="test_vehicle_type_timeline_api_with_two_vehicle_in_station" time="2.088" timestamp="2022-07-25T10:53:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.VehicleTypeTimelineAPITestAsCustomer" file="stations/tests/test_apis.py" line="1980" name="test_vehicle_type_timeline_api_with_two_vehicle_in_station_and_one_srr" time="1.436" timestamp="2022-07-25T10:53:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

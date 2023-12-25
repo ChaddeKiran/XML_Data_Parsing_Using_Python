@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestDropoffOverwritingAsBusinessAdmin-20220725104545" skipped="0" tests="3" time="2.598" timestamp="2022-07-25T10:47:30">
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2442" name="test_arrived_at_can_not_be_updated" time="0.875" timestamp="2022-07-25T10:47:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2432" name="test_dropoff_at_can_not_be_updated" time="0.838" timestamp="2022-07-25T10:47:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestDropoffOverwritingAsBusinessAdmin" file="trips/tests/apis/test_trips.py" line="2437" name="test_pickedup_at_can_not_be_updated" time="0.885" timestamp="2022-07-25T10:47:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

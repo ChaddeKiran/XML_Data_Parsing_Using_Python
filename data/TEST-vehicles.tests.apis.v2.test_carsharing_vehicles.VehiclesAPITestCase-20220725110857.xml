@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" name="vehicles.tests.apis.v2.test_carsharing_vehicles.VehiclesAPITestCase-20220725110857" skipped="1" tests="7" time="2.827" timestamp="2022-07-25T11:10:11">
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehiclesAPITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="221" name="test_filter_success" time="0.417" timestamp="2022-07-25T11:10:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehiclesAPITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="204" name="test_limited_serializer" time="0.893" timestamp="2022-07-25T11:10:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehiclesAPITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="235" name="test_logged_out_user_with_invalid_token" time="0.376" timestamp="2022-07-25T11:10:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehiclesAPITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="231" name="test_logged_out_user_with_valid_token" time="0.384" timestamp="2022-07-25T11:10:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehiclesAPITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="190" name="test_success" time="0.383" timestamp="2022-07-25T11:10:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehiclesAPITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="227" name="test_unauthenticated_request" time="0.373" timestamp="2022-07-25T11:10:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.apis.v2.test_carsharing_vehicles.VehiclesAPITestCase" file="vehicles/tests/apis/v2/test_carsharing_vehicles.py" line="240" name="test_num_queries" time="0.001" timestamp="2022-07-25T11:10:10">
+		<skipped message="Test too fragile and changes results with --keepdb" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

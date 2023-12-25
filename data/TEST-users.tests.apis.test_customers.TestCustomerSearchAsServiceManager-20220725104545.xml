@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_customers.py" name="users.tests.apis.test_customers.TestCustomerSearchAsServiceManager-20220725104545" skipped="0" tests="8" time="10.924" timestamp="2022-07-25T10:53:11">
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearchAsServiceManager" file="users/tests/apis/test_customers.py" line="857" name="test_find_nothing" time="1.318" timestamp="2022-07-25T10:53:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearchAsServiceManager" file="users/tests/apis/test_customers.py" line="868" name="test_search_by_email" time="1.321" timestamp="2022-07-25T10:53:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearchAsServiceManager" file="users/tests/apis/test_customers.py" line="861" name="test_search_by_full_name" time="1.294" timestamp="2022-07-25T10:53:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearchAsServiceManager" file="users/tests/apis/test_customers.py" line="871" name="test_search_by_id" time="1.504" timestamp="2022-07-25T10:53:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearchAsServiceManager" file="users/tests/apis/test_customers.py" line="864" name="test_search_by_phone" time="1.284" timestamp="2022-07-25T10:53:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearchAsServiceManager" file="users/tests/apis/test_customers.py" line="928" name="test_search_pagination_works" time="1.209" timestamp="2022-07-25T10:53:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearchAsServiceManager" file="users/tests/apis/test_customers.py" line="933" name="test_search_pagination_works_with_no_page_size" time="1.370" timestamp="2022-07-25T10:53:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_customers.TestCustomerSearchAsServiceManager" file="users/tests/apis/test_customers.py" line="919" name="test_service_names_exist" time="1.625" timestamp="2022-07-25T10:53:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_datetime_utils.py" name="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange-20220725104740" skipped="0" tests="21" time="0.034" timestamp="2022-07-25T11:06:40">
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="92" name="test_add" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="86" name="test_combine" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="115" name="test_consolidate" time="0.004" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="110" name="test_contains" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="162" name="test_date_time_ranges_even_division" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="187" name="test_date_time_ranges_large_interval" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="169" name="test_date_time_ranges_uneven_interval" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="49" name="test_equality" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="28" name="test_for_date" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="63" name="test_intersection" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="54" name="test_intersects" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="129" name="test_iter_dates" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="138" name="test_iter_dates_fails_with_0_interval" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="144" name="test_iter_dates_larger_interval" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="155" name="test_iter_times" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="34" name="test_len" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="44" name="test_repr" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="79" name="test_subset" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="96" name="test_subtract" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="69" name="test_superset" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestDateTimeRange" file="django_utils/tests/utils/test_datetime_utils.py" line="37" name="test_timedelta" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

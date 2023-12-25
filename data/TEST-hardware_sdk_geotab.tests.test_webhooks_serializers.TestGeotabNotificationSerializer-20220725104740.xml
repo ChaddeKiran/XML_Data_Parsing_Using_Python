@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" name="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabNotificationSerializer-20220725104740" skipped="0" tests="6" time="0.139" timestamp="2022-07-25T10:59:09">
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabNotificationSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="19" name="test_good_data" time="0.023" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabNotificationSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="23" name="test_missing_notification_id" time="0.025" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabNotificationSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="28" name="test_missing_optional_database" time="0.023" timestamp="2022-07-25T10:59:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabNotificationSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="43" name="test_missing_optional_internal_data" time="0.023" timestamp="2022-07-25T10:59:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabNotificationSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="33" name="test_missing_timestamp" time="0.024" timestamp="2022-07-25T10:59:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks_serializers.TestGeotabNotificationSerializer" file="hardware_sdk_geotab/tests/test_webhooks_serializers.py" line="38" name="test_missing_type" time="0.021" timestamp="2022-07-25T10:59:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

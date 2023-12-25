@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rest_utils/tests/test_authentication.py" name="rest_utils.tests.test_authentication.TestMFAVerifyAPI-20220725105046" skipped="0" tests="10" time="2.684" timestamp="2022-07-25T11:08:37">
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAVerifyAPI" file="rest_utils/tests/test_authentication.py" line="1055" name="test_case_all_numeric_code" time="0.393" timestamp="2022-07-25T11:08:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAVerifyAPI" file="rest_utils/tests/test_authentication.py" line="1034" name="test_case_insensitive_code" time="0.286" timestamp="2022-07-25T11:08:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAVerifyAPI" file="rest_utils/tests/test_authentication.py" line="1077" name="test_case_insensitive_nonce" time="0.330" timestamp="2022-07-25T11:08:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAVerifyAPI" file="rest_utils/tests/test_authentication.py" line="959" name="test_expired_nonce" time="0.214" timestamp="2022-07-25T11:08:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAVerifyAPI" file="rest_utils/tests/test_authentication.py" line="973" name="test_expired_nonce_cdc_only_has_user_profile" time="0.240" timestamp="2022-07-25T11:08:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAVerifyAPI" file="rest_utils/tests/test_authentication.py" line="1008" name="test_happy_flow" time="0.304" timestamp="2022-07-25T11:08:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAVerifyAPI" file="rest_utils/tests/test_authentication.py" line="987" name="test_incorrect_code" time="0.235" timestamp="2022-07-25T11:08:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAVerifyAPI" file="rest_utils/tests/test_authentication.py" line="909" name="test_incorrect_schema" time="0.265" timestamp="2022-07-25T11:08:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAVerifyAPI" file="rest_utils/tests/test_authentication.py" line="948" name="test_non_existence_nonce" time="0.214" timestamp="2022-07-25T11:08:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rest_utils.tests.test_authentication.TestMFAVerifyAPI" file="rest_utils/tests/test_authentication.py" line="944" name="test_unallowed_get_method" time="0.203" timestamp="2022-07-25T11:08:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

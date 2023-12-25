@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestCancellationFees-20220725105046" skipped="0" tests="9" time="5.852" timestamp="2022-07-25T10:59:36">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestCancellationFees" file="rentals/tests/apis/v3/test_scheduling.py" line="6005" name="test_cancellation_fees_after_cut_off_time_but_before_rental_has_gone_live" time="0.665" timestamp="2022-07-25T10:59:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestCancellationFees" file="rentals/tests/apis/v3/test_scheduling.py" line="6072" name="test_cancellation_fees_after_cut_off_time_but_before_rental_has_gone_live_as_customer" time="0.575" timestamp="2022-07-25T10:59:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestCancellationFees" file="rentals/tests/apis/v3/test_scheduling.py" line="6051" name="test_cancellation_fees_are_estimate_fare_amount_after_rental_has_gone_live" time="0.936" timestamp="2022-07-25T10:59:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestCancellationFees" file="rentals/tests/apis/v3/test_scheduling.py" line="6080" name="test_cancellation_fees_are_estimate_fare_amount_after_rental_has_gone_live_as_customer" time="1.043" timestamp="2022-07-25T10:59:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestCancellationFees" file="rentals/tests/apis/v3/test_scheduling.py" line="5994" name="test_cancellation_fees_are_zero_before_cut_off_time" time="0.456" timestamp="2022-07-25T10:59:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestCancellationFees" file="rentals/tests/apis/v3/test_scheduling.py" line="6068" name="test_cancellation_fees_are_zero_before_cut_off_time_as_customer" time="0.465" timestamp="2022-07-25T10:59:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestCancellationFees" file="rentals/tests/apis/v3/test_scheduling.py" line="5984" name="test_config" time="0.433" timestamp="2022-07-25T10:59:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestCancellationFees" file="rentals/tests/apis/v3/test_scheduling.py" line="6028" name="test_taxable_cancellation_fees_after_cut_off_time_but_before_rental_has_gone_live" time="0.639" timestamp="2022-07-25T10:59:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestCancellationFees" file="rentals/tests/apis/v3/test_scheduling.py" line="6076" name="test_taxable_cancellation_fees_after_cut_off_time_but_before_rental_has_gone_live_as_customer" time="0.640" timestamp="2022-07-25T10:59:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

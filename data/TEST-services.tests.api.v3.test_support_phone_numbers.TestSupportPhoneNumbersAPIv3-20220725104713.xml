@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/api/v3/test_support_phone_numbers.py" name="services.tests.api.v3.test_support_phone_numbers.TestSupportPhoneNumbersAPIv3-20220725104713" skipped="0" tests="5" time="0.689" timestamp="2022-07-25T10:47:42">
+	<testcase classname="services.tests.api.v3.test_support_phone_numbers.TestSupportPhoneNumbersAPIv3" file="services/tests/api/v3/test_support_phone_numbers.py" line="23" name="test_returns_market_phone_number_when_location_is_inside_a_market" time="0.164" timestamp="2022-07-25T10:47:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.api.v3.test_support_phone_numbers.TestSupportPhoneNumbersAPIv3" file="services/tests/api/v3/test_support_phone_numbers.py" line="66" name="test_returns_tenant_phone_number_when_location_coordinates_are_not_passed_to_the_api" time="0.148" timestamp="2022-07-25T10:47:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.api.v3.test_support_phone_numbers.TestSupportPhoneNumbersAPIv3" file="services/tests/api/v3/test_support_phone_numbers.py" line="52" name="test_returns_tenant_phone_number_when_location_coordinates_are_passed_as_none_and_none" time="0.136" timestamp="2022-07-25T10:47:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.api.v3.test_support_phone_numbers.TestSupportPhoneNumbersAPIv3" file="services/tests/api/v3/test_support_phone_numbers.py" line="98" name="test_returns_tenant_phone_number_when_location_is_inside_a_market_but_market_phone_number_is_blank" time="0.125" timestamp="2022-07-25T10:47:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.api.v3.test_support_phone_numbers.TestSupportPhoneNumbersAPIv3" file="services/tests/api/v3/test_support_phone_numbers.py" line="79" name="test_returns_tenant_phone_number_when_location_is_outside_all_markets" time="0.117" timestamp="2022-07-25T10:47:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="data_pipeline/tests/models/test_data_pipeline.py" name="data_pipeline.tests.models.test_data_pipeline.TestCouponActivationAndUsageToDataPipeline-20220725104740" skipped="0" tests="4" time="1.587" timestamp="2022-07-25T10:54:00">
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestCouponActivationAndUsageToDataPipeline" file="data_pipeline/tests/models/test_data_pipeline.py" line="227" name="test_do_not_send_coupon_activation_to_data_pipeline_if_flag_off" time="0.112" timestamp="2022-07-25T10:53:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestCouponActivationAndUsageToDataPipeline" file="data_pipeline/tests/models/test_data_pipeline.py" line="249" name="test_do_not_send_coupon_credits_used_to_data_pipeline_if_flag_off" time="0.356" timestamp="2022-07-25T10:53:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestCouponActivationAndUsageToDataPipeline" file="data_pipeline/tests/models/test_data_pipeline.py" line="238" name="test_send_coupon_activation_to_data_pipeline_if_flag_on" time="0.125" timestamp="2022-07-25T10:53:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="data_pipeline.tests.models.test_data_pipeline.TestCouponActivationAndUsageToDataPipeline" file="data_pipeline/tests/models/test_data_pipeline.py" line="265" name="test_send_coupon_credits_used_to_data_pipeline_if_flag_on" time="0.995" timestamp="2022-07-25T10:54:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

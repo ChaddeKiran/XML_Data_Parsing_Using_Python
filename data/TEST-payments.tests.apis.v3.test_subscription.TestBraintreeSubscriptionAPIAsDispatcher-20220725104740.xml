@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_subscription.py" name="payments.tests.apis.v3.test_subscription.TestBraintreeSubscriptionAPIAsDispatcher-20220725104740" skipped="0" tests="2" time="1.387" timestamp="2022-07-25T11:06:25">
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestBraintreeSubscriptionAPIAsDispatcher" file="payments/tests/apis/v3/test_subscription.py" line="691" name="test_cancel_subscription" time="0.735" timestamp="2022-07-25T11:06:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_subscription.TestBraintreeSubscriptionAPIAsDispatcher" file="payments/tests/apis/v3/test_subscription.py" line="711" name="test_lease_srr_subscription_on_credit_card_in_use_update" time="0.653" timestamp="2022-07-25T11:06:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

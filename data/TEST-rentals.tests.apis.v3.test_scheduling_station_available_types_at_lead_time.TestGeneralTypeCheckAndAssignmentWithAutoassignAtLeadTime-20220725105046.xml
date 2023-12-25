@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" name="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime-20220725105046" skipped="0" tests="15" time="34.375" timestamp="2022-07-25T11:04:48">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="295" name="test_no_available_vehicles" time="1.224" timestamp="2022-07-25T11:04:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="326" name="test_one_vehicle_one_type_concurrent" time="2.857" timestamp="2022-07-25T11:04:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="473" name="test_one_vehicle_one_type_consecutive" time="5.296" timestamp="2022-07-25T11:04:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="650" name="test_one_vehicle_one_type_consecutive_availability_buffer_should_apply" time="1.762" timestamp="2022-07-25T11:04:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="943" name="test_one_vehicle_one_type_in_another_service_should_convert_fix_by_adding_to_group" time="3.060" timestamp="2022-07-25T11:04:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="902" name="test_one_vehicle_one_type_in_another_service_should_not_be_assigned_without_a_group_link" time="1.712" timestamp="2022-07-25T11:04:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="1082" name="test_one_vehicles_one_type_concurrent_with_vehicle_block" time="0.881" timestamp="2022-07-25T11:04:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="1112" name="test_one_vehicles_one_type_non_concurrent_with_vehicle_block" time="1.128" timestamp="2022-07-25T11:04:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="385" name="test_two_vehicles_one_type_concurrent" time="6.391" timestamp="2022-07-25T11:04:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="990" name="test_two_vehicles_one_type_concurrent_with_vehicle_block" time="1.394" timestamp="2022-07-25T11:04:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="1038" name="test_two_vehicles_one_type_concurrent_with_vehicle_block_and_assigned_rental" time="1.157" timestamp="2022-07-25T11:04:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="565" name="test_two_vehicles_one_type_consecutive" time="2.457" timestamp="2022-07-25T11:04:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="833" name="test_two_vehicles_one_type_with_second_vehicle_in_another_station" time="1.891" timestamp="2022-07-25T11:04:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="720" name="test_two_vehicles_one_type_with_second_vehicle_in_service_only_and_not_in_station" time="1.644" timestamp="2022-07-25T11:04:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling_station_available_types_at_lead_time.TestGeneralTypeCheckAndAssignmentWithAutoassignAtLeadTime" file="rentals/tests/apis/v3/test_scheduling_station_available_types_at_lead_time.py" line="777" name="test_two_vehicles_one_type_with_second_vehicle_without_group" time="1.522" timestamp="2022-07-25T11:04:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'vehicles.models.vehicles_models.VehicleType'> VehicleTypeQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+</testsuite>

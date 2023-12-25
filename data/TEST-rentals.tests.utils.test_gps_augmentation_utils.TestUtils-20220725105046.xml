@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/utils/test_gps_augmentation_utils.py" name="rentals.tests.utils.test_gps_augmentation_utils.TestUtils-20220725105046" skipped="0" tests="4" time="0.449" timestamp="2022-07-25T11:08:12">
+	<testcase classname="rentals.tests.utils.test_gps_augmentation_utils.TestUtils" file="rentals/tests/utils/test_gps_augmentation_utils.py" line="57" name="test_bad_data_does_nothing" time="0.101" timestamp="2022-07-25T11:08:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_gps_augmentation_utils.TestUtils" file="rentals/tests/utils/test_gps_augmentation_utils.py" line="50" name="test_good_data_sets_key" time="0.150" timestamp="2022-07-25T11:08:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_gps_augmentation_utils.TestUtils" file="rentals/tests/utils/test_gps_augmentation_utils.py" line="76" name="test_new_bad_data_does_not_affect_old_data" time="0.099" timestamp="2022-07-25T11:08:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_gps_augmentation_utils.TestUtils" file="rentals/tests/utils/test_gps_augmentation_utils.py" line="65" name="test_new_data_overwrites_old_data_and_sets_key" time="0.098" timestamp="2022-07-25T11:08:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

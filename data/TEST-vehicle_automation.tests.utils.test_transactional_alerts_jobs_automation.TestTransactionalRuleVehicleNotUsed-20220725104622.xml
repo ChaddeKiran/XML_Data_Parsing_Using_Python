@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" name="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleVehicleNotUsed-20220725104622" skipped="0" tests="3" time="4.556" timestamp="2022-07-25T10:56:04">
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleVehicleNotUsed" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1072" name="test_unused_transactional_rule_booked_x_hrs_should_not_create_alert" time="1.513" timestamp="2022-07-25T10:56:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleVehicleNotUsed" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1024" name="test_unused_transactional_rule_not_booked_x_hrs_create_alert" time="1.802" timestamp="2022-07-25T10:56:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.utils.test_transactional_alerts_jobs_automation.TestTransactionalRuleVehicleNotUsed" file="vehicle_automation/tests/utils/test_transactional_alerts_jobs_automation.py" line="1102" name="test_unused_transactional_rule_not_booked_x_hrs_with_existing_open_alert" time="1.240" timestamp="2022-07-25T10:56:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

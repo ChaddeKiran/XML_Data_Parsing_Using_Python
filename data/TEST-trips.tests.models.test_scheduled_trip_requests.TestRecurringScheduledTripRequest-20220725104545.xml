@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/models/test_scheduled_trip_requests.py" name="trips.tests.models.test_scheduled_trip_requests.TestRecurringScheduledTripRequest-20220725104545" skipped="0" tests="2" time="3.204" timestamp="2022-07-25T10:49:26">
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestRecurringScheduledTripRequest" file="trips/tests/models/test_scheduled_trip_requests.py" line="460" name="test_recurring_ride" time="1.545" timestamp="2022-07-25T10:49:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.models.test_scheduled_trip_requests.TestRecurringScheduledTripRequest" file="trips/tests/models/test_scheduled_trip_requests.py" line="499" name="test_recurring_ride_flow" time="1.659" timestamp="2022-07-25T10:49:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

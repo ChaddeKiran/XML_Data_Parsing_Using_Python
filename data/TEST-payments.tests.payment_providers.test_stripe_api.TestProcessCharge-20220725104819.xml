@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_stripe_api.py" name="payments.tests.payment_providers.test_stripe_api.TestProcessCharge-20220725104819" skipped="0" tests="4" time="0.256" timestamp="2022-07-25T10:49:23">
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestProcessCharge" file="payments/tests/payment_providers/test_stripe_api.py" line="130" name="test_capture_failure_invalid_card" time="0.084" timestamp="2022-07-25T10:49:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestProcessCharge" file="payments/tests/payment_providers/test_stripe_api.py" line="118" name="test_capture_success" time="0.052" timestamp="2022-07-25T10:49:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestProcessCharge" file="payments/tests/payment_providers/test_stripe_api.py" line="160" name="test_no_capture_failure" time="0.071" timestamp="2022-07-25T10:49:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestProcessCharge" file="payments/tests/payment_providers/test_stripe_api.py" line="148" name="test_no_capture_success" time="0.050" timestamp="2022-07-25T10:49:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

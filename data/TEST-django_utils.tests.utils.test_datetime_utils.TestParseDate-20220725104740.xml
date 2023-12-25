@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_datetime_utils.py" name="django_utils.tests.utils.test_datetime_utils.TestParseDate-20220725104740" skipped="0" tests="10" time="0.010" timestamp="2022-07-25T11:06:40">
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestParseDate" file="django_utils/tests/utils/test_datetime_utils.py" line="207" name="test_date" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestParseDate" file="django_utils/tests/utils/test_datetime_utils.py" line="238" name="test_date_with_timezone" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestParseDate" file="django_utils/tests/utils/test_datetime_utils.py" line="212" name="test_datetime" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestParseDate" file="django_utils/tests/utils/test_datetime_utils.py" line="246" name="test_datetime_with_timezone" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestParseDate" file="django_utils/tests/utils/test_datetime_utils.py" line="199" name="test_string_american" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestParseDate" file="django_utils/tests/utils/test_datetime_utils.py" line="224" name="test_string_american_with_timezone" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestParseDate" file="django_utils/tests/utils/test_datetime_utils.py" line="203" name="test_string_long_format" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestParseDate" file="django_utils/tests/utils/test_datetime_utils.py" line="231" name="test_string_long_format_with_timezone" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestParseDate" file="django_utils/tests/utils/test_datetime_utils.py" line="195" name="test_string_standard" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestParseDate" file="django_utils/tests/utils/test_datetime_utils.py" line="217" name="test_string_standard_with_timezone" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

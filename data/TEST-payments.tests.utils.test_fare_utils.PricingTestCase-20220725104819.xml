@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_fare_utils.py" name="payments.tests.utils.test_fare_utils.PricingTestCase-20220725104819" skipped="0" tests="1" time="0.025" timestamp="2022-07-25T10:52:08">
+	<testcase classname="payments.tests.utils.test_fare_utils.PricingTestCase" file="payments/tests/utils/test_fare_utils.py" line="12" name="test_fare_estimate" time="0.025" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

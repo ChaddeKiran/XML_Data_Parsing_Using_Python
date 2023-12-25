@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/utils/test_promotion_eligibility_processors.py" name="promotions.tests.utils.test_promotion_eligibility_processors.TakeMTripsGetNCreditsProcessorTest-20220725104819" skipped="0" tests="7" time="1.207" timestamp="2022-07-25T11:00:08">
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.TakeMTripsGetNCreditsProcessorTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="162" name="test_compute_state_doesnt_increment_rides_completed_when_amount_spent_is_lt_min_spend_required" time="0.167" timestamp="2022-07-25T11:00:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.TakeMTripsGetNCreditsProcessorTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="153" name="test_compute_state_increments_rides_completed" time="0.167" timestamp="2022-07-25T11:00:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.TakeMTripsGetNCreditsProcessorTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="157" name="test_compute_state_increments_rides_completed_when_amount_spent_is_gte_min_spend_required" time="0.169" timestamp="2022-07-25T11:00:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.TakeMTripsGetNCreditsProcessorTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="174" name="test_customer_is_not_eligible_if_promotion_has_already_been_used" time="0.192" timestamp="2022-07-25T11:00:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.TakeMTripsGetNCreditsProcessorTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="182" name="test_progress_label_can_be_generated_by_processor" time="0.173" timestamp="2022-07-25T11:00:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.TakeMTripsGetNCreditsProcessorTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="171" name="test_reserved_coupon_status_eligibility_is_false" time="0.171" timestamp="2022-07-25T11:00:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.utils.test_promotion_eligibility_processors.TakeMTripsGetNCreditsProcessorTest" file="promotions/tests/utils/test_promotion_eligibility_processors.py" line="167" name="test_reserved_coupon_status_eligibility_is_true" time="0.169" timestamp="2022-07-25T11:00:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

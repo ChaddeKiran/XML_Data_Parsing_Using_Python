@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/serializers/test_trips.py" name="trips.tests.serializers.test_trips.TestTripSerializer-20220725104545" skipped="0" tests="8" time="5.196" timestamp="2022-07-25T10:50:20">
+	<testcase classname="trips.tests.serializers.test_trips.TestTripSerializer" file="trips/tests/serializers/test_trips.py" line="154" name="test_customer_blocked" time="0.555" timestamp="2022-07-25T10:50:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestTripSerializer" file="trips/tests/serializers/test_trips.py" line="182" name="test_service_period" time="0.521" timestamp="2022-07-25T10:50:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestTripSerializer" file="trips/tests/serializers/test_trips.py" line="218" name="test_sms_prerequisite_for_kiosk" time="1.262" timestamp="2022-07-25T10:50:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestTripSerializer" file="trips/tests/serializers/test_trips.py" line="205" name="test_sms_prerequisite_for_kiosk_exception" time="0.520" timestamp="2022-07-25T10:50:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestTripSerializer" file="trips/tests/serializers/test_trips.py" line="167" name="test_trip_same_location" time="0.556" timestamp="2022-07-25T10:50:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestTripSerializer" file="trips/tests/serializers/test_trips.py" line="124" name="test_validate_no_customer_with_phone" time="0.552" timestamp="2022-07-25T10:50:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestTripSerializer" file="trips/tests/serializers/test_trips.py" line="146" name="test_validate_unverified_verification_off" time="0.652" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.serializers.test_trips.TestTripSerializer" file="trips/tests/serializers/test_trips.py" line="134" name="test_validate_unverified_verification_on" time="0.578" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

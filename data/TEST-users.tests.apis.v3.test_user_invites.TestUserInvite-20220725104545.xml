@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_user_invites.py" name="users.tests.apis.v3.test_user_invites.TestUserInvite-20220725104545" skipped="1" tests="24" time="38.810" timestamp="2022-07-25T11:05:25">
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="96" name="test_create_duplicate_user_invite_with_same_email" time="1.661" timestamp="2022-07-25T11:04:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="113" name="test_create_duplicate_user_invite_with_same_email_01" time="1.816" timestamp="2022-07-25T11:04:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="33" name="test_create_user_invite" time="1.634" timestamp="2022-07-25T11:04:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="518" name="test_create_user_invite_with_b2b_disabled" time="1.742" timestamp="2022-07-25T11:04:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="131" name="test_create_user_invite_with_existing_rfid_for_another_user_invite" time="1.705" timestamp="2022-07-25T11:04:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="181" name="test_create_user_invite_with_invalid_user_groups" time="1.713" timestamp="2022-07-25T11:04:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="62" name="test_create_user_invite_with_rfid" time="1.754" timestamp="2022-07-25T11:04:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="161" name="test_create_user_invite_with_valid_user_groups" time="1.726" timestamp="2022-07-25T11:05:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="150" name="test_create_user_invite_without_business_entity" time="1.149" timestamp="2022-07-25T11:05:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="471" name="test_filter_by_business_entity_id" time="2.815" timestamp="2022-07-25T11:05:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'users.models.users_models.UserInvite'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="270" name="test_invite_revoked_user_invite" time="1.483" timestamp="2022-07-25T11:05:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="347" name="test_resend_invitation" time="1.194" timestamp="2022-07-25T11:05:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="387" name="test_resend_invitation_when_activation_code_is_expired" time="1.236" timestamp="2022-07-25T11:05:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="373" name="test_resend_invitation_when_invitation_is_already_accepted" time="0.999" timestamp="2022-07-25T11:05:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="359" name="test_resend_invitation_when_invitation_is_revoked" time="1.087" timestamp="2022-07-25T11:05:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="220" name="test_revoke_user_invite" time="1.240" timestamp="2022-07-25T11:05:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="292" name="test_revoke_user_invite_while_in_active_rental" time="1.501" timestamp="2022-07-25T11:05:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="259" name="test_revoking_user_invite_with_rfid_does_not_throw_false_error" time="1.242" timestamp="2022-07-25T11:05:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="495" name="test_search_user_invites" time="2.520" timestamp="2022-07-25T11:05:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="436" name="test_send_user_invite_status_invited_to_data_pipeline" time="4.001" timestamp="2022-07-25T11:05:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7f31e77f26a0>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="333" name="test_status_change_from_accepted_to_invited" time="1.220" timestamp="2022-07-25T11:05:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="320" name="test_status_change_to_accepted" time="1.223" timestamp="2022-07-25T11:05:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="201" name="test_update_user_groups_of_user_invite" time="2.146" timestamp="2022-07-25T11:05:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_user_invites.TestUserInvite" file="users/tests/apis/v3/test_user_invites.py" line="403" name="test_send_user_invite_status_changed_to_data_pipeline" time="0.004" timestamp="2022-07-25T11:05:16">
+		<skipped message="Will fix in PCR2021-1" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

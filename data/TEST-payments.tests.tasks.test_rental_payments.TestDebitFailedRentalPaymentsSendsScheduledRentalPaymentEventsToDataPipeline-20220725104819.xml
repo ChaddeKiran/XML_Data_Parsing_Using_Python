@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/tasks/test_rental_payments.py" name="payments.tests.tasks.test_rental_payments.TestDebitFailedRentalPaymentsSendsScheduledRentalPaymentEventsToDataPipeline-20220725104819" skipped="0" tests="1" time="1.926" timestamp="2022-07-25T10:49:58">
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestDebitFailedRentalPaymentsSendsScheduledRentalPaymentEventsToDataPipeline" file="payments/tests/tasks/test_rental_payments.py" line="280" name="test_debit_failed_rental_payments_logs_scheduled_rental_payment_state_change_to_data_pipeline" time="1.926" timestamp="2022-07-25T10:49:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

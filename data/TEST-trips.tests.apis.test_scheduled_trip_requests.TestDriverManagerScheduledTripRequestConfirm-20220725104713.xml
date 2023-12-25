@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestDriverManagerScheduledTripRequestConfirm-20220725104713" skipped="0" tests="1" time="0.643" timestamp="2022-07-25T10:58:48">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestDriverManagerScheduledTripRequestConfirm" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3114" name="test_scheduled_trip_request_confirm_by_driver_manager" time="0.643" timestamp="2022-07-25T10:58:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

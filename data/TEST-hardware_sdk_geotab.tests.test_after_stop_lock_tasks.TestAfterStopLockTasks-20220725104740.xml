@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_after_stop_lock_tasks.py" name="hardware_sdk_geotab.tests.test_after_stop_lock_tasks.TestAfterStopLockTasks-20220725104740" skipped="0" tests="7" time="0.229" timestamp="2022-07-25T10:58:04">
+	<testcase classname="hardware_sdk_geotab.tests.test_after_stop_lock_tasks.TestAfterStopLockTasks" file="hardware_sdk_geotab/tests/test_after_stop_lock_tasks.py" line="57" name="test_check_for_interrupting_events" time="0.035" timestamp="2022-07-25T10:58:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_after_stop_lock_tasks.TestAfterStopLockTasks" file="hardware_sdk_geotab/tests/test_after_stop_lock_tasks.py" line="68" name="test_execute_lock_doors" time="0.027" timestamp="2022-07-25T10:58:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_after_stop_lock_tasks.TestAfterStopLockTasks" file="hardware_sdk_geotab/tests/test_after_stop_lock_tasks.py" line="76" name="test_execute_lock_doors_was_cancelled" time="0.028" timestamp="2022-07-25T10:58:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_after_stop_lock_tasks.TestAfterStopLockTasks" file="hardware_sdk_geotab/tests/test_after_stop_lock_tasks.py" line="52" name="test_schedule_lock_doors_engine_stopped_0_minutes_ago" time="0.034" timestamp="2022-07-25T10:58:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_after_stop_lock_tasks.TestAfterStopLockTasks" file="hardware_sdk_geotab/tests/test_after_stop_lock_tasks.py" line="37" name="test_schedule_lock_doors_engine_stopped_100_minutes_ago" time="0.036" timestamp="2022-07-25T10:58:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_after_stop_lock_tasks.TestAfterStopLockTasks" file="hardware_sdk_geotab/tests/test_after_stop_lock_tasks.py" line="47" name="test_schedule_lock_doors_engine_stopped_2_minutes_ago" time="0.036" timestamp="2022-07-25T10:58:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_after_stop_lock_tasks.TestAfterStopLockTasks" file="hardware_sdk_geotab/tests/test_after_stop_lock_tasks.py" line="42" name="test_schedule_lock_doors_engine_stopped_5_minutes_ago" time="0.034" timestamp="2022-07-25T10:58:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

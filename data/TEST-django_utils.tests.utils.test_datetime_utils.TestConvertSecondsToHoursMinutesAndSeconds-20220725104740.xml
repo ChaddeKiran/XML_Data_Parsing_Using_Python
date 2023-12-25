@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_datetime_utils.py" name="django_utils.tests.utils.test_datetime_utils.TestConvertSecondsToHoursMinutesAndSeconds-20220725104740" skipped="0" tests="2" time="0.002" timestamp="2022-07-25T11:06:40">
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestConvertSecondsToHoursMinutesAndSeconds" file="django_utils/tests/utils/test_datetime_utils.py" line="268" name="test_convert_seconds_to_hours_and_minutes_less_than_hour" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_datetime_utils.TestConvertSecondsToHoursMinutesAndSeconds" file="django_utils/tests/utils/test_datetime_utils.py" line="273" name="test_convert_seconds_to_hours_and_minutes_more_than_hour" time="0.001" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

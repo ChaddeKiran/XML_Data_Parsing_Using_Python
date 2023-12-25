@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="websockets/tests/test_documentation.py" name="websockets.tests.test_documentation.TestWebsocketDocs-20220725104622" skipped="0" tests="2" time="0.557" timestamp="2022-07-25T11:06:42">
+	<testcase classname="websockets.tests.test_documentation.TestWebsocketDocs" file="websockets/tests/test_documentation.py" line="13" name="test_bindings_auto_docs_load_with_debug" time="0.301" timestamp="2022-07-25T11:06:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="websockets.tests.test_documentation.TestWebsocketDocs" file="websockets/tests/test_documentation.py" line="8" name="test_bindings_auto_docs_load_without_debug" time="0.255" timestamp="2022-07-25T11:06:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/test_customers_cards.py" name="payments.tests.apis.test_customers_cards.TestGetActiveCard-20220725104740" skipped="0" tests="7" time="3.401" timestamp="2022-07-25T11:04:30">
+	<testcase classname="payments.tests.apis.test_customers_cards.TestGetActiveCard" file="payments/tests/apis/test_customers_cards.py" line="1392" name="test_added_invalid_card_to_cards" time="0.438" timestamp="2022-07-25T11:04:27">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestGetActiveCard" file="payments/tests/apis/test_customers_cards.py" line="1366" name="test_many_in_use_cards" time="1.016" timestamp="2022-07-25T11:04:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestGetActiveCard" file="payments/tests/apis/test_customers_cards.py" line="1380" name="test_many_not_in_use_cards" time="1.242" timestamp="2022-07-25T11:04:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestGetActiveCard" file="payments/tests/apis/test_customers_cards.py" line="1353" name="test_marking_in_use_card_false_will_not_promote_prior_is_valid_card" time="0.222" timestamp="2022-07-25T11:04:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestGetActiveCard" file="payments/tests/apis/test_customers_cards.py" line="1344" name="test_one_card" time="0.231" timestamp="2022-07-25T11:04:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestGetActiveCard" file="payments/tests/apis/test_customers_cards.py" line="1359" name="test_one_not_in_use_invalid_card" time="0.226" timestamp="2022-07-25T11:04:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.test_customers_cards.TestGetActiveCard" file="payments/tests/apis/test_customers_cards.py" line="1341" name="test_zero_cards" time="0.025" timestamp="2022-07-25T11:04:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

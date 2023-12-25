@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="driver_scheduling/tests/apis/test_zones.py" name="driver_scheduling.tests.apis.test_zones.TestZonesAPI-20220725104740" skipped="0" tests="17" time="10.826" timestamp="2022-07-25T10:56:02">
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="172" name="test_create_zone" time="0.548" timestamp="2022-07-25T10:55:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="216" name="test_create_zone_with_invalid_service_geometry" time="0.633" timestamp="2022-07-25T10:55:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="225" name="test_create_zone_with_no_service_region_overlap" time="0.531" timestamp="2022-07-25T10:55:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="233" name="test_delete_zone" time="0.539" timestamp="2022-07-25T10:55:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="210" name="test_get_service_region_geometry_with_invalid_service_region_geometry" time="0.667" timestamp="2022-07-25T10:55:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="241" name="test_patch_zone" time="0.716" timestamp="2022-07-25T10:55:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="265" name="test_patch_zone_no_neighborhood_change" time="0.659" timestamp="2022-07-25T10:55:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="280" name="test_patch_zone_service" time="0.726" timestamp="2022-07-25T10:55:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="136" name="test_zone_get" time="1.233" timestamp="2022-07-25T10:55:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="149" name="test_zone_get_expand" time="0.534" timestamp="2022-07-25T10:55:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="158" name="test_zone_get_expand_geojson" time="0.542" timestamp="2022-07-25T10:55:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="143" name="test_zone_get_with_no_neighborhoods_returns_valid_geometry" time="0.550" timestamp="2022-07-25T10:55:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="92" name="test_zone_list" time="0.551" timestamp="2022-07-25T10:55:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'locations.models.locations_models.Zone'> ZoneQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="109" name="test_zone_list_expand" time="0.549" timestamp="2022-07-25T10:56:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="124" name="test_zone_list_expand_geojson" time="0.568" timestamp="2022-07-25T10:56:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="116" name="test_zone_list_geojson" time="0.557" timestamp="2022-07-25T10:56:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="driver_scheduling.tests.apis.test_zones.TestZonesAPI" file="driver_scheduling/tests/apis/test_zones.py" line="100" name="test_zone_list_only_one_service" time="0.725" timestamp="2022-07-25T10:56:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

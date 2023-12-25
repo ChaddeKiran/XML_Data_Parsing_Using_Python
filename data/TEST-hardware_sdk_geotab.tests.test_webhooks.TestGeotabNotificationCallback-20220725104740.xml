@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_geotab/tests/test_webhooks.py" name="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback-20220725104740" skipped="0" tests="13" time="11.037" timestamp="2022-07-25T10:59:08">
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="193" name="test_application_json_content_type" time="1.088" timestamp="2022-07-25T10:58:58">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="326" name="test_existing_rental_attempted_steal" time="0.724" timestamp="2022-07-25T10:58:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="154" name="test_incorrect_validate_token" time="0.040" timestamp="2022-07-25T10:58:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="162" name="test_invalid_type" time="0.039" timestamp="2022-07-25T10:58:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="316" name="test_reissue_checkin_for_active_rental" time="0.571" timestamp="2022-07-25T10:58:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="210" name="test_rfid_no_matching_customer" time="0.054" timestamp="2022-07-25T10:58:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="243" name="test_rfid_reservation_requested_confirmed_with_multiple_matching_rfids" time="1.684" timestamp="2022-07-25T10:59:01">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="180" name="test_rfid_start_rental" time="1.020" timestamp="2022-07-25T10:59:02">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="261" name="test_rfid_start_rental_carsharing_hardware_not_geotab" time="0.316" timestamp="2022-07-25T10:59:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="295" name="test_rfid_start_rental_mimic_ota_checkin_expired" time="2.445" timestamp="2022-07-25T10:59:05">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="225" name="test_rfid_vendor_action_error" time="1.461" timestamp="2022-07-25T10:59:06">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="275" name="test_stale_checkin_notification" time="1.547" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (33.3, 12.2, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_geotab.tests.test_webhooks.TestGeotabNotificationCallback" file="hardware_sdk_geotab/tests/test_webhooks.py" line="171" name="test_type_2_validation_request" time="0.048" timestamp="2022-07-25T10:59:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

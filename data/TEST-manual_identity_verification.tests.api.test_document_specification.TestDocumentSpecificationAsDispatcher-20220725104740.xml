@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="manual_identity_verification/tests/api/test_document_specification.py" name="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecificationAsDispatcher-20220725104740" skipped="0" tests="6" time="1.984" timestamp="2022-07-25T11:02:47">
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecificationAsDispatcher" file="manual_identity_verification/tests/api/test_document_specification.py" line="168" name="test_document_as_anonymouse" time="0.300" timestamp="2022-07-25T11:02:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecificationAsDispatcher" file="manual_identity_verification/tests/api/test_document_specification.py" line="158" name="test_document_as_dispatcher" time="0.343" timestamp="2022-07-25T11:02:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecificationAsDispatcher" file="manual_identity_verification/tests/api/test_document_specification.py" line="134" name="test_list_as_anonymouse" time="0.344" timestamp="2022-07-25T11:02:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecificationAsDispatcher" file="manual_identity_verification/tests/api/test_document_specification.py" line="122" name="test_list_as_dispatcher" time="0.286" timestamp="2022-07-25T11:02:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecificationAsDispatcher" file="manual_identity_verification/tests/api/test_document_specification.py" line="143" name="test_list_filter_as_anonymouse" time="0.375" timestamp="2022-07-25T11:02:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_document_specification.TestDocumentSpecificationAsDispatcher" file="manual_identity_verification/tests/api/test_document_specification.py" line="126" name="test_list_filter_as_dispatcher" time="0.336" timestamp="2022-07-25T11:02:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

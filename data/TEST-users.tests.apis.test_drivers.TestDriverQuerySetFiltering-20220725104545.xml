@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_drivers.py" name="users.tests.apis.test_drivers.TestDriverQuerySetFiltering-20220725104545" skipped="1" tests="5" time="1.141" timestamp="2022-07-25T10:55:25">
+	<testcase classname="users.tests.apis.test_drivers.TestDriverQuerySetFiltering" file="users/tests/apis/test_drivers.py" line="82" name="test_current_scheduled_trip_driver_is_filtered" time="0.766" timestamp="2022-07-25T10:55:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverQuerySetFiltering" file="users/tests/apis/test_drivers.py" line="92" name="test_drivers_with_no_trips_are_not_filtered" time="0.042" timestamp="2022-07-25T10:55:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverQuerySetFiltering" file="users/tests/apis/test_drivers.py" line="97" name="test_upcoming_ignored_scheduled_trip_avoids_filtering" time="0.170" timestamp="2022-07-25T10:55:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverQuerySetFiltering" file="users/tests/apis/test_drivers.py" line="59" name="test_upcoming_scheduled_drivers_are_filtered" time="0.159" timestamp="2022-07-25T10:55:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_drivers.TestDriverQuerySetFiltering" file="users/tests/apis/test_drivers.py" line="65" name="test_upcoming_scheduled_drivers_not_filtered_after_pickup" time="0.003" timestamp="2022-07-25T10:55:25">
+		<skipped message="Test too fragile and changes results. Will revisit later." type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

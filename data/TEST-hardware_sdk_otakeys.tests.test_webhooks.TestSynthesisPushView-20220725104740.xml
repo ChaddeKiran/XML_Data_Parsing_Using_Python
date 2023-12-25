@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_otakeys/tests/test_webhooks.py" name="hardware_sdk_otakeys.tests.test_webhooks.TestSynthesisPushView-20220725104740" skipped="0" tests="2" time="2.675" timestamp="2022-07-25T11:02:09">
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestSynthesisPushView" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="641" name="test_synthesis_from_otaree" time="1.322" timestamp="2022-07-25T11:02:07">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (40.43116, -3.665202, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_otakeys.tests.test_webhooks.TestSynthesisPushView" file="hardware_sdk_otakeys/tests/test_webhooks.py" line="618" name="test_synthesis_sends_to_datapipeline" time="1.353" timestamp="2022-07-25T11:02:09">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (47.612747, -122.34534, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

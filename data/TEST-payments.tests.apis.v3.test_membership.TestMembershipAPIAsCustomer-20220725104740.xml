@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/apis/v3/test_membership.py" name="payments.tests.apis.v3.test_membership.TestMembershipAPIAsCustomer-20220725104740" skipped="0" tests="4" time="1.134" timestamp="2022-07-25T11:06:07">
+	<testcase classname="payments.tests.apis.v3.test_membership.TestMembershipAPIAsCustomer" file="payments/tests/apis/v3/test_membership.py" line="223" name="test_create_membership" time="0.328" timestamp="2022-07-25T11:06:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_membership.TestMembershipAPIAsCustomer" file="payments/tests/apis/v3/test_membership.py" line="232" name="test_delete_membership" time="0.261" timestamp="2022-07-25T11:06:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_membership.TestMembershipAPIAsCustomer" file="payments/tests/apis/v3/test_membership.py" line="211" name="test_list_membership" time="0.303" timestamp="2022-07-25T11:06:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.apis.v3.test_membership.TestMembershipAPIAsCustomer" file="payments/tests/apis/v3/test_membership.py" line="227" name="test_update_membership" time="0.242" timestamp="2022-07-25T11:06:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

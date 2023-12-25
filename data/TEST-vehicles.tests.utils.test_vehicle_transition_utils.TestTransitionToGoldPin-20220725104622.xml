@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/utils/test_vehicle_transition_utils.py" name="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin-20220725104622" skipped="0" tests="13" time="11.982" timestamp="2022-07-25T11:05:55">
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_discounted_vehicle_group_can_not_be_shared_with_multiple_services" time="0.767" timestamp="2022-07-25T11:05:44">
+		<system-out>
+<![CDATA[
+:: Model vehicles.models.carsharing_vehicles.ServiceDiscountVehicleGroup (None)
+id: None
+created_at: 2022-07-25 11:05:44.462555+00:00
+updated_at: 2022-07-25 11:05:44.462569+00:00
+service: CarsharingService CSService 1112 (1115)
+vehicle_group:  VehicleGroup id=939 created_at=2022-07-25T11:05:44.304462+00:00 updated_at=2022-07-25T11:05:44.304477+00:00 name=Vehicle Group 888
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_changes_marker_type" time="0.896" timestamp="2022-07-25T11:05:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_changes_marker_type_even_when_earlier_marker_type_is_none" time="1.057" timestamp="2022-07-25T11:05:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_changes_vehicle_group" time="0.899" timestamp="2022-07-25T11:05:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_changes_vehicle_type_if_configured" time="1.000" timestamp="2022-07-25T11:05:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_does_not_change_vehicle_type_if_not_configured" time="0.988" timestamp="2022-07-25T11:05:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_is_atomic_and_rolls_back_on_failure" time="0.763" timestamp="2022-07-25T11:05:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_is_no_op_when_vehicle_has_already_transitioned_to_gold_pin" time="0.907" timestamp="2022-07-25T11:05:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_results_in_vehicle_transition_log_creation_with_history" time="0.931" timestamp="2022-07-25T11:05:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_triggers_vehicle_history" time="0.893" timestamp="2022-07-25T11:05:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_when_at_least_one_service_with_discounted_vehicle_group_exists" time="1.152" timestamp="2022-07-25T11:05:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="22" name="test_transition_to_gold_pin_when_multiple_services_with_discounted_vehicle_group_exist" time="1.091" timestamp="2022-07-25T11:05:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.utils.test_vehicle_transition_utils.TestTransitionToGoldPin" file="vehicles/tests/utils/test_vehicle_transition_utils.py" line="51" name="test_transition_to_gold_pin_without_service_configured_is_no_op" time="0.638" timestamp="2022-07-25T11:05:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

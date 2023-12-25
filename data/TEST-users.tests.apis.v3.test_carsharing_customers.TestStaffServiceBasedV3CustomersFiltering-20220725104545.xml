@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_carsharing_customers.py" name="users.tests.apis.v3.test_carsharing_customers.TestStaffServiceBasedV3CustomersFiltering-20220725104545" skipped="0" tests="7" time="5.921" timestamp="2022-07-25T11:04:16">
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestStaffServiceBasedV3CustomersFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="188" name="test_staff_can_access_only_their_customer" time="0.627" timestamp="2022-07-25T11:04:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestStaffServiceBasedV3CustomersFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="196" name="test_staff_cannot_access_customer_they_dont_have_access_to" time="0.572" timestamp="2022-07-25T11:04:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestStaffServiceBasedV3CustomersFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="203" name="test_staff_cannot_access_orphaned_customer" time="0.538" timestamp="2022-07-25T11:04:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestStaffServiceBasedV3CustomersFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="211" name="test_staff_list" time="2.385" timestamp="2022-07-25T11:04:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestStaffServiceBasedV3CustomersFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="216" name="test_staff_search" time="0.502" timestamp="2022-07-25T11:04:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestStaffServiceBasedV3CustomersFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="229" name="test_system_admin_details" time="0.698" timestamp="2022-07-25T11:04:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestStaffServiceBasedV3CustomersFiltering" file="users/tests/apis/v3/test_carsharing_customers.py" line="221" name="test_system_admin_list" time="0.599" timestamp="2022-07-25T11:04:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

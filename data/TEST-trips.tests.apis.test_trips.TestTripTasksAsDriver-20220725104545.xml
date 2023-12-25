@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_trips.py" name="trips.tests.apis.test_trips.TestTripTasksAsDriver-20220725104545" skipped="0" tests="4" time="8.939" timestamp="2022-07-25T10:49:22">
+	<testcase classname="trips.tests.apis.test_trips.TestTripTasksAsDriver" file="trips/tests/apis/test_trips.py" line="2112" name="test_list_tasks" time="1.065" timestamp="2022-07-25T10:49:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripTasksAsDriver" file="trips/tests/apis/test_trips.py" line="2121" name="test_no_mark_arrived_another_ride_before_completing_dedicated_ride" time="3.115" timestamp="2022-07-25T10:49:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripTasksAsDriver" file="trips/tests/apis/test_trips.py" line="2145" name="test_no_mark_pickup_another_ride_before_completing_dedicated_ride" time="3.419" timestamp="2022-07-25T10:49:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_trips.TestTripTasksAsDriver" file="trips/tests/apis/test_trips.py" line="2115" name="test_tasks_cache_invalidated" time="1.339" timestamp="2022-07-25T10:49:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

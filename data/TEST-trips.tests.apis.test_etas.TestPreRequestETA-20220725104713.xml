@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_etas.py" name="trips.tests.apis.test_etas.TestPreRequestETA-20220725104713" skipped="0" tests="3" time="1.339" timestamp="2022-07-25T10:55:12">
+	<testcase classname="trips.tests.apis.test_etas.TestPreRequestETA" file="trips/tests/apis/test_etas.py" line="97" name="test_get_eta" time="0.489" timestamp="2022-07-25T10:55:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_etas.TestPreRequestETA" file="trips/tests/apis/test_etas.py" line="123" name="test_get_eta_missing_mandatory_params" time="0.414" timestamp="2022-07-25T10:55:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_etas.TestPreRequestETA" file="trips/tests/apis/test_etas.py" line="113" name="test_get_eta_missing_optional_params" time="0.436" timestamp="2022-07-25T10:55:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

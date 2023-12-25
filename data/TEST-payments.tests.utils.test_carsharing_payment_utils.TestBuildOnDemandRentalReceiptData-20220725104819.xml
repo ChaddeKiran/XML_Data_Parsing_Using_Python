@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestBuildOnDemandRentalReceiptData-20220725104819" skipped="0" tests="2" time="0.343" timestamp="2022-07-25T10:50:18">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBuildOnDemandRentalReceiptData" file="payments/tests/utils/test_carsharing_payment_utils.py" line="5021" name="test_building_receipt_data_for_rental_in_invisible_mode" time="0.181" timestamp="2022-07-25T10:50:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestBuildOnDemandRentalReceiptData" file="payments/tests/utils/test_carsharing_payment_utils.py" line="5013" name="test_building_receipt_data_for_rental_in_private_mode" time="0.162" timestamp="2022-07-25T10:50:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/payment_providers/test_stripe_api.py" name="payments.tests.payment_providers.test_stripe_api.TestStripeCapture-20220725104819" skipped="0" tests="2" time="0.112" timestamp="2022-07-25T10:49:26">
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeCapture" file="payments/tests/payment_providers/test_stripe_api.py" line="575" name="test_capture_charge_connected_account" time="0.039" timestamp="2022-07-25T10:49:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.payment_providers.test_stripe_api.TestStripeCapture" file="payments/tests/payment_providers/test_stripe_api.py" line="598" name="test_capture_charge_direct_account" time="0.073" timestamp="2022-07-25T10:49:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

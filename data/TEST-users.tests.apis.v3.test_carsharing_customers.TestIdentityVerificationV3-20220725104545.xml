@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v3/test_carsharing_customers.py" name="users.tests.apis.v3.test_carsharing_customers.TestIdentityVerificationV3-20220725104545" skipped="0" tests="1" time="2.793" timestamp="2022-07-25T11:03:26">
+	<testcase classname="users.tests.apis.v3.test_carsharing_customers.TestIdentityVerificationV3" file="users/tests/apis/v3/test_carsharing_customers.py" line="440" name="test_manual_change" time="2.793" timestamp="2022-07-25T11:03:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

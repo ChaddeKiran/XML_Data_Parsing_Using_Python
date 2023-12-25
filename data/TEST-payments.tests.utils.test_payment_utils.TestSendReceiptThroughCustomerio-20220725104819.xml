@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_payment_utils.py" name="payments.tests.utils.test_payment_utils.TestSendReceiptThroughCustomerio-20220725104819" skipped="0" tests="1" time="0.985" timestamp="2022-07-25T10:52:17">
+	<testcase classname="payments.tests.utils.test_payment_utils.TestSendReceiptThroughCustomerio" file="payments/tests/utils/test_payment_utils.py" line="91" name="test_customerio_params" time="0.985" timestamp="2022-07-25T10:52:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

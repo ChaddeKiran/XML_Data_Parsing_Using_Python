@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/test_dispatch_permissions.py" name="users.tests.apis.test_dispatch_permissions.TestIsDispatcherIPAlertWhitelist-20220725104545" skipped="0" tests="4" time="2.455" timestamp="2022-07-25T10:54:54">
+	<testcase classname="users.tests.apis.test_dispatch_permissions.TestIsDispatcherIPAlertWhitelist" file="users/tests/apis/test_dispatch_permissions.py" line="107" name="test_duplicate_alert_email" time="0.620" timestamp="2022-07-25T10:54:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_dispatch_permissions.TestIsDispatcherIPAlertWhitelist" file="users/tests/apis/test_dispatch_permissions.py" line="93" name="test_old_whitelist_ip_email" time="0.676" timestamp="2022-07-25T10:54:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_dispatch_permissions.TestIsDispatcherIPAlertWhitelist" file="users/tests/apis/test_dispatch_permissions.py" line="80" name="test_recent_whitelist_ip_email" time="0.579" timestamp="2022-07-25T10:54:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.test_dispatch_permissions.TestIsDispatcherIPAlertWhitelist" file="users/tests/apis/test_dispatch_permissions.py" line="71" name="test_whitelist_ip_email" time="0.580" timestamp="2022-07-25T10:54:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pricing_engine/tests/utils/test_criteria_functions.py" name="pricing_engine.tests.utils.test_criteria_functions.TestTollsCriteriaFunctions-20220725104819" skipped="0" tests="3" time="8.744" timestamp="2022-07-25T10:53:53">
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestTollsCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="285" name="test_passes_through_region" time="3.079" timestamp="2022-07-25T10:53:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestTollsCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="413" name="test_passes_through_region_and_consider_gps_positions_after_pickup" time="3.636" timestamp="2022-07-25T10:53:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pricing_engine.tests.utils.test_criteria_functions.TestTollsCriteriaFunctions" file="pricing_engine/tests/utils/test_criteria_functions.py" line="354" name="test_passes_through_region_multiple_gps_positions" time="2.028" timestamp="2022-07-25T10:53:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

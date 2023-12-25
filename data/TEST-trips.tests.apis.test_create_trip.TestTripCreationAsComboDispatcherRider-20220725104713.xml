@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_create_trip.py" name="trips.tests.apis.test_create_trip.TestTripCreationAsComboDispatcherRider-20220725104713" skipped="0" tests="1" time="2.266" timestamp="2022-07-25T10:53:58">
+	<testcase classname="trips.tests.apis.test_create_trip.TestTripCreationAsComboDispatcherRider" file="trips/tests/apis/test_create_trip.py" line="119" name="test_create_multiple_trips" time="2.266" timestamp="2022-07-25T10:53:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

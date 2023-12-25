@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/apis/v2/test_carsharing_customers.py" name="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer-20220725104545" skipped="0" tests="15" time="18.622" timestamp="2022-07-25T10:58:22">
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="955" name="test_create_customer_with_email_verification_mode_disabled" time="1.362" timestamp="2022-07-25T10:58:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="929" name="test_create_customer_with_email_verification_mode_enabled" time="1.160" timestamp="2022-07-25T10:58:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="772" name="test_customer_license_update_triggers_checkr_candidate" time="1.918" timestamp="2022-07-25T10:58:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="833" name="test_customer_license_update_triggers_digisure" time="2.281" timestamp="2022-07-25T10:58:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="894" name="test_customer_license_update_with_checkr_report_triggers_create_checkr_candidate" time="1.258" timestamp="2022-07-25T10:58:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="750" name="test_customer_usergroup_registration" time="0.840" timestamp="2022-07-25T10:58:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="744" name="test_get_customer_editing_settings" time="0.393" timestamp="2022-07-25T10:58:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="679" name="test_same_phone_number_ok" time="0.745" timestamp="2022-07-25T10:58:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="981" name="test_set_email" time="0.729" timestamp="2022-07-25T10:58:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="623" name="test_set_first_name" time="2.072" timestamp="2022-07-25T10:58:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="634" name="test_set_first_name_with_passed_unchanged_username" time="0.805" timestamp="2022-07-25T10:58:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="657" name="test_set_phone_allowed" time="1.832" timestamp="2022-07-25T10:58:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="645" name="test_set_phone_not_allowed" time="0.557" timestamp="2022-07-25T10:58:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="684" name="test_update_license_change_allowed" time="1.137" timestamp="2022-07-25T10:58:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.apis.v2.test_carsharing_customers.TestCustomerAPIV2EditAsCustomer" file="users/tests/apis/v2/test_carsharing_customers.py" line="707" name="test_update_license_updates_background_verification_system_used" time="1.533" timestamp="2022-07-25T10:58:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

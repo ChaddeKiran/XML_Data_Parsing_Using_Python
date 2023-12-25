@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/models/test_users.py" name="users.tests.models.test_users.UserProfilePreferredLanguageTestCase-20220725104622" skipped="0" tests="2" time="0.186" timestamp="2022-07-25T10:46:31">
+	<testcase classname="users.tests.models.test_users.UserProfilePreferredLanguageTestCase" file="users/tests/models/test_users.py" line="52" name="test_preferred_language_default_english" time="0.097" timestamp="2022-07-25T10:46:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.models.test_users.UserProfilePreferredLanguageTestCase" file="users/tests/models/test_users.py" line="44" name="test_preferred_language_default_not_english" time="0.090" timestamp="2022-07-25T10:46:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="phone_messaging/tests/utils/test_send_sms.py" name="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting-20220725104819" skipped="0" tests="14" time="1.594" timestamp="2022-07-25T10:52:51">
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="98" name="test_email_is_not_sent_when_no_email_address_is_found" time="0.101" timestamp="2022-07-25T10:52:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="43" name="test_email_is_sent_when_flag_set_to_amazon_ses" time="0.093" timestamp="2022-07-25T10:52:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="70" name="test_send_email_uses_actor_email_address_when_only_actor_given" time="0.118" timestamp="2022-07-25T10:52:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="79" name="test_send_email_uses_override_email_address_when_both_actor_and_email_address_given" time="0.141" timestamp="2022-07-25T10:52:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="180" name="test_send_message_assumes_is_enabled_when_message_doesnt_exist_in_model" time="0.121" timestamp="2022-07-25T10:52:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="170" name="test_send_message_respects_customer_message_is_enabled_flag_when_disabled" time="0.117" timestamp="2022-07-25T10:52:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="160" name="test_send_message_respects_customer_message_is_enabled_flag_when_enabled" time="0.112" timestamp="2022-07-25T10:52:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="51" name="test_send_sms_uses_actor_phone_number_when_only_actor_given" time="0.116" timestamp="2022-07-25T10:52:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="59" name="test_send_sms_uses_override_phone_number_when_both_actor_and_phone_number_given" time="0.128" timestamp="2022-07-25T10:52:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="122" name="test_simple_message_is_not_sent_to_data_pipeline_when_flag_is_off" time="0.109" timestamp="2022-07-25T10:52:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="134" name="test_simple_message_is_sent_to_data_pipeline_even_if_message_is_disabled" time="0.129" timestamp="2022-07-25T10:52:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="106" name="test_simple_message_is_sent_to_data_pipeline_when_flag_is_on" time="0.117" timestamp="2022-07-25T10:52:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="90" name="test_sms_is_not_sent_when_no_phone_number_is_found" time="0.096" timestamp="2022-07-25T10:52:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.utils.test_send_sms.TestSimpleMessageRouting" file="phone_messaging/tests/utils/test_send_sms.py" line="35" name="test_sms_is_sent_when_flag_set_to_plivo" time="0.096" timestamp="2022-07-25T10:52:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

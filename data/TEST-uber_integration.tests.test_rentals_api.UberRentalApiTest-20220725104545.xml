@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="uber_integration/tests/test_rentals_api.py" name="uber_integration.tests.test_rentals_api.UberRentalApiTest-20220725104545" skipped="0" tests="5" time="2.262" timestamp="2022-07-25T10:51:53">
+	<testcase classname="uber_integration.tests.test_rentals_api.UberRentalApiTest" file="uber_integration/tests/test_rentals_api.py" line="83" name="test_filter_uber_user_id" time="0.142" timestamp="2022-07-25T10:51:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_rentals_api.UberRentalApiTest" file="uber_integration/tests/test_rentals_api.py" line="100" name="test_get" time="0.071" timestamp="2022-07-25T10:51:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_rentals_api.UberRentalApiTest" file="uber_integration/tests/test_rentals_api.py" line="32" name="test_list" time="0.075" timestamp="2022-07-25T10:51:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_rentals_api.UberRentalApiTest" file="uber_integration/tests/test_rentals_api.py" line="47" name="test_list_doesnt_show_non_uber_rentals" time="1.906" timestamp="2022-07-25T10:51:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="uber_integration.tests.test_rentals_api.UberRentalApiTest" file="uber_integration/tests/test_rentals_api.py" line="58" name="test_schema" time="0.069" timestamp="2022-07-25T10:51:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

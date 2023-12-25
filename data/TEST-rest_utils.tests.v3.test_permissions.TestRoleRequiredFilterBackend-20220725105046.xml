@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rest_utils/tests/v3/test_permissions.py" name="rest_utils.tests.v3.test_permissions.TestRoleRequiredFilterBackend-20220725105046" skipped="0" tests="1" time="0.232" timestamp="2022-07-25T11:08:40">
+	<testcase classname="rest_utils.tests.v3.test_permissions.TestRoleRequiredFilterBackend" file="rest_utils/tests/v3/test_permissions.py" line="11" name="test_swagger_url_not_reversed_in_production_mode" time="0.232" timestamp="2022-07-25T11:08:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'services.models.markets.Market'> MarketQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automations.py" name="vehicle_automation.tests.test_automations.TestHellaConnectorUtils-20220725104622" skipped="0" tests="4" time="0.320" timestamp="2022-07-25T10:52:02">
+	<testcase classname="vehicle_automation.tests.test_automations.TestHellaConnectorUtils" file="vehicle_automation/tests/test_automations.py" line="253" name="test_build_cache_key" time="0.001" timestamp="2022-07-25T10:52:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automations.TestHellaConnectorUtils" file="vehicle_automation/tests/test_automations.py" line="273" name="test_get_dtc_recommendations" time="0.139" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automations.TestHellaConnectorUtils" file="vehicle_automation/tests/test_automations.py" line="258" name="test_get_dtc_recommendations_with_empty_dtc_codes" time="0.098" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_automation.tests.test_automations.TestHellaConnectorUtils" file="vehicle_automation/tests/test_automations.py" line="265" name="test_get_dtc_recommendations_with_invalid_dtc_code" time="0.082" timestamp="2022-07-25T10:52:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

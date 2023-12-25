@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/apis/test_promotions.py" name="promotions.tests.apis.test_promotions.PromotionsTestCase-20220725104819" skipped="0" tests="115" time="227.448" timestamp="2022-07-25T10:58:42">
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1256" name="test_activate_coupon" time="3.980" timestamp="2022-07-25T10:54:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1282" name="test_activate_coupon_cache_lock_fail_response" time="1.819" timestamp="2022-07-25T10:55:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1300" name="test_activate_coupon_of_given_product_type" time="3.766" timestamp="2022-07-25T10:55:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1313" name="test_activate_coupon_with_no_product_type" time="3.775" timestamp="2022-07-25T10:55:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2048" name="test_activate_expired_coupon" time="4.715" timestamp="2022-07-25T10:55:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2065" name="test_activating_fake_coupon" time="0.663" timestamp="2022-07-25T10:55:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="853" name="test_amount_validation" time="0.526" timestamp="2022-07-25T10:55:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1764" name="test_budget_limitation" time="3.925" timestamp="2022-07-25T10:55:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2590" name="test_can_patch_product_type_before_promo_starts" time="0.588" timestamp="2022-07-25T10:55:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1824" name="test_cancelling_already_cancelled_promotion" time="0.571" timestamp="2022-07-25T10:55:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1836" name="test_cancelling_already_completed_promotion" time="0.630" timestamp="2022-07-25T10:55:19">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1805" name="test_cancelling_promotion" time="0.674" timestamp="2022-07-25T10:55:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2573" name="test_cannot_patch_product_type_after_promo_starts" time="0.720" timestamp="2022-07-25T10:55:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="902" name="test_case_insensitive_coupon_code" time="0.598" timestamp="2022-07-25T10:55:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2317" name="test_cases_of_registration" time="19.448" timestamp="2022-07-25T10:55:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1979" name="test_correct_ordering_for_patching_starts_at_or_activation_expiry_at_or_usage_expiry_at" time="1.618" timestamp="2022-07-25T10:55:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="984" name="test_create_multi_trip_award_when_multi_trip_promotion_feature_disabled" time="0.721" timestamp="2022-07-25T10:55:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1103" name="test_create_multi_trip_percent_promotion_with_insufficient_max_spend" time="0.556" timestamp="2022-07-25T10:55:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1021" name="test_create_multi_trip_percent_promotion_without_coupon_percent_discount" time="0.545" timestamp="2022-07-25T10:55:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1034" name="test_create_multi_trip_percent_promotion_without_max_redeemable_amount" time="0.525" timestamp="2022-07-25T10:55:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="971" name="test_create_multi_trip_promotion_feature_disabled" time="0.746" timestamp="2022-07-25T10:55:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="997" name="test_create_multi_trip_promotion_without_num_discounted_drives" time="0.706" timestamp="2022-07-25T10:55:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2633" name="test_create_non_mta_promotion_without_activation_expiry_at_returns_bad_request_400_error" time="0.740" timestamp="2022-07-25T10:55:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="934" name="test_create_promotion" time="0.759" timestamp="2022-07-25T10:55:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1166" name="test_create_promotion_correct_multiple_activations_per_code_in_response" time="0.787" timestamp="2022-07-25T10:55:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1009" name="test_create_promotion_missing_unique_coupon_code" time="0.765" timestamp="2022-07-25T10:55:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="960" name="test_create_promotion_with_0_num_of_codes" time="0.663" timestamp="2022-07-25T10:55:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1092" name="test_create_promotion_with_insufficient_max_spend" time="0.798" timestamp="2022-07-25T10:55:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="627" name="test_create_promotion_with_invalid_coupon_code" time="0.617" timestamp="2022-07-25T10:55:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1047" name="test_create_promotion_with_invalid_credit_type" time="0.799" timestamp="2022-07-25T10:55:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1155" name="test_create_promotion_with_invalid_multiple_activations_per_code" time="0.792" timestamp="2022-07-25T10:55:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="944" name="test_create_promotion_with_maxspend_not_divisible_by_0_50" time="1.675" timestamp="2022-07-25T10:55:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1176" name="test_create_promotion_with_metacharacters" time="0.756" timestamp="2022-07-25T10:55:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1144" name="test_create_promotion_with_multiple_activations_per_code_as_true_when_number_of_codes_is_greater_than_one" time="0.766" timestamp="2022-07-25T10:55:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1070" name="test_create_promotion_with_nonnumeric_max_spend" time="0.802" timestamp="2022-07-25T10:55:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="616" name="test_create_promotion_with_one_coupon" time="0.820" timestamp="2022-07-25T10:55:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1082" name="test_create_promotion_with_string_max_spend" time="0.809" timestamp="2022-07-25T10:55:58">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1058" name="test_create_promotion_without_max_spend" time="0.756" timestamp="2022-07-25T10:55:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1130" name="test_create_promotion_without_multiple_activations_per_code" time="0.825" timestamp="2022-07-25T10:56:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1193" name="test_credit_deduction" time="4.236" timestamp="2022-07-25T10:56:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2605" name="test_credit_from_promotion_has_product_type_ALL_by_default" time="1.306" timestamp="2022-07-25T10:56:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2614" name="test_credit_has_promo_product_type_if_set_explicitly" time="1.309" timestamp="2022-07-25T10:56:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1218" name="test_credit_manager" time="1.562" timestamp="2022-07-25T10:56:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2334" name="test_currency_display" time="0.927" timestamp="2022-07-25T10:56:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1384" name="test_customer_activate_coupon_with_code_in_payload_and_other_customer_id_in_payload" time="3.982" timestamp="2022-07-25T10:56:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1372" name="test_customer_activate_coupon_with_code_in_payload_and_own_customer_id_in_payload" time="4.031" timestamp="2022-07-25T10:56:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1361" name="test_customer_activate_coupon_with_code_in_payload_no_customer_id_in_payload" time="4.078" timestamp="2022-07-25T10:56:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1340" name="test_customer_activate_coupon_with_code_in_url_and_customer_id_of_another_customer" time="3.961" timestamp="2022-07-25T10:56:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1325" name="test_customer_activate_coupon_with_code_in_url_and_customer_id_of_self" time="4.093" timestamp="2022-07-25T10:56:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1351" name="test_customer_activate_coupon_with_code_in_url_no_customer_id_in_payload" time="4.000" timestamp="2022-07-25T10:56:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1438" name="test_customer_getforuser_another_customer" time="4.077" timestamp="2022-07-25T10:56:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1781" name="test_customer_use_limitation" time="4.294" timestamp="2022-07-25T10:56:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1422" name="test_dispatcher_activate_coupon_with_code_in_payload_and_customer_id_in_payload" time="3.943" timestamp="2022-07-25T10:56:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1413" name="test_dispatcher_activate_coupon_with_code_in_payload_and_no_customer_id_in_payload" time="3.904" timestamp="2022-07-25T10:56:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1404" name="test_dispatcher_activate_coupon_with_code_in_url_and_customer_id_in_payload" time="3.945" timestamp="2022-07-25T10:56:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1396" name="test_dispatcher_activate_coupon_with_code_in_url_and_no_customer_id_in_payload" time="3.901" timestamp="2022-07-25T10:56:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1474" name="test_dispatcher_getforuser_another_customer" time="4.063" timestamp="2022-07-25T10:57:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1458" name="test_dispatcher_getforuser_without_customer_id" time="4.063" timestamp="2022-07-25T10:57:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1964" name="test_excluding_usage_expiry_at_in_request_while_creating_non_mta_promotions_throws_bad_request_error" time="0.694" timestamp="2022-07-25T10:57:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2432" name="test_filter_by_coupon_amount_range" time="0.754" timestamp="2022-07-25T10:57:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'promotions.models.models.Promotion'> PromotionQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2445" name="test_filter_by_coupon_count_range" time="0.602" timestamp="2022-07-25T10:57:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1717" name="test_filter_by_credit_type" time="0.685" timestamp="2022-07-25T10:57:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1744" name="test_filter_by_promo_name" time="0.771" timestamp="2022-07-25T10:57:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2406" name="test_filter_by_status_cancelled" time="0.883" timestamp="2022-07-25T10:57:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2387" name="test_filter_by_status_planned" time="0.806" timestamp="2022-07-25T10:57:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="920" name="test_get_empty_credit_balance" time="0.776" timestamp="2022-07-25T10:57:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1690" name="test_get_multi_trip_promotions" time="0.918" timestamp="2022-07-25T10:57:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="925" name="test_get_non_coupon_credit_balance" time="0.859" timestamp="2022-07-25T10:57:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1800" name="test_list_promotion_rule_templates" time="0.750" timestamp="2022-07-25T10:57:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1668" name="test_list_promotions" time="2.069" timestamp="2022-07-25T10:57:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1546" name="test_multi_trip_fields_in_getforuser" time="7.834" timestamp="2022-07-25T10:57:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1494" name="test_multi_trip_flat_promotion_activate_coupon" time="4.279" timestamp="2022-07-25T10:57:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1608" name="test_multi_trip_percent_promotion_activate_coupon" time="4.091" timestamp="2022-07-25T10:57:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1650" name="test_multiple_coupons_from_same_promotion" time="3.942" timestamp="2022-07-25T10:57:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2258" name="test_new_user_activating_more_than_one_promotion" time="0.889" timestamp="2022-07-25T10:57:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2243" name="test_new_user_promo_feature_disabled" time="3.830" timestamp="2022-07-25T10:57:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2204" name="test_new_user_promo_on_new_user" time="3.981" timestamp="2022-07-25T10:57:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2221" name="test_new_user_promo_on_user_with_rentals" time="1.802" timestamp="2022-07-25T10:57:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Rental.end_datetime received a naive datetime (2022-07-25 10:57:46.973564) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2462" name="test_normal_promotion_is_auto_activated_false" time="0.688" timestamp="2022-07-25T10:57:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2646" name="test_patch_non_mta_promotion_for_activation_expiry_at" time="0.771" timestamp="2022-07-25T10:57:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2551" name="test_products_cannot_be_an_empty_list" time="0.578" timestamp="2022-07-25T10:57:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2623" name="test_promo_product_type_with_multiple_values" time="0.983" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2540" name="test_promotion_can_be_created_with_multiple_product_types" time="0.616" timestamp="2022-07-25T10:57:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2528" name="test_promotion_can_be_created_with_products" time="0.724" timestamp="2022-07-25T10:57:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2499" name="test_promotion_creation_with_user_list_no_unreserved_coupons_are_generated" time="1.018" timestamp="2022-07-25T10:57:52">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2475" name="test_promotion_creation_with_user_list_results_in_reserved_coupons_for_each_user" time="0.977" timestamp="2022-07-25T10:57:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2487" name="test_promotion_creation_with_user_list_results_in_reserved_coupons_with_correct_state" time="0.995" timestamp="2022-07-25T10:57:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2520" name="test_promotion_has_product_type_set_to_none_by_default" time="0.784" timestamp="2022-07-25T10:57:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1868" name="test_promotion_report" time="4.069" timestamp="2022-07-25T10:57:59">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="840" name="test_promotion_size_limit" time="0.637" timestamp="2022-07-25T10:58:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2556" name="test_promotion_with_invalid_product_choice_is_not_allowed" time="0.715" timestamp="2022-07-25T10:58:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2565" name="test_promotion_with_repeated_products_is_not_allowed" time="0.735" timestamp="2022-07-25T10:58:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2510" name="test_promotion_with_user_list_having_one_user_does_not_require_unique_coupon_code" time="0.983" timestamp="2022-07-25T10:58:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2469" name="test_promotion_with_user_list_is_auto_activated_true" time="1.332" timestamp="2022-07-25T10:58:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="867" name="test_provided_code" time="3.976" timestamp="2022-07-25T10:58:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="887" name="test_provided_code_url_encoded" time="3.940" timestamp="2022-07-25T10:58:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2127" name="test_ridesharing_new_user_promo_on_new_user" time="4.741" timestamp="2022-07-25T10:58:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2167" name="test_ridesharing_new_user_promo_on_user_that_had_ride" time="5.197" timestamp="2022-07-25T10:58:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="683" name="test_starts_at_active_promotion" time="3.734" timestamp="2022-07-25T10:58:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="2358" name="test_starts_at_filtering" time="3.506" timestamp="2022-07-25T10:58:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'promotions.models.models.Promotion'> PromotionQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1120" name="test_unique_coupon_code_in_response" time="0.565" timestamp="2022-07-25T10:58:29">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="770" name="test_update_max_spend_planned_promotion" time="0.661" timestamp="2022-07-25T10:58:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="747" name="test_update_max_spend_planned_promotion_when_multiple_activations_per_code_false" time="0.609" timestamp="2022-07-25T10:58:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="660" name="test_update_name_active_promotion" time="3.709" timestamp="2022-07-25T10:58:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="811" name="test_update_name_cancelled_promotion" time="0.664" timestamp="2022-07-25T10:58:35">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="791" name="test_update_name_completed_promotion" time="0.837" timestamp="2022-07-25T10:58:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="638" name="test_update_name_planned_promotion" time="0.614" timestamp="2022-07-25T10:58:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="827" name="test_update_promotion_coupon_amount" time="0.679" timestamp="2022-07-25T10:58:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="726" name="test_update_starts_at_planned_promotion" time="0.681" timestamp="2022-07-25T10:58:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="706" name="test_update_usage_expiry_at_planned_promotion" time="0.786" timestamp="2022-07-25T10:58:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1852" name="test_use_planned_coupon" time="0.695" timestamp="2022-07-25T10:58:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1920" name="test_validate_promotion_ends_after_start" time="0.573" timestamp="2022-07-25T10:58:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1903" name="test_validate_promotion_not_ended" time="0.653" timestamp="2022-07-25T10:58:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1937" name="test_validate_promotion_patch" time="0.769" timestamp="2022-07-25T10:58:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.apis.test_promotions.PromotionsTestCase" file="promotions/tests/apis/test_promotions.py" line="1890" name="test_validate_sufficient_budget" time="0.624" timestamp="2022-07-25T10:58:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

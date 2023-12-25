@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/signals/test_services.py" name="services.tests.signals.test_services.ServiceSignalsTestCase-20220725104713" skipped="0" tests="2" time="0.532" timestamp="2022-07-25T10:51:12">
+	<testcase classname="services.tests.signals.test_services.ServiceSignalsTestCase" file="services/tests/signals/test_services.py" line="24" name="test_calendar_created_when_active_pricing_calendar_flag_turned_on" time="0.451" timestamp="2022-07-25T10:51:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.signals.test_services.ServiceSignalsTestCase" file="services/tests/signals/test_services.py" line="31" name="test_logout_users_when_sso_enabled" time="0.081" timestamp="2022-07-25T10:51:12">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

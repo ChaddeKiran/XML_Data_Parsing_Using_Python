@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/utils/test_cache_utils.py" name="django_utils.tests.utils.test_cache_utils.TestVersionedCache-20220725104740" skipped="0" tests="2" time="0.005" timestamp="2022-07-25T11:06:40">
+	<testcase classname="django_utils.tests.utils.test_cache_utils.TestVersionedCache" file="django_utils/tests/utils/test_cache_utils.py" line="16" name="test_basic_invalidation" time="0.003" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.utils.test_cache_utils.TestVersionedCache" file="django_utils/tests/utils/test_cache_utils.py" line="30" name="test_invalidation_does_not_expire" time="0.002" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_service_periods.py" name="services.tests.apis.test_service_periods.TestServicePeriodInService-20220725104713" skipped="0" tests="1" time="0.267" timestamp="2022-07-25T10:47:51">
+	<testcase classname="services.tests.apis.test_service_periods.TestServicePeriodInService" file="services/tests/apis/test_service_periods.py" line="17" name="test_customer_in_service" time="0.267" timestamp="2022-07-25T10:47:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

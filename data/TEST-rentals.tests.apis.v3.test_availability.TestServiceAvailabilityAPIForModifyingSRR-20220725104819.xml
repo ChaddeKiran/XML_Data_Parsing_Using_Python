@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_availability.py" name="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForModifyingSRR-20220725104819" skipped="0" tests="6" time="2.793" timestamp="2022-07-25T11:03:42">
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForModifyingSRR" file="rentals/tests/apis/v3/test_availability.py" line="246" name="test_customer_sees_no_end_times_with_earlier_srr_end_date" time="0.256" timestamp="2022-07-25T11:03:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2022-07-29 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForModifyingSRR" file="rentals/tests/apis/v3/test_availability.py" line="233" name="test_customer_sees_only_end_dates_after_existing_srr_end_date" time="0.233" timestamp="2022-07-25T11:03:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForModifyingSRR" file="rentals/tests/apis/v3/test_availability.py" line="272" name="test_customer_sees_only_future_end_times_with_later_srr_end_date" time="1.526" timestamp="2022-07-25T11:03:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2022-07-31 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForModifyingSRR" file="rentals/tests/apis/v3/test_availability.py" line="258" name="test_customer_sees_only_future_end_times_with_same_srr_end_date" time="0.258" timestamp="2022-07-25T11:03:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1369: RuntimeWarning: DateTimeField PlannedOutage.start_date_time received a naive datetime (2022-07-30 00:00:00) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForModifyingSRR" file="rentals/tests/apis/v3/test_availability.py" line="286" name="test_dispatcher_sees_all_end_dates_with_earlier_srr_end_date" time="0.268" timestamp="2022-07-25T11:03:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_availability.TestServiceAvailabilityAPIForModifyingSRR" file="rentals/tests/apis/v3/test_availability.py" line="299" name="test_dispatcher_sees_all_end_times_with_earlier_srr_end_date" time="0.251" timestamp="2022-07-25T11:03:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

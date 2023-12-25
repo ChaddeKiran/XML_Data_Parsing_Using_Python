@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="stations/tests/test_apis.py" name="stations.tests.test_apis.StationViewSetTestAddRemoveCarsharingServices-20220725104713" skipped="0" tests="2" time="1.985" timestamp="2022-07-25T10:52:38">
+	<testcase classname="stations.tests.test_apis.StationViewSetTestAddRemoveCarsharingServices" file="stations/tests/test_apis.py" line="1472" name="test_add_carsharing_services_bad_input" time="0.812" timestamp="2022-07-25T10:52:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="stations.tests.test_apis.StationViewSetTestAddRemoveCarsharingServices" file="stations/tests/test_apis.py" line="1423" name="test_add_remove_carsharing_services" time="1.173" timestamp="2022-07-25T10:52:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

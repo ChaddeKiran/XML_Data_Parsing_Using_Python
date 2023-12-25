@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_services.py" name="services.tests.apis.v3.test_services.TestServiceActivePricingOperations-20220725104713" skipped="0" tests="6" time="1.246" timestamp="2022-07-25T10:50:39">
+	<testcase classname="services.tests.apis.v3.test_services.TestServiceActivePricingOperations" file="services/tests/apis/v3/test_services.py" line="89" name="test_active_period_for_service_considers_override_period_first" time="0.165" timestamp="2022-07-25T10:50:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestServiceActivePricingOperations" file="services/tests/apis/v3/test_services.py" line="84" name="test_active_period_for_service_returns_active_period_if_found" time="0.155" timestamp="2022-07-25T10:50:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestServiceActivePricingOperations" file="services/tests/apis/v3/test_services.py" line="69" name="test_get_possible_periods_contains_no_deleted_periods" time="0.400" timestamp="2022-07-25T10:50:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestServiceActivePricingOperations" file="services/tests/apis/v3/test_services.py" line="51" name="test_get_possible_periods_for_service_ranks_override_periods_first" time="0.219" timestamp="2022-07-25T10:50:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestServiceActivePricingOperations" file="services/tests/apis/v3/test_services.py" line="45" name="test_get_possible_periods_for_service_returns_override_period_if_overlap" time="0.157" timestamp="2022-07-25T10:50:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.v3.test_services.TestServiceActivePricingOperations" file="services/tests/apis/v3/test_services.py" line="37" name="test_get_possible_periods_for_service_returns_periods_which_may_be_active" time="0.151" timestamp="2022-07-25T10:50:39">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

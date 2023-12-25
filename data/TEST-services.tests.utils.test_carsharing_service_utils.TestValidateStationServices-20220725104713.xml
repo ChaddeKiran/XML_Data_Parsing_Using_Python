@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/utils/test_carsharing_service_utils.py" name="services.tests.utils.test_carsharing_service_utils.TestValidateStationServices-20220725104713" skipped="0" tests="9" time="9.430" timestamp="2022-07-25T10:51:49">
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateStationServices" file="services/tests/utils/test_carsharing_service_utils.py" line="744" name="test_validate_for_business_customer_with_rental_mode_business" time="1.351" timestamp="2022-07-25T10:51:41">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateStationServices" file="services/tests/utils/test_carsharing_service_utils.py" line="738" name="test_validate_for_business_customer_with_rental_mode_personal" time="0.920" timestamp="2022-07-25T10:51:42">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateStationServices" file="services/tests/utils/test_carsharing_service_utils.py" line="733" name="test_validate_for_business_customer_without_rental_mode" time="0.898" timestamp="2022-07-25T10:51:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateStationServices" file="services/tests/utils/test_carsharing_service_utils.py" line="762" name="test_validate_for_dispatcher_with_rental_mode_business" time="0.875" timestamp="2022-07-25T10:51:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateStationServices" file="services/tests/utils/test_carsharing_service_utils.py" line="757" name="test_validate_for_dispatcher_with_rental_mode_personal" time="0.945" timestamp="2022-07-25T10:51:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateStationServices" file="services/tests/utils/test_carsharing_service_utils.py" line="751" name="test_validate_for_dispatcher_without_rental_mode" time="0.993" timestamp="2022-07-25T10:51:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateStationServices" file="services/tests/utils/test_carsharing_service_utils.py" line="728" name="test_validate_for_regular_customer_with_rental_mode_business" time="1.156" timestamp="2022-07-25T10:51:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateStationServices" file="services/tests/utils/test_carsharing_service_utils.py" line="722" name="test_validate_for_regular_customer_with_rental_mode_personal" time="0.860" timestamp="2022-07-25T10:51:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestValidateStationServices" file="services/tests/utils/test_carsharing_service_utils.py" line="717" name="test_validate_for_regular_customer_without_rental_mode" time="1.432" timestamp="2022-07-25T10:51:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

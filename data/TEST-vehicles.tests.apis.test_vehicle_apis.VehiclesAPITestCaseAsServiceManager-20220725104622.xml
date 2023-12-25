@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/apis/test_vehicle_apis.py" name="vehicles.tests.apis.test_vehicle_apis.VehiclesAPITestCaseAsServiceManager-20220725104622" skipped="0" tests="1" time="1.165" timestamp="2022-07-25T10:59:25">
+	<testcase classname="vehicles.tests.apis.test_vehicle_apis.VehiclesAPITestCaseAsServiceManager" file="vehicles/tests/apis/test_vehicle_apis.py" line="132" name="test_get_vehicle" time="1.165" timestamp="2022-07-25T10:59:25">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

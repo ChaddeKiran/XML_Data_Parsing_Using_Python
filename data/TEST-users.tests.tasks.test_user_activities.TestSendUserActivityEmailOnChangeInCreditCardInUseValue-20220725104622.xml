@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/tasks/test_user_activities.py" name="users.tests.tasks.test_user_activities.TestSendUserActivityEmailOnChangeInCreditCardInUseValue-20220725104622" skipped="0" tests="3" time="0.214" timestamp="2022-07-25T10:47:57">
+	<testcase classname="users.tests.tasks.test_user_activities.TestSendUserActivityEmailOnChangeInCreditCardInUseValue" file="users/tests/tasks/test_user_activities.py" line="56" name="test_send_user_activity_email_called_when_at_least_one_other_attribute_changes_along_with_in_use" time="0.079" timestamp="2022-07-25T10:47:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_user_activities.TestSendUserActivityEmailOnChangeInCreditCardInUseValue" file="users/tests/tasks/test_user_activities.py" line="48" name="test_send_user_activity_email_not_called_when_only_in_use_attribute_is_in_update_fields" time="0.066" timestamp="2022-07-25T10:47:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.tasks.test_user_activities.TestSendUserActivityEmailOnChangeInCreditCardInUseValue" file="users/tests/tasks/test_user_activities.py" line="42" name="test_send_user_activity_email_not_called_when_only_in_use_attribute_is_modified" time="0.069" timestamp="2022-07-25T10:47:57">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

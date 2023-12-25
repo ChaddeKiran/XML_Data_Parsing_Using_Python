@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="promotions/tests/models/test_promotions.py" name="promotions.tests.models.test_promotions.PromotionModelTestCase-20220725104819" skipped="0" tests="9" time="0.523" timestamp="2022-07-25T10:58:50">
+	<testcase classname="promotions.tests.models.test_promotions.PromotionModelTestCase" file="promotions/tests/models/test_promotions.py" line="42" name="test_active_status_between_activation_expiry_usage_expiry" time="0.058" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_promotions.PromotionModelTestCase" file="promotions/tests/models/test_promotions.py" line="30" name="test_active_status_between_starts_at_activation_expiry" time="0.068" timestamp="2022-07-25T10:58:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_promotions.PromotionModelTestCase" file="promotions/tests/models/test_promotions.py" line="64" name="test_cancelled_status" time="0.068" timestamp="2022-07-25T10:58:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_promotions.PromotionModelTestCase" file="promotions/tests/models/test_promotions.py" line="53" name="test_completed_status" time="0.060" timestamp="2022-07-25T10:58:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_promotions.PromotionModelTestCase" file="promotions/tests/models/test_promotions.py" line="70" name="test_default_product_type_for_promotion_is_none" time="0.045" timestamp="2022-07-25T10:58:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_promotions.PromotionModelTestCase" file="promotions/tests/models/test_promotions.py" line="19" name="test_planned_status" time="0.054" timestamp="2022-07-25T10:58:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_promotions.PromotionModelTestCase" file="promotions/tests/models/test_promotions.py" line="84" name="test_promotion_with_invalid_product_type" time="0.070" timestamp="2022-07-25T10:58:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_promotions.PromotionModelTestCase" file="promotions/tests/models/test_promotions.py" line="79" name="test_promotion_with_multiple_product_types" time="0.042" timestamp="2022-07-25T10:58:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="promotions.tests.models.test_promotions.PromotionModelTestCase" file="promotions/tests/models/test_promotions.py" line="74" name="test_promotion_with_single_product_type" time="0.058" timestamp="2022-07-25T10:58:50">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

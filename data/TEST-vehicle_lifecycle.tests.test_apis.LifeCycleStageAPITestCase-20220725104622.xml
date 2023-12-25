@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_lifecycle/tests/test_apis.py" name="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCase-20220725104622" skipped="0" tests="8" time="6.128" timestamp="2022-07-25T10:57:48">
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="841" name="test_life_cycle_filter_by_previous_stage" time="0.687" timestamp="2022-07-25T10:57:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="797" name="test_life_cycle_stage" time="0.519" timestamp="2022-07-25T10:57:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="912" name="test_life_cycle_stage_vehicle_in_multiple_services" time="0.998" timestamp="2022-07-25T10:57:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="829" name="test_life_cycle_stage_with_steps" time="0.524" timestamp="2022-07-25T10:57:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="813" name="test_life_cycle_with_previous_stage" time="0.599" timestamp="2022-07-25T10:57:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="896" name="test_patch_next_stage_template_for_creation_success" time="0.832" timestamp="2022-07-25T10:57:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="883" name="test_patch_next_stage_template_for_selection_failure" time="0.742" timestamp="2022-07-25T10:57:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicle_lifecycle.tests.test_apis.LifeCycleStageAPITestCase" file="vehicle_lifecycle/tests/test_apis.py" line="870" name="test_patch_next_stage_template_for_selection_success" time="1.227" timestamp="2022-07-25T10:57:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

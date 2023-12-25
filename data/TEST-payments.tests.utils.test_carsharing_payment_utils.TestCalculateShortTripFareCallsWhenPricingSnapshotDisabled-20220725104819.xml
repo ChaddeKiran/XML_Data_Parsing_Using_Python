@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestCalculateShortTripFareCallsWhenPricingSnapshotDisabled-20220725104819" skipped="0" tests="3" time="2.248" timestamp="2022-07-25T10:50:24">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCalculateShortTripFareCallsWhenPricingSnapshotDisabled" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4915" name="test_calculate_short_trip_fare_is_called_when_flag_is_true_and_valid_short_trip_pricing_exists" time="0.761" timestamp="2022-07-25T10:50:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCalculateShortTripFareCallsWhenPricingSnapshotDisabled" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4953" name="test_calculate_short_trip_fare_is_not_called_when_flag_is_false" time="0.720" timestamp="2022-07-25T10:50:23">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCalculateShortTripFareCallsWhenPricingSnapshotDisabled" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4933" name="test_calculate_short_trip_fare_is_not_called_when_flag_is_true_and_short_trip_pricing_is_invalid" time="0.767" timestamp="2022-07-25T10:50:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

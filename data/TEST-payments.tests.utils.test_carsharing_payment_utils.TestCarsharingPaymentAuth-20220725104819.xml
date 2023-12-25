@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestCarsharingPaymentAuth-20220725104819" skipped="0" tests="3" time="1.700" timestamp="2022-07-25T10:50:31">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCarsharingPaymentAuth" file="payments/tests/utils/test_carsharing_payment_utils.py" line="116" name="test_business_card_payment_pre_auth_and_refund" time="0.411" timestamp="2022-07-25T10:50:30">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCarsharingPaymentAuth" file="payments/tests/utils/test_carsharing_payment_utils.py" line="144" name="test_deferred_payment_pre_auth_and_refund" time="0.845" timestamp="2022-07-25T10:50:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCarsharingPaymentAuth" file="payments/tests/utils/test_carsharing_payment_utils.py" line="128" name="test_personal_card_payment_pre_auth_and_refund" time="0.444" timestamp="2022-07-25T10:50:31">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

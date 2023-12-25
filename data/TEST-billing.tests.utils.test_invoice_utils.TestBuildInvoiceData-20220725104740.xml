@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="billing/tests/utils/test_invoice_utils.py" name="billing.tests.utils.test_invoice_utils.TestBuildInvoiceData-20220725104740" skipped="0" tests="1" time="0.051" timestamp="2022-07-25T10:53:06">
+	<testcase classname="billing.tests.utils.test_invoice_utils.TestBuildInvoiceData" file="billing/tests/utils/test_invoice_utils.py" line="88" name="test_invoice_service_data" time="0.051" timestamp="2022-07-25T10:53:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

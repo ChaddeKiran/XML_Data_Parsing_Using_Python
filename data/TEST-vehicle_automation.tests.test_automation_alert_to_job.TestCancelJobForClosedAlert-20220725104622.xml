@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automation_alert_to_job.py" name="vehicle_automation.tests.test_automation_alert_to_job.TestCancelJobForClosedAlert-20220725104622" skipped="0" tests="1" time="0.728" timestamp="2022-07-25T10:49:46">
+	<testcase classname="vehicle_automation.tests.test_automation_alert_to_job.TestCancelJobForClosedAlert" file="vehicle_automation/tests/test_automation_alert_to_job.py" line="539" name="test_cancel_job_for_closed_alert" time="0.728" timestamp="2022-07-25T10:49:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField AutomationAlert.closed_at received a naive datetime (2022-07-25 10:49:46.108533) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

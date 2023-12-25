@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/test_services.py" name="services.tests.apis.test_services.TestDefaultRadioStation-20220725104713" skipped="0" tests="4" time="2.722" timestamp="2022-07-25T10:47:55">
+	<testcase classname="services.tests.apis.test_services.TestDefaultRadioStation" file="services/tests/apis/test_services.py" line="120" name="test_can_be_unset" time="0.667" timestamp="2022-07-25T10:47:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestDefaultRadioStation" file="services/tests/apis/test_services.py" line="134" name="test_can_set_default_radio_station" time="0.642" timestamp="2022-07-25T10:47:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestDefaultRadioStation" file="services/tests/apis/test_services.py" line="143" name="test_can_set_sos_number" time="0.792" timestamp="2022-07-25T10:47:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.apis.test_services.TestDefaultRadioStation" file="services/tests/apis/test_services.py" line="126" name="test_service_detail_contains_id" time="0.622" timestamp="2022-07-25T10:47:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

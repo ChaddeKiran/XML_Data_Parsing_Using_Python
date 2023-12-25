@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/test_webhooks.py" name="hardware_sdk_mensa.tests.test_webhooks.TestMensaValidateEndRental-20220725104740" skipped="0" tests="4" time="1.781" timestamp="2022-07-25T11:00:34">
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaValidateEndRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="875" name="test_validate_end_rental" time="0.069" timestamp="2022-07-25T11:00:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaValidateEndRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="886" name="test_validate_end_rental_carsharing_hardware_not_mensa" time="0.222" timestamp="2022-07-25T11:00:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaValidateEndRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="920" name="test_validate_end_rental_in_private_mode" time="0.780" timestamp="2022-07-25T11:00:33">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.780827, -122.396751, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.test_webhooks.TestMensaValidateEndRental" file="hardware_sdk_mensa/tests/test_webhooks.py" line="898" name="test_validate_end_rental_with_ignition_accessory" time="0.710" timestamp="2022-07-25T11:00:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="django_utils/tests/test_utils.py" name="django_utils.tests.test_utils.TestDeserializeJsonField-20220725104740" skipped="0" tests="5" time="0.006" timestamp="2022-07-25T11:06:38">
+	<testcase classname="django_utils.tests.test_utils.TestDeserializeJsonField" file="django_utils/tests/test_utils.py" line="62" name="test_double_encoded" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.test_utils.TestDeserializeJsonField" file="django_utils/tests/test_utils.py" line="50" name="test_invalid_fieldname" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.test_utils.TestDeserializeJsonField" file="django_utils/tests/test_utils.py" line="46" name="test_json_error" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.test_utils.TestDeserializeJsonField" file="django_utils/tests/test_utils.py" line="54" name="test_not_encoded" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="django_utils.tests.test_utils.TestDeserializeJsonField" file="django_utils/tests/test_utils.py" line="58" name="test_single_encoded" time="0.001" timestamp="2022-07-25T11:06:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

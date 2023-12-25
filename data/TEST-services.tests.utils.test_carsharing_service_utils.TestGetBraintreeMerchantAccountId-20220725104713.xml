@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/utils/test_carsharing_service_utils.py" name="services.tests.utils.test_carsharing_service_utils.TestGetBraintreeMerchantAccountId-20220725104713" skipped="0" tests="6" time="0.238" timestamp="2022-07-25T10:51:38">
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestGetBraintreeMerchantAccountId" file="services/tests/utils/test_carsharing_service_utils.py" line="634" name="test_coordinates_parameter_validation_happy_cases" time="0.051" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestGetBraintreeMerchantAccountId" file="services/tests/utils/test_carsharing_service_utils.py" line="651" name="test_coordinates_parameter_validation_sad_cases" time="0.032" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestGetBraintreeMerchantAccountId" file="services/tests/utils/test_carsharing_service_utils.py" line="666" name="test_with_customer_location_inside_market" time="0.036" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestGetBraintreeMerchantAccountId" file="services/tests/utils/test_carsharing_service_utils.py" line="677" name="test_with_customer_location_outside_market" time="0.045" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestGetBraintreeMerchantAccountId" file="services/tests/utils/test_carsharing_service_utils.py" line="692" name="test_with_neither_service_nor_coordinates_provided" time="0.042" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.utils.test_carsharing_service_utils.TestGetBraintreeMerchantAccountId" file="services/tests/utils/test_carsharing_service_utils.py" line="686" name="test_with_service" time="0.032" timestamp="2022-07-25T10:51:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

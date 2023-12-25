@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="trips/tests/apis/test_scheduled_trip_requests.py" name="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripConversion-20220725104713" skipped="0" tests="6" time="4.589" timestamp="2022-07-25T11:00:47">
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripConversion" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3222" name="test_convert_scheduled_trip_to_ondemand" time="0.481" timestamp="2022-07-25T11:00:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripConversion" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3252" name="test_convert_to_ondemand" time="0.505" timestamp="2022-07-25T11:00:43">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripConversion" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3288" name="test_convert_to_ondemand_with_no_driver_no_email" time="0.773" timestamp="2022-07-25T11:00:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripConversion" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3260" name="test_convert_to_ondemand_with_no_driver_notifies_suppliers" time="0.780" timestamp="2022-07-25T11:00:45">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripConversion" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3315" name="test_convert_with_confirmed_driver_on_trip_notifies_driver_of_reassignment" time="1.465" timestamp="2022-07-25T11:00:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="trips.tests.apis.test_scheduled_trip_requests.TestScheduledTripConversion" file="trips/tests/apis/test_scheduled_trip_requests.py" line="3233" name="test_scheduled_trip_conversion_with_payments" time="0.585" timestamp="2022-07-25T11:00:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

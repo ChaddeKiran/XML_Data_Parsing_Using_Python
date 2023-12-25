@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/tasks/test_rental_payments.py" name="payments.tests.tasks.test_rental_payments.TestUpdateHoldPaymentDescription-20220725104819" skipped="0" tests="4" time="1.300" timestamp="2022-07-25T10:50:05">
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestUpdateHoldPaymentDescription" file="payments/tests/tasks/test_rental_payments.py" line="379" name="test_update_payment_description_logs_on_exception" time="0.546" timestamp="2022-07-25T10:50:04">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestUpdateHoldPaymentDescription" file="payments/tests/tasks/test_rental_payments.py" line="362" name="test_update_payment_description_with_stripe_connected_account" time="0.098" timestamp="2022-07-25T10:50:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestUpdateHoldPaymentDescription" file="payments/tests/tasks/test_rental_payments.py" line="348" name="test_update_payment_description_with_stripe_direct_account" time="0.550" timestamp="2022-07-25T10:50:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestUpdateHoldPaymentDescription" file="payments/tests/tasks/test_rental_payments.py" line="373" name="test_update_stripe_charge_is_not_called_if_provider_is_not_stripe" time="0.106" timestamp="2022-07-25T10:50:05">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

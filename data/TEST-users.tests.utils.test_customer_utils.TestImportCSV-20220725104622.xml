@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/utils/test_customer_utils.py" name="users.tests.utils.test_customer_utils.TestImportCSV-20220725104622" skipped="0" tests="2" time="3.003" timestamp="2022-07-25T10:48:51">
+	<testcase classname="users.tests.utils.test_customer_utils.TestImportCSV" file="users/tests/utils/test_customer_utils.py" line="21" name="test_rfid_loaded" time="2.652" timestamp="2022-07-25T10:48:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.utils.test_customer_utils.TestImportCSV" file="users/tests/utils/test_customer_utils.py" line="40" name="test_rfid_not_loaded" time="0.351" timestamp="2022-07-25T10:48:51">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

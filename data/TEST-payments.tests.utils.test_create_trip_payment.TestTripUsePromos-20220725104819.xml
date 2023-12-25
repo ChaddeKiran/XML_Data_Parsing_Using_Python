@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_create_trip_payment.py" name="payments.tests.utils.test_create_trip_payment.TestTripUsePromos-20220725104819" skipped="0" tests="3" time="1.934" timestamp="2022-07-25T10:52:08">
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripUsePromos" file="payments/tests/utils/test_create_trip_payment.py" line="273" name="test_flat_promo" time="0.655" timestamp="2022-07-25T10:52:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripUsePromos" file="payments/tests/utils/test_create_trip_payment.py" line="312" name="test_multi_trip_flat_promo" time="0.647" timestamp="2022-07-25T10:52:07">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_create_trip_payment.TestTripUsePromos" file="payments/tests/utils/test_create_trip_payment.py" line="355" name="test_multi_trip_percent_promo" time="0.632" timestamp="2022-07-25T10:52:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

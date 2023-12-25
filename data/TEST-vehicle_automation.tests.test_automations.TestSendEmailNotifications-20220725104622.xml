@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_automation/tests/test_automations.py" name="vehicle_automation.tests.test_automations.TestSendEmailNotifications-20220725104622" skipped="0" tests="1" time="0.579" timestamp="2022-07-25T10:52:03">
+	<testcase classname="vehicle_automation.tests.test_automations.TestSendEmailNotifications" file="vehicle_automation/tests/test_automations.py" line="282" name="test_send_to_multiple_recipients" time="0.579" timestamp="2022-07-25T10:52:03">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

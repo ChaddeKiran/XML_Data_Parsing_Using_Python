@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="phone_messaging/tests/models/test_sip_trunking.py" name="phone_messaging.tests.models.test_sip_trunking.SipTrunkingTestCase-20220725104819" skipped="0" tests="4" time="3.155" timestamp="2022-07-25T10:52:46">
+	<testcase classname="phone_messaging.tests.models.test_sip_trunking.SipTrunkingTestCase" file="phone_messaging/tests/models/test_sip_trunking.py" line="51" name="test_customer_acquire_and_release_endpoint" time="0.541" timestamp="2022-07-25T10:52:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.models.test_sip_trunking.SipTrunkingTestCase" file="phone_messaging/tests/models/test_sip_trunking.py" line="38" name="test_driver_acquire_and_release_endpoint" time="0.390" timestamp="2022-07-25T10:52:44">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.models.test_sip_trunking.SipTrunkingTestCase" file="phone_messaging/tests/models/test_sip_trunking.py" line="63" name="test_driver_trip_tasks_contains_sip_endpoints" time="1.466" timestamp="2022-07-25T10:52:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="phone_messaging.tests.models.test_sip_trunking.SipTrunkingTestCase" file="phone_messaging/tests/models/test_sip_trunking.py" line="85" name="test_dynamic_endpoint_creation" time="0.758" timestamp="2022-07-25T10:52:46">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

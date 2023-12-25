@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/utils/test_carsharing_validation_utils.py" name="rentals.tests.utils.test_carsharing_validation_utils.TestValidateReservation-20220725105046" skipped="0" tests="3" time="0.168" timestamp="2022-07-25T11:08:06">
+	<testcase classname="rentals.tests.utils.test_carsharing_validation_utils.TestValidateReservation" file="rentals/tests/utils/test_carsharing_validation_utils.py" line="295" name="test_validate_reservation" time="0.073" timestamp="2022-07-25T11:08:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_carsharing_validation_utils.TestValidateReservation" file="rentals/tests/utils/test_carsharing_validation_utils.py" line="309" name="test_validate_reservation_service_not_valid" time="0.063" timestamp="2022-07-25T11:08:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.utils.test_carsharing_validation_utils.TestValidateReservation" file="rentals/tests/utils/test_carsharing_validation_utils.py" line="323" name="test_validate_reservation_service_not_valid_but_service_block" time="0.032" timestamp="2022-07-25T11:08:06">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

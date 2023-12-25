@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="manual_identity_verification/tests/api/test_identity_profile.py" name="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsDispatcherAndCustomer-20220725104740" skipped="0" tests="2" time="0.930" timestamp="2022-07-25T11:02:55">
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsDispatcherAndCustomer" file="manual_identity_verification/tests/api/test_identity_profile.py" line="223" name="test_patch" time="0.474" timestamp="2022-07-25T11:02:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="manual_identity_verification.tests.api.test_identity_profile.TestIdentityProfileAsDispatcherAndCustomer" file="manual_identity_verification/tests/api/test_identity_profile.py" line="234" name="test_retrieve" time="0.456" timestamp="2022-07-25T11:02:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

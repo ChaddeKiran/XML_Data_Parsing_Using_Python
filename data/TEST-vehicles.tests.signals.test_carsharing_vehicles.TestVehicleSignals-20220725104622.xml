@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicles/tests/signals/test_carsharing_vehicles.py" name="vehicles.tests.signals.test_carsharing_vehicles.TestVehicleSignals-20220725104622" skipped="0" tests="8" time="2.675" timestamp="2022-07-25T11:03:56">
+	<testcase classname="vehicles.tests.signals.test_carsharing_vehicles.TestVehicleSignals" file="vehicles/tests/signals/test_carsharing_vehicles.py" line="63" name="test_change_in_vehicle_vehicle_groups_updates_vehicle_ids_in_firebase_service_node" time="0.312" timestamp="2022-07-25T11:03:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.signals.test_carsharing_vehicles.TestVehicleSignals" file="vehicles/tests/signals/test_carsharing_vehicles.py" line="82" name="test_low_fuel_level_alert_not_triggered_for_unresponsive_vehicle_with_no_telematics_data" time="0.363" timestamp="2022-07-25T11:03:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.signals.test_carsharing_vehicles.TestVehicleSignals" file="vehicles/tests/signals/test_carsharing_vehicles.py" line="92" name="test_low_fuel_level_alert_triggered_for_unresponsive_vehicle_with_telematics_data" time="0.442" timestamp="2022-07-25T11:03:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.signals.test_carsharing_vehicles.TestVehicleSignals" file="vehicles/tests/signals/test_carsharing_vehicles.py" line="110" name="test_non_fuel_level_alert_is_still_generated_for_unresponsive_vehicle_without_telematics_data" time="0.452" timestamp="2022-07-25T11:03:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.signals.test_carsharing_vehicles.TestVehicleSignals" file="vehicles/tests/signals/test_carsharing_vehicles.py" line="122" name="test_send_beacon_hw_added_event_to_data_pipeline" time="0.397" timestamp="2022-07-25T11:03:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e6b83278>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.signals.test_carsharing_vehicles.TestVehicleSignals" file="vehicles/tests/signals/test_carsharing_vehicles.py" line="131" name="test_send_beacon_hw_removed_event_to_data_pipeline" time="0.411" timestamp="2022-07-25T11:03:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[Exception ignored in: <bound method KafkaClient.__del__ of <kafka.client_async.KafkaClient object at 0x7fd4e6deb4a8>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 439, in __del__
+    self._close()
+  File "/usr/local/lib/python3.6/dist-packages/kafka/client_async.py", line 413, in _close
+    if not self._closed:
+AttributeError: 'KafkaClient' object has no attribute '_closed'
+]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.signals.test_carsharing_vehicles.TestVehicleSignals" file="vehicles/tests/signals/test_carsharing_vehicles.py" line="32" name="test_service_save_signal_updates_firebase" time="0.106" timestamp="2022-07-25T11:03:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="vehicles.tests.signals.test_carsharing_vehicles.TestVehicleSignals" file="vehicles/tests/signals/test_carsharing_vehicles.py" line="45" name="test_vehicle_update_triggers_data_pipeline_vehicle_update_event" time="0.192" timestamp="2022-07-25T11:03:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

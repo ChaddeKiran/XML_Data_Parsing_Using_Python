@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="ops_center/tests/apis/v3/test_service_prefences.py" name="ops_center.tests.apis.v3.test_service_prefences.TestOpsCenterServicePreferences-20220725104740" skipped="0" tests="4" time="2.866" timestamp="2022-07-25T11:03:49">
+	<testcase classname="ops_center.tests.apis.v3.test_service_prefences.TestOpsCenterServicePreferences" file="ops_center/tests/apis/v3/test_service_prefences.py" line="20" name="test_get_service_preference" time="0.629" timestamp="2022-07-25T11:03:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.apis.v3.test_service_prefences.TestOpsCenterServicePreferences" file="ops_center/tests/apis/v3/test_service_prefences.py" line="41" name="test_get_service_preference_for_a_new_service" time="0.820" timestamp="2022-07-25T11:03:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.apis.v3.test_service_prefences.TestOpsCenterServicePreferences" file="ops_center/tests/apis/v3/test_service_prefences.py" line="26" name="test_patch_service_preference_as_dispatcher" time="0.799" timestamp="2022-07-25T11:03:48">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="ops_center.tests.apis.v3.test_service_prefences.TestOpsCenterServicePreferences" file="ops_center/tests/apis/v3/test_service_prefences.py" line="37" name="test_post_not_allowed" time="0.618" timestamp="2022-07-25T11:03:49">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

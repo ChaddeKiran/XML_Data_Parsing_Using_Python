@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="phone_messaging/tests/tasks/test_sip_endpoints.py" name="phone_messaging.tests.tasks.test_sip_endpoints.TestSipEndpoints-20220725104819" skipped="0" tests="1" time="0.911" timestamp="2022-07-25T10:52:47">
+	<testcase classname="phone_messaging.tests.tasks.test_sip_endpoints.TestSipEndpoints" file="phone_messaging/tests/tasks/test_sip_endpoints.py" line="11" name="test_release_unused_sip_endpoints" time="0.911" timestamp="2022-07-25T10:52:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

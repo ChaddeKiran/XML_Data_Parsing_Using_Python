@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" name="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaVehicleViewSet-20220725104740" skipped="0" tests="2" time="1.106" timestamp="2022-07-25T10:59:33">
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaVehicleViewSet" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" line="150" name="test_set_get_immobilizer" time="0.560" timestamp="2022-07-25T10:59:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VehicleUpdate.updated_datetime received a naive datetime (2022-07-25 10:59:33.304257) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.apis.test_parameters_cache.TestMensaVehicleViewSet" file="hardware_sdk_mensa/tests/apis/test_parameters_cache.py" line="175" name="test_set_get_immobilizer_with_mensa_device_record_not_present" time="0.546" timestamp="2022-07-25T10:59:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField VehicleUpdate.updated_datetime received a naive datetime (2022-07-25 10:59:33.864041) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+</testsuite>

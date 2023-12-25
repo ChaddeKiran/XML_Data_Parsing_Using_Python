@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware_sdk_mensa/tests/utils/test_ntp_utils.py" name="hardware_sdk_mensa.tests.utils.test_ntp_utils.TestNTP-20220725104740" skipped="0" tests="2" time="0.027" timestamp="2022-07-25T11:06:40">
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_ntp_utils.TestNTP" file="hardware_sdk_mensa/tests/utils/test_ntp_utils.py" line="9" name="test_interface" time="0.020" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware_sdk_mensa.tests.utils.test_ntp_utils.TestNTP" file="hardware_sdk_mensa/tests/utils/test_ntp_utils.py" line="13" name="test_timeout" time="0.007" timestamp="2022-07-25T11:06:40">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

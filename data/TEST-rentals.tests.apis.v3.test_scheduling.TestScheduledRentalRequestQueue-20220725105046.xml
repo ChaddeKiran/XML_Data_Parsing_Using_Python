@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v3/test_scheduling.py" name="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestQueue-20220725105046" skipped="0" tests="5" time="0.000" timestamp="2017-07-28T19:00:00">
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestQueue" file="rentals/tests/apis/v3/test_scheduling.py" line="5843" name="test_scheduled_rental_accelerated_conversion_flow_with_no_hold_payment" time="0.000" timestamp="2017-07-28T19:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestQueue" file="rentals/tests/apis/v3/test_scheduling.py" line="5742" name="test_scheduled_rental_accelerated_conversion_flow_with_normal_hold_payment" time="0.000" timestamp="2017-07-28T19:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestQueue" file="rentals/tests/apis/v3/test_scheduling.py" line="5648" name="test_scheduled_rental_flow_validities" time="0.000" timestamp="2017-07-28T19:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestQueue" file="rentals/tests/apis/v3/test_scheduling.py" line="5653" name="test_scheduled_rental_flow_validities_test_2" time="0.000" timestamp="2017-07-28T19:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v3.test_scheduling.TestScheduledRentalRequestQueue" file="rentals/tests/apis/v3/test_scheduling.py" line="5658" name="test_scheduled_rental_flow_validities_test_3" time="0.000" timestamp="2017-07-28T19:00:00">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

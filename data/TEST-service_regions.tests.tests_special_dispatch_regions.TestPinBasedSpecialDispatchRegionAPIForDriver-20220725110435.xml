@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="service_regions/tests/tests_special_dispatch_regions.py" name="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver-20220725110435" skipped="11" tests="22" time="11.376" timestamp="2022-07-25T11:06:18">
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="462" name="test_delete_special_dispatch_region" time="0.513" timestamp="2022-07-25T11:06:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="72" name="test_get_active_region_list" time="0.513" timestamp="2022-07-25T11:06:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'service_regions.models.SpecialDispatchRegion'> SpecialDispatchRegionQuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="281" name="test_get_detail_special_dispatch_region" time="0.540" timestamp="2022-07-25T11:06:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="57" name="test_get_list_based_on_filters" time="0.528" timestamp="2022-07-25T11:06:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="65" name="test_get_list_based_on_incorrect_filters" time="0.521" timestamp="2022-07-25T11:06:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="51" name="test_get_list_special_dispatch_regions" time="0.518" timestamp="2022-07-25T11:06:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="79" name="test_getinactive_region_list" time="0.517" timestamp="2022-07-25T11:06:11">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="457" name="test_patch_special_dispatch_region" time="0.512" timestamp="2022-07-25T11:06:13">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="452" name="test_post_special_dispatch_region" time="0.500" timestamp="2022-07-25T11:06:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="91" name="test_search_get_region_api" time="0.657" timestamp="2022-07-25T11:06:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="466" name="test_upload_kml_file" time="0.506" timestamp="2022-07-25T11:06:16">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_bad_post_request_for_dispatcher_manager" time="0.848" timestamp="2022-07-25T11:06:07">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_patch_req_with_incorrect_shape" time="0.463" timestamp="2022-07-25T11:06:12">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_patch_req_without_shape_for_manager_dispatcher" time="0.477" timestamp="2022-07-25T11:06:12">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_patch_request_with_incorrect_dispatch_rule_for_manager_dispatcher" time="0.464" timestamp="2022-07-25T11:06:13">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_kml_api_without_file_for_dispatcher_manager" time="0.466" timestamp="2022-07-25T11:06:15">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_kml_api_without_service_for_dispatcher_manager" time="0.467" timestamp="2022-07-25T11:06:15">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_kml_file_with_dispatch_rule" time="0.486" timestamp="2022-07-25T11:06:16">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_kml_file_without_kml_description" time="0.471" timestamp="2022-07-25T11:06:17">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_kml_file_without_name" time="0.475" timestamp="2022-07-25T11:06:17">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_non_polygon_kml_file_for_dispatcher_manager" time="0.464" timestamp="2022-07-25T11:06:18">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="service_regions.tests.tests_special_dispatch_regions.TestPinBasedSpecialDispatchRegionAPIForDriver" file="service_regions/tests/tests_special_dispatch_regions.py" line="116" name="test_upload_non_required_details_kml_file_for_dispatcher_manager" time="0.468" timestamp="2022-07-25T11:06:18">
+		<skipped message="Not a dispatcher or manager" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

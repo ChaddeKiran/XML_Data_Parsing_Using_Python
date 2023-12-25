@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/apis/v3/test_markets.py" name="services.tests.apis.v3.test_markets.TestMarketAPIFiltering-20220725104713" skipped="0" tests="1" time="0.732" timestamp="2022-07-25T10:50:20">
+	<testcase classname="services.tests.apis.v3.test_markets.TestMarketAPIFiltering" file="services/tests/apis/v3/test_markets.py" line="194" name="test_filter_by_station_id" time="0.732" timestamp="2022-07-25T10:50:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

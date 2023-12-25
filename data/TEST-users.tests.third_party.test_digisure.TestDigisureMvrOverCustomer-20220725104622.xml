@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="users/tests/third_party/test_digisure.py" name="users.tests.third_party.test_digisure.TestDigisureMvrOverCustomer-20220725104622" skipped="0" tests="6" time="2.718" timestamp="2022-07-25T10:48:10">
+	<testcase classname="users.tests.third_party.test_digisure.TestDigisureMvrOverCustomer" file="users/tests/third_party/test_digisure.py" line="119" name="test_add_valid_card_triggers_mvr" time="1.274" timestamp="2022-07-25T10:48:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_digisure.TestDigisureMvrOverCustomer" file="users/tests/third_party/test_digisure.py" line="42" name="test_driver_license" time="0.394" timestamp="2022-07-25T10:48:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_digisure.TestDigisureMvrOverCustomer" file="users/tests/third_party/test_digisure.py" line="102" name="test_driver_license_error_has_valid_cc_and_credit_card_to_use_check_is_false" time="0.257" timestamp="2022-07-25T10:48:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_digisure.TestDigisureMvrOverCustomer" file="users/tests/third_party/test_digisure.py" line="85" name="test_driver_license_error_has_valid_cc_and_credit_card_to_use_check_is_true" time="0.259" timestamp="2022-07-25T10:48:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_digisure.TestDigisureMvrOverCustomer" file="users/tests/third_party/test_digisure.py" line="69" name="test_driver_license_error_no_valid_cc_and_credit_card_to_use_check_is_false" time="0.251" timestamp="2022-07-25T10:48:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="users.tests.third_party.test_digisure.TestDigisureMvrOverCustomer" file="users/tests/third_party/test_digisure.py" line="53" name="test_driver_license_error_no_valid_cc_and_credit_card_to_use_check_is_true" time="0.283" timestamp="2022-07-25T10:48:10">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

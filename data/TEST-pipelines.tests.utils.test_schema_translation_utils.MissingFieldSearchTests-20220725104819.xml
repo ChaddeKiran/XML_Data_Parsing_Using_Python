@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="pipelines/tests/utils/test_schema_translation_utils.py" name="pipelines.tests.utils.test_schema_translation_utils.MissingFieldSearchTests-20220725104819" skipped="0" tests="3" time="0.073" timestamp="2022-07-25T10:53:02">
+	<testcase classname="pipelines.tests.utils.test_schema_translation_utils.MissingFieldSearchTests" file="pipelines/tests/utils/test_schema_translation_utils.py" line="99" name="test_missing_fields_are_returned_if_missing_from_vendor_fields" time="0.026" timestamp="2022-07-25T10:53:01">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_schema_translation_utils.MissingFieldSearchTests" file="pipelines/tests/utils/test_schema_translation_utils.py" line="94" name="test_missing_fields_are_returned_if_not_in_translation" time="0.023" timestamp="2022-07-25T10:53:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="pipelines.tests.utils.test_schema_translation_utils.MissingFieldSearchTests" file="pipelines/tests/utils/test_schema_translation_utils.py" line="104" name="test_no_missing_fields_if_all_required_fields_are_found_in_mapping" time="0.024" timestamp="2022-07-25T10:53:02">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

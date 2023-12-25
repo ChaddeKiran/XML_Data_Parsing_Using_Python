@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="services/tests/tasks/test_carsharing_services.py" name="services.tests.tasks.test_carsharing_services.TestCarsharingServiceDataPipelineTask-20220725104713" skipped="0" tests="2" time="1.588" timestamp="2022-07-25T10:51:18">
+	<testcase classname="services.tests.tasks.test_carsharing_services.TestCarsharingServiceDataPipelineTask" file="services/tests/tasks/test_carsharing_services.py" line="61" name="test_send_carsharing_service_model_update_events_to_data_pipeline_when_send_object_changes_flag_disabled" time="0.732" timestamp="2022-07-25T10:51:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="services.tests.tasks.test_carsharing_services.TestCarsharingServiceDataPipelineTask" file="services/tests/tasks/test_carsharing_services.py" line="16" name="test_send_carsharing_service_model_update_events_to_data_pipeline_when_send_object_changes_flag_enabled" time="0.856" timestamp="2022-07-25T10:51:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

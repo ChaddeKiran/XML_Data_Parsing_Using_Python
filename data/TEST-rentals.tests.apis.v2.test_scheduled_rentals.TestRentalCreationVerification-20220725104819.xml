@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="rentals/tests/apis/v2/test_scheduled_rentals.py" name="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalCreationVerification-20220725104819" skipped="2" tests="9" time="11.013" timestamp="2022-07-25T11:03:24">
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalCreationVerification" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="194" name="test_rental_from_unverified_customer" time="1.218" timestamp="2022-07-25T11:03:14">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalCreationVerification" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="211" name="test_rental_from_unverified_email_customer" time="1.337" timestamp="2022-07-25T11:03:15">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalCreationVerification" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="228" name="test_rental_from_unverified_phone_number_customer" time="1.340" timestamp="2022-07-25T11:03:17">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalCreationVerification" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="327" name="test_rental_from_verified_email_customer" time="1.776" timestamp="2022-07-25T11:03:18">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalCreationVerification" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="368" name="test_rental_from_verified_email_customer_with_rider_verification_mode_as_sms" time="1.806" timestamp="2022-07-25T11:03:20">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalCreationVerification" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="245" name="test_rental_from_verified_phone_number_customer" time="1.802" timestamp="2022-07-25T11:03:22">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalCreationVerification" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="286" name="test_rental_from_verified_phone_number_customer_with_rider_verification_mode_as_email" time="1.731" timestamp="2022-07-25T11:03:24">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalCreationVerification" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="174" name="test_scheduled_rental_from_unverified_customer" time="0.002" timestamp="2022-07-25T11:03:24">
+		<skipped message="needs to be reimplemented when V3 API is complete" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="rentals.tests.apis.v2.test_scheduled_rentals.TestRentalCreationVerification" file="rentals/tests/apis/v2/test_scheduled_rentals.py" line="157" name="test_scheduled_rental_from_verified_customer" time="0.002" timestamp="2022-07-25T11:03:24">
+		<skipped message="needs to be reimplemented when V3 API is complete" type="skip"/>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

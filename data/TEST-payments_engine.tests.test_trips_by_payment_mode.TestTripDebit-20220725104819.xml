@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments_engine/tests/test_trips_by_payment_mode.py" name="payments_engine.tests.test_trips_by_payment_mode.TestTripDebit-20220725104819" skipped="0" tests="3" time="1.969" timestamp="2022-07-25T10:52:38">
+	<testcase classname="payments_engine.tests.test_trips_by_payment_mode.TestTripDebit" file="payments_engine/tests/test_trips_by_payment_mode.py" line="50" name="test_trip_debit_for_braintree" time="0.643" timestamp="2022-07-25T10:52:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.test_trips_by_payment_mode.TestTripDebit" file="payments_engine/tests/test_trips_by_payment_mode.py" line="19" name="test_trip_debit_for_stripe" time="0.605" timestamp="2022-07-25T10:52:37">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments_engine.tests.test_trips_by_payment_mode.TestTripDebit" file="payments_engine/tests/test_trips_by_payment_mode.py" line="81" name="test_trip_debit_for_wallet" time="0.721" timestamp="2022-07-25T10:52:38">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

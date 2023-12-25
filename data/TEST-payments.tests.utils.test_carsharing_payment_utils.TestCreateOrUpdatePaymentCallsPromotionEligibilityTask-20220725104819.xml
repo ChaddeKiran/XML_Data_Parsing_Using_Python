@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/utils/test_carsharing_payment_utils.py" name="payments.tests.utils.test_carsharing_payment_utils.TestCreateOrUpdatePaymentCallsPromotionEligibilityTask-20220725104819" skipped="0" tests="3" time="2.207" timestamp="2022-07-25T10:50:34">
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateOrUpdatePaymentCallsPromotionEligibilityTask" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4542" name="test_create_or_update_payment_calls_promotion_eligibility_task" time="0.779" timestamp="2022-07-25T10:50:32">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateOrUpdatePaymentCallsPromotionEligibilityTask" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4574" name="test_create_or_update_payment_does_not_call_promotion_eligibility_task" time="0.720" timestamp="2022-07-25T10:50:33">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.utils.test_carsharing_payment_utils.TestCreateOrUpdatePaymentCallsPromotionEligibilityTask" file="payments/tests/utils/test_carsharing_payment_utils.py" line="4607" name="test_create_or_update_payment_does_not_call_promotion_eligibility_task_when_payment_is_exempted" time="0.708" timestamp="2022-07-25T10:50:34">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

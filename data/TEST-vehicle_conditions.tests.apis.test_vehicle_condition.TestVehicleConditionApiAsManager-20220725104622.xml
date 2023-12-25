@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" name="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiAsManager-20220725104622" skipped="0" tests="1" time="0.347" timestamp="2022-07-25T10:57:08">
+	<testcase classname="vehicle_conditions.tests.apis.test_vehicle_condition.TestVehicleConditionApiAsManager" file="vehicle_conditions/tests/apis/test_vehicle_condition.py" line="352" name="test_mark_resolved" time="0.347" timestamp="2022-07-25T10:57:08">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

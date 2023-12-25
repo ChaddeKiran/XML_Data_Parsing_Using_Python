@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="hardware/tests/hal/test_integration.py" name="hardware.tests.hal.test_integration.TestIntegration-20220725104740" skipped="0" tests="8" time="10.972" timestamp="2022-07-25T10:57:36">
+	<testcase classname="hardware.tests.hal.test_integration.TestIntegration" file="hardware/tests/hal/test_integration.py" line="250" name="test_cancel_booking_with_private_mode_enabled" time="1.044" timestamp="2022-07-25T10:57:26">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Telematics.gps_updated_at received a naive datetime (2020-03-10 22:20:46) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField Telematics.device_timestamp received a naive datetime (2020-03-10 22:20:46) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_integration.TestIntegration" file="hardware/tests/hal/test_integration.py" line="232" name="test_decouple_rental_with_private_mode_enabled" time="1.113" timestamp="2022-07-25T10:57:28">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_integration.TestIntegration" file="hardware/tests/hal/test_integration.py" line="199" name="test_end_rental_initiated_and_private_mode_enabled" time="1.322" timestamp="2022-07-25T10:57:29">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (37.764428, -122.425012, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (37.764428, -122.425012, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingRecentGpsPosition.updated_datetime received a naive datetime (2020-03-10 22:20:46) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField GpsPing.timestamp received a naive datetime (2020-03-10 22:20:46) while time zone support is active.
+  RuntimeWarning)
+/usr/local/lib/python3.6/dist-packages/django/db/models/fields/__init__.py:1427: RuntimeWarning: DateTimeField CarsharingVehicle.updated_datetime received a naive datetime (2020-03-10 22:20:46) while time zone support is active.
+  RuntimeWarning)
+]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_integration.TestIntegration" file="hardware/tests/hal/test_integration.py" line="214" name="test_end_rental_initiated_when_outside_service_region_and_private_mode_enabled" time="1.341" timestamp="2022-07-25T10:57:30">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3333, -122.2222, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (33.3333, -122.2222, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_integration.TestIntegration" file="hardware/tests/hal/test_integration.py" line="91" name="test_end_rental_not_initiated_when_outside_service_region" time="0.615" timestamp="2022-07-25T10:57:31">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3333, -122.2222, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_integration.TestIntegration" file="hardware/tests/hal/test_integration.py" line="107" name="test_end_rental_not_initiated_when_outside_service_region_geotab_vehicle" time="3.660" timestamp="2022-07-25T10:57:34">
+		<system-out>
+<![CDATA[ERROR: CannotOverwriteExistingCassetteException: (33.3333, -122.2222, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+ERROR: CannotOverwriteExistingCassetteException: (33.3333, -122.2222, '') not found in mock reverse_geocode data
+(See https://ridecell.atlassian.net/wiki/spaces/EN/pages/185040970/How+to+Fix+CannotOverwriteExistingCassetteException)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_integration.TestIntegration" file="hardware/tests/hal/test_integration.py" line="181" name="test_end_rental_still_initiated_when_engine_running" time="1.080" timestamp="2022-07-25T10:57:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="hardware.tests.hal.test_integration.TestIntegration" file="hardware/tests/hal/test_integration.py" line="263" name="test_force_cancel_booking_with_private_mode_enabled" time="0.797" timestamp="2022-07-25T10:57:36">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

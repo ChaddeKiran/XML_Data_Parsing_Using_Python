@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="test_utils/test_doctests.py" name="test_utils.test_doctests.DocTests-20220725104713" skipped="0" tests="10" time="0.499" timestamp="2022-07-25T10:53:21">
+	<testcase classname="test_utils.test_doctests.DocTests" file="test_utils/test_doctests.py" line="43" name="test_doctest_analytics_utils" time="0.124" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[TestResults(failed=0, attempted=17)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="test_utils.test_doctests.DocTests" file="test_utils/test_doctests.py" line="78" name="test_doctest_calendar_utils" time="0.057" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[TestResults(failed=0, attempted=59)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="test_utils.test_doctests.DocTests" file="test_utils/test_doctests.py" line="53" name="test_doctest_carsharing_payment_utils" time="0.069" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[TestResults(failed=0, attempted=67)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="test_utils.test_doctests.DocTests" file="test_utils/test_doctests.py" line="68" name="test_doctest_customer_utils" time="0.042" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[TestResults(failed=0, attempted=70)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="test_utils.test_doctests.DocTests" file="test_utils/test_doctests.py" line="38" name="test_doctest_geo_utils" time="0.024" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[TestResults(failed=0, attempted=70)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="test_utils.test_doctests.DocTests" file="test_utils/test_doctests.py" line="33" name="test_doctest_ivrs_utils" time="0.022" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[TestResults(failed=0, attempted=73)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="test_utils.test_doctests.DocTests" file="test_utils/test_doctests.py" line="48" name="test_doctest_payment_utils" time="0.057" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[TestResults(failed=0, attempted=75)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="test_utils.test_doctests.DocTests" file="test_utils/test_doctests.py" line="58" name="test_doctest_template_filters" time="0.024" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[TestResults(failed=0, attempted=78)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="test_utils.test_doctests.DocTests" file="test_utils/test_doctests.py" line="63" name="test_doctest_travel_duration_utils" time="0.056" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[TestResults(failed=0, attempted=85)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="test_utils.test_doctests.DocTests" file="test_utils/test_doctests.py" line="73" name="test_doctest_variety_utils" time="0.024" timestamp="2022-07-25T10:53:21">
+		<system-out>
+<![CDATA[TestResults(failed=0, attempted=92)
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

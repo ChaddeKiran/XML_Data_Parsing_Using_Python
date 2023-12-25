@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="payments/tests/tasks/test_rental_payments.py" name="payments.tests.tasks.test_rental_payments.TestDebitFailedRentalPaymentsCallsPromotionEligibilityTask-20220725104819" skipped="0" tests="4" time="3.722" timestamp="2022-07-25T10:49:56">
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestDebitFailedRentalPaymentsCallsPromotionEligibilityTask" file="payments/tests/tasks/test_rental_payments.py" line="195" name="test_debit_failed_rental_payments_calls_promotion_eligibility_task" time="0.960" timestamp="2022-07-25T10:49:53">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestDebitFailedRentalPaymentsCallsPromotionEligibilityTask" file="payments/tests/tasks/test_rental_payments.py" line="227" name="test_debit_failed_rental_payments_does_not_call_promotion_eligibility_task" time="0.897" timestamp="2022-07-25T10:49:54">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestDebitFailedRentalPaymentsCallsPromotionEligibilityTask" file="payments/tests/tasks/test_rental_payments.py" line="242" name="test_debit_failed_rental_payments_does_not_call_promotion_eligibility_task_when_payment_is_exempted" time="0.926" timestamp="2022-07-25T10:49:55">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="payments.tests.tasks.test_rental_payments.TestDebitFailedRentalPaymentsCallsPromotionEligibilityTask" file="payments/tests/tasks/test_rental_payments.py" line="210" name="test_debit_failed_rental_payments_does_not_change_rental_fare" time="0.939" timestamp="2022-07-25T10:49:56">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>
